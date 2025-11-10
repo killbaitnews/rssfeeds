@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<atom:link href="https://killbait.com/feed-es.php" rel="self" />
+<atom:link href="https://killbaitnews.github.io/rssfeeds/es.rss" rel="self" />
 <title>KillBait RSS Feed</title>
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
+<item>
+<title>ERC plantea impuesto progresivo a partir de la tercera vivienda para frenar la acumulación de inmuebles</title>
+<description>El grupo Esquerra Republicana de Catalunya (ERC), encabezado por Gabriel Rufián, defenderá en el Congreso una proposición de ley que crea un impuesto progresivo sobre la propiedad de tres o más vivien...</description>
+<category>Política</category>
+<link>https://killbait.com/posts/post/56661884-c5b0-4d0e-883d-08976d229e78</link>
+<guid>https://killbait.com/posts/post/56661884-c5b0-4d0e-883d-08976d229e78</guid>
+<pubDate>Mon, 10 Nov 2025 13:15:09 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1762773519/posts/autoimages/mpv5mhmrbdgzknvkf87t.jpg" type="image/jpeg" />
+</item>
 <item>
 <title>Trump indulta a Giuliani y a otros aliados por su participación en los intentos de revertir los resultados de las elecciones de 2020</title>
 <description>El presidente de Estados Unidos, Donald Trump, ha concedido el perdón a varios de sus aliados políticos implicados en los esfuerzos para anular los resultados de las elecciones presidenciales de 2020....</description>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/d84707c5-25b7-41d8-971d-e8f4f79e1805</guid>
 <pubDate>Mon, 10 Nov 2025 10:28:04 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1762760882/posts/autoimages/ckhsxatsww8rt353dusv.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>El escándalo de Sde Teiman revela el deterioro de la responsabilidad legal en Israel</title>
-<description>La noticia analiza un escándalo reciente en la sociedad israelí, relacionado con la filtración de un vídeo en el que guardias de prisión israelíes violan a un cautivo palestino en el centro de detenci...</description>
-<category>Conflicto</category>
-<link>https://killbait.com/posts/post/7fc53c05-851e-487e-b405-e68dbf62d2d7</link>
-<guid>https://killbait.com/posts/post/7fc53c05-851e-487e-b405-e68dbf62d2d7</guid>
-<pubDate>Mon, 10 Nov 2025 10:20:54 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1762729355/posts/autoimages/k3fcr122hxrrf7mlmzsb.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
