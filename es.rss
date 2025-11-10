@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Acceso denegado en el servidor de Ynet Español</title>
+<description>La noticia a la que se intenta acceder ha generado un error de acceso. El servidor de Ynet Español ha denegado la solicitud debido a restricciones de acceso. Esto podría deberse a un problema con la c...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/d7bb23aa-009d-4def-a4c8-8786f0d8932e</link>
+<guid>https://killbait.com/posts/post/d7bb23aa-009d-4def-a4c8-8786f0d8932e</guid>
+<pubDate>Mon, 10 Nov 2025 19:03:36 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1762795849/posts/iaimages/ulmvr0te8zu0zdqggilk.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Rusia comienza un reclutamiento masivo de reservistas para proteger infraestructuras críticas</title>
 <description>Rusia ha iniciado un reclutamiento masivo y urgente de reservistas en diversas regiones del país para proteger infraestructuras críticas, en respuesta al incremento de ataques con drones de las fuerza...</description>
 <category>Conflicto</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/9f7b9c3d-e61d-4873-bc06-bbe7af9b57c5</guid>
 <pubDate>Mon, 10 Nov 2025 15:31:53 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1762775773/posts/autoimages/fymq4nyoqbwtroxjp06c.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Inspección de la FAA podría haber influido en el accidente de un Boeing MD-11</title>
-<description>Una investigación sobre el accidente de un Boeing MD-11 revela que una inspección previa realizada por la Administración Federal de Aviación (FAA) podría haber jugado un papel crucial en el suceso. El...</description>
-<category>Política</category>
-<link>https://killbait.com/posts/post/9c7c8808-b184-489b-aef0-5576109234e8</link>
-<guid>https://killbait.com/posts/post/9c7c8808-b184-489b-aef0-5576109234e8</guid>
-<pubDate>Mon, 10 Nov 2025 15:31:29 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1762770688/posts/iaimages/bfy6jykxbg0rns6uyr6t.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
