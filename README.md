@@ -1,6 +1,6 @@
 # KillBait News RSS Feeds
 
-This repository hosts the RSS feeds for [KillBait News](https://killbaitnews.github.io/rssfeeds/). You can use these feeds to stay updated with the latest articles in different languages.
+This repository hosts the RSS feeds for [KillBait News](https://killbait.com). You can use these feeds to stay updated with the latest articles in different languages.
 
 ## Available RSS Feeds
 
