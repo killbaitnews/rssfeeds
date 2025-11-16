@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Las dificultades de las IAs generativas para representar relojes analógicos correctamente</title>
+<description>Un estudio reciente muestra cómo las Inteligencias Artificiales generativas tienen dificultades para crear relojes analógicos precisos. Al generar código HTML/CSS para representar la hora, los modelos...</description>
+<category>Inteligencia artificial</category>
+<link>https://killbait.com/posts/post/cf110ba1-1e78-427f-9615-e1ae620f3161</link>
+<guid>https://killbait.com/posts/post/cf110ba1-1e78-427f-9615-e1ae620f3161</guid>
+<pubDate>Sun, 16 Nov 2025 13:08:31 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1763291587/posts/autoimages/j4n1csgvwprb8xwk5yqo.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>ARMH solicita sanciones al rey emérito por declaraciones sobre Franco</title>
 <description>La Asociación para la Recuperación de la Memoria Histórica (ARMH) ha presentado ante el Gobierno una reclamación para que se evalúen y apliquen sanciones contra Juan Carlos I en relación con sus memor...</description>
 <category>Actualidad</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/0d4b51f0-b0a1-401b-a969-b7b741101a0e</guid>
 <pubDate>Sun, 16 Nov 2025 07:27:41 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1763263417/posts/autoimages/pmzvelg1czu20yyvivyx.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Euskadi-Palestina: fútbol y solidaridad en San Mamés</title>
-<description>En un partido notable celebrado en San Mamés, la selección vasca y el equipo de Palestina protagonizaron un encuentro cargado de simbolismo y mensaje de apoyo. La ocasión permitió que La Catedral se c...</description>
-<category>Actualidad</category>
-<link>https://killbait.com/posts/post/18516bd8-ae70-4fb8-9381-2c6757956f82</link>
-<guid>https://killbait.com/posts/post/18516bd8-ae70-4fb8-9381-2c6757956f82</guid>
-<pubDate>Sun, 16 Nov 2025 06:26:53 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1763243779/posts/autoimages/irdbdnrb9ggz0tt5s4dl.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
