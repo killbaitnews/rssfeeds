@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Bitchat: a mesh-based messaging app for Gaza when connectivity fails</title>
+<description>Bitchat is a messaging app designed to function with or without traditional internet access by routing messages directly between devices via Bluetooth and relaying through nearby phones. This architec...</description>
+<category>Technology</category>
+<link>https://killbait.com/posts/post/0cfb702d-833b-47d7-8d68-04feabb211e0</link>
+<guid>https://killbait.com/posts/post/0cfb702d-833b-47d7-8d68-04feabb211e0</guid>
+<pubDate>Sun, 16 Nov 2025 19:10:36 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1763187572/posts/autoimages/gboe6wj018imtx79kxdr.png" type="image/jpeg" />
+</item>
+<item>
 <title>Every Major US War Crime, in 20 Minutes</title>
 <description>The video likely provides a condensed overview of key instances in history where the United States has been accused of war crimes, outlining significant events and controversies that have sparked inte...</description>
 <category>Conflict</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/38814ec9-1dbe-40df-9838-cfdbd6873c0d</guid>
 <pubDate>Sat, 15 Nov 2025 05:14:53 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1763114147/posts/autoimages/hnc1ypan6seq5ug2vvob.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>U.S. Considers Ban on TP-Link Routers Over Security and Geopolitical Concerns</title>
-<description>The U.S. government is reportedly preparing to ban the sale of TP-Link wireless routers and networking gear, citing concerns over the company’s ties to China and potential risks to national security. ...</description>
-<category>Technology</category>
-<link>https://killbait.com/posts/post/d56c04c1-ee93-41c6-a0d8-5d1d9d413954</link>
-<guid>https://killbait.com/posts/post/d56c04c1-ee93-41c6-a0d8-5d1d9d413954</guid>
-<pubDate>Sat, 15 Nov 2025 04:28:37 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1762967772/posts/autoimages/hyx0q8tgilqnb1zfxdyw.png" type="image/jpeg" />
 </item>
 </channel>
 </rss>
