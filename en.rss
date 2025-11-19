@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>The rise of Palantir and the privatization of surveillance</title>
+<description>The New Statesman review examines The Philosophers in the Valley, a biography of Palantir founder Alex Karp, and uses it to interrogate the company’s ascent and its broader implications for democracy ...</description>
+<category>Culture</category>
+<link>https://killbait.com/posts/post/3c8651b8-13b9-4de8-b8bd-8c7ac2f401a8</link>
+<guid>https://killbait.com/posts/post/3c8651b8-13b9-4de8-b8bd-8c7ac2f401a8</guid>
+<pubDate>Wed, 19 Nov 2025 15:27:39 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1763447270/posts/autoimages/zk6kugy88w47v9t0gyks.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>French Police Investigate McKinsey&apos;s Role in Macron&apos;s Election Campaigns</title>
 <description>The French police have carried out another search of McKinsey&apos;s offices in France, focusing on their involvement in Emmanuel Macron&apos;s presidential campaigns of 2017 and 2022. This search is part of an...</description>
 <category>Politics</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/fc0c3309-61bb-4b24-ae87-1911ef72ad87</guid>
 <pubDate>Tue, 18 Nov 2025 23:39:02 +0100</pubDate>
 <enclosure url="https://cdn.killbait.com/static/posts/autoimages/4d7793da-08b0-4a28-9b0d-b3bfad68632f.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>WeatherNext 2: Google&apos;s next-generation AI for fast, high-resolution weather forecasts</title>
-<description>WeatherNext 2 represents Google&apos;s latest leap in meteorological forecasting, combining DeepMind and Google Research advances to deliver faster and more detailed predictions. The system can generate hu...</description>
-<category>Science</category>
-<link>https://killbait.com/posts/post/22b4930d-c927-4d30-9cc6-3dad09fd0385</link>
-<guid>https://killbait.com/posts/post/22b4930d-c927-4d30-9cc6-3dad09fd0385</guid>
-<pubDate>Tue, 18 Nov 2025 23:26:52 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1763469241/posts/autoimages/efpzngzhwmu0or64h2kk.png" type="image/jpeg" />
 </item>
 </channel>
 </rss>
