@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Cloudflare Outage Highlights Vulnerabilities in the Centralized Internet Infrastructure</title>
+<description>On November 18, 2025, a massive outage in Cloudflare&apos;s services affected digital platforms worldwide, exposing the vulnerabilities in global internet infrastructure due to the reliance on a few major ...</description>
+<category>Technology</category>
+<link>https://killbait.com/posts/post/0663dd69-9570-4be3-9ca0-dd14fbdad946</link>
+<guid>https://killbait.com/posts/post/0663dd69-9570-4be3-9ca0-dd14fbdad946</guid>
+<pubDate>Wed, 19 Nov 2025 23:42:37 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1763564134/posts/autoimages/i0oe4mufrioqj7u4gdhw.webp" type="image/jpeg" />
+</item>
+<item>
 <title>UK Health Agency Accused of Withholding Excess Mortality Data Linked to COVID Vaccine</title>
 <description>The UK&apos;s public health watchdog, the UK Health Security Agency (UKHSA), is facing allegations of a cover-up after it refused to release data that could link COVID-19 vaccination to excess mortality ra...</description>
 <category>Politics</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/cd7daa90-4a76-41ea-9fa3-38882bc4988a</guid>
 <pubDate>Wed, 19 Nov 2025 06:42:54 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1763523367/posts/autoimages/zg31iic3dpygptuyglep.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Aguascalientes reports over 614,000 users served by Digital Contact Center 070</title>
-<description>The state government of Aguascalientes announced that the Digital Contact Center 070 has served over 614,000 people in 2025. This multi-channel citizen assistance hub operates 24/7 and provides inform...</description>
-<category>Technology</category>
-<link>https://killbait.com/posts/post/0040e7fa-3794-478b-b852-a0556ae31478</link>
-<guid>https://killbait.com/posts/post/0040e7fa-3794-478b-b852-a0556ae31478</guid>
-<pubDate>Wed, 19 Nov 2025 06:30:40 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1763524907/posts/iaimages/vxl4s01f3e856ccthr4j.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
