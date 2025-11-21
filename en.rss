@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Cloudflare Network Outage on November 18, 2025: Cause and Resolution</title>
+<description>On November 18, 2025, Cloudflare&apos;s network suffered a major outage that disrupted internet traffic for several hours. The issue was caused by a change in the permissions of one of Cloudflare&apos;s databas...</description>
+<category>Incidents</category>
+<link>https://killbait.com/posts/post/819bb89b-39c2-416e-ba50-dd687d65279d</link>
+<guid>https://killbait.com/posts/post/819bb89b-39c2-416e-ba50-dd687d65279d</guid>
+<pubDate>Fri, 21 Nov 2025 06:28:20 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1763543109/posts/autoimages/zcfxxlczrd6ntzmum6tz.png" type="image/jpeg" />
+</item>
+<item>
 <title>Blue Origin Unveils New Heavy-Lift Rocket: The New Glenn 9×4</title>
 <description>Blue Origin has unveiled its new heavy-lift rocket, the New Glenn 9×4, just days after launching its second New Glenn rocket and successfully recovering its first stage. The New Glenn 9×4 is named for...</description>
 <category>Astronomy</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/c4a1d49b-1b8d-4491-917d-8e86c5574538</guid>
 <pubDate>Wed, 19 Nov 2025 23:37:51 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1763553020/posts/autoimages/j1qhxzjebqxlp8nkzhhb.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Mexico Proposes Regional Framework for AI Regulation at APEC Summit</title>
-<description>At the APEC summit in South Korea, Mexico introduced a proposal for a regional framework to regulate artificial intelligence (AI). The initiative, led by Mexican Foreign Minister Marcelo Ebrard, focus...</description>
-<category>Politics</category>
-<link>https://killbait.com/posts/post/f401e270-4086-4146-a52a-16128d93b1f2</link>
-<guid>https://killbait.com/posts/post/f401e270-4086-4146-a52a-16128d93b1f2</guid>
-<pubDate>Wed, 19 Nov 2025 19:55:57 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1763565128/posts/iaimages/wwoqpjh7xjumkse6i2x7.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
