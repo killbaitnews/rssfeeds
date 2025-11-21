@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Russian Forces Near Capture of Key Ukrainian Industrial Complex</title>
+<description>The NKMZ factory, located in the Donbas region of Ukraine, is one of Europe&apos;s largest heavy engineering plants, capable of manufacturing everything from submarine parts to turbines and ammunition. Fou...</description>
+<category>Conflict</category>
+<link>https://killbait.com/posts/post/2b674283-e26b-4f7b-8d6c-1ced0a46ced3</link>
+<guid>https://killbait.com/posts/post/2b674283-e26b-4f7b-8d6c-1ced0a46ced3</guid>
+<pubDate>Fri, 21 Nov 2025 06:53:36 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1763617057/posts/autoimages/m1ulkd2h3et5htznqivy.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Cloudflare Network Outage on November 18, 2025: Cause and Resolution</title>
 <description>On November 18, 2025, Cloudflare&apos;s network suffered a major outage that disrupted internet traffic for several hours. The issue was caused by a change in the permissions of one of Cloudflare&apos;s databas...</description>
 <category>Incidents</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/0663dd69-9570-4be3-9ca0-dd14fbdad946</guid>
 <pubDate>Wed, 19 Nov 2025 23:42:37 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1763564134/posts/autoimages/i0oe4mufrioqj7u4gdhw.webp" type="image/jpeg" />
-</item>
-<item>
-<title>UK Health Agency Accused of Withholding Excess Mortality Data Linked to COVID Vaccine</title>
-<description>The UK&apos;s public health watchdog, the UK Health Security Agency (UKHSA), is facing allegations of a cover-up after it refused to release data that could link COVID-19 vaccination to excess mortality ra...</description>
-<category>Politics</category>
-<link>https://killbait.com/posts/post/c4a1d49b-1b8d-4491-917d-8e86c5574538</link>
-<guid>https://killbait.com/posts/post/c4a1d49b-1b8d-4491-917d-8e86c5574538</guid>
-<pubDate>Wed, 19 Nov 2025 23:37:51 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1763553020/posts/autoimages/j1qhxzjebqxlp8nkzhhb.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
