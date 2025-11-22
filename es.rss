@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Error al acceder a la página solicitada debido a un incidente técnico.</title>
+<description>La noticia indica que no se pudo acceder a la solicitud realizada debido a un incidente relacionado con el servicio de seguridad Incapsula. Este tipo de errores ocurre cuando un sitio web detecta tráf...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/5660260e-cdc9-4f6b-9abf-7b465914e42e</link>
+<guid>https://killbait.com/posts/post/5660260e-cdc9-4f6b-9abf-7b465914e42e</guid>
+<pubDate>Sat, 22 Nov 2025 20:42:57 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1763836871/posts/iaimages/tammjw1qszgtz5eix7nm.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>El Supremo condena a &apos;El Mundo&apos; por publicar información falsa sobre el salario de Silvia Intxaurrondo</title>
 <description>El Tribunal Supremo ha dictado una sentencia firme contra el diario El Mundo y su director, Joaquín Manso, por difundir información falsa acerca del salario de la periodista Silvia Intxaurrondo en Tel...</description>
 <category>Justicia</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/467ab99e-ce8a-4df6-aeb1-d8f634938538</guid>
 <pubDate>Sat, 22 Nov 2025 15:31:16 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1763807634/posts/autoimages/ot0jrlxo7sp8wbou7uut.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Fotografías sociológicas de la vivienda precaria en Rouen en 1951</title>
-<description>La noticia presenta un reportaje fotográfico realizado por Henri Salesse en 1951 que documenta las condiciones de viviendas precarias en el distrito este de Rouen, Francia. Este proyecto formó parte d...</description>
-<category>Historia</category>
-<link>https://killbait.com/posts/post/15b827e7-44e2-4342-b3ae-9b108ed22ab5</link>
-<guid>https://killbait.com/posts/post/15b827e7-44e2-4342-b3ae-9b108ed22ab5</guid>
-<pubDate>Sat, 22 Nov 2025 15:22:56 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1763812050/posts/autoimages/ygjtnl1lpfojbiaimsbx.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
