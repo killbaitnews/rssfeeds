@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Título propuesto no clickbait basado en el contenido</title>
+<description>Redacción en español (200-500 palabras) que destaque los elementos clave: contexto, voces, implicaciones políticas y sociales, y el marco geográfico/líneas argumentales presentes.</description>
+<category>Política</category>
+<link>https://killbait.com/posts/post/b2ba67f6-cce0-4a4f-8855-8ebdf429692c</link>
+<guid>https://killbait.com/posts/post/b2ba67f6-cce0-4a4f-8855-8ebdf429692c</guid>
+<pubDate>Sun, 23 Nov 2025 17:20:53 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1763897554/posts/autoimages/ae9bwbyysh7ezz92yk7g.png" type="image/jpeg" />
+</item>
+<item>
 <title>Cuatro salvadoreños deportados por Trump localizados en cárceles de Bukele sin información sobre sus cargos</title>
 <description>Cuatro salvadoreños deportados en marzo de 2025 por el Gobierno de Donald Trump, reportados como desaparecidos por sus familias, han sido localizados en distintas cárceles de El Salvador, según docume...</description>
 <category>Justicia</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/3f5f3d56-e7ce-4ddd-8d45-5ec26d1e2189</guid>
 <pubDate>Sun, 23 Nov 2025 12:21:42 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1763871031/posts/autoimages/pq72ehcpj8yamrbyhc4j.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Sutilezas del franquismo analizadas: del desarrollismo a la crítica contemporánea</title>
-<description>València es el escenario de un análisis crítico sobre el franquismo y sus ecos en la España actual. El artículo examina, a partir de dos ensayos, el periodo conocido como Desarrollismo, destacando que...</description>
-<category>Cultura</category>
-<link>https://killbait.com/posts/post/4ff5c448-a40b-4028-ae59-443fc987308e</link>
-<guid>https://killbait.com/posts/post/4ff5c448-a40b-4028-ae59-443fc987308e</guid>
-<pubDate>Sun, 23 Nov 2025 12:13:16 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1763860714/posts/autoimages/qphjjmo9jxkzkqghyrx7.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
