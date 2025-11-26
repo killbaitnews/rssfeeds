@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Shenzhou 22 Uncrewed Spacecraft Launched to Replace Damaged Shenzhou 20</title>
+<description>China successfully launched the uncrewed Shenzhou 22 spacecraft on November 25, 2025, to serve as an emergency replacement for Shenzhou 20, which suffered damage to one of its windows. The launch, con...</description>
+<category>Astronomy</category>
+<link>https://killbait.com/posts/post/b6033558-4911-4cbc-922a-1878b429ccd3</link>
+<guid>https://killbait.com/posts/post/b6033558-4911-4cbc-922a-1878b429ccd3</guid>
+<pubDate>Wed, 26 Nov 2025 20:19:08 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1764113812/posts/autoimages/igu6vohr0bsqvfqzvwi9.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>China Emerges as the Leading Global Creditor with Focus on High-Income Countries and Strategic Technologies</title>
 <description>China has become the largest global creditor, with public banks issuing a total of $2.2 trillion in loans and grants worldwide since 2000, according to research by AidData. Contrary to common percepti...</description>
 <category>Economy</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/b44fb70a-de78-44d3-b2f0-4965bc8df538</guid>
 <pubDate>Tue, 25 Nov 2025 04:09:31 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1763968015/posts/autoimages/vnxvsipvzctgpgtfemqu.webp" type="image/jpeg" />
-</item>
-<item>
-<title>Zork I, II, and III Source Code Released as Open Source for Education and Preservation</title>
-<description>Microsoft’s Open Source Programs Office (OSPO), Team Xbox, and Activision have teamed up to make the source code for Zork I, II, and III available under the MIT License. These iconic text-based advent...</description>
-<category>Video games</category>
-<link>https://killbait.com/posts/post/0fccade6-d7d4-4318-9ca6-fa3e49603f9f</link>
-<guid>https://killbait.com/posts/post/0fccade6-d7d4-4318-9ca6-fa3e49603f9f</guid>
-<pubDate>Mon, 24 Nov 2025 23:41:22 +0100</pubDate>
-<enclosure url="https://www.microsoft.com/en-us/opensource/blog/2025/11/20/media_1c88f4e0c062678c7e71e8250d42cd3ebe560effc.png?width=1200&amp;format=pjpg&amp;optimize=medium" type="image/jpeg" />
 </item>
 </channel>
 </rss>
