@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Filtración masiva de datos de usuarios de OpenAI a través de una vulnerabilidad en Mixpanel</title>
+<description>OpenAI ha sido víctima de un ataque informático que ha comprometido miles de cuentas de usuarios y filtrado datos personales. La filtración ocurrió a partir de una colaboración con Mixpanel, una empre...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/aa4eec0b-8ecb-4922-93b8-349329c7d343</link>
+<guid>https://killbait.com/posts/post/aa4eec0b-8ecb-4922-93b8-349329c7d343</guid>
+<pubDate>Fri, 28 Nov 2025 08:48:02 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1764309120/posts/autoimages/rpz1mjd7ovb8tkigmqbb.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>El colapso de Malí agrava la inestabilidad del Sahel y aumenta la presión migratoria hacia Canarias</title>
 <description>Malí atraviesa una crisis profunda que combina guerra yihadista, colapso económico y descomposición institucional. La junta militar que gobierna desde los golpes de Estado de 2020 y 2021 no ha consegu...</description>
 <category>Geopolítica</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/55bcf4f6-e671-4648-87d5-e5092764def4</guid>
 <pubDate>Fri, 28 Nov 2025 00:31:40 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1764269236/posts/autoimages/pxn2mtgqbru74rjxmuqu.png" type="image/jpeg" />
-</item>
-<item>
-<title>El grupo minorista S Group suspende temporalmente la compra de productos israelíes</title>
-<description>El grupo cooperativo S Group, que domina con casi el 50% el mercado minorista en Finlandia, ha decidido suspender temporalmente la adquisición de productos de origen israelí. La medida, según explicó ...</description>
-<category>Economía</category>
-<link>https://killbait.com/posts/post/11699205-5114-4e81-b101-331cf19774c2</link>
-<guid>https://killbait.com/posts/post/11699205-5114-4e81-b101-331cf19774c2</guid>
-<pubDate>Fri, 28 Nov 2025 00:25:57 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1764270176/posts/autoimages/ejgyggvsile5fpwmtega.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
