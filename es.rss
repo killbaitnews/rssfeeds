@@ -15,6 +15,15 @@
 <enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1764529284/posts/autoimages/mxaibeo7so40gze8eru7.jpg" type="image/jpeg" />
 </item>
 <item>
+<title>Arquitectura completa del manejo de dispositivos de entrada en Linux</title>
+<description>Este artículo desglosa de forma detallada el stack de manejo de dispositivos de entrada en Linux, desde el hardware hasta el espacio de usuario. En el núcleo del kernel, el subsistema input core gesti...</description>
+<category>Informática</category>
+<link>https://killbait.com/posts/post/a6f5f623-146f-4a2a-b04d-a6df4c489969</link>
+<guid>https://killbait.com/posts/post/a6f5f623-146f-4a2a-b04d-a6df4c489969</guid>
+<pubDate>Sun, 30 Nov 2025 23:22:57 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1764523686/posts/autoimages/ieeigcqvrnkpw4ghdwvr.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Protesta de los autónomos en Madrid por una reforma laboral y mayor protección social</title>
 <description>Miles de autónomos se manifestaron el pasado domingo en Madrid, convocados por la Plataforma por la Dignidad de los Autónomos, para exigir una mejora en sus condiciones laborales y una protección soci...</description>
 <category>Economía</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/231c392b-8c00-4ee3-b255-8268d8969bdd</guid>
 <pubDate>Sun, 30 Nov 2025 18:36:32 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1764506359/posts/autoimages/qjji9taut1ym5nchm8y6.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>La debilidad estratégica de la UE ante Trump y los desafíos globales</title>
-<description>El artículo analiza la pérdida de influencia de la Unión Europea (UE) en el escenario internacional, en gran parte debido al temor de enfrentarse al presidente estadounidense Donald Trump. Según el te...</description>
-<category>Geopolítica</category>
-<link>https://killbait.com/posts/post/a3f0d5f1-45f0-405a-b7eb-3a225b99af34</link>
-<guid>https://killbait.com/posts/post/a3f0d5f1-45f0-405a-b7eb-3a225b99af34</guid>
-<pubDate>Sun, 30 Nov 2025 18:02:29 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1764510160/posts/autoimages/yte1kqeiwrpwnmvaears.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
