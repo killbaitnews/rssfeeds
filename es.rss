@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>El legado histórico de la oligarquía estadounidense contra los impuestos</title>
+<description>El artículo de Vanessa Williamson explora la tradición histórica de los Estados Unidos en contra de los impuestos, trazando sus raíces desde la Magna Carta de 1215 hasta la actualidad. A lo largo de l...</description>
+<category>Política</category>
+<link>https://killbait.com/posts/post/8589946c-a3d1-4ffc-88ed-3945bd31fbd8</link>
+<guid>https://killbait.com/posts/post/8589946c-a3d1-4ffc-88ed-3945bd31fbd8</guid>
+<pubDate>Mon, 1 Dec 2025 08:10:31 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1764553590/posts/autoimages/vdkmvduuhpa4cttykt75.png" type="image/jpeg" />
+</item>
+<item>
 <title>Feijóo utiliza una manifestación en Madrid para reafirmar su desafío al gobierno de Sánchez</title>
 <description>Alberto Núñez Feijóo, líder del Partido Popular, ha participado en una manifestación en Madrid en la que destacó por su crítica al Gobierno de Pedro Sánchez, sugiriendo su vinculación con la corrupció...</description>
 <category>Política</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/88ee0e29-0241-4fac-b653-7f226e49d3a9</guid>
 <pubDate>Sun, 30 Nov 2025 23:23:33 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1764529284/posts/autoimages/mxaibeo7so40gze8eru7.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Arquitectura completa del manejo de dispositivos de entrada en Linux</title>
-<description>Este artículo desglosa de forma detallada el stack de manejo de dispositivos de entrada en Linux, desde el hardware hasta el espacio de usuario. En el núcleo del kernel, el subsistema input core gesti...</description>
-<category>Informática</category>
-<link>https://killbait.com/posts/post/a6f5f623-146f-4a2a-b04d-a6df4c489969</link>
-<guid>https://killbait.com/posts/post/a6f5f623-146f-4a2a-b04d-a6df4c489969</guid>
-<pubDate>Sun, 30 Nov 2025 23:22:57 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1764523686/posts/autoimages/ieeigcqvrnkpw4ghdwvr.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
