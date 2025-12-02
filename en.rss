@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Building the PERFECT Linux PC with Linus Torvalds</title>
+<description>In this video, Linus Torvalds discusses the process of building an ideal Linux-based PC, focusing on hardware selection and configuration choices that maximize performance and compatibility for Linux ...</description>
+<category>Computing</category>
+<link>https://killbait.com/posts/post/c844525f-0f3c-4d65-8317-91c672c1ea76</link>
+<guid>https://killbait.com/posts/post/c844525f-0f3c-4d65-8317-91c672c1ea76</guid>
+<pubDate>Tue, 2 Dec 2025 15:16:38 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1764576565/posts/autoimages/nf9eqdwys4tnp3seukeo.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>UK police uncover money laundering network aiding Russia&apos;s sanctions evasion</title>
 <description>On November 21, British police revealed a major money laundering network operating in the UK, which facilitated Russia&apos;s attempts to bypass Western sanctions. The network had purchased a Kyrgyzstani b...</description>
 <category>Geopolitics</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/8dc032da-3c46-440e-b1bc-9687b8359a2c</guid>
 <pubDate>Mon, 1 Dec 2025 01:38:16 +0100</pubDate>
 <enclosure url="https://cdn.killbait.com/static/channels/autoimages/fb08e9bd-5e8a-4567-a819-64d1bf77d503.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Biological Computing: The Future of Hybrid Systems Combining Human Neurons with Silicon</title>
-<description>In 2025, Australian company Cortical Labs unveiled its first commercial biocomputer, CL1, which utilizes around 800,000 human neurons cultivated on a silicon chip. This hybrid system integrates biolog...</description>
-<category>Artificial intelligence</category>
-<link>https://killbait.com/posts/post/6c3ca833-bf21-4fec-8eb5-d8d53aaaa009</link>
-<guid>https://killbait.com/posts/post/6c3ca833-bf21-4fec-8eb5-d8d53aaaa009</guid>
-<pubDate>Mon, 1 Dec 2025 00:09:22 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1764507996/posts/autoimages/vzaypphlvahnyotwy6ik.webp" type="image/jpeg" />
 </item>
 </channel>
 </rss>
