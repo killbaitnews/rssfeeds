@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Amazon Web Services y Google Cloud desarrollan una solución multicloud para evitar interrupciones masivas de internet</title>
+<description>Amazon Web Services (AWS) y Google Cloud han anunciado una alianza para implementar una arquitectura multicloud destinada a mitigar las interrupciones globales de internet. Este acuerdo surge después ...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/f2dc97a0-dd34-4726-a4b4-8c1a5a3596dc</link>
+<guid>https://killbait.com/posts/post/f2dc97a0-dd34-4726-a4b4-8c1a5a3596dc</guid>
+<pubDate>Tue, 2 Dec 2025 19:56:58 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1764690998/posts/autoimages/z7nhupowbj5xwjrvizet.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Simulador interactivo del problema de los tres cuerpos con órbitas periódicas</title>
 <description>El simulador N-Body de trisolarchaos.com permite explorar el famoso problema de los tres cuerpos en mecánica celeste, un desafío clásico sin solución analítica general, a diferencia del problema de do...</description>
 <category>Ciencia</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/46a97c30-1367-4269-bc7d-0eb0d6f303a4</guid>
 <pubDate>Tue, 2 Dec 2025 15:02:37 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1764671455/posts/autoimages/pprjlexcin8jim6vg8hd.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Sánchez y el Gobierno rompen con Ábalos tras sus acusaciones sobre corrupción y Begoña Gómez</title>
-<description>Pedro Sánchez ha marcado distancias con José Luis Ábalos, antiguo ministro y figura clave de su Gobierno, después de que este ingresara en prisión por una trama de corrupción y lanzara graves acusacio...</description>
-<category>Política</category>
-<link>https://killbait.com/posts/post/c5b49146-6d51-451b-957b-fd1ec6aa7d05</link>
-<guid>https://killbait.com/posts/post/c5b49146-6d51-451b-957b-fd1ec6aa7d05</guid>
-<pubDate>Tue, 2 Dec 2025 14:27:21 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1764675264/posts/autoimages/cs0swcjctuyiph9apbrf.webp" type="image/jpeg" />
 </item>
 </channel>
 </rss>
