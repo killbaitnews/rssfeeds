@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>An In-Depth Overview of Linux Input Device Architecture</title>
+<description>This article offers a detailed examination of the Linux input stack, breaking down its architecture from hardware to user-space components. It divides input handling into kernel-level and user-space l...</description>
+<category>Computing</category>
+<link>https://killbait.com/posts/post/61ac4cac-15ef-491e-8666-98faef0ea476</link>
+<guid>https://killbait.com/posts/post/61ac4cac-15ef-491e-8666-98faef0ea476</guid>
+<pubDate>Tue, 2 Dec 2025 23:20:34 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1764523181/posts/autoimages/kioak2dbpo6dewygpq29.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Building the PERFECT Linux PC with Linus Torvalds</title>
 <description>In this video, Linus Torvalds discusses the process of building an ideal Linux-based PC, focusing on hardware selection and configuration choices that maximize performance and compatibility for Linux ...</description>
 <category>Computing</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/9e947249-72aa-4ac2-a189-2acd004629e1</guid>
 <pubDate>Mon, 1 Dec 2025 02:15:25 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1764267064/posts/autoimages/jptosatesizcmjgthvu4.png" type="image/jpeg" />
-</item>
-<item>
-<title>Companies Rehire Former Employees as AI Automation Does Not Replace Human Roles</title>
-<description>Recent data from analytics firm Visier reveals that many companies worldwide are rehiring employees they had previously laid off based on anticipated AI-driven automation replacements. The study analy...</description>
-<category>Technology</category>
-<link>https://killbait.com/posts/post/8dc032da-3c46-440e-b1bc-9687b8359a2c</link>
-<guid>https://killbait.com/posts/post/8dc032da-3c46-440e-b1bc-9687b8359a2c</guid>
-<pubDate>Mon, 1 Dec 2025 01:38:16 +0100</pubDate>
-<enclosure url="https://cdn.killbait.com/static/channels/autoimages/fb08e9bd-5e8a-4567-a819-64d1bf77d503.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
