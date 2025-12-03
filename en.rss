@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Interactive Three-Body Simulator Featuring 2D and 3D Periodic Orbits</title>
+<description>Trisolar Chaos presents an interactive N-body gravitational simulator designed to study the complex dynamics of the three-body problem. Unlike the two-body problem, the motion of three gravitationally...</description>
+<category>Science</category>
+<link>https://killbait.com/posts/post/90055977-7802-457b-90d0-2f2824a3bea0</link>
+<guid>https://killbait.com/posts/post/90055977-7802-457b-90d0-2f2824a3bea0</guid>
+<pubDate>Wed, 3 Dec 2025 03:06:34 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1764687420/posts/autoimages/khcjp28gkhmvzzvig5t8.png" type="image/jpeg" />
+</item>
+<item>
 <title>Gaza Humanitarian Crisis Worsens Amid Limited Aid and Fuel Shortages</title>
 <description>Israeli authorities have claimed they are providing Gaza with large quantities of tents, blankets, and fuel in preparation for winter. However, reports from Palestinian officials, UN agencies, and fie...</description>
 <category>Conflict</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/023aedb7-5ed4-4239-b92a-22aa581b1c71</guid>
 <pubDate>Mon, 1 Dec 2025 05:41:36 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1764457764/posts/autoimages/xzpyma1uxa3kbugw9odj.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>A Platform Offering Free Resources for Developers</title>
-<description>The article describes &apos;Free for Dev&apos; as a platform aimed at developers searching for free resources and tools. It highlights the platform&apos;s extensive collection of open-source software, libraries, and...</description>
-<category>Technology</category>
-<link>https://killbait.com/posts/post/4e3a148f-07a6-44ab-ade5-c5dafc448897</link>
-<guid>https://killbait.com/posts/post/4e3a148f-07a6-44ab-ade5-c5dafc448897</guid>
-<pubDate>Mon, 1 Dec 2025 03:07:55 +0100</pubDate>
-<enclosure url="https://cdn.killbait.com/static/posts/iaimages/fc953af4-2315-43e4-8f8d-b2d3f3030aa2.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
