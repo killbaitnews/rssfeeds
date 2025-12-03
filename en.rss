@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Dramatic Decline in Child Mortality Over Human History</title>
+<description>For most of human history, around half of all children died before reaching puberty. In contrast, by 2020, global child mortality had dropped to just 4.3%, with countries like Japan and Norway achievi...</description>
+<category>Science</category>
+<link>https://killbait.com/posts/post/cecd8afb-1345-484e-abd4-75f47bf77dab</link>
+<guid>https://killbait.com/posts/post/cecd8afb-1345-484e-abd4-75f47bf77dab</guid>
+<pubDate>Wed, 3 Dec 2025 23:09:09 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1764764456/posts/autoimages/ew33lkueovi1gucsd9v8.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>ESA Releases First True-Color Global Mosaic of Mars from Orbit</title>
 <description>A new high-resolution true-color mosaic of Mars has been produced by the European Space Agency (ESA) using the High Resolution Stereo Camera (HRSC) aboard its Mars Express mission, which has been orbi...</description>
 <category>Astronomy</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/33a1fdb3-67ec-454f-930b-f35a6f426064</guid>
 <pubDate>Wed, 3 Dec 2025 05:02:27 +0100</pubDate>
 <enclosure url="https://cdn.killbait.com/static/posts/autoimages/438beccf-a0eb-42c4-a120-ca2a8ea3fbc8.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Interactive Three-Body Simulator Featuring 2D and 3D Periodic Orbits</title>
-<description>Trisolar Chaos presents an interactive N-body gravitational simulator designed to study the complex dynamics of the three-body problem. Unlike the two-body problem, the motion of three gravitationally...</description>
-<category>Science</category>
-<link>https://killbait.com/posts/post/90055977-7802-457b-90d0-2f2824a3bea0</link>
-<guid>https://killbait.com/posts/post/90055977-7802-457b-90d0-2f2824a3bea0</guid>
-<pubDate>Wed, 3 Dec 2025 03:06:34 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1764687420/posts/autoimages/khcjp28gkhmvzzvig5t8.png" type="image/jpeg" />
 </item>
 </channel>
 </rss>
