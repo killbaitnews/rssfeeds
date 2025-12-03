@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Evolución de la mortalidad infantil y el impacto de la medicina moderna</title>
+<description>A lo largo de la mayor parte de la historia humana, aproximadamente la mitad de los niños morían antes de llegar a la pubertad. Sin embargo, en 2020 esa cifra se redujo al 4,3% a nivel mundial y apena...</description>
+<category>Ciencia</category>
+<link>https://killbait.com/posts/post/cb2f2b42-05a0-4d35-a9f7-be3a9f07c533</link>
+<guid>https://killbait.com/posts/post/cb2f2b42-05a0-4d35-a9f7-be3a9f07c533</guid>
+<pubDate>Wed, 3 Dec 2025 17:05:57 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1764764633/posts/autoimages/s6pbbe0uwukkyd15tzx2.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Los increíbles gráficos de la NES - Tiles, Sprites, Colores y Parpadeo</title>
 <description>El vídeo explica de forma didáctica cómo se construían los gráficos en la consola NES (conocida en Argentina como Family Game). Se abordan conceptos básicos como pixel, tiles, tileset y tilemap, la ge...</description>
 <category>Videojuegos</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/7ce9ebbf-b497-4b6e-8232-762b4f611525</guid>
 <pubDate>Wed, 3 Dec 2025 12:42:17 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1764753303/posts/autoimages/fexnywinxtnjef4rgqii.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>La actualización KB5071142 de Windows 11 genera problemas en el Explorador de archivos y la pantalla de bloqueo</title>
-<description>La reciente actualización KB5071142 de Windows 11 ha vuelto a generar molestias entre los usuarios al introducir fallos inesperados en el sistema. Microsoft lanzó esta actualización con el objetivo de...</description>
-<category>Tecnología</category>
-<link>https://killbait.com/posts/post/721b91a0-360e-4b70-a149-d75f98e6c413</link>
-<guid>https://killbait.com/posts/post/721b91a0-360e-4b70-a149-d75f98e6c413</guid>
-<pubDate>Wed, 3 Dec 2025 12:29:34 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1764758300/posts/autoimages/ik8grgiqpugwkrywxux9.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
