@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>China and the U.S. Trade Accusations Over the Seizure of 127,000 Bitcoin Linked to Criminal Networks</title>
+<description>The article examines escalating tensions between China and the United States over the origins and handling of a massive Bitcoin haul valued at around $13 billion. The controversy began when blockchain...</description>
+<category>Geopolitics</category>
+<link>https://killbait.com/posts/post/bea31a20-7cb8-424b-bc73-6f6e4b9ecdbf</link>
+<guid>https://killbait.com/posts/post/bea31a20-7cb8-424b-bc73-6f6e4b9ecdbf</guid>
+<pubDate>Wed, 3 Dec 2025 01:27:43 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1764647417/posts/autoimages/saq0ngepolw3vvieoo5m.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>An In-Depth Overview of Linux Input Device Architecture</title>
 <description>This article offers a detailed examination of the Linux input stack, breaking down its architecture from hardware to user-space components. It divides input handling into kernel-level and user-space l...</description>
 <category>Computing</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/e62d2ba5-f40b-4528-aa69-4487ceef4b58</guid>
 <pubDate>Mon, 1 Dec 2025 02:43:52 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1764489638/posts/autoimages/q8qj3secerrils3ppslv.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Documentary Exposes Israeli Soldiers’ Accounts of Using Palestinian Civilians During Gaza Operations</title>
-<description>The British documentary *Breaking Ranks: Inside Israel’s War*, broadcast on ITV, features testimonies from twelve Israeli soldiers who participated in the recent assault on Gaza. These accounts descri...</description>
-<category>Conflict</category>
-<link>https://killbait.com/posts/post/9e947249-72aa-4ac2-a189-2acd004629e1</link>
-<guid>https://killbait.com/posts/post/9e947249-72aa-4ac2-a189-2acd004629e1</guid>
-<pubDate>Mon, 1 Dec 2025 02:15:25 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1764267064/posts/autoimages/jptosatesizcmjgthvu4.png" type="image/jpeg" />
 </item>
 </channel>
 </rss>
