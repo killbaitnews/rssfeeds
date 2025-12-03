@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Kansas Mayor Faces Deportation and Felony Charges After Decades of Voting as Non-Citizen</title>
+<description>Joe Ceballos, the Republican mayor of Clearwater, Kansas, is facing serious legal trouble after being charged with multiple felony counts of voter fraud and election perjury. Kansas Attorney General K...</description>
+<category>Politics</category>
+<link>https://killbait.com/posts/post/5b95d799-5dde-4458-b1c0-6ec89442adef</link>
+<guid>https://killbait.com/posts/post/5b95d799-5dde-4458-b1c0-6ec89442adef</guid>
+<pubDate>Wed, 3 Dec 2025 21:05:17 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1764710669/posts/autoimages/ndg3ckjvj9zwroyy6niu.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Weapons Smuggling from Ukraine Exposes Weak Moldovan Border Controls</title>
 <description>In November 2025, Moldovan and Romanian authorities uncovered a case of weapons trafficking involving a truck that crossed the Leuseni-Albita border from Ukraine into Moldova and then into Romania. Ro...</description>
 <category>Geopolitics</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/bea31a20-7cb8-424b-bc73-6f6e4b9ecdbf</guid>
 <pubDate>Wed, 3 Dec 2025 01:27:43 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1764647417/posts/autoimages/saq0ngepolw3vvieoo5m.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>An In-Depth Overview of Linux Input Device Architecture</title>
-<description>This article offers a detailed examination of the Linux input stack, breaking down its architecture from hardware to user-space components. It divides input handling into kernel-level and user-space l...</description>
-<category>Computing</category>
-<link>https://killbait.com/posts/post/61ac4cac-15ef-491e-8666-98faef0ea476</link>
-<guid>https://killbait.com/posts/post/61ac4cac-15ef-491e-8666-98faef0ea476</guid>
-<pubDate>Tue, 2 Dec 2025 23:20:34 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1764523181/posts/autoimages/kioak2dbpo6dewygpq29.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
