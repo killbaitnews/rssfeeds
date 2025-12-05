@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Cómo nació JavaScript: la creación exprés que transformó la web moderna</title>
+<description>En mayo de 1995, el ingeniero Brendan Eich desarrolló en tan solo diez días un prototipo interno de un nuevo lenguaje de programación dentro de Netscape Communications. Ese proyecto, que más tarde ser...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/c7cd7d70-233d-457a-88e2-b181e4e4d47d</link>
+<guid>https://killbait.com/posts/post/c7cd7d70-233d-457a-88e2-b181e4e4d47d</guid>
+<pubDate>Fri, 5 Dec 2025 13:22:43 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1764927700/posts/autoimages/ianaohyv0jkpyk5q3orf.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Denuncia interna sobre la selección de pacientes en el Hospital de Torrejón por rentabilidad económica</title>
 <description>El Hospital de Torrejón, gestionado por la empresa Ribera Salud, ha sido señalado por sus trabajadores en un manifiesto interno que denuncia una grave degradación en la atención a los pacientes. Según...</description>
 <category>Sociedad</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/f875dd54-e515-40ce-be69-3ad9002a29b6</guid>
 <pubDate>Fri, 5 Dec 2025 08:57:10 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1764897986/posts/autoimages/ybk6dxjtznpgcmilvde5.png" type="image/jpeg" />
-</item>
-<item>
-<title>España suma 31 partidos oficiales invicta con madurez</title>
-<description>La selección española de fútbol ha logrado 31 partidos oficiales consecutivos sin derrota, un hito que refleja su estabilidad y madurez bajo Luis de la Fuente. Esta racha, iniciada tras la derrota ant...</description>
-<category>Deportes</category>
-<link>https://killbait.com/posts/post/14c832f9-823c-4495-a451-8ed166c34f78</link>
-<guid>https://killbait.com/posts/post/14c832f9-823c-4495-a451-8ed166c34f78</guid>
-<pubDate>Fri, 5 Dec 2025 08:56:55 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1764777015/posts/autoimages/rnv5fguhsvorlhn9mghd.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
