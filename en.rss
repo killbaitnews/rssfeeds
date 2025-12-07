@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>The Origins and Legacy of JavaScript: From a 10-Day Hack to the Web’s Core Language</title>
+<description>The article traces the creation and evolution of JavaScript, the programming language that underpins nearly all modern web applications. It began in May 1995 when Brendan Eich, an engineer at Netscape...</description>
+<category>Technology</category>
+<link>https://killbait.com/posts/post/4da62565-823b-4708-bb4f-d1ee7f4e62e5</link>
+<guid>https://killbait.com/posts/post/4da62565-823b-4708-bb4f-d1ee7f4e62e5</guid>
+<pubDate>Mon, 8 Dec 2025 00:34:16 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1764926446/posts/autoimages/cdxkauwp5kmfuy1rpfir.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>The Capture of Pokrovsk and Its Implications for NATO&apos;s Potential Involvement in the Ukraine War</title>
 <description>On December 5, 2025, the Russian forces successfully captured Pokrovsk, a city that had previously been renamed by Ukraine to erase its Soviet past. The city&apos;s fall marks a significant shift in the Uk...</description>
 <category>Conflict</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/330a10e0-f17b-46b8-9ae3-b93b4ca1c949</guid>
 <pubDate>Sat, 6 Dec 2025 19:40:56 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1764785840/posts/autoimages/acr8sekcdh7runijk3fl.png" type="image/jpeg" />
-</item>
-<item>
-<title>Venezuela&apos;s Strategic Use of Asymmetric Defense Against Technologically Superior Forces</title>
-<description>The article analyzes Venezuela&apos;s strategic approach to modern asymmetric warfare, emphasizing that technological superiority alone does not guarantee victory. Western military planners have long assum...</description>
-<category>Conflict</category>
-<link>https://killbait.com/posts/post/4901a2e5-8fa7-4440-9ad7-8fa91045eabf</link>
-<guid>https://killbait.com/posts/post/4901a2e5-8fa7-4440-9ad7-8fa91045eabf</guid>
-<pubDate>Sat, 6 Dec 2025 18:55:24 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1765016368/posts/autoimages/postqqnb1rqwuxxcbhjm.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
