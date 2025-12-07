@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Cómo Michael Stapelberg configuró Immich para gestionar y respaldar sus fotos localmente</title>
+<description>Michael Stapelberg relata en su blog cómo sustituyó Google Photos por Immich, una solución de gestión de fotos autoalojada, tras la restricción de OAuth impuesta por Google en 2025 que inutilizó la he...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/b0a486c3-36eb-45b8-8b3c-f627eae82114</link>
+<guid>https://killbait.com/posts/post/b0a486c3-36eb-45b8-8b3c-f627eae82114</guid>
+<pubDate>Sun, 7 Dec 2025 23:11:19 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1765128475/posts/autoimages/kyh8geocovtb7rfdqqeu.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Auge de personas sin creencias religiosas en los últimos 25 años</title>
 <description>En los últimos 25 años, el porcentaje de personas sin creencias religiosas en España ha aumentado significativamente, pasando del 13,2% en 2000 al 40% en 2024, y alcanzando un 61% entre los jóvenes de...</description>
 <category>Sociedad</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/eae96a4e-6a87-4bb9-8ce4-77c3581c7a04</guid>
 <pubDate>Sun, 7 Dec 2025 17:15:35 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1765111378/posts/autoimages/kqhw6likocw7ije7cvfs.png" type="image/jpeg" />
-</item>
-<item>
-<title>El auge de Vox en Extremadura: voto joven, masculino y con menor educación</title>
-<description>El artículo analiza las razones detrás del aumento del apoyo a Vox en Extremadura, según un estudio del Centro de Investigaciones Sociológicas (CIS). Este partido, que podría duplicar sus escaños en l...</description>
-<category>Política</category>
-<link>https://killbait.com/posts/post/3c6a6102-667e-4cc1-9af3-34b25a74df26</link>
-<guid>https://killbait.com/posts/post/3c6a6102-667e-4cc1-9af3-34b25a74df26</guid>
-<pubDate>Sun, 7 Dec 2025 17:14:49 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1765115019/posts/autoimages/fnqap5wbgofgemsxxdjk.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
