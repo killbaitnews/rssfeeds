@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>El auge del neopentecostalismo y su influencia política en España y América</title>
+<description>El artículo de infoLibre analiza el crecimiento global del movimiento neopentecostal, una corriente dentro del cristianismo evangélico que ha adquirido un papel cada vez más relevante tanto en el ámbi...</description>
+<category>Religión</category>
+<link>https://killbait.com/posts/post/c47263d0-f72a-44b3-aec6-985eaeeb1d61</link>
+<guid>https://killbait.com/posts/post/c47263d0-f72a-44b3-aec6-985eaeeb1d61</guid>
+<pubDate>Mon, 8 Dec 2025 08:35:53 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1765132758/posts/autoimages/rhp1fcigo93uhgcfa4o1.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>TRUMP CONSPIRA PARA ACABAR CON LA UNIÓN EUROPEA. EL DOCUMENTO QUE LO DESVELA TODO.</title>
 <description>El vídeo aborda las presuntas conspiraciones de Donald Trump para desestabilizar la Unión Europea, según un documento filtrado. Analiza las posibles implicaciones políticas y económicas de sus movimie...</description>
 <category>Política</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/c7111cbb-c95d-4b24-909d-35d6a686fa28</guid>
 <pubDate>Sun, 7 Dec 2025 23:32:32 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1765141679/posts/autoimages/eo5vfcvt1x1plpf4j42o.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Cómo Michael Stapelberg configuró Immich para gestionar y respaldar sus fotos localmente</title>
-<description>Michael Stapelberg relata en su blog cómo sustituyó Google Photos por Immich, una solución de gestión de fotos autoalojada, tras la restricción de OAuth impuesta por Google en 2025 que inutilizó la he...</description>
-<category>Tecnología</category>
-<link>https://killbait.com/posts/post/b0a486c3-36eb-45b8-8b3c-f627eae82114</link>
-<guid>https://killbait.com/posts/post/b0a486c3-36eb-45b8-8b3c-f627eae82114</guid>
-<pubDate>Sun, 7 Dec 2025 23:11:19 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1765128475/posts/autoimages/kyh8geocovtb7rfdqqeu.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
