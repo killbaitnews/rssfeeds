@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Atlanta Activist Charged for Deleting Phone Data Before CBP Search</title>
+<description>On December 9, 2025, 404 Media reported that Atlanta activist Samuel Tunick has been charged for allegedly erasing data from his Google Pixel smartphone before a U.S. Customs and Border Protection (CB...</description>
+<category>Justice</category>
+<link>https://killbait.com/posts/post/4d0c38c9-8cb3-4d68-b7ae-7683a3e5cc6f</link>
+<guid>https://killbait.com/posts/post/4d0c38c9-8cb3-4d68-b7ae-7683a3e5cc6f</guid>
+<pubDate>Wed, 10 Dec 2025 12:26:54 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1765331263/posts/autoimages/wmt0mrd5lr42wozzjoo6.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>How to Self-Host and Back Up Your Photos Using Immich and NixOS</title>
 <description>Michael Stapelberg’s article, published on November 29, 2025, details his experience transitioning from Google Photos to a self-hosted photo management setup using Immich. When the gphotos-sync tool s...</description>
 <category>Computing</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/b2fce0d7-cd90-4075-9c28-f6aabe579b91</guid>
 <pubDate>Mon, 8 Dec 2025 14:44:27 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1765162496/posts/iaimages/xlnjmlorewnggrnrlt5x.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Housing in Europe 2025: Statistical Overview of Housing Trends and Issues</title>
-<description>The 2025 interactive publication &apos;Housing in Europe&apos; by Eurostat provides a comprehensive statistical overview of housing trends and conditions across European Union countries. It includes detailed da...</description>
-<category>Society</category>
-<link>https://killbait.com/posts/post/0f44d184-1617-457b-a41e-9b3fd0ad9232</link>
-<guid>https://killbait.com/posts/post/0f44d184-1617-457b-a41e-9b3fd0ad9232</guid>
-<pubDate>Mon, 8 Dec 2025 14:25:04 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1765135655/posts/autoimages/gogcle6wyic6z9uvkcqt.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
