@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>How to Self-Host and Back Up Your Photos Using Immich and NixOS</title>
+<description>Michael Stapelberg’s article, published on November 29, 2025, details his experience transitioning from Google Photos to a self-hosted photo management setup using Immich. When the gphotos-sync tool s...</description>
+<category>Computing</category>
+<link>https://killbait.com/posts/post/677258bb-b2c6-4ae7-888a-617c67484bf7</link>
+<guid>https://killbait.com/posts/post/677258bb-b2c6-4ae7-888a-617c67484bf7</guid>
+<pubDate>Wed, 10 Dec 2025 10:29:30 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1765127799/posts/autoimages/c8majauu7wo6vnrllhku.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Alina Habba Steps Down After Court Rules Her Appointment as U.S. Attorney Was Invalid</title>
 <description>Alina Habba, formerly known as Donald Trump’s controversial television lawyer, has stepped down from her position as U.S. Attorney for the District of New Jersey—a role a federal appeals court recentl...</description>
 <category>Justice</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/0f44d184-1617-457b-a41e-9b3fd0ad9232</guid>
 <pubDate>Mon, 8 Dec 2025 14:25:04 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1765135655/posts/autoimages/gogcle6wyic6z9uvkcqt.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>How Electric Vehicle Design and Repair Restrictions Create Waste and Monopolies</title>
-<description>The article examines the rising problem of unrepaired and prematurely scrapped electric vehicles due to exorbitant replacement part prices and restrictive manufacturer policies. Drawing on data from a...</description>
-<category>Technology</category>
-<link>https://killbait.com/posts/post/7e0901c7-98ce-4a6e-945d-395c4132fbe9</link>
-<guid>https://killbait.com/posts/post/7e0901c7-98ce-4a6e-945d-395c4132fbe9</guid>
-<pubDate>Mon, 8 Dec 2025 12:08:43 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1765061769/posts/autoimages/ntw0ubb8bozswzgzk2a0.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
