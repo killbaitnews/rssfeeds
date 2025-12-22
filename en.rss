@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>A non-clickbait, descriptive headline based on the article content</title>
+<description>A rewritten summary of the article (200+ words, &lt;500 words) highlighting the key points, context, and implications.</description>
+<category>Current affairs</category>
+<link>https://killbait.com/posts/post/2450d02b-9b50-4db3-a49a-62f1b14cc557</link>
+<guid>https://killbait.com/posts/post/2450d02b-9b50-4db3-a49a-62f1b14cc557</guid>
+<pubDate>Mon, 22 Dec 2025 01:09:00 +0100</pubDate>
+<enclosure url="https://cdn.killbait.com/static/posts/iaimages/21ac96f5-bd92-4a4c-90ea-23936272fb7a.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Airbus plans long-term move of mission-critical systems to a European sovereign cloud</title>
 <description>Airbus is preparing to launch a major procurement process to migrate some of its most sensitive and mission-critical applications to a digitally sovereign European cloud. The aerospace group plans to ...</description>
 <category>Computing</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/4d98d5a6-2d8a-4187-b270-9b289b2e5144</guid>
 <pubDate>Sat, 20 Dec 2025 17:29:19 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1766180301/posts/iaimages/gdpwhi35zzhvcx8ubk9p.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Investigations Reveal Corruption Risks Within NATO&apos;s Procurement Agency Amid Ukraine Conflict</title>
-<description>The NATO Support and Procurement Agency (NSPA), based in Luxembourg, is facing significant corruption allegations involving bid manipulation, leaking of confidential information, and opaque contract m...</description>
-<category>Geopolitics</category>
-<link>https://killbait.com/posts/post/af7b9453-bfc6-4add-b352-629bc77d0c82</link>
-<guid>https://killbait.com/posts/post/af7b9453-bfc6-4add-b352-629bc77d0c82</guid>
-<pubDate>Sat, 20 Dec 2025 15:36:17 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1766228751/posts/autoimages/hld3tyjsttrt8nou7efm.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
