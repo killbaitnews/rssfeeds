@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>&lt;A non-clickbait, descriptive title&gt;</title>
+<description>&lt;A rewrite of the article between 200 and 500 words highlighting the main points.&gt;</description>
+<category>Current affairs</category>
+<link>https://killbait.com/posts/post/9a2c6c11-4ae8-42f2-aa95-1622d90d3e75</link>
+<guid>https://killbait.com/posts/post/9a2c6c11-4ae8-42f2-aa95-1622d90d3e75</guid>
+<pubDate>Fri, 2 Jan 2026 05:11:24 +0100</pubDate>
+<enclosure url="https://cdn.killbait.com/static/channels/autoimages/278481c8-cdd5-494e-89fb-16ff4a44bf69.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>25 Worst Villains of the Trump Admin: A ranked critique of top appointments in 2025</title>
 <description>A reader-supported piece published on December 26, 2025 provides a ranked list of what the author describes as the 25 “worst villains” from the Trump administration, focusing strictly on individuals w...</description>
 <category>Politics</category>
@@ -123,15 +132,6 @@
 <enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1766725749/posts/autoimages/hd9nxlq7qk4jxuqeodir.jpg" type="image/jpeg" />
 </item>
 <item>
-<title>China&apos;s Graphene Battery Breakthrough Reframes the Global EV Race</title>
-<description>China is rapidly advancing graphene-based battery technology, claiming ultra-fast charging, high cycle life, and high energy density that could disrupt the global EV market. The article describes grap...</description>
-<category>Technology</category>
-<link>https://killbait.com/posts/post/c8546cde-f4d1-49e4-9f80-64e6930e5070</link>
-<guid>https://killbait.com/posts/post/c8546cde-f4d1-49e4-9f80-64e6930e5070</guid>
-<pubDate>Sat, 27 Dec 2025 05:29:17 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1766733098/posts/iaimages/a1vhu3xk9j0xrk4hfmoc.jpg" type="image/jpeg" />
-</item>
-<item>
 <title>Russia advances fifth-generation nuclear submarine with hybrid and autonomous capabilities</title>
 <description>The article reports that Russia announced progress on a fifth-generation nuclear-powered submarine, described as a potential SSBN capable of transporting intercontinental ballistic missiles and integr...</description>
 <category>Geopolitics</category>
@@ -148,15 +148,6 @@
 <guid>https://killbait.com/posts/post/1462b642-c0ac-45ae-90e2-b24d2f9e5b9e</guid>
 <pubDate>Fri, 26 Dec 2025 21:43:02 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1766735147/posts/autoimages/eymnqzzc94vplxt38mwb.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>South Korean HANBIT-Nano fails on first orbital test from Alcântara</title>
-<description>The private South Korean company Innospace attempted the first orbital launch of its two-stage HANBIT-Nano microlauncher from Brazil&apos;s Alcântara Space Center on December 23, 2025 as part of the F1 Spa...</description>
-<category>Astronomy</category>
-<link>https://killbait.com/posts/post/dc28f280-d2dd-4d89-9369-b0072f9be6ca</link>
-<guid>https://killbait.com/posts/post/dc28f280-d2dd-4d89-9369-b0072f9be6ca</guid>
-<pubDate>Fri, 26 Dec 2025 12:39:56 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1766706560/posts/autoimages/ogxuz2zlud1yaiqc9wlk.png" type="image/jpeg" />
 </item>
 </channel>
 </rss>
