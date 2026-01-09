@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Ana Garrido Ramos: la trayectoria y dificultades de una denunciante anticorrupción española en el exilio</title>
+<description>La noticia publicada por Prometheus News aborda la situación actual de Ana Garrido Ramos, conocida por ser una de las principales denunciantes del caso Gürtel, uno de los mayores escándalos de corrupc...</description>
+<category>Justicia</category>
+<link>https://killbait.com/posts/post/44be54c0-b1bf-4e93-9379-3c4b36be8c59</link>
+<guid>https://killbait.com/posts/post/44be54c0-b1bf-4e93-9379-3c4b36be8c59</guid>
+<pubDate>Fri, 9 Jan 2026 07:52:44 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1767902869/posts/autoimages/cosfsjk2zziu1eypqtrx.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>AWS aumenta un 15% el precio de sus instancias GPU para aprendizaje automático</title>
 <description>Amazon Web Services (AWS) ha incrementado en torno a un 15% el precio de sus EC2 Capacity Blocks para aprendizaje automático (ML), un tipo de contrato que permite reservar capacidad GPU con antelación...</description>
 <category>Tecnología</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/cf962836-a3cf-4fce-88d1-0b5407119a46</guid>
 <pubDate>Sun, 4 Jan 2026 19:10:11 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1767446903/posts/autoimages/mzghgpiuejdo8nswz6ew.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Feijóo destaca su interlocución con Junts mientras consolida alianzas con Vox y busca presionar al Gobierno</title>
-<description>El Partido Popular (PP) ha pasado en dos años de exigir la ilegalización de partidos independentistas como Junts y ERC a mantener una relación parlamentaria ‘fluida y respetuosa’ con la formación de C...</description>
-<category>Política</category>
-<link>https://killbait.com/posts/post/65e24a0b-b33e-4ac1-b1b4-bed477cf6c24</link>
-<guid>https://killbait.com/posts/post/65e24a0b-b33e-4ac1-b1b4-bed477cf6c24</guid>
-<pubDate>Sun, 4 Jan 2026 18:40:16 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1767458879/posts/autoimages/kbmo1h6yone6in0nlkuf.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
