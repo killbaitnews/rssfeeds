@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>La dura realidad de María, una mujer sin hogar en Valencia que sobrevive entre el abandono y el acoso</title>
+<description>María, una mujer de 56 años, vive desde hace seis años en la calle en Valencia tras una serie de circunstancias familiares, laborales y administrativas que la dejaron sin hogar. Llegó a la ciudad en 1...</description>
+<category>Sociedad</category>
+<link>https://killbait.com/posts/post/908d3709-a5f6-4ed3-9229-6ad7563c63ee</link>
+<guid>https://killbait.com/posts/post/908d3709-a5f6-4ed3-9229-6ad7563c63ee</guid>
+<pubDate>Fri, 9 Jan 2026 01:20:38 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1767816095/posts/autoimages/lye2g5stdielek0km4ma.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>La Guardia Civil denuncia a un activista gallego por presunto delito de odio por su postura antisionista</title>
 <description>Un juzgado de Ferrol ha abierto una investigación por presunto delito de odio contra Bruno Lopes, un conocido militante pro-palestino en Galicia, tras la denuncia presentada de oficio por la Guardia C...</description>
 <category>Justicia</category>
@@ -58,15 +67,6 @@
 <guid>https://killbait.com/posts/post/e5e5dc90-832a-4bd6-8716-73f16606c28c</guid>
 <pubDate>Thu, 8 Jan 2026 00:32:11 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1767816215/posts/autoimages/f5whszodccmunujoflwd.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>SAP y el control de los datos empresariales: el desafío de la interoperabilidad</title>
-<description>El artículo de Enrique Dans analiza el creciente conflicto por el control de los datos en el sector del software empresarial, con SAP como principal protagonista. Según el autor, la compañía alemana h...</description>
-<category>Tecnología</category>
-<link>https://killbait.com/posts/post/637858e3-4d9d-4300-939f-c368acd99a7c</link>
-<guid>https://killbait.com/posts/post/637858e3-4d9d-4300-939f-c368acd99a7c</guid>
-<pubDate>Wed, 7 Jan 2026 23:50:54 +0100</pubDate>
-<enclosure url="https://cdn.killbait.com/static/posts/autoimages/4bc675e6-ee48-43e5-907c-1bda0832fbf1.jpg" type="image/jpeg" />
 </item>
 <item>
 <title>Amazon impulsa en España un sistema de reparto a domicilio a través de pequeños comercios locales</title>
@@ -150,15 +150,6 @@
 <enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1767546479/posts/autoimages/dtkuedeu3u2ayw7orhns.jpg" type="image/jpeg" />
 </item>
 <item>
-<title>Julian Assange y su crítica a la desinformación mediática como causa de los conflictos armados</title>
-<description>El artículo presentado en Agenda2029 recoge una intervención de Julian Assange, fundador de WikiLeaks, en la que reflexiona sobre el papel de los medios de comunicación en la creación y sostenimiento ...</description>
-<category>Opinión</category>
-<link>https://killbait.com/posts/post/2077e3be-c89e-4332-9d47-9e4c9c5569f4</link>
-<guid>https://killbait.com/posts/post/2077e3be-c89e-4332-9d47-9e4c9c5569f4</guid>
-<pubDate>Sun, 4 Jan 2026 21:41:05 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1767304437/posts/autoimages/mwye2tytjbzqxq0ygxes.jpg" type="image/jpeg" />
-</item>
-<item>
 <title>Petro pide a la ONU una reunión urgente tras el ataque de Estados Unidos a bases militares en Venezuela</title>
 <description>El presidente de Colombia, Gustavo Petro, reaccionó con contundencia ante el bombardeo llevado a cabo por Estados Unidos contra varias instalaciones militares en Venezuela durante la madrugada del sáb...</description>
 <category>Geopolítica</category>
@@ -184,6 +175,15 @@
 <guid>https://killbait.com/posts/post/65e24a0b-b33e-4ac1-b1b4-bed477cf6c24</guid>
 <pubDate>Sun, 4 Jan 2026 18:40:16 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1767458879/posts/autoimages/kbmo1h6yone6in0nlkuf.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>El alcalde de Nueva York critica la captura de Maduro y la califica de violación del derecho internacional</title>
+<description>El alcalde de Nueva York, Zohran Mamdani, calificó la reciente captura del presidente venezolano Nicolás Maduro y su esposa, Cilia Flores, como un «acto de guerra» y una «violación del derecho federal...</description>
+<category>Geopolítica</category>
+<link>https://killbait.com/posts/post/72edfd3c-3882-404b-9b00-fce99449a78a</link>
+<guid>https://killbait.com/posts/post/72edfd3c-3882-404b-9b00-fce99449a78a</guid>
+<pubDate>Sun, 4 Jan 2026 17:50:18 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1767483096/posts/autoimages/xo1uso1ekfdpbkqaunvf.webp" type="image/jpeg" />
 </item>
 </channel>
 </rss>
