@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Europa cierra filas frente a la presión de Estados Unidos sobre Groenlandia</title>
+<description>Reino Unido, Francia, Alemania, Italia, España y Polonia han firmado un comunicado conjunto junto a Dinamarca para expresar su apoyo frente a las recientes afirmaciones de Donald Trump y su equipo, qu...</description>
+<category>Geopolítica</category>
+<link>https://killbait.com/posts/post/a24fe5f5-9fa3-47a2-a307-88caaacb018b</link>
+<guid>https://killbait.com/posts/post/a24fe5f5-9fa3-47a2-a307-88caaacb018b</guid>
+<pubDate>Sat, 10 Jan 2026 06:49:25 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1768009449/posts/autoimages/ju5y0fyvcinalbn1be3z.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Fran Rivera declara sentirse amenazado tras sus comentarios sobre la detención de Nicolás Maduro</title>
 <description>Fran Rivera, extorero y personaje mediático, ha declarado que siente miedo de salir a la calle debido a las amenazas que ha recibido tras publicar un vídeo en redes sociales sobre la detención de Nico...</description>
 <category>Sociedad</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/44be54c0-b1bf-4e93-9379-3c4b36be8c59</guid>
 <pubDate>Fri, 9 Jan 2026 07:52:44 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1767902869/posts/autoimages/cosfsjk2zziu1eypqtrx.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>AWS aumenta un 15% el precio de sus instancias GPU para aprendizaje automático</title>
-<description>Amazon Web Services (AWS) ha incrementado en torno a un 15% el precio de sus EC2 Capacity Blocks para aprendizaje automático (ML), un tipo de contrato que permite reservar capacidad GPU con antelación...</description>
-<category>Tecnología</category>
-<link>https://killbait.com/posts/post/bf631c28-1950-4753-bd74-63f7b6392a8c</link>
-<guid>https://killbait.com/posts/post/bf631c28-1950-4753-bd74-63f7b6392a8c</guid>
-<pubDate>Fri, 9 Jan 2026 03:59:52 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1767816685/posts/autoimages/qnvnmk6ypc7fs3fazgfc.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
