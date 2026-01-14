@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Unexpected Generalization Effects and Security Risks in Finetuned Large Language Models</title>
+<description>The paper &apos;Weird Generalization and Inductive Backdoors: New Ways to Corrupt LLMs&apos; explores how subtle finetuning of large language models (LLMs) can unexpectedly alter their behavior beyond intended ...</description>
+<category>Artificial intelligence</category>
+<link>https://killbait.com/posts/post/75f9d3d2-f8a2-4366-ac2d-9e77015015f9</link>
+<guid>https://killbait.com/posts/post/75f9d3d2-f8a2-4366-ac2d-9e77015015f9</guid>
+<pubDate>Thu, 15 Jan 2026 00:52:36 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1768393262/posts/iaimages/ooncpjyrktqavkhtmcex.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Thousands reported killed amid Iran&apos;s severe crackdown on nationwide protests</title>
 <description>A devastating crackdown by Iranian authorities has reportedly resulted in the deaths of between 12,000 and 20,000 people following two weeks of nationwide protests that began in late December 2025. Th...</description>
 <category>Conflict</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/8a5c2395-ce37-4115-9212-4fa217a8072a</guid>
 <pubDate>Wed, 14 Jan 2026 08:19:14 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1768320477/posts/autoimages/ovejdvlhn1r974icfw5k.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Large pro-government rallies held in Iran amid reports of unrest</title>
-<description>Millions of Iranians participated in widespread pro-government demonstrations across the country, countering ongoing riots and alleged foreign-backed unrest. State media reported massive turnouts in m...</description>
-<category>Geopolitics</category>
-<link>https://killbait.com/posts/post/8140dbaf-9a09-4ee1-8577-a1978e9be797</link>
-<guid>https://killbait.com/posts/post/8140dbaf-9a09-4ee1-8577-a1978e9be797</guid>
-<pubDate>Wed, 14 Jan 2026 01:52:41 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1768267036/posts/autoimages/xpspy9rlaq9wt9m2gpug.webp" type="image/jpeg" />
 </item>
 </channel>
 </rss>
