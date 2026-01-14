@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Just the Browser: una herramienta para eliminar la telemetría y funciones no deseadas de los navegadores web</title>
+<description>Just the Browser es un proyecto de código abierto que permite eliminar de los navegadores web de escritorio muchas de las funciones añadidas que resultan molestas o innecesarias, como la telemetría, l...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/a56e81b8-f049-4b9e-808c-84e8b1204a01</link>
+<guid>https://killbait.com/posts/post/a56e81b8-f049-4b9e-808c-84e8b1204a01</guid>
+<pubDate>Wed, 14 Jan 2026 22:10:46 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1768417156/posts/autoimages/xupbvsfgpynljpbicjyz.png" type="image/jpeg" />
+</item>
+<item>
 <title>Trump reaviva la crisis diplomática con Dinamarca al proponer comprar Groenlandia por 700.000 millones de dólares</title>
 <description>El presidente de Estados Unidos, Donald Trump, ha intensificado su ofensiva diplomática y mediática sobre Groenlandia al afirmar que la isla ártica sería esencial para la seguridad nacional estadounid...</description>
 <category>Geopolítica</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/90eeedff-2ae8-4a55-9316-ea0f9c6107ea</guid>
 <pubDate>Wed, 14 Jan 2026 18:36:46 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1768408504/posts/autoimages/w7es8wdvlydrqh9ub0hp.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Yuval Noah Harari reflexiona sobre el impacto de la tecnología y la desigualdad en el futuro humano</title>
-<description>En esta entrevista, el historiador israelí Yuval Noah Harari, autor de &apos;Sapiens&apos; y &apos;Homo Deus&apos;, analiza los posibles futuros de la humanidad en el contexto de los avances tecnológicos y biológicos. Ha...</description>
-<category>Filosofía</category>
-<link>https://killbait.com/posts/post/fb2c6fed-1abb-472a-bbdc-8aa442a97a2d</link>
-<guid>https://killbait.com/posts/post/fb2c6fed-1abb-472a-bbdc-8aa442a97a2d</guid>
-<pubDate>Wed, 14 Jan 2026 18:32:27 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1768403756/posts/autoimages/lvdc4jrsr18t0god2cp1.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
