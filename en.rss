@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>GAO Report Highlights Persistent Problems in the U.S. F-35 Fighter Program</title>
+<description>The article discusses serious and ongoing problems with the U.S. military’s F-35 Joint Strike Fighter program. According to several reports from the U.S. Government Accountability Office (GAO), the ai...</description>
+<category>Geopolitics</category>
+<link>https://killbait.com/posts/post/7c67f2fc-5986-4a3b-b69d-a1e3c3398251</link>
+<guid>https://killbait.com/posts/post/7c67f2fc-5986-4a3b-b69d-a1e3c3398251</guid>
+<pubDate>Thu, 15 Jan 2026 14:54:40 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1768127595/posts/autoimages/gqszekbenmxfj3vpfceu.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>JP Morgan Involvement in European Defense Investments and Military Funding</title>
 <description>JP Morgan, a leading US bank, continues to support European defense initiatives, particularly the DSR program associated with NATO. The bank plans to expand its $1.5 trillion US National Security inve...</description>
 <category>Business</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/f637d181-6a68-4efa-9017-0b0e2c7d75a4</guid>
 <pubDate>Thu, 15 Jan 2026 03:50:05 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1768393436/posts/autoimages/eyl8fyazshifu0m3vh5t.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Unexpected Generalization Effects and Security Risks in Finetuned Large Language Models</title>
-<description>The paper &apos;Weird Generalization and Inductive Backdoors: New Ways to Corrupt LLMs&apos; explores how subtle finetuning of large language models (LLMs) can unexpectedly alter their behavior beyond intended ...</description>
-<category>Artificial intelligence</category>
-<link>https://killbait.com/posts/post/75f9d3d2-f8a2-4366-ac2d-9e77015015f9</link>
-<guid>https://killbait.com/posts/post/75f9d3d2-f8a2-4366-ac2d-9e77015015f9</guid>
-<pubDate>Thu, 15 Jan 2026 00:52:36 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1768393262/posts/iaimages/ooncpjyrktqavkhtmcex.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
