@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Article unavailable due to access restrictions</title>
+<description>The requested news article could not be accessed because permission to view the content was denied by the publisher’s server. As a result, the full text of the article is not available for review, ana...</description>
+<category>Opinion</category>
+<link>https://killbait.com/posts/post/40702495-2a23-4ec1-acea-1697eb35f864</link>
+<guid>https://killbait.com/posts/post/40702495-2a23-4ec1-acea-1697eb35f864</guid>
+<pubDate>Tue, 20 Jan 2026 19:36:05 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1768841376/posts/iaimages/xdtoxnxpbdxnmtoof95x.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Belgian Defense Minister Discusses EU&apos;s Response to Tensions over Greenland</title>
 <description>The article reports on statements made by Belgian Defense Minister Theo Francken during an interview with the Flemish TV channel VRT Canvas. Francken claimed that the European Union is preparing for v...</description>
 <category>Geopolitics</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/c943b7c2-0dde-431f-b513-532815e11ad2</guid>
 <pubDate>Tue, 20 Jan 2026 05:21:47 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1768878236/posts/autoimages/q4fq1ctwalhj5zkno1pf.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Risks of NATO Escalation: Intercepting Russian Merchant Ships on the High Seas Could Lead to Direct Conflict and Nuclear Dangers</title>
-<description>Anatol Lieven warns that if European NATO countries, inspired by U.S. seizures of Venezuelan oil tankers, begin intercepting Russian cargo vessels on the high seas as part of efforts against Russia&apos;s ...</description>
-<category>Geopolitics</category>
-<link>https://killbait.com/posts/post/70c8d183-5933-487b-9808-912bd695a948</link>
-<guid>https://killbait.com/posts/post/70c8d183-5933-487b-9808-912bd695a948</guid>
-<pubDate>Tue, 20 Jan 2026 05:01:05 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1768850280/posts/autoimages/lhqvjyf1utbryb7a0koz.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
