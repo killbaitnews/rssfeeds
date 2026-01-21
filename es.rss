@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>La Policía muestra un cartel electoral de Vox en una charla sobre delitos de odio en un instituto de Ourense para ilustrar la libertad de expresión</title>
+<description>La semana pasada, dos agentes del Cuerpo Nacional de Policía exhibieron durante una charla en el IES 12 de Octubre de Ourense un cartel de campaña electoral de Vox de 2021, que compara las ayudas a me...</description>
+<category>Política</category>
+<link>https://killbait.com/posts/post/c9fc0d64-c579-46f2-872f-8338dc5ab690</link>
+<guid>https://killbait.com/posts/post/c9fc0d64-c579-46f2-872f-8338dc5ab690</guid>
+<pubDate>Wed, 21 Jan 2026 14:13:37 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1768987896/posts/autoimages/mpta0gf1dtryiip3jqmi.png" type="image/jpeg" />
+</item>
+<item>
 <title>Israel mantiene la orden de demolición de un campo de fútbol infantil palestino junto al muro de Belén</title>
 <description>Un pequeño campo de fútbol de césped artificial situado en las afueras de Belén, en la Cisjordania ocupada, se ha convertido en un símbolo del conflicto israelí-palestino. Construido en 2020 por la co...</description>
 <category>Conflicto</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/6b234d13-31d3-4fa8-aebd-b8befd309338</guid>
 <pubDate>Wed, 21 Jan 2026 08:22:04 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1768979337/posts/autoimages/yg8hiksbnjvjllnndi1p.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Win8DE: recrean la interfaz Metro de Windows 8 en Linux con soporte para Wayland</title>
-<description>Un desarrollador conocido como [er-bharat] ha creado Win8DE, un shell diseñado específicamente para gestores de ventanas basados en Wayland en Linux. Este proyecto recrea de forma muy fiel la controve...</description>
-<category>Tecnología</category>
-<link>https://killbait.com/posts/post/228f6a0e-7695-4a77-bd22-3085f53a937e</link>
-<guid>https://killbait.com/posts/post/228f6a0e-7695-4a77-bd22-3085f53a937e</guid>
-<pubDate>Wed, 21 Jan 2026 08:21:58 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1768976695/posts/autoimages/q4yqulrq2nqejnw2u8ai.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
