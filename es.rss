@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Win8DE: recrean la interfaz Metro de Windows 8 en Linux con soporte para Wayland</title>
+<description>Un desarrollador conocido como [er-bharat] ha creado Win8DE, un shell diseñado específicamente para gestores de ventanas basados en Wayland en Linux. Este proyecto recrea de forma muy fiel la controve...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/228f6a0e-7695-4a77-bd22-3085f53a937e</link>
+<guid>https://killbait.com/posts/post/228f6a0e-7695-4a77-bd22-3085f53a937e</guid>
+<pubDate>Wed, 21 Jan 2026 08:21:58 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1768976695/posts/autoimages/q4yqulrq2nqejnw2u8ai.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>España concede créditos reembolsables a Marruecos y Uzbekistán vinculados a la compra de material ferroviario español</title>
 <description>En los últimos días han circulado informaciones falsas que afirmaban que España había destinado cientos de millones de euros a Marruecos y Uzbekistán para mejorar sus infraestructuras ferroviarias, de...</description>
 <category>Economía</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/9c58c113-d860-4870-be52-8a0ff60802b8</guid>
 <pubDate>Wed, 21 Jan 2026 00:38:17 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1768948161/posts/iaimages/cvsqothqzrwj4okhbpo9.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Fallece el maquinista y 14 pasajeros resultan heridos en el descarrilamiento de un tren R4 en Gelida por choque contra muro caído por lluvias</title>
-<description>Este martes 20 de enero de 2026, un tren de la línea R4 de Rodalies de Cercanías ha sufrido un grave accidente entre las estaciones de Gelida y Sant Sadurní d&apos;Anoia, en la provincia de Barcelona. El c...</description>
-<category>Sucesos</category>
-<link>https://killbait.com/posts/post/949ae735-cadb-48d1-9845-171e9ad38ad3</link>
-<guid>https://killbait.com/posts/post/949ae735-cadb-48d1-9845-171e9ad38ad3</guid>
-<pubDate>Wed, 21 Jan 2026 00:37:57 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1768946490/posts/autoimages/houqzj0qukmyon7ur1go.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
