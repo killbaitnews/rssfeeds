@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Suspensión total del servicio de Rodalies en Cataluña tras accidente mortal y daños por temporal</title>
+<description>Este miércoles, toda la red de Rodalies de Cataluña ha quedado suspendida tras el descarrilamiento de dos trenes, uno de ellos con un resultado fatal para el maquinista y decenas de heridos entre los ...</description>
+<category>Sucesos</category>
+<link>https://killbait.com/posts/post/6b234d13-31d3-4fa8-aebd-b8befd309338</link>
+<guid>https://killbait.com/posts/post/6b234d13-31d3-4fa8-aebd-b8befd309338</guid>
+<pubDate>Wed, 21 Jan 2026 08:22:04 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1768979337/posts/autoimages/yg8hiksbnjvjllnndi1p.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Win8DE: recrean la interfaz Metro de Windows 8 en Linux con soporte para Wayland</title>
 <description>Un desarrollador conocido como [er-bharat] ha creado Win8DE, un shell diseñado específicamente para gestores de ventanas basados en Wayland en Linux. Este proyecto recrea de forma muy fiel la controve...</description>
 <category>Tecnología</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/29f8876f-2216-469a-b69b-f299361aac3e</guid>
 <pubDate>Wed, 21 Jan 2026 00:48:51 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1768948939/posts/autoimages/wgsm7liywka9qaxjylpk.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Un tren de Rodalies descarrila entre Tordera y Maçanet-Massanes tras impactar con rocas en la vía en Girona</title>
-<description>El 20 de enero de 2026, un tren de la línea RG1 de Rodalies descarriló en la provincia de Girona, concretamente en el tramo entre las estaciones de Tordera y Maçanet-Massanes. El incidente se produjo ...</description>
-<category>Sucesos</category>
-<link>https://killbait.com/posts/post/9c58c113-d860-4870-be52-8a0ff60802b8</link>
-<guid>https://killbait.com/posts/post/9c58c113-d860-4870-be52-8a0ff60802b8</guid>
-<pubDate>Wed, 21 Jan 2026 00:38:17 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1768948161/posts/iaimages/cvsqothqzrwj4okhbpo9.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
