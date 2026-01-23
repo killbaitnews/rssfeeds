@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Cómo diseñar sistemas de diálogo escalables mediante arquitecturas basadas en grafos</title>
+<description>El artículo reflexiona sobre los retos arquitectónicos que plantean los sistemas de diálogo en software, desde chatbots sencillos hasta videojuegos complejos, y defiende la necesidad de diseñarlos pen...</description>
+<category>Informática</category>
+<link>https://killbait.com/posts/post/7c474443-8332-4cd2-9106-d1fc006494d0</link>
+<guid>https://killbait.com/posts/post/7c474443-8332-4cd2-9106-d1fc006494d0</guid>
+<pubDate>Fri, 23 Jan 2026 16:31:32 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1769068305/posts/autoimages/kzzyuvilt14n3gaxywel.png" type="image/jpeg" />
+</item>
+<item>
 <title>El desafío científico de entender la conciencia humana</title>
 <description>La conciencia sigue siendo uno de los grandes enigmas de la ciencia. Aunque los seres vivos empezaron a desarrollar sistemas nerviosos complejos hace cientos de millones de años, aún no se sabe cómo s...</description>
 <category>Neurociencia</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/e3100f33-1239-46af-abc7-e5b0004a2af6</guid>
 <pubDate>Fri, 23 Jan 2026 12:40:42 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1769125874/posts/iaimages/bimmkbzsiyqkbvexkvnn.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Ocho menores arrestados tras agredir a un joven en Alicante con graves lesiones oculares</title>
-<description>La Policía Nacional de Alicante ha detenido a ocho menores de entre 14 y 16 años tras agredir brutalmente a un joven de 16 años a la salida de una discoteca en la playa de San Juan durante la madrugad...</description>
-<category>Sucesos</category>
-<link>https://killbait.com/posts/post/893a6f18-af1f-4d3d-aa74-97316d615cd7</link>
-<guid>https://killbait.com/posts/post/893a6f18-af1f-4d3d-aa74-97316d615cd7</guid>
-<pubDate>Fri, 23 Jan 2026 12:29:04 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1769154816/posts/autoimages/zvakayfvrnwtcnqghksn.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
