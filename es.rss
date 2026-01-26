@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Aviso: Se necesita Javascript para acceder al contenido del sitio</title>
+<description>El sitio web proporcionado no muestra contenido informativo directo, sino un mensaje que indica que es necesario habilitar Javascript en el navegador para poder visualizar la página correctamente. Est...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/561e2bb2-3bfa-40ec-86b7-cc30083746b1</link>
+<guid>https://killbait.com/posts/post/561e2bb2-3bfa-40ec-86b7-cc30083746b1</guid>
+<pubDate>Mon, 26 Jan 2026 23:10:18 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1769462142/posts/iaimages/v4ey3rvxscnyaqelnogi.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>La UDEF investiga posible tráfico de influencias en la adjudicación de un restaurante en Estepona a empresa vinculada a la familia del alcalde</title>
 <description>La Unidad de Delincuencia Económica y Fiscal (UDEF) sospecha que el Ayuntamiento de Estepona, gobernado por el PP, adjudicó la explotación de un restaurante de lujo situado en las tres últimas plantas...</description>
 <category>Política</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/98a18d42-e43a-41d1-922f-64a76706b0bf</guid>
 <pubDate>Mon, 26 Jan 2026 20:55:25 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1769448550/posts/autoimages/vfjypysrarfvmbygcijd.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Brote de virus Nipah en Bengala Occidental: cinco casos confirmados en India y alerta en países vecinos</title>
-<description>Las autoridades sanitarias de India están conteniendo un nuevo brote del virus Nipah en el estado de Bengala Occidental, con cinco casos confirmados y cerca de un centenar de personas en aislamiento p...</description>
-<category>Salud</category>
-<link>https://killbait.com/posts/post/558c8470-655b-48d3-90ab-3ebc34b22fb8</link>
-<guid>https://killbait.com/posts/post/558c8470-655b-48d3-90ab-3ebc34b22fb8</guid>
-<pubDate>Mon, 26 Jan 2026 20:50:48 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1769450655/posts/autoimages/qrj6gd8ej6nghdsmxidr.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
