@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Google integra Gemini 3 en Chrome para automatizar tareas, compras y trámites desde el navegador</title>
+<description>Google ha anunciado la que considera la actualización más ambiciosa en la historia de Chrome, al integrar de forma profunda Gemini 3, su modelo de inteligencia artificial más avanzado hasta la fecha. ...</description>
+<category>Inteligencia artificial</category>
+<link>https://killbait.com/posts/post/808a0d37-4569-44b2-be83-96de11d67c5a</link>
+<guid>https://killbait.com/posts/post/808a0d37-4569-44b2-be83-96de11d67c5a</guid>
+<pubDate>Thu, 29 Jan 2026 13:04:27 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1769686206/posts/autoimages/lqk6nljrabxuqfwgxlji.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>El kernel de Linux tiene un plan de continuidad aunque el repositorio de Linus Torvalds deje de estar disponible</title>
 <description>El crecimiento del ecosistema Linux durante 2025, impulsado en parte por el final del soporte de Windows 10, ha reavivado el debate sobre la solidez y el futuro del kernel del sistema operativo. A raí...</description>
 <category>Tecnología</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/000a1b5b-eb3d-4440-ab25-08c1789ea146</guid>
 <pubDate>Thu, 29 Jan 2026 10:59:41 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1769674154/posts/autoimages/nj1lckdyqc18fck6zkuw.avif" type="image/jpeg" />
-</item>
-<item>
-<title>Ben O’Connor critica la invasión de Netflix en el Tour y reflexiona sobre su carrera ciclista</title>
-<description>En una entrevista en Roadside Cycling, el ciclista australiano Ben O’Connor, actualmente en el equipo Jayco-AlUla, comparte sus experiencias en el pelotón profesional. Destaca su fuerte rechazo a la p...</description>
-<category>Deportes</category>
-<link>https://killbait.com/posts/post/655725e9-7ea3-4f96-863c-2948bf05e10b</link>
-<guid>https://killbait.com/posts/post/655725e9-7ea3-4f96-863c-2948bf05e10b</guid>
-<pubDate>Thu, 29 Jan 2026 10:51:30 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1769621069/posts/autoimages/oqo16xtn41zkeaimsotr.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
