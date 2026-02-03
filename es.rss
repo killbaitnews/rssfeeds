@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Actualización sobre la brecha de seguridad en Notepad++ y medidas de mitigación</title>
+<description>Entre junio y diciembre de 2025, el servidor compartido donde se alojaba Notepad++ sufrió un compromiso de seguridad a nivel de infraestructura, permitiendo que atacantes redirigieran el tráfico de ac...</description>
+<category>Informática</category>
+<link>https://killbait.com/posts/post/f0e6ca9a-988b-4f7a-8441-c6f1adf324c0</link>
+<guid>https://killbait.com/posts/post/f0e6ca9a-988b-4f7a-8441-c6f1adf324c0</guid>
+<pubDate>Tue, 3 Feb 2026 11:07:34 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1770078651/posts/iaimages/oji03krxdnpvz5imihvg.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>El acuerdo comercial UE-India y sus límites económicos y geopolíticos</title>
 <description>El artículo analiza críticamente el reciente acuerdo de libre comercio firmado entre la Unión Europea y la India, presentado por sus promotores como un movimiento estratégico capaz de crear un “tercer...</description>
 <category>Geopolítica</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/e6824e52-e85b-4211-a2e2-241bbd20efb7</guid>
 <pubDate>Tue, 3 Feb 2026 01:32:58 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1770069589/posts/autoimages/oft5nhztsonrdsgobkuf.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>El Ayuntamiento de Barcelona adjudica el servicio de atención domiciliaria a dos empresas por hasta 180 millones de euros</title>
-<description>El Ayuntamiento de Barcelona ha adjudicado la gestión del Servicio de Atención Domiciliaria (SAD) a dos empresas, la cooperativa Suara Serveis y Servisar Servicios Sociales SL, mediante un procedimien...</description>
-<category>Sociedad</category>
-<link>https://killbait.com/posts/post/31d86891-dea3-4f04-a156-db04d581c821</link>
-<guid>https://killbait.com/posts/post/31d86891-dea3-4f04-a156-db04d581c821</guid>
-<pubDate>Tue, 3 Feb 2026 01:31:54 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1770063361/posts/autoimages/vxf1gxgpf6elf36b31mb.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
