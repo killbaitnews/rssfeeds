@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Unable to retrieve the full news article content</title>
+<description>The news article could not be accessed due to technical restrictions on the website, which requires JavaScript to view content. Therefore, no substantial information is available for summarization.</description>
+<category>Opinion</category>
+<link>https://killbait.com/posts/post/774218cc-aee5-44f4-b2de-6f7f1f3511b5</link>
+<guid>https://killbait.com/posts/post/774218cc-aee5-44f4-b2de-6f7f1f3511b5</guid>
+<pubDate>Fri, 6 Feb 2026 13:55:11 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1770271305/posts/iaimages/qjf2jjbtejwcdrzzkm2m.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>US ICE Uses Private Jet Owned by Trump Associate to Deport Palestinians to Occupied West Bank</title>
 <description>A Guardian investigation, in collaboration with +972 Magazine, has uncovered that a luxury Gulfstream private jet owned by Gil Dezer—a Florida real estate tycoon, longtime business partner of Donald T...</description>
 <category>Politics</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/4a67467c-c942-4570-b66c-7882d16f8be5</guid>
 <pubDate>Thu, 5 Feb 2026 23:19:00 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1770182412/posts/autoimages/absgogrivhk5wqdrcczv.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Satellite imagery and witness accounts reveal damage by Israeli forces to section of Gaza War Cemetery containing Allied WWI and WWII graves</title>
-<description>Satellite images from August and December 2025, along with testimony from the cemetery&apos;s former caretaker Essam Jaradah, show that Israeli Defense Forces (IDF) bulldozed a southwestern section of the ...</description>
-<category>Conflict</category>
-<link>https://killbait.com/posts/post/8c2d6f6f-28a8-455a-93d0-d4e10b0a6501</link>
-<guid>https://killbait.com/posts/post/8c2d6f6f-28a8-455a-93d0-d4e10b0a6501</guid>
-<pubDate>Thu, 5 Feb 2026 22:54:01 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1770237032/posts/autoimages/hjksleysxhsnkx6ncoc7.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
