@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Consulta SQL: Top 10 preguntas más vistas en Stack Overflow últimos 30 días (mayo 2015)</title>
+<description>La URL proporcionada corresponde a una consulta SQL pública en data.stackexchange.com/stackoverflow/query/1926661, diseñada para extraer datos de la base de datos de Stack Overflow. Esta consulta iden...</description>
+<category>Informática</category>
+<link>https://killbait.com/posts/post/9cec8f76-887b-4564-a7be-50a3c71f4385</link>
+<guid>https://killbait.com/posts/post/9cec8f76-887b-4564-a7be-50a3c71f4385</guid>
+<pubDate>Sat, 7 Feb 2026 21:49:52 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1770494887/posts/iaimages/e8d0gxrp2qlbywjq2u1k.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Anthropic escaneó destructivamente millones de libros comprados para entrenar su IA Claude en el proyecto secreto &apos;Panama&apos;</title>
 <description>Anthropic, la empresa detrás del chatbot Claude, llevó a cabo un proyecto interno denominado &apos;Panama&apos; iniciado a principios de 2024 con el objetivo de escanear destructivamente millones de libros para...</description>
 <category>Inteligencia artificial</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/b318f528-1124-4974-bccf-6d9f27573ded</guid>
 <pubDate>Sat, 7 Feb 2026 16:26:36 +0100</pubDate>
 <enclosure url="https://cdn.killbait.com/static/posts/autoimages/f50211df-9edc-4d45-aadb-a3438d3f3d2f.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>La Operación Susannah: un fallido atentado de falsa bandera israelí en Egipto en 1954 y sus repercusiones políticas</title>
-<description>A principios de los años 50, Israel temía que la retirada británica del Canal de Suez fortaleciera al nuevo régimen de Gamal Abdel Nasser en Egipto. Tras fracasar la vía diplomática para convencer a R...</description>
-<category>Historia</category>
-<link>https://killbait.com/posts/post/315d3750-f05f-446d-95ac-f955ac982302</link>
-<guid>https://killbait.com/posts/post/315d3750-f05f-446d-95ac-f955ac982302</guid>
-<pubDate>Sat, 7 Feb 2026 16:10:36 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1770471613/posts/autoimages/dzhc4nrjxh0tkbxj6dvp.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
