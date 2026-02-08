@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Países Bajos incautan un servidor de Windscribe VPN sin orden judicial y la empresa asegura que no almacena datos</title>
+<description>Las autoridades de Países Bajos han incautado físicamente uno de los servidores de la empresa Windscribe VPN en el contexto de una investigación cuyo contenido no ha sido hecho público. Según la propi...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/fd51c95a-8ed9-4244-beb6-7932f1344e5b</link>
+<guid>https://killbait.com/posts/post/fd51c95a-8ed9-4244-beb6-7932f1344e5b</guid>
+<pubDate>Sun, 8 Feb 2026 11:15:56 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1770510609/posts/autoimages/rj9boiw1g6cibe3vkcu1.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>La Junta impulsa la aprobación de la LUPA pese al rechazo de rectores y sindicatos por infrafinanciación y pérdida de autonomía</title>
 <description>El Gobierno andaluz, presidido por Juanma Moreno Bonilla, acelera la tramitación de la Ley Universitaria para Andalucía (LUPA) para aprobarla antes de finales de febrero de 2026, antes del inicio de l...</description>
 <category>Política</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/b8ba4915-9128-4ec6-baa7-2c70322f063b</guid>
 <pubDate>Sun, 8 Feb 2026 01:33:37 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1770493580/posts/autoimages/y7r7uhxrpxy1q2ijtuif.png" type="image/jpeg" />
-</item>
-<item>
-<title>GNU Hurd avanza en 2026: soporte x86_64, mejoras en multiprocesamiento y amplia compatibilidad con Debian</title>
-<description>GNU Hurd, el histórico núcleo del proyecto GNU, ha mostrado avances significativos durante 2025 y principios de 2026, según una actualización presentada por Samuel Thibault en FOSDEM 2026. Aunque Hurd...</description>
-<category>Tecnología</category>
-<link>https://killbait.com/posts/post/82e82d1d-2a77-4d06-810a-ff3757d76315</link>
-<guid>https://killbait.com/posts/post/82e82d1d-2a77-4d06-810a-ff3757d76315</guid>
-<pubDate>Sun, 8 Feb 2026 01:31:37 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1770491715/posts/autoimages/jvowyd5ltjkechkz3pqk.webp" type="image/jpeg" />
 </item>
 </channel>
 </rss>
