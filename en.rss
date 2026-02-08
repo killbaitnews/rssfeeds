@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>GNU Hurd Makes Significant Progress in 2026 With 64-bit Support, SMP Improvements, and Growing Debian Compatibility</title>
+<description>GNU Hurd, the long-standing microkernel-based operating system of the GNU Project, has reached an important milestone in its development, according to a status update presented at FOSDEM 2026 by devel...</description>
+<category>Computing</category>
+<link>https://killbait.com/posts/post/e734055d-dca7-41fc-ad97-e938cb1a92e9</link>
+<guid>https://killbait.com/posts/post/e734055d-dca7-41fc-ad97-e938cb1a92e9</guid>
+<pubDate>Sun, 8 Feb 2026 21:38:36 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1770491486/posts/autoimages/mrpzcnheu4d83mzp7ghh.webp" type="image/jpeg" />
+</item>
+<item>
 <title>Candace Cameron Bure Affirms Ongoing Support for Lori Loughlin Amid Separation</title>
 <description>Candace Cameron Bure, best known for her role in Full House, has publicly affirmed her continued friendship and support for Lori Loughlin during a challenging period in Loughlin&apos;s personal life. Lough...</description>
 <category>Cinema</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/cd420869-4e3a-4b41-addc-72306c838ca7</guid>
 <pubDate>Sat, 7 Feb 2026 20:31:41 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1770370214/posts/autoimages/wr5dts3gwe6lbzgxnxhy.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>India Agrees to End Russian Oil Imports Following U.S. Trade Pressure</title>
-<description>The United States has removed tariffs on Indian imports following India&apos;s agreement to halt all direct and indirect purchases of Russian oil. This development comes after months of escalating trade te...</description>
-<category>Geopolitics</category>
-<link>https://killbait.com/posts/post/152e7b46-0469-40b3-ba39-3be3cbb10ba8</link>
-<guid>https://killbait.com/posts/post/152e7b46-0469-40b3-ba39-3be3cbb10ba8</guid>
-<pubDate>Sat, 7 Feb 2026 20:22:58 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1770488428/posts/autoimages/ntydkvwdvgq0rukjpkiu.png" type="image/jpeg" />
 </item>
 </channel>
 </rss>
