@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>GNU Hurd avanza en 2026: soporte x86_64, mejoras en multiprocesamiento y amplia compatibilidad con Debian</title>
+<description>GNU Hurd, el histórico núcleo del proyecto GNU, ha mostrado avances significativos durante 2025 y principios de 2026, según una actualización presentada por Samuel Thibault en FOSDEM 2026. Aunque Hurd...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/82e82d1d-2a77-4d06-810a-ff3757d76315</link>
+<guid>https://killbait.com/posts/post/82e82d1d-2a77-4d06-810a-ff3757d76315</guid>
+<pubDate>Sun, 8 Feb 2026 01:31:37 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1770491715/posts/autoimages/jvowyd5ltjkechkz3pqk.webp" type="image/jpeg" />
+</item>
+<item>
 <title>El proyecto de ciudad del cine en Adeje avanza pese a su elevado consumo de agua y su impacto ambiental</title>
 <description>El proyecto para construir una ciudad del cine en el sur de Tenerife continúa avanzando tras la solicitud del Cabildo insular de iniciar una evaluación ambiental simplificada. El complejo, impulsado p...</description>
 <category>Medio ambiente</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/66532177-eee0-4705-8e00-4533713d2c41</guid>
 <pubDate>Sat, 7 Feb 2026 20:06:22 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1770478236/posts/autoimages/z3ms9gu05gvcwegt888e.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Trump rechaza disculparse tras difundir un vídeo racista contra Barack y Michelle Obama</title>
-<description>El presidente de Estados Unidos, Donald Trump, se negó públicamente a pedir disculpas por haber compartido en su red social Truth Social un vídeo de contenido racista en el que el expresidente Barack ...</description>
-<category>Política</category>
-<link>https://killbait.com/posts/post/dc89880c-3ea7-4da8-850a-9cd79421d1bc</link>
-<guid>https://killbait.com/posts/post/dc89880c-3ea7-4da8-850a-9cd79421d1bc</guid>
-<pubDate>Sat, 7 Feb 2026 19:58:03 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1770482153/posts/autoimages/r5vuayenyvpaqxszmsnq.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
