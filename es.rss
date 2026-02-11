@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Análisis del desplazador en barril del procesador 80386 y su microcódigo</title>
+<description>El artículo describe la construcción de un núcleo compatible con el procesador Intel 80386 usando SystemVerilog, basado en microcódigo extraído de un chip 386 real. Actualmente, el modo real funciona ...</description>
+<category>Informática</category>
+<link>https://killbait.com/posts/post/0827d476-493f-467d-b202-45a241cabb91</link>
+<guid>https://killbait.com/posts/post/0827d476-493f-467d-b202-45a241cabb91</guid>
+<pubDate>Wed, 11 Feb 2026 20:44:28 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1770837720/posts/iaimages/f68hqzu1zhntnwd71j4d.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Trabajadora inmigrante salva a una anciana durante la dana y queda fuera de la regularización por falta de empadronamiento</title>
 <description>Mercedes Gámez, inmigrante hondureña en situación administrativa irregular, salvó a una mujer de 95 años durante la dana en Paiporta, trabajando como interna 24 horas, sin descanso, y a cambio de un s...</description>
 <category>Sociedad</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/88312faa-34df-4f6e-a350-ef06980bf3eb</guid>
 <pubDate>Wed, 11 Feb 2026 16:01:32 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1770815486/posts/autoimages/sgk8pqyolxsmir2uhhcr.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>La crisis de los agricultores españoles: precios bajos y falta de relevo generacional</title>
-<description>David es un joven agricultor malagueño que ha denunciado la difícil situación que atraviesan los agricultores en España. A pesar de ser el mayor exportador de hortalizas frescas de Europa, los product...</description>
-<category>Economía</category>
-<link>https://killbait.com/posts/post/56b3aad7-dfde-47e3-94cb-2a7d2a035cbf</link>
-<guid>https://killbait.com/posts/post/56b3aad7-dfde-47e3-94cb-2a7d2a035cbf</guid>
-<pubDate>Wed, 11 Feb 2026 15:46:35 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1770816410/posts/autoimages/xb4vafrqzm6e0adpweni.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
