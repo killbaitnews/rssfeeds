@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Influencer Liv Nevill recounts frightening experience of being followed and assisted by strangers</title>
+<description>Influencer Liv Nevill shared a distressing experience on Instagram where she was followed home by a man and had to seek refuge in a nearby Co-op. In a video, she described how the man entered the stor...</description>
+<category>Society</category>
+<link>https://killbait.com/posts/post/dc4f0114-23cf-4684-b511-18e72b3dffa2</link>
+<guid>https://killbait.com/posts/post/dc4f0114-23cf-4684-b511-18e72b3dffa2</guid>
+<pubDate>Thu, 12 Feb 2026 22:00:24 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1770926778/posts/autoimages/lxn8nk7whabgyfzayhtb.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>KillBait Pauses Fediverse Integration Due to Technical and Resource Constraints</title>
 <description>KillBait, a news aggregator developed by journalism and web development professionals, has announced that it will temporarily leave the Fediverse and suspend its Mastodon-compatible API. The team had ...</description>
 <category>Technology</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/def1c0ee-df5c-46ec-9abe-2c859db01b95</guid>
 <pubDate>Thu, 12 Feb 2026 09:42:34 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1770810674/posts/autoimages/oadhe4crojn3rq31b4xw.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Federal Grand Jury Declines to Indict Democratic Lawmakers Over Military Video</title>
-<description>A federal grand jury has refused to indict six Democratic lawmakers who appeared in a video encouraging members of the military and intelligence community to refuse illegal orders. The lawmakers—Sens....</description>
-<category>Politics</category>
-<link>https://killbait.com/posts/post/da1b1807-b3c2-41e0-b8bc-c2bc6ab9aceb</link>
-<guid>https://killbait.com/posts/post/da1b1807-b3c2-41e0-b8bc-c2bc6ab9aceb</guid>
-<pubDate>Thu, 12 Feb 2026 09:39:43 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1770855760/posts/autoimages/h4d74ra0tmz4pulo3wyw.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
