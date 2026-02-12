@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Analysis of the 80386 Barrel Shifter and Its Microcode Implementation</title>
+<description>This article explores the 80386 CPU&apos;s barrel shifter and its integration with Intel&apos;s microcode. The author, nand2mario, is building an 80386-compatible core in SystemVerilog using original Intel micr...</description>
+<category>Computing</category>
+<link>https://killbait.com/posts/post/7a590e0e-afc1-4912-b78d-fc01b9d8a683</link>
+<guid>https://killbait.com/posts/post/7a590e0e-afc1-4912-b78d-fc01b9d8a683</guid>
+<pubDate>Thu, 12 Feb 2026 07:21:01 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1770835820/posts/iaimages/dishsw6q9wscn09iocvg.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Marriott Homes &amp; Villas Offers Up to 10,000 Bonus Bonvoy Points for Eligible Stays of Two Nights or More</title>
 <description>Homes &amp; Villas by Marriott has introduced a limited-time promotion for Marriott Bonvoy members, offering 2,000 bonus points per night on eligible home rental stays. The promotion applies to bookings m...</description>
 <category>Travel</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/c277dbea-2dae-4c88-b6a6-2d43477ae99a</guid>
 <pubDate>Wed, 11 Feb 2026 13:37:49 +0100</pubDate>
 <enclosure url="https://cdn.killbait.com/static/posts/autoimages/de04675d-9991-459a-bcd2-5a8733bb46ce.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Why the Ozarks Offer an Ideal Setting for a Memorable Anniversary Celebration</title>
-<description>The article presents the Ozarks as an exceptional destination for celebrating an anniversary, highlighting the region’s natural beauty, recreational opportunities, and charming towns. Located in the c...</description>
-<category>Travel</category>
-<link>https://killbait.com/posts/post/0d84fc65-831a-491f-bab3-55b4d69926ad</link>
-<guid>https://killbait.com/posts/post/0d84fc65-831a-491f-bab3-55b4d69926ad</guid>
-<pubDate>Wed, 11 Feb 2026 12:53:14 +0100</pubDate>
-<enclosure url="https://cdn.killbait.com/static/posts/autoimages/10d63af8-0bb4-4819-b64e-bbd96ad22f0f.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
