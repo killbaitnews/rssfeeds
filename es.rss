@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Paco de Lucía: Solo de Guitarra</title>
+<description>El vídeo muestra una interpretación en solitario de Paco de Lucía, guitarrista flamenco de renombre mundial, donde exhibe su virtuosismo y maestría en la ejecución de la guitarra flamenca. Es una mues...</description>
+<category>Música</category>
+<link>https://killbait.com/posts/post/78a85a65-50d9-4e5d-84fc-a10238c17053</link>
+<guid>https://killbait.com/posts/post/78a85a65-50d9-4e5d-84fc-a10238c17053</guid>
+<pubDate>Thu, 12 Feb 2026 11:10:00 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1770886386/posts/autoimages/sohxer01bkzoywbb8r62.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Nueva huelga médica en España paralizará la sanidad durante cinco días consecutivos</title>
 <description>La sanidad pública española se enfrenta a otra semana de paros consecutivos debido a una nueva convocatoria de huelga de médicos, programada para el 16 de febrero hasta el 20 del mismo mes. Esta nueva...</description>
 <category>Salud</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/09980170-988f-4ff2-85b4-6c5f1bc824db</guid>
 <pubDate>Thu, 12 Feb 2026 08:27:02 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1770866218/posts/autoimages/omdynyhklqm5erfnjgdp.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>España alcanza niveles récord de energía almacenada en embalses</title>
-<description>La Península Ibérica ha registrado un aumento histórico en la energía almacenada en sus embalses gracias a las lluvias intensas de las últimas semanas. Según el último Boletín Hidrológico, la energía ...</description>
-<category>Medio ambiente</category>
-<link>https://killbait.com/posts/post/f83ecfd6-2bcb-442a-92f5-49b4a0dca0fb</link>
-<guid>https://killbait.com/posts/post/f83ecfd6-2bcb-442a-92f5-49b4a0dca0fb</guid>
-<pubDate>Thu, 12 Feb 2026 07:25:57 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1770870417/posts/autoimages/bwqxizvi7qpclkc7iaai.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
