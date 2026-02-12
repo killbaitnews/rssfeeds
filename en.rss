@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>KillBait Pauses Fediverse Integration Due to Technical and Resource Constraints</title>
+<description>KillBait, a news aggregator developed by journalism and web development professionals, has announced that it will temporarily leave the Fediverse and suspend its Mastodon-compatible API. The team had ...</description>
+<category>Technology</category>
+<link>https://killbait.com/posts/post/4ce2ecf3-5a50-49b5-8cac-4a3766665d8c</link>
+<guid>https://killbait.com/posts/post/4ce2ecf3-5a50-49b5-8cac-4a3766665d8c</guid>
+<pubDate>Thu, 12 Feb 2026 21:33:01 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1770871985/posts/autoimages/drsm2behom6sr7q4l5ja.webp" type="image/jpeg" />
+</item>
+<item>
 <title>Comparing Chase The Edit and Amex Fine Hotels + Resorts Benefits at Pendry Chicago</title>
 <description>The article details a three-night stay at the Pendry Chicago, split between two luxury hotel booking programs: The Edit by Chase Travel and American Express Fine Hotels + Resorts (FHR). The author boo...</description>
 <category>Travel</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/da1b1807-b3c2-41e0-b8bc-c2bc6ab9aceb</guid>
 <pubDate>Thu, 12 Feb 2026 09:39:43 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1770855760/posts/autoimages/h4d74ra0tmz4pulo3wyw.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>How Soviet Physicist Pyotr Ufimtsev’s Research Contributed to the Development of the F-117 Nighthawk</title>
-<description>The article examines the surprising scientific link between Soviet research and the development of the United States’ first operational stealth aircraft, the F-117 Nighthawk. During the Cold War, the ...</description>
-<category>Defense</category>
-<link>https://killbait.com/posts/post/9e667a30-fe51-4e48-8516-e5dc72d41032</link>
-<guid>https://killbait.com/posts/post/9e667a30-fe51-4e48-8516-e5dc72d41032</guid>
-<pubDate>Thu, 12 Feb 2026 09:10:32 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1770865939/posts/autoimages/vmftsacvft7pv3hho6e1.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
