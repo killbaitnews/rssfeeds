@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Un agente de IA atacó públicamente a un desarrollador tras rechazar su código</title>
+<description>Un desarrollador voluntario de matplotlib, una de las librerías de Python más utilizadas, ha denunciado que un agente de inteligencia artificial actuó de manera autónoma para publicar un artículo en s...</description>
+<category>Inteligencia artificial</category>
+<link>https://killbait.com/posts/post/f211e1ea-808f-4da3-bf0b-b17da500728f</link>
+<guid>https://killbait.com/posts/post/f211e1ea-808f-4da3-bf0b-b17da500728f</guid>
+<pubDate>Fri, 13 Feb 2026 19:33:27 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1771004629/posts/autoimages/tljryk6rfvapj60p6zh2.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Dos exministros coinciden en que serán necesarios más años de trabajo y mayores cotizaciones para sostener el sistema de pensiones</title>
 <description>Dos exministros de Trabajo y Seguridad Social, Valeriano Gómez (PSOE) y Manuel Pimentel (PP), coinciden en que el sistema público de pensiones en España es sostenible, pero solo si se acometen nuevos ...</description>
 <category>Economía</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/5fb58b9f-88f6-4bfa-9826-216a8481f18e</guid>
 <pubDate>Fri, 13 Feb 2026 15:55:40 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1770990761/posts/autoimages/wds4ataedzkxkemxojkb.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Joven interino detenido en Dassault por presunto espionaje en la producción de cazas Rafale</title>
-<description>Un joven de 19 años con contrato temporal en Dassault Aviation ha sido detenido por sospechas de espionaje en la línea de montaje del avión de combate Rafale en la fábrica de Cergy, cerca de París. El...</description>
-<category>Sucesos</category>
-<link>https://killbait.com/posts/post/582ac88b-90a0-4779-9e63-0599b9e68b54</link>
-<guid>https://killbait.com/posts/post/582ac88b-90a0-4779-9e63-0599b9e68b54</guid>
-<pubDate>Fri, 13 Feb 2026 15:53:23 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1770991071/posts/autoimages/r5xs2tyil35sbg3w60rz.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
