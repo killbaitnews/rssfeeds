@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>CHINA No parece real: robots e ingeniería futurista</title>
+<description>El vídeo muestra ejemplos de tecnología avanzada en China, incluyendo robots, sistemas de construcción automatizados, y proyectos de ingeniería a gran escala que parecen sacados de una película de cie...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/ed313c81-fb0a-4a2c-b7d1-e8f2eccf24ae</link>
+<guid>https://killbait.com/posts/post/ed313c81-fb0a-4a2c-b7d1-e8f2eccf24ae</guid>
+<pubDate>Sat, 14 Feb 2026 19:34:25 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1771092810/posts/autoimages/m16zcnwihaos1xsx4uag.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Discord prueba sistema de verificación de edad con empresa vinculada a Peter Thiel</title>
 <description>Discord ha anunciado que implementará restricciones globales de verificación de edad a partir de marzo, lo que limitará el contenido y las comunidades para usuarios que no hayan verificado su edad med...</description>
 <category>Tecnología</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/40b353a4-cc19-46c4-b25d-90eb3bdf10a8</guid>
 <pubDate>Sat, 14 Feb 2026 15:39:33 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1771077745/posts/autoimages/zsnwfvz0duyow3grxv7f.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>El auge del alquiler por habitaciones como modelo de negocio ante la crisis de la vivienda</title>
-<description>La noticia analiza el crecimiento del alquiler por habitaciones en España como respuesta a la crisis del mercado de la vivienda y al encarecimiento sostenido de los alquileres tradicionales. A partir ...</description>
-<category>Economía</category>
-<link>https://killbait.com/posts/post/42ce2c75-a49d-49db-8798-d9e72ac3b1e4</link>
-<guid>https://killbait.com/posts/post/42ce2c75-a49d-49db-8798-d9e72ac3b1e4</guid>
-<pubDate>Sat, 14 Feb 2026 15:38:26 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1771071179/posts/autoimages/lhzg1sa8gwlr4aaubiaq.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
