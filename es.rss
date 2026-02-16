@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Waymo recurre a repartidores para cerrar las puertas de sus robotaxis mal cerradas</title>
+<description>Waymo, la empresa de vehículos autónomos propiedad de Alphabet, se ha encontrado con un problema inesperado en el despliegue real de sus robotaxis sin conductor en varias ciudades de Estados Unidos. E...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/f72f9112-d46d-4e8f-addc-216a51e2d232</link>
+<guid>https://killbait.com/posts/post/f72f9112-d46d-4e8f-addc-216a51e2d232</guid>
+<pubDate>Mon, 16 Feb 2026 08:09:29 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1771218593/posts/autoimages/fepfze0zs4ty25jzshkg.webp" type="image/jpeg" />
+</item>
+<item>
 <title>Un mapamundi topológico que muestra el mundo solo a través de sus fronteras</title>
 <description>La noticia presenta un mapa topológico del mundo que prescinde por completo de las proporciones, formas y distancias reales para centrarse únicamente en las relaciones de vecindad entre los Estados. B...</description>
 <category>Ciencia</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/a6ca2067-d1f7-42a8-8ce4-622112a94bd3</guid>
 <pubDate>Sun, 15 Feb 2026 23:15:46 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1771183091/posts/autoimages/h9lxklaly8ryrk4kwcen.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Feijóo enfrenta críticas internas y contradicciones políticas en el PP</title>
-<description>La entrevista de Alberto Núñez Feijóo en El Mundo expone las tensiones internas del Partido Popular y las contradicciones en la estrategia de su líder. Feijóo intenta convertir las elecciones generale...</description>
-<category>Política</category>
-<link>https://killbait.com/posts/post/a345e682-b291-4a9e-a056-284bdc841d48</link>
-<guid>https://killbait.com/posts/post/a345e682-b291-4a9e-a056-284bdc841d48</guid>
-<pubDate>Sun, 15 Feb 2026 23:05:45 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1771178272/posts/autoimages/afw1rxc26vwjeyrnnctl.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
