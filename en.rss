@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>An Analysis of Michael Abrash’s Assembly Optimizations in Quake’s Software Renderer</title>
+<description>The article examines whether Michael Abrash’s hand-written x86 assembly code truly doubled the performance of Quake’s software renderer, as suggested by John Carmack’s original readme after the 1999 s...</description>
+<category>Computing</category>
+<link>https://killbait.com/posts/post/ff59e361-ca05-4cac-b29a-b6920f53234d</link>
+<guid>https://killbait.com/posts/post/ff59e361-ca05-4cac-b29a-b6920f53234d</guid>
+<pubDate>Mon, 16 Feb 2026 20:58:33 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1771234440/posts/iaimages/sbay7rpcjeyidnayez5p.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>‘Wuthering Heights’ achieves strong global box office debut despite mixed reviews</title>
 <description>Emerald Fennell’s reinterpretation of Emily Brontë’s classic novel &apos;Wuthering Heights&apos; has launched to impressive box office success, earning US$76.8 million in its opening weekend, making it the bigg...</description>
 <category>Cinema</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/fb4b4cd3-2c6b-4847-9947-974659677149</guid>
 <pubDate>Mon, 16 Feb 2026 04:12:50 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1771141928/posts/autoimages/hqs24nbykqw4mrzweeyc.png" type="image/jpeg" />
-</item>
-<item>
-<title>Reflections on KillBait’s First Year: AI, Clickbait, and Community Feedback</title>
-<description>KillBait, launched on January 1, 2025, is a news aggregator created by a team of journalism and web development professionals aiming to address clickbait in online media using artificial intelligence....</description>
-<category>Technology</category>
-<link>https://killbait.com/posts/post/31b4e90a-7c88-4df5-ab4d-d5ec604154ab</link>
-<guid>https://killbait.com/posts/post/31b4e90a-7c88-4df5-ab4d-d5ec604154ab</guid>
-<pubDate>Mon, 16 Feb 2026 03:38:38 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1770872565/posts/autoimages/nhwmwvqppmuwn6bo6hgw.png" type="image/jpeg" />
 </item>
 </channel>
 </rss>
