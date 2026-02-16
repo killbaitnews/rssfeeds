@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>EEUU desmantela su marco climático bajo Trump mientras China estabiliza sus emisiones gracias al impulso renovable</title>
+<description>La política climática de Estados Unidos y China avanza en direcciones opuestas. En su segundo mandato, Donald Trump ha revocado la base legal que permitía limitar las emisiones de gases de efecto inve...</description>
+<category>Cambio climático</category>
+<link>https://killbait.com/posts/post/8f59579d-3057-4583-90e1-d5a421818469</link>
+<guid>https://killbait.com/posts/post/8f59579d-3057-4583-90e1-d5a421818469</guid>
+<pubDate>Mon, 16 Feb 2026 16:21:50 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1771252169/posts/autoimages/l1rxroyfgyce38urq2cu.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>El PP se radicaliza y pierde votantes moderados mientras Vox crece</title>
 <description>Entre 2023 y 2026, el Partido Popular liderado por Alberto Núñez Feijóo optó por endurecer su discurso político, acercándose al marco ideológico de Vox con la intención de recuperar votantes que se ha...</description>
 <category>Política</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/08675b42-8f7c-4637-b29d-0a5b93dd6f4b</guid>
 <pubDate>Mon, 16 Feb 2026 13:07:35 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1771233857/posts/autoimages/ffin07v6z4goosxj9ffk.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Análisis de las optimizaciones en ensamblador de Michael Abrash para Quake</title>
-<description>El artículo explora en detalle cómo Michael Abrash, trabajando con el código fuente de Quake publicado en 1999, logró duplicar la velocidad de fotogramas del juego mediante optimizaciones en lenguaje ...</description>
-<category>Videojuegos</category>
-<link>https://killbait.com/posts/post/306b78f6-cc95-4d22-afbf-80b12d6c626e</link>
-<guid>https://killbait.com/posts/post/306b78f6-cc95-4d22-afbf-80b12d6c626e</guid>
-<pubDate>Mon, 16 Feb 2026 12:54:36 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1771231831/posts/iaimages/q0hvqrwtk6t0dmiwrboo.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
