@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Reflections on KillBait’s First Year: AI, Clickbait, and Community Feedback</title>
+<description>KillBait, launched on January 1, 2025, is a news aggregator created by a team of journalism and web development professionals aiming to address clickbait in online media using artificial intelligence....</description>
+<category>Technology</category>
+<link>https://killbait.com/posts/post/31b4e90a-7c88-4df5-ab4d-d5ec604154ab</link>
+<guid>https://killbait.com/posts/post/31b4e90a-7c88-4df5-ab4d-d5ec604154ab</guid>
+<pubDate>Mon, 16 Feb 2026 03:38:38 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1770872565/posts/autoimages/nhwmwvqppmuwn6bo6hgw.png" type="image/jpeg" />
+</item>
+<item>
 <title>European Commission Targets Addictive Social Media Design Under Digital Services Act</title>
 <description>The European Commission has taken a significant step in its enforcement of the Digital Services Act (DSA) by targeting what it considers addictive design features on social media platforms, starting w...</description>
 <category>Technology</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/4cf588e9-3b97-4ac4-91f7-9e5d2838e02a</guid>
 <pubDate>Sun, 15 Feb 2026 02:24:39 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1771084164/posts/autoimages/f159n447yncjii5ocy1s.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Systemic Abuses and Human Rights Violations in U.S. ICE Detention Centers</title>
-<description>The article exposes systemic human rights abuses across multiple ICE detention centers in the United States, highlighting inhumane conditions, medical neglect, and torture-like treatment. Facilities s...</description>
-<category>Justice</category>
-<link>https://killbait.com/posts/post/cf541871-1822-495d-96a6-e582c0f1850a</link>
-<guid>https://killbait.com/posts/post/cf541871-1822-495d-96a6-e582c0f1850a</guid>
-<pubDate>Sun, 15 Feb 2026 00:57:31 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1771065304/posts/autoimages/gpbuvggleuewhzhtczdv.png" type="image/jpeg" />
 </item>
 </channel>
 </rss>
