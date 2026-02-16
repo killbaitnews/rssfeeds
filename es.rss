@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Análisis de las optimizaciones en ensamblador de Michael Abrash para Quake</title>
+<description>El artículo explora en detalle cómo Michael Abrash, trabajando con el código fuente de Quake publicado en 1999, logró duplicar la velocidad de fotogramas del juego mediante optimizaciones en lenguaje ...</description>
+<category>Videojuegos</category>
+<link>https://killbait.com/posts/post/306b78f6-cc95-4d22-afbf-80b12d6c626e</link>
+<guid>https://killbait.com/posts/post/306b78f6-cc95-4d22-afbf-80b12d6c626e</guid>
+<pubDate>Mon, 16 Feb 2026 12:54:36 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1771231831/posts/iaimages/q0hvqrwtk6t0dmiwrboo.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Una crítica al uso político y simbólico de las medallas por parte de Ayuso y su acercamiento al trumpismo</title>
 <description>La columna firmada por Antonio Lucas es una crítica mordaz y claramente opinativa sobre la decisión de Isabel Díaz Ayuso de conceder una medalla honorífica a Donald Trump, a quien el autor se refiere ...</description>
 <category>Opinión</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/fab09b55-5993-4967-9d1e-1081e67e1be5</guid>
 <pubDate>Mon, 16 Feb 2026 08:39:29 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1771224715/posts/autoimages/ucrmljn2doy0dpluh5fu.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>La operación Bolero-Paprika: represión del PCE en Francia durante los inicios de la Guerra Fría</title>
-<description>La llamada operación Bolero-Paprika fue una amplia redada policial emprendida por las autoridades francesas en septiembre de 1950 contra militantes comunistas extranjeros, especialmente del Partido Co...</description>
-<category>Historia</category>
-<link>https://killbait.com/posts/post/a4c9c07d-e2c2-4a22-bfed-9eb5638924f7</link>
-<guid>https://killbait.com/posts/post/a4c9c07d-e2c2-4a22-bfed-9eb5638924f7</guid>
-<pubDate>Mon, 16 Feb 2026 08:37:31 +0100</pubDate>
-<enclosure url="https://cdn.killbait.com/static/posts/autoimages/73e64355-a7fa-41eb-bae0-fa5eb3e16ecc.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
