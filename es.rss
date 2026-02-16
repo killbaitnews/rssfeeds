@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Impacto político internacional tras la publicación de los archivos de Epstein</title>
+<description>La reciente publicación de los documentos del caso Epstein, incluyendo millones de páginas, fotos y vídeos, ha generado un terremoto político internacional. Aunque la mayoría de los implicados son est...</description>
+<category>Política</category>
+<link>https://killbait.com/posts/post/08675b42-8f7c-4637-b29d-0a5b93dd6f4b</link>
+<guid>https://killbait.com/posts/post/08675b42-8f7c-4637-b29d-0a5b93dd6f4b</guid>
+<pubDate>Mon, 16 Feb 2026 13:07:35 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1771233857/posts/autoimages/ffin07v6z4goosxj9ffk.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Análisis de las optimizaciones en ensamblador de Michael Abrash para Quake</title>
 <description>El artículo explora en detalle cómo Michael Abrash, trabajando con el código fuente de Quake publicado en 1999, logró duplicar la velocidad de fotogramas del juego mediante optimizaciones en lenguaje ...</description>
 <category>Videojuegos</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/0ce1e31c-5195-446f-897c-0994fdcb74b9</guid>
 <pubDate>Mon, 16 Feb 2026 08:44:43 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1771214610/posts/autoimages/d992ig14gzhovzigyqqh.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Detenido en Ibiza un hombre con orden de alejamiento tras agredir gravemente a su expareja y a dos familiares</title>
-<description>Un hombre con una orden de alejamiento en vigor ha sido detenido en Sant Antoni de Portmany, en Ibiza, tras una grave agresión ocurrida en el domicilio familiar de su expareja. Los hechos tuvieron lug...</description>
-<category>Sucesos</category>
-<link>https://killbait.com/posts/post/fab09b55-5993-4967-9d1e-1081e67e1be5</link>
-<guid>https://killbait.com/posts/post/fab09b55-5993-4967-9d1e-1081e67e1be5</guid>
-<pubDate>Mon, 16 Feb 2026 08:39:29 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1771224715/posts/autoimages/ucrmljn2doy0dpluh5fu.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
