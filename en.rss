@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Honest Review of Kimpton RiverPlace Hotel in Portland</title>
+<description>Tim Steinke shares his experience staying at the Kimpton RiverPlace in Portland, Oregon, using Fine Hotels + Resorts (FHR) credits from his American Express Platinum® cards. While the hotel&apos;s location...</description>
+<category>Travel</category>
+<link>https://killbait.com/posts/post/cda0df29-3796-4942-b93d-2fce68f79650</link>
+<guid>https://killbait.com/posts/post/cda0df29-3796-4942-b93d-2fce68f79650</guid>
+<pubDate>Tue, 17 Feb 2026 13:51:13 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1771033064/posts/autoimages/d5cam46sn7s1av9gu4c5.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Songwriters Hall of Fame Inductee Billy Steinberg Dies at 74 After Cancer Battle</title>
 <description>Billy Steinberg, the acclaimed American songwriter whose lyrics helped define pop music in the 1980s and 1990s, has died at the age of 74. According to his attorney, Laurie Soriano, Steinberg passed a...</description>
 <category>Music</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/1da458d8-ac29-46f0-94fe-24b7947bef2a</guid>
 <pubDate>Mon, 16 Feb 2026 21:03:50 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1771250664/posts/autoimages/mywrybrypyjjldxabfnk.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>An Analysis of Michael Abrash’s Assembly Optimizations in Quake’s Software Renderer</title>
-<description>The article examines whether Michael Abrash’s hand-written x86 assembly code truly doubled the performance of Quake’s software renderer, as suggested by John Carmack’s original readme after the 1999 s...</description>
-<category>Computing</category>
-<link>https://killbait.com/posts/post/ff59e361-ca05-4cac-b29a-b6920f53234d</link>
-<guid>https://killbait.com/posts/post/ff59e361-ca05-4cac-b29a-b6920f53234d</guid>
-<pubDate>Mon, 16 Feb 2026 20:58:33 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1771234440/posts/iaimages/sbay7rpcjeyidnayez5p.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
