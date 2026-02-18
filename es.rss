@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Cómo OpenAI escaló PostgreSQL para manejar millones de consultas por segundo</title>
+<description>OpenAI ha tenido que escalar su infraestructura de bases de datos PostgreSQL para soportar la creciente demanda de sus productos, como ChatGPT y la API de OpenAI. Durante el último año, el tráfico sob...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/9a42f1ae-efe4-47e1-9340-3656fcbc8648</link>
+<guid>https://killbait.com/posts/post/9a42f1ae-efe4-47e1-9340-3656fcbc8648</guid>
+<pubDate>Wed, 18 Feb 2026 22:22:30 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1771434949/posts/autoimages/ux1yoxxce0xr42pukmjd.png" type="image/jpeg" />
+</item>
+<item>
 <title>Un fallo técnico causa retrasos masivos en la regularización de inmigrantes debido al sistema de filtrado de antecedentes inoperativo</title>
 <description>Desde el 10 de diciembre de 2025, un fallo técnico ha dejado inoperativo el sistema automatizado de filtrado de antecedentes de Extranjería, lo que ha provocado una acumulación masiva de expedientes e...</description>
 <category>Justicia</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/89a8608d-23fb-4086-8a10-f247bcd27c4d</guid>
 <pubDate>Wed, 18 Feb 2026 17:42:43 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1771420249/posts/autoimages/ergduqhpsau7j4xng0ii.avif" type="image/jpeg" />
-</item>
-<item>
-<title>Marlaska se niega a dimitir tras la denuncia por agresión sexual contra el número dos de la Policía</title>
-<description>El ministro del Interior, Fernando Grande-Marlaska, ha rechazado las peticiones de dimisión tras la denuncia de agresión sexual presentada por una agente contra el director adjunto operativo (DAO) de ...</description>
-<category>Política</category>
-<link>https://killbait.com/posts/post/c684ebc2-b07d-4c70-824c-060403317968</link>
-<guid>https://killbait.com/posts/post/c684ebc2-b07d-4c70-824c-060403317968</guid>
-<pubDate>Wed, 18 Feb 2026 17:32:43 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1771418786/posts/autoimages/etbfg7kliam2m1vpzemc.webp" type="image/jpeg" />
 </item>
 </channel>
 </rss>
