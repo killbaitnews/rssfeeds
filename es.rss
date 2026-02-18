@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Heart, las pioneras del rock de Seattle que rompieron barreras de género antes que Nirvana</title>
+<description>Heart, el icónico grupo de Seattle, lleva más de 50 años en la música y es conocido por su influencia en el rock y por ser una de las primeras bandas lideradas por mujeres. Formadas en 1973 por las he...</description>
+<category>Música</category>
+<link>https://killbait.com/posts/post/ff203972-87db-443e-96a2-2e01b9053cef</link>
+<guid>https://killbait.com/posts/post/ff203972-87db-443e-96a2-2e01b9053cef</guid>
+<pubDate>Wed, 18 Feb 2026 22:45:27 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1771432926/posts/autoimages/olcskriasph6ihiwv6uf.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Cómo OpenAI escaló PostgreSQL para manejar millones de consultas por segundo</title>
 <description>OpenAI ha tenido que escalar su infraestructura de bases de datos PostgreSQL para soportar la creciente demanda de sus productos, como ChatGPT y la API de OpenAI. Durante el último año, el tráfico sob...</description>
 <category>Tecnología</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/30a37ed8-2bb2-412f-92db-bc61c713d402</guid>
 <pubDate>Wed, 18 Feb 2026 17:57:27 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1771427665/posts/autoimages/uewzpwjntzxvbbrjqejt.png" type="image/jpeg" />
-</item>
-<item>
-<title>El precio de la vivienda en Madrid se incrementa un 80% en cinco años ante la inacción del Gobierno regional</title>
-<description>En los últimos cinco años, el precio de la vivienda en Madrid ha aumentado un 80%, convirtiendo a la región en una de las más afectadas por la especulación inmobiliaria. Este aumento ha generado una g...</description>
-<category>Economía</category>
-<link>https://killbait.com/posts/post/89a8608d-23fb-4086-8a10-f247bcd27c4d</link>
-<guid>https://killbait.com/posts/post/89a8608d-23fb-4086-8a10-f247bcd27c4d</guid>
-<pubDate>Wed, 18 Feb 2026 17:42:43 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1771420249/posts/autoimages/ergduqhpsau7j4xng0ii.avif" type="image/jpeg" />
 </item>
 </channel>
 </rss>
