@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Problemas de conectividad causados por el bloqueo de LaLiga a globalsign.com</title>
+<description>Recientemente, se ha reportado que LaLiga está bloqueando el dominio globalsign.com, lo que está provocando fallos intermitentes en la verificación de certificados HTTPS en algunos sitios web. Este pr...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/28bc82ef-0114-44f4-bbed-63bbea6f5119</link>
+<guid>https://killbait.com/posts/post/28bc82ef-0114-44f4-bbed-63bbea6f5119</guid>
+<pubDate>Wed, 18 Feb 2026 13:56:26 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1771411771/posts/autoimages/hw7y2kxpom70ggnbewr9.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>China rechaza que la automatización por IA sea causa justificada de despido</title>
 <description>La inteligencia artificial está transformando el mercado laboral global, provocando la eliminación de empleos tradicionales y la creación de nuevos puestos. Sin embargo, en China, las autoridades han ...</description>
 <category>Tecnología</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/facd7047-a26d-4273-ae9c-f48a3c7fb381</guid>
 <pubDate>Wed, 18 Feb 2026 10:26:37 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1771398620/posts/autoimages/nmdpczseoyl7cycoc2cn.webp" type="image/jpeg" />
-</item>
-<item>
-<title>Fallece un trabajador de 40 años tras una caída durante tareas de mantenimiento de placas solares en Alicante</title>
-<description>Un trabajador de 40 años ha fallecido este lunes tras sufrir una caída desde una altura aproximada de ocho metros mientras realizaba labores de mantenimiento en una instalación de placas fotovoltaicas...</description>
-<category>Sucesos</category>
-<link>https://killbait.com/posts/post/d3b07f65-c57c-428e-ba51-806dac87c79e</link>
-<guid>https://killbait.com/posts/post/d3b07f65-c57c-428e-ba51-806dac87c79e</guid>
-<pubDate>Wed, 18 Feb 2026 10:22:51 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1771388531/posts/autoimages/ivbeiewkj5sfjs48vufl.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
