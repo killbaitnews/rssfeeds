@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Why Replacing Compilers with AI Binary Generation Is Technically Flawed</title>
+<description>The article critiques Elon Musk&apos;s claim that AI will eliminate programming languages by generating binaries directly, bypassing source code. Drawing a historical parallel with Grace Hopper, who create...</description>
+<category>Technology</category>
+<link>https://killbait.com/posts/post/8978ac70-4d24-453c-8dd4-e01ced9ce631</link>
+<guid>https://killbait.com/posts/post/8978ac70-4d24-453c-8dd4-e01ced9ce631</guid>
+<pubDate>Thu, 19 Feb 2026 12:22:57 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1771314661/posts/autoimages/grb9zbymxqu3zq4a5ebd.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Russia Warns of Possible Naval Response Over European Actions Against Its Oil Tankers</title>
 <description>Russia has issued a warning to several European countries over what it describes as acts of “piracy” targeting vessels linked to its economic interests, particularly oil tankers operating along mariti...</description>
 <category>Geopolitics</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/a3ad1114-dc7d-404d-9bca-82b679b53a8a</guid>
 <pubDate>Wed, 18 Feb 2026 10:22:42 +0100</pubDate>
 <enclosure url="https://cdn.killbait.com/static/posts/autoimages/ea8fbbf2-0f85-4314-ac2e-dd0e3c58382a.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>European F-35 Operators Face Dependence on U.S. Software Control</title>
-<description>According to an interview with Dutch Defense Minister Gijs Tuinman on BNR Nieuwsradio, European countries that have purchased F-35 fighter jets from the United States face a significant technological ...</description>
-<category>Technology</category>
-<link>https://killbait.com/posts/post/86e5bbac-bb30-4ded-af2f-de64c3e59bb9</link>
-<guid>https://killbait.com/posts/post/86e5bbac-bb30-4ded-af2f-de64c3e59bb9</guid>
-<pubDate>Wed, 18 Feb 2026 09:50:03 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1771396020/posts/autoimages/agonelsujkrimuf3h0gz.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
