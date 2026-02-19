@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Embracing Slow Travel: How to Make Your Trips More Meaningful</title>
+<description>Traditional travel often emphasizes rushing through destinations, ticking off famous landmarks, and documenting every moment for social media. This approach can leave travelers feeling exhausted and d...</description>
+<category>Travel</category>
+<link>https://killbait.com/posts/post/3ab5d208-92c5-4e8c-96c4-4430601ab810</link>
+<guid>https://killbait.com/posts/post/3ab5d208-92c5-4e8c-96c4-4430601ab810</guid>
+<pubDate>Thu, 19 Feb 2026 12:27:15 +0100</pubDate>
+<enclosure url="https://cdn.killbait.com/static/posts/autoimages/3c850af1-23ce-45f7-a430-271f139aac6e.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Why Replacing Compilers with AI Binary Generation Is Technically Flawed</title>
 <description>The article critiques Elon Musk&apos;s claim that AI will eliminate programming languages by generating binaries directly, bypassing source code. Drawing a historical parallel with Grace Hopper, who create...</description>
 <category>Technology</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/526a818f-c621-4189-aec7-57172c272a4e</guid>
 <pubDate>Wed, 18 Feb 2026 14:56:52 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1771319996/posts/autoimages/w6znzwifvqgwx4xebwo6.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>How to Choose Small Standing Desks for Efficient Home Workspaces</title>
-<description>As remote work becomes more common, the need for efficient and ergonomic home office solutions has grown, especially in small apartments and multifunctional spaces. Compact standing desks offer a vers...</description>
-<category>Technology</category>
-<link>https://killbait.com/posts/post/a3ad1114-dc7d-404d-9bca-82b679b53a8a</link>
-<guid>https://killbait.com/posts/post/a3ad1114-dc7d-404d-9bca-82b679b53a8a</guid>
-<pubDate>Wed, 18 Feb 2026 10:22:42 +0100</pubDate>
-<enclosure url="https://cdn.killbait.com/static/posts/autoimages/ea8fbbf2-0f85-4314-ac2e-dd0e3c58382a.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
