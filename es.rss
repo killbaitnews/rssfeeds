@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Fallece un hombre de 47 años en Palma tras recibir una descarga de pistola Taser durante una intervención policial en su domicilio</title>
+<description>En la madrugada del 19 de febrero de 2026, sobre las 04:15 horas, un hombre de 47 años falleció en Palma de Mallorca después de que agentes de la Policía Nacional utilizaran una pistola Taser para red...</description>
+<category>Sucesos</category>
+<link>https://killbait.com/posts/post/7d7a1243-99e7-4f42-a2ec-b03adfb368ac</link>
+<guid>https://killbait.com/posts/post/7d7a1243-99e7-4f42-a2ec-b03adfb368ac</guid>
+<pubDate>Thu, 19 Feb 2026 16:56:53 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1771512374/posts/autoimages/pvpy0opsuciu42yrl19z.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Herramientas gratuitas para identificar contenido creado con inteligencia artificial</title>
 <description>Con el aumento del uso de la inteligencia artificial, distinguir entre contenido humano y generado artificialmente se ha vuelto cada vez más complicado. Noticias falsas, estafas y manipulación de iden...</description>
 <category>Tecnología</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/0b3f1120-dcb0-43dd-a3c1-2f7cd3eb2635</guid>
 <pubDate>Thu, 19 Feb 2026 14:22:53 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1771503022/posts/autoimages/half81nk7mffravgtla0.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>LaLiga intensifica bloqueos contra piratería futbolística afectando a servicios legítimos como Cloudflare y VPN populares</title>
-<description>LaLiga ha escalado su lucha contra las retransmisiones ilegales de partidos de fútbol, pasando de bloquear webs específicas de IPTV pirata a implementar bloqueos dinámicos de direcciones IP y rangos d...</description>
-<category>Tecnología</category>
-<link>https://killbait.com/posts/post/a67d4c28-5f72-41a8-8baf-2a231dfe496d</link>
-<guid>https://killbait.com/posts/post/a67d4c28-5f72-41a8-8baf-2a231dfe496d</guid>
-<pubDate>Thu, 19 Feb 2026 14:13:54 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1771499569/posts/autoimages/sdtgojsb93vwumldghlm.png" type="image/jpeg" />
 </item>
 </channel>
 </rss>
