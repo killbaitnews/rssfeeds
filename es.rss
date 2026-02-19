@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Israel eleva la alerta militar ante indicios de posible ataque conjunto con EEUU contra Irán por estancamiento nuclear</title>
+<description>Según fuentes israelíes consultadas por CNN, Israel ha elevado su nivel de alerta y está intensificando los preparativos militares debido a indicios crecientes de una posible operación militar conjunt...</description>
+<category>Geopolítica</category>
+<link>https://killbait.com/posts/post/82e9ee9e-6db5-4cee-8e22-1db0c65c0476</link>
+<guid>https://killbait.com/posts/post/82e9ee9e-6db5-4cee-8e22-1db0c65c0476</guid>
+<pubDate>Thu, 19 Feb 2026 05:00:29 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1771455508/posts/autoimages/ijlzoulcjvoi2wiktovv.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Trump se prepara para algo grande... Este mapa lo demuestra.</title>
 <description>El vídeo probablemente presenta un análisis de un mapa (no especificado) para inferir posibles movimientos políticos o estrategias de Donald Trump. Es muy probable que se interpreten datos del mapa pa...</description>
 <category>Política</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/ff203972-87db-443e-96a2-2e01b9053cef</guid>
 <pubDate>Wed, 18 Feb 2026 22:45:27 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1771432926/posts/autoimages/olcskriasph6ihiwv6uf.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Cómo OpenAI escaló PostgreSQL para manejar millones de consultas por segundo</title>
-<description>OpenAI ha tenido que escalar su infraestructura de bases de datos PostgreSQL para soportar la creciente demanda de sus productos, como ChatGPT y la API de OpenAI. Durante el último año, el tráfico sob...</description>
-<category>Tecnología</category>
-<link>https://killbait.com/posts/post/9a42f1ae-efe4-47e1-9340-3656fcbc8648</link>
-<guid>https://killbait.com/posts/post/9a42f1ae-efe4-47e1-9340-3656fcbc8648</guid>
-<pubDate>Wed, 18 Feb 2026 22:22:30 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1771434949/posts/autoimages/ux1yoxxce0xr42pukmjd.png" type="image/jpeg" />
 </item>
 </channel>
 </rss>
