@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Cómo configurar pfSense para enrutar selectivamente tráfico a Cloudflare mediante VPN y evadir bloqueos de LaLiga</title>
+<description>Desde hace más de un año, durante los partidos de fútbol de LaLiga, numerosos sitios web y servicios alojados detrás de Cloudflare sufren bloqueos en España por orden judicial, como medida contra la p...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/b82a3be7-cf5f-4e04-9b47-dc3628235e47</link>
+<guid>https://killbait.com/posts/post/b82a3be7-cf5f-4e04-9b47-dc3628235e47</guid>
+<pubDate>Fri, 20 Feb 2026 18:08:41 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1771494859/posts/autoimages/oo2j6huwqw6xf6zcjf32.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>La falta de conexión eléctrica aboca al archivo la planta de fibras de Altri en Palas de Rei</title>
 <description>La Xunta de Galicia ha iniciado el procedimiento para archivar el proyecto Gama, promovido por la compañía portuguesa Altri a través de su filial Greenfiber, que pretendía construir una planta de fibr...</description>
 <category>Economía</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/6b63759c-d12b-45ff-a1b2-82b58914e7e3</guid>
 <pubDate>Fri, 20 Feb 2026 15:05:45 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1771585058/posts/autoimages/nodn4jamvt4xolmktujo.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Menor con antecedentes agrede a una mujer en estación de metro de Barcelona durante un robo</title>
-<description>El pasado 6 de febrero, sobre las 10:40 de la mañana, una mujer de 31 años fue víctima de un robo violento en una estación de metro de Montcada i Reixac, Barcelona. Un menor de 17 años, con un histori...</description>
-<category>Sucesos</category>
-<link>https://killbait.com/posts/post/2cbe4979-4abc-4ab7-adde-1294374df7a5</link>
-<guid>https://killbait.com/posts/post/2cbe4979-4abc-4ab7-adde-1294374df7a5</guid>
-<pubDate>Fri, 20 Feb 2026 14:54:32 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1771591683/posts/autoimages/hhz35d78dq9bc2qtaz2w.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
