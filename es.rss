@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Un menor de 16 años fallece tras una agresión con arma blanca a la salida de un colegio en Valladolid</title>
+<description>Un joven de 16 años ha fallecido este viernes en Valladolid tras ser apuñalado en plena vía pública por otros menores de edad. Los hechos ocurrieron alrededor de las 14:35 horas en la calle Democracia...</description>
+<category>Sucesos</category>
+<link>https://killbait.com/posts/post/0af7a945-84e2-4290-8873-7176a82e0943</link>
+<guid>https://killbait.com/posts/post/0af7a945-84e2-4290-8873-7176a82e0943</guid>
+<pubDate>Fri, 20 Feb 2026 20:34:48 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1771605790/posts/autoimages/amvvzxe6k27dj1ylmwc5.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>La integración de Malwarebytes en ChatGPT permite analizar llamadas, correos y enlaces sospechosos</title>
 <description>ChatGPT ha ampliado sus funciones gracias a la integración con aplicaciones externas, entre ellas Malwarebytes, una empresa especializada en ciberseguridad. Esta colaboración permite a los usuarios an...</description>
 <category>Tecnología</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/89bb3dd9-7a03-4724-bb3f-714f423b2e57</guid>
 <pubDate>Fri, 20 Feb 2026 16:52:49 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1771599123/posts/autoimages/dnho3orr5ottjvkyi2tc.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>La Sagrada Familia coloca el último tramo de la torre de Jesús y alcanza su altura máxima</title>
-<description>La Sagrada Familia de Barcelona ha alcanzado un hito histórico con la colocación de la última pieza de su torre más alta, la torre de Jesús. Este viernes, a primera hora de la mañana, la gran grúa dep...</description>
-<category>Cultura</category>
-<link>https://killbait.com/posts/post/880be0bd-17b7-4264-80b0-06a10e6a8d8c</link>
-<guid>https://killbait.com/posts/post/880be0bd-17b7-4264-80b0-06a10e6a8d8c</guid>
-<pubDate>Fri, 20 Feb 2026 16:43:48 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1771596788/posts/autoimages/hhwqbe3bsb43dhl39jrf.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
