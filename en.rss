@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Building a Startup Entirely on European Infrastructure: Challenges, Trade-offs and Lessons Learned</title>
+<description>In this article, the author recounts his experience building a startup entirely on European infrastructure rather than relying on dominant American hyperscalers such as AWS. Motivated by concerns abou...</description>
+<category>Technology</category>
+<link>https://killbait.com/posts/post/a8abe9ee-bffd-4fbd-b1f7-c9757a8ad4c3</link>
+<guid>https://killbait.com/posts/post/a8abe9ee-bffd-4fbd-b1f7-c9757a8ad4c3</guid>
+<pubDate>Sat, 21 Feb 2026 04:57:32 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1771629798/posts/autoimages/ucwg7qugufkbvtqwwlqe.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Hayden Clay Creates Geometric Cloud Forms and Dreamlike Neighborhoods in Pastel Digital Art</title>
 <description>Artist Hayden Clay reimagines everyday elements like clouds in unexpected geometric shapes, departing from traditional fluffy, organic forms to present soft, floaty versions structured as perfect cube...</description>
 <category>Culture</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/8d371573-282d-44fe-8267-dda6eac74359</guid>
 <pubDate>Fri, 20 Feb 2026 06:36:45 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1771522206/posts/autoimages/bopw3xy2quv84i2atijz.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>U.S. Information Operations Targeting Iran Amid Political Tensions</title>
-<description>The article discusses the U.S. military and intelligence strategy aimed at influencing public opinion in Iran as part of a broader effort to encourage regime change. This operation, called Operational...</description>
-<category>Geopolitics</category>
-<link>https://killbait.com/posts/post/1502bf32-e8cf-4f2a-99c2-0f865b51ccdc</link>
-<guid>https://killbait.com/posts/post/1502bf32-e8cf-4f2a-99c2-0f865b51ccdc</guid>
-<pubDate>Fri, 20 Feb 2026 06:26:43 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1771485861/posts/autoimages/lzjfnt9cyplmk80c6m1b.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
