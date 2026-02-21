@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Linux 7.0 mejora de forma notable la gestión de memoria y el rendimiento del kernel</title>
+<description>El futuro kernel Linux 7.0 introduce mejoras técnicas relevantes centradas en la gestión de la memoria RAM, que ya han mostrado resultados muy positivos en pruebas preliminares. Nuevos parches permite...</description>
+<category>Informática</category>
+<link>https://killbait.com/posts/post/10b0c8bd-bfc4-4999-b071-9c4e2e2fee05</link>
+<guid>https://killbait.com/posts/post/10b0c8bd-bfc4-4999-b071-9c4e2e2fee05</guid>
+<pubDate>Sat, 21 Feb 2026 08:52:36 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1771645925/posts/autoimages/q1wrthr7jst7kydp32fv.webp" type="image/jpeg" />
+</item>
+<item>
 <title>La historia de dependencia y crisis económica en Cuba: de Batista a la era actual</title>
 <description>El artículo repasa la historia económica y política de Cuba desde el siglo XX hasta la actualidad, presentándola como una sucesión de dependencias externas. Durante la era de Batista, la isla estuvo d...</description>
 <category>Historia</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/921e5927-2a74-4cb1-96dd-0e0c8da0087e</guid>
 <pubDate>Sat, 21 Feb 2026 00:42:33 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1771625254/posts/autoimages/x2fxdnjuw28twdpdecrf.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>El chófer confirma que Mazón regresó a su domicilio mientras el Cecopi seguía reunido durante la dana</title>
-<description>El expresident de la Generalitat Valenciana, Carlos Mazón, regresó a su domicilio antes de la una de la madrugada del 30 de octubre de 2024, la noche en que una dana asoló la provincia de Valencia y d...</description>
-<category>Política</category>
-<link>https://killbait.com/posts/post/c130c3d5-84e0-473e-a9ff-7178d8cb8975</link>
-<guid>https://killbait.com/posts/post/c130c3d5-84e0-473e-a9ff-7178d8cb8975</guid>
-<pubDate>Sat, 21 Feb 2026 00:20:55 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1771616300/posts/autoimages/xtbqlrlvixptoawlwoqj.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
