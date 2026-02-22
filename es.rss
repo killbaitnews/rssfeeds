@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Linux ofrece mayor rendimiento que Windows 11 en los nuevos procesadores Intel Panther Lake según pruebas técnicas</title>
+<description>Diversas pruebas de rendimiento realizadas sobre los nuevos procesadores Intel Panther Lake (Core Ultra 200V) muestran que Linux logra un aprovechamiento superior del hardware frente a Windows 11. Los...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/40cfc5c5-ac16-4b4e-a203-6157320b029b</link>
+<guid>https://killbait.com/posts/post/40cfc5c5-ac16-4b4e-a203-6157320b029b</guid>
+<pubDate>Sun, 22 Feb 2026 23:20:23 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1771795768/posts/autoimages/vpep8udkr0l89o6rbngu.webp" type="image/jpeg" />
+</item>
+<item>
 <title>El aumento de la generación hidráulica y renovable reduce el precio mayorista de la electricidad en España</title>
 <description>Las intensas lluvias registradas entre enero y febrero han incrementado de forma notable las reservas de agua en los embalses españoles, impulsando la producción hidroeléctrica y reduciendo el precio ...</description>
 <category>Economía</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/e102ec2b-f495-4a1a-b9d0-94d2ea47a1d3</guid>
 <pubDate>Sun, 22 Feb 2026 21:25:22 +0100</pubDate>
 <enclosure url="https://cdn.killbait.com/static/channels/autoimages/02b22068-cca8-48b1-977e-31c4092cd682.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>El precio de la vivienda en España se dispara, dificultando la independencia de los jóvenes</title>
-<description>La situación del mercado inmobiliario en España se ha vuelto insostenible para muchos jóvenes, que cada vez ven más lejana la posibilidad de independizarse debido al aumento desmesurado de los precios...</description>
-<category>Economía</category>
-<link>https://killbait.com/posts/post/3acf86c4-955d-4f17-acaa-dddc4d1b67f0</link>
-<guid>https://killbait.com/posts/post/3acf86c4-955d-4f17-acaa-dddc4d1b67f0</guid>
-<pubDate>Sun, 22 Feb 2026 21:20:02 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1771783410/posts/autoimages/ocgmiownx65ckcpumjl4.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
