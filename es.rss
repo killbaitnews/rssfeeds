@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Google parchea CVE-2026-2441, primera vulnerabilidad zero-day de Chrome en 2026 explotada activamente en CSS</title>
+<description>Google ha lanzado una actualización de emergencia para Chrome ante la vulnerabilidad CVE-2026-2441, un fallo de tipo Use-After-Free (UAF) de alta gravedad (CVSS 8.8) en el motor de renderizado Blink, ...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/538e5ded-3145-4f4e-9f35-0c1656ac0510</link>
+<guid>https://killbait.com/posts/post/538e5ded-3145-4f4e-9f35-0c1656ac0510</guid>
+<pubDate>Mon, 23 Feb 2026 02:27:22 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1771796316/posts/autoimages/kywlqnsy4wrmpzhefjog.png" type="image/jpeg" />
+</item>
+<item>
 <title>Los inversores adquieren cerca de 200 edificios completos al año en Barcelona para especular con la vivienda</title>
 <description>En Barcelona, la compra de fincas enteras (edificios donde un único propietario posee todos los pisos) se ha convertido en una práctica cada vez más habitual entre inversores. Según datos del Ayuntami...</description>
 <category>Sociedad</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/69548a02-cbbb-4935-8f96-bedb1754e4bd</guid>
 <pubDate>Sun, 22 Feb 2026 23:01:22 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1771791304/posts/autoimages/kohs4rmb7cv8efim6ayi.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Robots chinos salen a la calle: ¿Cambiará todo?</title>
-<description>El vídeo muestra imágenes de robots humanoides fabricados en China operando en entornos urbanos. Se observa su uso para tareas de vigilancia, seguridad y posiblemente otras funciones en la vía pública...</description>
-<category>Tecnología</category>
-<link>https://killbait.com/posts/post/c251b13b-a460-4ce7-baa2-1925f2c39090</link>
-<guid>https://killbait.com/posts/post/c251b13b-a460-4ce7-baa2-1925f2c39090</guid>
-<pubDate>Sun, 22 Feb 2026 22:53:23 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1771793705/posts/autoimages/pqlbf6msgxcmn0k7hgjz.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
