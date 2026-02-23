@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Exposición masiva de mil millones de datos personales por fallo de configuración en base de datos de IDMerit</title>
+<description>Investigadores de ciberseguridad descubrieron una base de datos sin protección ni autenticación que contenía información altamente sensible de aproximadamente mil millones de personas de al menos 26 p...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/77845fe0-2c2d-477c-b862-3207a150c9bb</link>
+<guid>https://killbait.com/posts/post/77845fe0-2c2d-477c-b862-3207a150c9bb</guid>
+<pubDate>Mon, 23 Feb 2026 06:21:34 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1771802445/posts/autoimages/fbmmy8qtgtfuy84pkaz2.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>La fragmentación de la izquierda española vista a través de la sátira de &apos;La vida de Brian&apos;</title>
 <description>El artículo de Cadena SER, publicado el 12 de febrero de 2026, utiliza la famosa escena de la película &apos;La vida de Brian&apos; de los Monty Python para ilustrar la actual división en la izquierda española....</description>
 <category>Política</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/22efc7ab-5844-464a-b154-d303d58432f2</guid>
 <pubDate>Sun, 22 Feb 2026 23:14:04 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1771793082/posts/autoimages/urub06xpraixe5ar5eb4.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Un macaco japonés abandonado logra integrarse en su grupo tras un largo proceso de adaptación</title>
-<description>La noticia relata la historia de Punch, un macaco japonés nacido en julio de 2025 en un zoológico de la ciudad de Ichikawa, que fue abandonado por su madre poco después de nacer. La causa, según los c...</description>
-<category>Sociedad</category>
-<link>https://killbait.com/posts/post/bac848ca-e6f8-48bb-b7ab-2ef07efce0e4</link>
-<guid>https://killbait.com/posts/post/bac848ca-e6f8-48bb-b7ab-2ef07efce0e4</guid>
-<pubDate>Sun, 22 Feb 2026 23:13:03 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1771793358/posts/autoimages/qjymfwj4vxkhwrysr14u.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
