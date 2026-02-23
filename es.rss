@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Violencia en Puerto Vallarta: presunta fuga de reos en el penal de Ixtapa y tiroteos tras muerte de &apos;El Mencho&apos;</title>
+<description>Este domingo 22 de febrero de 2026, Puerto Vallarta, en Jalisco, vivió una jornada de alta tensión por diversos incidentes violentos. Se reportaron múltiples tiroteos en diferentes puntos de la ciudad...</description>
+<category>Sucesos</category>
+<link>https://killbait.com/posts/post/59fbc108-02b5-456a-aa42-9a4d078721d9</link>
+<guid>https://killbait.com/posts/post/59fbc108-02b5-456a-aa42-9a4d078721d9</guid>
+<pubDate>Mon, 23 Feb 2026 03:11:47 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1771799114/posts/autoimages/r0vd2l6zzp5erknged6j.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Google parchea CVE-2026-2441, primera vulnerabilidad zero-day de Chrome en 2026 explotada activamente en CSS</title>
 <description>Google ha lanzado una actualización de emergencia para Chrome ante la vulnerabilidad CVE-2026-2441, un fallo de tipo Use-After-Free (UAF) de alta gravedad (CVSS 8.8) en el motor de renderizado Blink, ...</description>
 <category>Tecnología</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/ad2510a9-b148-4a0d-8a2c-8266b6d58c39</guid>
 <pubDate>Sun, 22 Feb 2026 23:04:03 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1771790914/posts/autoimages/n4bmlyazvjqoduvozx16.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Un hombre sin hogar, hospitalizado en estado crítico tras una agresión en Girona</title>
-<description>Un hombre sin hogar de unos 60 años se encuentra en estado crítico tras sufrir una agresión violenta en el barrio de Can Gibert del Pla, en Girona. Los hechos ocurrieron alrededor de las ocho de la ma...</description>
-<category>Sucesos</category>
-<link>https://killbait.com/posts/post/69548a02-cbbb-4935-8f96-bedb1754e4bd</link>
-<guid>https://killbait.com/posts/post/69548a02-cbbb-4935-8f96-bedb1754e4bd</guid>
-<pubDate>Sun, 22 Feb 2026 23:01:22 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1771791304/posts/autoimages/kohs4rmb7cv8efim6ayi.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
