@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>La misión Artemisa II se retrasa por un fallo en el sistema de helio del cohete SLS</title>
+<description>La NASA ha anunciado un nuevo retraso en la misión Artemisa II, que ya no podrá lanzarse en marzo de 2026 y como pronto despegará en abril. Tras superar los problemas de fugas de hidrógeno detectados ...</description>
+<category>Astronomía</category>
+<link>https://killbait.com/posts/post/90eb43ba-c3cf-49ee-bb2a-386799788969</link>
+<guid>https://killbait.com/posts/post/90eb43ba-c3cf-49ee-bb2a-386799788969</guid>
+<pubDate>Mon, 23 Feb 2026 21:04:28 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1771806583/posts/autoimages/a3nnkwyqp70ztumsiujc.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Winhance: herramienta gratuita y de código abierto para eliminar bloatware y optimizar Windows 11</title>
 <description>Windows 11 incluye numerosas aplicaciones preinstaladas por Microsoft y por los fabricantes de ordenadores que muchos usuarios consideran innecesarias, conocidas como bloatware. Estas apps consumen re...</description>
 <category>Tecnología</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/e6a0cb5d-ed99-4eac-897f-f35695d67db4</guid>
 <pubDate>Mon, 23 Feb 2026 17:40:22 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1771847876/posts/autoimages/veseowyegr4coqk4wabx.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>La Audiencia Provincial de Madrid revoca la decisión de enviar el caso de Begoña Gómez al Tribunal del Jurado por falta de motivación</title>
-<description>La Audiencia Provincial de Madrid ha anulado la decisión del juez Juan Carlos Peinado de transformar el procedimiento contra Begoña Gómez en uno propio del Tribunal del Jurado. La instancia superior e...</description>
-<category>Justicia</category>
-<link>https://killbait.com/posts/post/9351068f-d8ec-43ea-ab88-e4d673058583</link>
-<guid>https://killbait.com/posts/post/9351068f-d8ec-43ea-ab88-e4d673058583</guid>
-<pubDate>Mon, 23 Feb 2026 16:38:49 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1771856968/posts/autoimages/w8swvhss2jm14jwepjau.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
