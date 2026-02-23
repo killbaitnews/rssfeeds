@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Diez mujeres asesinadas por violencia machista en los primeros 53 días de 2026: el Gobierno califica la lacra como &apos;terrorismo machista&apos;</title>
+<description>España afronta uno de los peores inicios de año en materia de violencia machista desde que se registran datos en 2003. Desde el 1 de enero hasta el 22 de febrero de 2026, diez mujeres han sido asesina...</description>
+<category>Sucesos</category>
+<link>https://killbait.com/posts/post/ca191404-d75f-4322-a045-f4ff46700315</link>
+<guid>https://killbait.com/posts/post/ca191404-d75f-4322-a045-f4ff46700315</guid>
+<pubDate>Mon, 23 Feb 2026 10:21:08 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1771825815/posts/autoimages/t7smxv5hdhdszgb6s6mc.webp" type="image/jpeg" />
+</item>
+<item>
 <title>La organización Gazte Koordinadora Sozialista reivindica el ataque al busto de Fraga en Vilalba</title>
 <description>El pasado fin de semana, un grupo de tres encapuchados viajó desde Vitoria hasta Vilalba para vandalizar el busto de Manuel Fraga, en la Alameda Basanta Olano. Este ataque fue reivindicado por la orga...</description>
 <category>Sucesos</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/59fbc108-02b5-456a-aa42-9a4d078721d9</guid>
 <pubDate>Mon, 23 Feb 2026 03:11:47 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1771799114/posts/autoimages/r0vd2l6zzp5erknged6j.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Google parchea CVE-2026-2441, primera vulnerabilidad zero-day de Chrome en 2026 explotada activamente en CSS</title>
-<description>Google ha lanzado una actualización de emergencia para Chrome ante la vulnerabilidad CVE-2026-2441, un fallo de tipo Use-After-Free (UAF) de alta gravedad (CVSS 8.8) en el motor de renderizado Blink, ...</description>
-<category>Tecnología</category>
-<link>https://killbait.com/posts/post/538e5ded-3145-4f4e-9f35-0c1656ac0510</link>
-<guid>https://killbait.com/posts/post/538e5ded-3145-4f4e-9f35-0c1656ac0510</guid>
-<pubDate>Mon, 23 Feb 2026 02:27:22 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1771796316/posts/autoimages/kywlqnsy4wrmpzhefjog.png" type="image/jpeg" />
 </item>
 </channel>
 </rss>
