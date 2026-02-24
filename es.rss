@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Discord termina su colaboración con Persona tras exposición de código en servidor gubernamental estadounidense</title>
+<description>Discord ha finalizado su breve asociación con Persona, una empresa de verificación de identidad financiada por Founders Fund (de Peter Thiel), después de que investigadores descubrieran casi 2.500 arc...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/d6702fc7-f282-4ede-aa92-9ea3a2ca101d</link>
+<guid>https://killbait.com/posts/post/d6702fc7-f282-4ede-aa92-9ea3a2ca101d</guid>
+<pubDate>Tue, 24 Feb 2026 17:37:12 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1771944518/posts/autoimages/id2xw5cvbcfhk5mp9xc8.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Julio Iglesias presenta demanda de conciliación contra Yolanda Díaz por injurias y exige retractación pública e indemnización</title>
 <description>El cantante Julio Iglesias ha iniciado acciones legales contra la vicepresidenta segunda del Gobierno y ministra de Trabajo, Yolanda Díaz, mediante una demanda de conciliación presentada ante los trib...</description>
 <category>Justicia</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/af082ac5-d69a-400a-aeb6-3f2ec0a03acb</guid>
 <pubDate>Tue, 24 Feb 2026 13:05:24 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1771920914/posts/autoimages/hwpxjh23briw3s1zixkh.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>¿Por qué Linux ahora es tan bueno para jugar?</title>
-<description>El vídeo explica cómo Linux ha mejorado notablemente en videojuegos gracias a Proton, Steam, mejores drivers, Vulkan y el apoyo de estudios y hardware, haciendo viable jugar sin Windows.</description>
-<category>Videojuegos</category>
-<link>https://killbait.com/posts/post/7dfe5d1a-c1e4-446f-b4b3-84ed9b3b4176</link>
-<guid>https://killbait.com/posts/post/7dfe5d1a-c1e4-446f-b4b3-84ed9b3b4176</guid>
-<pubDate>Tue, 24 Feb 2026 13:01:21 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1771926335/posts/autoimages/jbo8phdxmojoxzwlfmu4.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
