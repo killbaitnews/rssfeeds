@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>¿Por qué Linux ahora es tan bueno para jugar?</title>
+<description>El vídeo explica cómo Linux ha mejorado notablemente en videojuegos gracias a Proton, Steam, mejores drivers, Vulkan y el apoyo de estudios y hardware, haciendo viable jugar sin Windows.</description>
+<category>Videojuegos</category>
+<link>https://killbait.com/posts/post/7dfe5d1a-c1e4-446f-b4b3-84ed9b3b4176</link>
+<guid>https://killbait.com/posts/post/7dfe5d1a-c1e4-446f-b4b3-84ed9b3b4176</guid>
+<pubDate>Tue, 24 Feb 2026 13:01:21 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1771926335/posts/autoimages/jbo8phdxmojoxzwlfmu4.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Linux 7.0 alcanza su primera Release Candidate y entra en la fase final de desarrollo</title>
 <description>El desarrollo del Kernel Linux ha alcanzado un nuevo hito con la publicación de Linux 7.0 RC1, la primera Release Candidate de la próxima gran versión del núcleo. Tras el reciente lanzamiento de Linux...</description>
 <category>Informática</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/ac16f457-7fd2-4ce6-b7c4-07b74b96b647</guid>
 <pubDate>Tue, 24 Feb 2026 09:04:05 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1771914340/posts/autoimages/fm35fdyjuxk3gw3ualvo.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Una grave vulnerabilidad en el robot aspirador DJI Romo permitió el acceso remoto a miles de dispositivos domésticos</title>
-<description>Un fallo de seguridad en el robot aspirador DJI Romo, el primer modelo de este tipo lanzado por el fabricante de drones DJI, ha puesto en evidencia importantes carencias en la protección de dispositiv...</description>
-<category>Tecnología</category>
-<link>https://killbait.com/posts/post/8f41f6f7-5cc1-45a4-ab3d-ca52c0491878</link>
-<guid>https://killbait.com/posts/post/8f41f6f7-5cc1-45a4-ab3d-ca52c0491878</guid>
-<pubDate>Tue, 24 Feb 2026 08:53:30 +0100</pubDate>
-<enclosure url="https://cdn.killbait.com/static/posts/autoimages/c6806075-4970-4776-82d9-f0bec434dfe0.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
