@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Google Patches Actively Exploited Chrome Zero-Day (CVE-2026–2441) in CSS Font Processing</title>
+<description>Google has released an emergency security update to address CVE-2026–2441, the first Chrome zero-day vulnerability reported in 2026. The flaw, rated high severity with a CVSS score of 8.8, was discove...</description>
+<category>Computing</category>
+<link>https://killbait.com/posts/post/3a92eb14-a21e-4586-a72e-745917bbc1b2</link>
+<guid>https://killbait.com/posts/post/3a92eb14-a21e-4586-a72e-745917bbc1b2</guid>
+<pubDate>Tue, 24 Feb 2026 03:10:58 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1771796125/posts/autoimages/szurildxrewakfcuq8m3.png" type="image/jpeg" />
+</item>
+<item>
 <title>Bernie Sanders urges urgent action on AI revolution, warns of unpreparedness in the US</title>
 <description>Bernie Sanders has raised concerns about the lack of preparedness in the US regarding the rapid advancement of AI technologies. After meeting with tech leaders in California, Sanders called for immedi...</description>
 <category>Technology</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/45df093e-3b5a-4dad-944f-990832cca02a</guid>
 <pubDate>Mon, 23 Feb 2026 06:17:36 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1771780250/posts/autoimages/wekdbiac1fbeeq7ttis5.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>North Korea Showcases New Multiple-Launch Missile System with Potential Strategic Capabilities</title>
-<description>North Korea has unveiled a new missile launcher system capable of firing multiple projectiles, according to an announcement made by leader Kim Jong-un and later broadcast by the state media outlet KCN...</description>
-<category>Geopolitics</category>
-<link>https://killbait.com/posts/post/4eb7aba2-42e3-4d55-a705-2e72b700da25</link>
-<guid>https://killbait.com/posts/post/4eb7aba2-42e3-4d55-a705-2e72b700da25</guid>
-<pubDate>Mon, 23 Feb 2026 01:39:35 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1771651049/posts/autoimages/mmsaao9vhumftrbrw8bo.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
