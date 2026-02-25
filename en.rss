@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Discord ends partnership with Persona after exposed frontend code raises surveillance and data handling concerns</title>
+<description>Discord has ended a brief partnership with Persona, an identity verification company backed in part by Peter Thiel’s Founders Fund, after researchers discovered that Persona’s frontend code was public...</description>
+<category>Technology</category>
+<link>https://killbait.com/posts/post/3ef1d381-877a-4d4a-821e-d939c90655b4</link>
+<guid>https://killbait.com/posts/post/3ef1d381-877a-4d4a-821e-d939c90655b4</guid>
+<pubDate>Wed, 25 Feb 2026 10:20:09 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1771944286/posts/autoimages/gwuo3cktqlilljnt1hkd.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>European Military Aid to Ukraine Reaches Its Limits Amid Shortages</title>
 <description>European countries are reportedly reaching the limits of their military support to Ukraine, as key nations indicate they can no longer supply additional arms. Finnish Foreign Minister Elina Valtonen s...</description>
 <category>Conflict</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/14616d3a-02c1-41f9-bcb8-a7d801ae67d6</guid>
 <pubDate>Tue, 24 Feb 2026 10:56:11 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1771806738/posts/autoimages/b20gitilwnrv7oitjxbq.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Computational Study Finds 40,000-Year-Old Stone Age Sign Sequences Comparable in Complexity to Proto-Cuneiform</title>
-<description>A new study by linguist Christian Bentz of Saarland University and archaeologist Ewa Dutkiewicz from the Museum of Prehistory and Early History in Berlin suggests that sign sequences carved into Stone...</description>
-<category>Archeology</category>
-<link>https://killbait.com/posts/post/ddd3ee74-84c7-4334-9d8c-c535611c4495</link>
-<guid>https://killbait.com/posts/post/ddd3ee74-84c7-4334-9d8c-c535611c4495</guid>
-<pubDate>Tue, 24 Feb 2026 10:47:09 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1771910146/posts/autoimages/kli9zfduztkoirtpihug.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
