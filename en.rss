@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>UK-Designed Missile Strikes Russian Defense Plant Amid Ukraine Conflict</title>
+<description>On February 25, 2026, Ukraine launched a medium-range missile targeting the Votkinsk Machine-Building Plant in Udmurtia, a key Russian defense facility involved in strategic missile production. The mi...</description>
+<category>Geopolitics</category>
+<link>https://killbait.com/posts/post/0f1e676b-ee24-4929-bb1f-112e0dd722f8</link>
+<guid>https://killbait.com/posts/post/0f1e676b-ee24-4929-bb1f-112e0dd722f8</guid>
+<pubDate>Wed, 25 Feb 2026 10:35:14 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1772004232/posts/autoimages/ciduzikhl4geogkxu9rg.webp" type="image/jpeg" />
+</item>
+<item>
 <title>Discord ends partnership with Persona after exposed frontend code raises surveillance and data handling concerns</title>
 <description>Discord has ended a brief partnership with Persona, an identity verification company backed in part by Peter Thiel’s Founders Fund, after researchers discovered that Persona’s frontend code was public...</description>
 <category>Technology</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/4a586773-0710-4161-829b-832d6e0974c5</guid>
 <pubDate>Tue, 24 Feb 2026 11:48:10 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1771887595/posts/autoimages/lf0wtg2kizlymu1txbsn.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Artemis II Launch Postponed to April Due to Helium System Issue</title>
-<description>The launch of Artemis II, NASA’s second mission in the Artemis program, has been postponed to at least April 2026 due to an issue with the helium pressurization system on the rocket&apos;s ICPS second stag...</description>
-<category>Astronomy</category>
-<link>https://killbait.com/posts/post/14616d3a-02c1-41f9-bcb8-a7d801ae67d6</link>
-<guid>https://killbait.com/posts/post/14616d3a-02c1-41f9-bcb8-a7d801ae67d6</guid>
-<pubDate>Tue, 24 Feb 2026 10:56:11 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1771806738/posts/autoimages/b20gitilwnrv7oitjxbq.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
