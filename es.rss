@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Análisis sobre las interpretaciones públicas de Javier Cercas acerca del 23F y el papel de la monarquía</title>
+<description>El artículo reflexiona sobre las recientes declaraciones públicas de Javier Cercas tras la desclasificación de documentos relacionados con el intento de golpe de Estado del 23 de febrero de 1981 (23F)...</description>
+<category>Historia</category>
+<link>https://killbait.com/posts/post/97fae658-2573-4045-b95e-8ad6678436da</link>
+<guid>https://killbait.com/posts/post/97fae658-2573-4045-b95e-8ad6678436da</guid>
+<pubDate>Thu, 26 Feb 2026 08:47:17 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1772088256/posts/autoimages/frcodbkg4axtregsxubj.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Supervivientes de Bucha relatan las consecuencias de la ocupación rusa y las historias de familiares detenidos</title>
 <description>La ciudad de Bucha, al norte de Kiev, se convirtió en uno de los lugares más devastados durante la invasión rusa de Ucrania en 2022. Durante la ocupación, se produjeron asesinatos de civiles, detencio...</description>
 <category>Conflicto</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/9c4e2dab-7501-43fa-bdb6-3e4b98599952</guid>
 <pubDate>Thu, 26 Feb 2026 01:32:04 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1772031130/posts/autoimages/ntbk5k3chav8urnqbrxm.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Diode permite crear y simular circuitos electrónicos educativos directamente desde el navegador</title>
-<description>Diode es una herramienta educativa pensada para aprender y enseñar los fundamentos de la electrónica de forma práctica, visual y accesible, sin necesidad de hardware físico. Funciona íntegramente desd...</description>
-<category>Tecnología</category>
-<link>https://killbait.com/posts/post/1ddf73f7-aad0-4e1d-90c2-214315ac7ab3</link>
-<guid>https://killbait.com/posts/post/1ddf73f7-aad0-4e1d-90c2-214315ac7ab3</guid>
-<pubDate>Thu, 26 Feb 2026 00:47:32 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1772059794/posts/autoimages/yhdx1mybjalhonvzir2l.webp" type="image/jpeg" />
 </item>
 </channel>
 </rss>
