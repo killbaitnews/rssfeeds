@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Docudramas, Media Intrusion and the Limits of Public Scrutiny</title>
+<description>Simon Jenkins examines the growing tension between media dramatization and factual reporting, particularly in the context of high-profile public figures. Recent docudramas, including &apos;The Lady&apos; and &apos;D...</description>
+<category>Culture</category>
+<link>https://killbait.com/posts/post/793c3076-db8f-44ae-b7f2-b91d6c8ce10b</link>
+<guid>https://killbait.com/posts/post/793c3076-db8f-44ae-b7f2-b91d6c8ce10b</guid>
+<pubDate>Fri, 27 Feb 2026 23:41:43 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1772180887/posts/autoimages/cddjka5aycl2spepuhvu.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>IronCurtain Introduces Policy-Based Controls to Secure AI Agents in Isolated Environments</title>
 <description>A new open source project called IronCurtain aims to address growing security concerns surrounding autonomous AI agents that manage users’ digital lives. As agentic assistants gain popularity for hand...</description>
 <category>Artificial intelligence</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/27d8ba4b-8e7d-4385-b862-964b7834e9e4</guid>
 <pubDate>Fri, 27 Feb 2026 23:02:32 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1772215352/posts/autoimages/dfwmy2wzbz1ug1a7imfc.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>EU Project Develops PFAS-Free and Cost-Effective Green Hydrogen Technology</title>
-<description>Green hydrogen is considered a crucial component for reducing reliance on fossil fuels, but current production methods face major challenges. Proton exchange membrane (PEM) electrolysis, one of the le...</description>
-<category>Science</category>
-<link>https://killbait.com/posts/post/d5eece44-f517-4cbd-9b38-1fd121c36c6b</link>
-<guid>https://killbait.com/posts/post/d5eece44-f517-4cbd-9b38-1fd121c36c6b</guid>
-<pubDate>Fri, 27 Feb 2026 23:02:27 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1772209217/posts/autoimages/eooknputlvoscoayh7l8.webp" type="image/jpeg" />
 </item>
 </channel>
 </rss>
