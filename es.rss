@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>TBD</title>
+<description>TBD</description>
+<category>Actualidad</category>
+<link>https://killbait.com/posts/post/7c35e210-3d74-49a6-acf3-c1a2e98364c4</link>
+<guid>https://killbait.com/posts/post/7c35e210-3d74-49a6-acf3-c1a2e98364c4</guid>
+<pubDate>Fri, 27 Feb 2026 11:02:11 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1772099828/posts/autoimages/aitncnpja1o5rgypd65d.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>La Audiencia de Pontevedra ordena reabrir la denuncia de una doctora víctima de maltrato durante décadas</title>
 <description>La Audiencia Provincial de Pontevedra ha ordenado reabrir la denuncia presentada por una médica de familia de Vigo, que había sido archivada por el Juzgado de Violencia sobre la Mujer número 1 de la c...</description>
 <category>Justicia</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/28fc3d97-cb08-45e9-8e79-aa29622b2146</guid>
 <pubDate>Fri, 27 Feb 2026 07:39:51 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1772150713/posts/autoimages/ejsv9dl732ocrtmi7hzp.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Burger King integra IA para supervisar la atención al cliente y tareas internas</title>
-<description>Burger King ha comenzado a implementar un sistema de inteligencia artificial (IA) llamado “Patty” en sus auriculares internos, diseñado para asistir a los empleados en la preparación de alimentos y la...</description>
-<category>Tecnología</category>
-<link>https://killbait.com/posts/post/c02c774b-8896-483d-ae50-9dacc004ef4b</link>
-<guid>https://killbait.com/posts/post/c02c774b-8896-483d-ae50-9dacc004ef4b</guid>
-<pubDate>Fri, 27 Feb 2026 06:54:52 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1772144720/posts/autoimages/wi9bwd2yf2ashdarplwt.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
