@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>IronCurtain Introduces Policy-Based Controls to Secure AI Agents in Isolated Environments</title>
+<description>A new open source project called IronCurtain aims to address growing security concerns surrounding autonomous AI agents that manage users’ digital lives. As agentic assistants gain popularity for hand...</description>
+<category>Artificial intelligence</category>
+<link>https://killbait.com/posts/post/b2c9e9ca-8bfa-4e4b-ac3e-82fa1449c923</link>
+<guid>https://killbait.com/posts/post/b2c9e9ca-8bfa-4e4b-ac3e-82fa1449c923</guid>
+<pubDate>Fri, 27 Feb 2026 23:41:04 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1772196431/posts/autoimages/jonnb2cpvfrkut7lvorg.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>James Webb Space Telescope Discovers Early Barred Spiral Galaxy</title>
 <description>Astronomers have identified a surprising discovery in the early universe, with the James Webb Space Telescope revealing a barred spiral galaxy known as COSMOS-74706. This galaxy, located roughly 11.5 ...</description>
 <category>Astronomy</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/d5eece44-f517-4cbd-9b38-1fd121c36c6b</guid>
 <pubDate>Fri, 27 Feb 2026 23:02:27 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1772209217/posts/autoimages/eooknputlvoscoayh7l8.webp" type="image/jpeg" />
-</item>
-<item>
-<title>Gorton and Denton by-election sees tight contest amid concerns over family voting</title>
-<description>The Gorton and Denton by-election, a key test of Sir Keir Starmer’s leadership, has entered a tense counting phase following the close of polls. Although Labour secured over 50 per cent in the 2024 ge...</description>
-<category>Politics</category>
-<link>https://killbait.com/posts/post/24a3317d-5358-4205-8fb0-2c4494b27f9d</link>
-<guid>https://killbait.com/posts/post/24a3317d-5358-4205-8fb0-2c4494b27f9d</guid>
-<pubDate>Fri, 27 Feb 2026 23:01:26 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1772161960/posts/autoimages/acazyr30vzlhibuje2i9.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
