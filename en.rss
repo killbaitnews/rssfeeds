@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Security Flaw in Robot Vacuums Exposes Privacy Risks for 6,700 Users</title>
+<description>A security vulnerability in robot vacuums equipped with cameras and microphones has raised significant privacy concerns. Sammy Azdoufal, a robot vacuum owner, discovered that by experimenting with his...</description>
+<category>Technology</category>
+<link>https://killbait.com/posts/post/85c12cd1-ea25-422c-901a-c39f2f808b9b</link>
+<guid>https://killbait.com/posts/post/85c12cd1-ea25-422c-901a-c39f2f808b9b</guid>
+<pubDate>Sat, 28 Feb 2026 19:51:21 +0100</pubDate>
+<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1772279659/posts/autoimages/wzkgtnx05su10atpup1s.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Keir Starmer Chairs Emergency Cobra Meeting Amid Rising Tensions in Iran</title>
 <description>Keir Starmer, the UK&apos;s Prime Minister, chaired a Cobra meeting in response to the escalating tensions between the US, Israel, and Iran. The emergency meeting was convened after airstrikes by the US an...</description>
 <category>Conflict</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/8db51ea2-ca89-40d0-bfd9-31e09993253a</guid>
 <pubDate>Sat, 28 Feb 2026 17:31:56 +0100</pubDate>
 <enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1771987792/posts/autoimages/j5r4lotxbe6yznvgk0wm.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>India Blocks Access to Developer Platform Supabase Amid Unclear Restrictions</title>
-<description>Supabase, a popular developer database platform, has been facing significant disruptions in India after a blocking order was issued on February 24, 2026. This move, directed by the Indian government u...</description>
-<category>Technology</category>
-<link>https://killbait.com/posts/post/aad9e07e-3cbf-47ef-95c2-4ff2c44accdd</link>
-<guid>https://killbait.com/posts/post/aad9e07e-3cbf-47ef-95c2-4ff2c44accdd</guid>
-<pubDate>Sat, 28 Feb 2026 17:26:07 +0100</pubDate>
-<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1772273292/posts/autoimages/p8scxycycpus0ilpfek2.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
