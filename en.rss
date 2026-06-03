@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>DHS disputes allegations of hunger strike at New Jersey immigration detention center amid transparency concerns</title>
+<description>The Department of Homeland Security (DHS) became involved in a public dispute with celebrity chef and humanitarian José Andrés over conditions at the Delaney Hall immigration detention facility in New...</description>
+<category>Society</category>
+<link>https://killbait.com/posts/post/8df25ed2-4e34-4598-89e5-d9f51a625984</link>
+<guid>https://killbait.com/posts/post/8df25ed2-4e34-4598-89e5-d9f51a625984</guid>
+<pubDate>Wed, 3 Jun 2026 19:12:57 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1780498832/posts/autoimages/ezrqmpglrlmqd2s35qf8.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Republican Primary Upset in Iowa Raises Concerns for GOP Ahead of 2026 Elections</title>
 <description>A report from MS NOW has sparked concern among Republican insiders after a Trump-endorsed candidate suffered an unexpected defeat in the Iowa GOP primary for governor. According to the report, Rep. Ra...</description>
 <category>Politics</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/7a04f1ff-76e8-48eb-8617-ed191e35af06</guid>
 <pubDate>Wed, 3 Jun 2026 14:29:38 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1780487785/posts/autoimages/chyxxdesucpyadcvassu.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Building a Custom Vector Search Engine with HNSW, Hybrid Retrieval, and HyDE: Design, Implementation, and Performance Results</title>
-<description>In this article, Sameer Ahmed describes the development of Vektr, a retrieval-augmented generation (RAG) engine that includes a custom-built vector search system instead of relying on established solu...</description>
-<category>Artificial intelligence</category>
-<link>https://killbait.com/posts/post/cbb63ae1-5b3d-45fc-b85c-ec6fd4ea6d2a</link>
-<guid>https://killbait.com/posts/post/cbb63ae1-5b3d-45fc-b85c-ec6fd4ea6d2a</guid>
-<pubDate>Wed, 3 Jun 2026 14:02:40 +0200</pubDate>
-<enclosure url="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feng4pnfsdei0rdfjef8a.png" type="image/jpeg" />
 </item>
 </channel>
 </rss>
