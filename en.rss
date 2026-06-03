@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>National Park Service Fee Revenue Redirected to Washington, D.C. Projects Amid Staffing Cuts and Maintenance Backlog</title>
+<description>According to a report citing internal National Park Service documents, the Trump administration redirected at least $90 million in national park entry fee revenue toward beautification and renovation ...</description>
+<category>Politics</category>
+<link>https://killbait.com/posts/post/7a04f1ff-76e8-48eb-8617-ed191e35af06</link>
+<guid>https://killbait.com/posts/post/7a04f1ff-76e8-48eb-8617-ed191e35af06</guid>
+<pubDate>Wed, 3 Jun 2026 14:29:38 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1780487785/posts/autoimages/chyxxdesucpyadcvassu.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Building a Custom Vector Search Engine with HNSW, Hybrid Retrieval, and HyDE: Design, Implementation, and Performance Results</title>
 <description>In this article, Sameer Ahmed describes the development of Vektr, a retrieval-augmented generation (RAG) engine that includes a custom-built vector search system instead of relying on established solu...</description>
 <category>Artificial intelligence</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/0e5deebc-fdee-49ba-b134-6ac8c9dad16b</guid>
 <pubDate>Wed, 3 Jun 2026 07:30:36 +0200</pubDate>
 <enclosure url="https://cdn.killbait.com/static/channels/customimages/nuclear-news.net.png" type="image/jpeg" />
-</item>
-<item>
-<title>1960s Swimsuit Fashion: Styles, Trends, and Cultural Shifts</title>
-<description>The 1960s marked a transformative period for swimwear as postwar prosperity, increased travel, and shifting social norms influenced fashion choices. Women’s swimsuits evolved from the more structured ...</description>
-<category>Fashion</category>
-<link>https://killbait.com/posts/post/dd2aae23-fca5-4276-b4ac-fea90489dd2f</link>
-<guid>https://killbait.com/posts/post/dd2aae23-fca5-4276-b4ac-fea90489dd2f</guid>
-<pubDate>Wed, 3 Jun 2026 07:25:40 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1780460681/posts/autoimages/lcyrh9wxyuoj6fvycwaq.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
