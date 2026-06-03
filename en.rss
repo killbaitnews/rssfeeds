@@ -6,6 +6,24 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Building a Custom Vector Search Engine with HNSW, Hybrid Retrieval, and HyDE: Design, Implementation, and Performance Results</title>
+<description>In this article, Sameer Ahmed describes the development of Vektr, a retrieval-augmented generation (RAG) engine that includes a custom-built vector search system instead of relying on established solu...</description>
+<category>Artificial intelligence</category>
+<link>https://killbait.com/posts/post/cbb63ae1-5b3d-45fc-b85c-ec6fd4ea6d2a</link>
+<guid>https://killbait.com/posts/post/cbb63ae1-5b3d-45fc-b85c-ec6fd4ea6d2a</guid>
+<pubDate>Wed, 3 Jun 2026 14:02:40 +0200</pubDate>
+<enclosure url="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feng4pnfsdei0rdfjef8a.png" type="image/jpeg" />
+</item>
+<item>
+<title>Allahabad High Court Criticises Police for Failing to Provide Grounds of Arrest, Grants Bail to Murder Accused</title>
+<description>The Allahabad High Court has expressed concern over what it described as a growing and routine practice of police authorities failing to provide accused persons with the grounds of their arrest. Justi...</description>
+<category>Justice</category>
+<link>https://killbait.com/posts/post/d55b5f01-34b3-4020-b9da-d77aa6d4e33a</link>
+<guid>https://killbait.com/posts/post/d55b5f01-34b3-4020-b9da-d77aa6d4e33a</guid>
+<pubDate>Wed, 3 Jun 2026 13:52:17 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1780486931/posts/autoimages/if3iysngeknxvdrsftzz.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Violent protests in Southampton after Henry Nowak case leave 11 officers injured and two people arrested</title>
 <description>Two people were arrested and 11 police officers, along with one police dog, were injured during violent protests in Southampton following public anger over the handling of the murder of 18-year-old He...</description>
 <category>Justice</category>
@@ -166,24 +184,6 @@
 <guid>https://killbait.com/posts/post/dd2aae23-fca5-4276-b4ac-fea90489dd2f</guid>
 <pubDate>Wed, 3 Jun 2026 07:25:40 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1780460681/posts/autoimages/lcyrh9wxyuoj6fvycwaq.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Vandalism and Assault at Popular Educator Khan Sir&apos;s Coaching Institute in Patna Under Police Investigation</title>
-<description>In a concerning incident that took place on Tuesday night in Patna, Bihar, some unidentified men entered the coaching centre of famous educator Khan Sir and assaulted the security guard. The guard was...</description>
-<category>Incidents</category>
-<link>https://killbait.com/posts/post/531aa5b8-dbeb-4115-a580-d392ae045b86</link>
-<guid>https://killbait.com/posts/post/531aa5b8-dbeb-4115-a580-d392ae045b86</guid>
-<pubDate>Wed, 3 Jun 2026 06:57:10 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1780462318/posts/iaimages/ufzknufcc9wlvcvlulss.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Experts urge shift to smaller, locally powered data centres to support Africa’s AI growth</title>
-<description>Experts are saying that Africa’s future in artificial intelligence will largely depend on building smaller, locally distributed data centres instead of relying on massive hyperscale infrastructure. Th...</description>
-<category>Artificial intelligence</category>
-<link>https://killbait.com/posts/post/28c549c7-6d10-40d7-8e2c-a2c65ff5ff80</link>
-<guid>https://killbait.com/posts/post/28c549c7-6d10-40d7-8e2c-a2c65ff5ff80</guid>
-<pubDate>Wed, 3 Jun 2026 06:53:03 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1780461732/posts/autoimages/oaiw2ct9kpp27koic7d5.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
