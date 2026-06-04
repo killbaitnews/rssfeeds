@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Rare Photos Highlight Angelina Jolie’s Teenage Years and Early Path to Stardom</title>
+<description>Vintage Everyday published a collection of candid photographs showing Angelina Jolie during her teenage years in the late 1980s and early 1990s, offering a look at the period before she became a globa...</description>
+<category>Cinema</category>
+<link>https://killbait.com/posts/post/c5bee544-ee84-4d69-9e4d-f89d851b3d55</link>
+<guid>https://killbait.com/posts/post/c5bee544-ee84-4d69-9e4d-f89d851b3d55</guid>
+<pubDate>Thu, 4 Jun 2026 14:54:47 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1780577620/posts/autoimages/gq8jyu8bolyfcbia5qlm.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Joyce Vance Warns Democrats to Increase Voter Mobilization After Supreme Court Decision on Alabama Redistricting</title>
 <description>The article discusses a reaction from former federal prosecutor Joyce Vance to a recent U.S. Supreme Court decision that allowed Alabama to use a congressional map despite lower federal court findings...</description>
 <category>Politics</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/26a4adfb-77d1-436d-a327-d46d69ef3736</guid>
 <pubDate>Thu, 4 Jun 2026 04:45:45 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1780538916/posts/autoimages/if3ue1g7bdf59wbevxch.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>How AI-Native Specifications Reduce Errors in AI Coding Agents</title>
-<description>The article discusses a recurring problem in modern software development: AI coding agents often produce code that unintentionally breaks existing systems, even when given clear requirements. The auth...</description>
-<category>Artificial intelligence</category>
-<link>https://killbait.com/posts/post/2450c93c-aa61-48f4-ae8f-4bc68b9a8174</link>
-<guid>https://killbait.com/posts/post/2450c93c-aa61-48f4-ae8f-4bc68b9a8174</guid>
-<pubDate>Thu, 4 Jun 2026 04:27:34 +0200</pubDate>
-<enclosure url="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8kk5fk47lpfu7jujiz6q.png" type="image/jpeg" />
 </item>
 </channel>
 </rss>
