@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Conservative commentators criticize Candace Owens over appearance at Russia&apos;s St. Petersburg forum</title>
+<description>Conservative media personality Candace Owens has come under criticism from several prominent figures on the American right after attending the St. Petersburg International Economic Forum in Russia, an...</description>
+<category>Politics</category>
+<link>https://killbait.com/posts/post/54b95f20-56dc-41ba-a15b-4719e23c4dc1</link>
+<guid>https://killbait.com/posts/post/54b95f20-56dc-41ba-a15b-4719e23c4dc1</guid>
+<pubDate>Thu, 4 Jun 2026 20:27:56 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1780596542/posts/autoimages/jcalydjurxgfzjesusbc.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Michelle Phillips’ Career Reinvention in the 1970s: Acting, Music, and Hollywood Fame</title>
 <description>The article highlights Michelle Phillips’ transformation during the 1970s after the final breakup of The Mamas &amp; the Papas in 1971. Rather than remaining defined by her success in the influential 1960...</description>
 <category>Culture</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/3ab4427f-14ea-4196-96f8-3da070654b40</guid>
 <pubDate>Thu, 4 Jun 2026 14:44:49 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1780576715/posts/autoimages/k3sucmb7japca4jyphfr.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Understanding Stochastic Gradient Descent in PyTorch Through a Linear Regression Example</title>
-<description>This article explains how PyTorch uses Stochastic Gradient Descent (SGD) to train machine learning models by minimizing prediction error. The author introduces a simple linear regression model defined...</description>
-<category>Artificial intelligence</category>
-<link>https://killbait.com/posts/post/40808bf8-125c-4a1e-ba20-04b0b2ed3c4f</link>
-<guid>https://killbait.com/posts/post/40808bf8-125c-4a1e-ba20-04b0b2ed3c4f</guid>
-<pubDate>Thu, 4 Jun 2026 14:42:50 +0200</pubDate>
-<enclosure url="https://uploads.sitepoint.com/wp-content/uploads/SGD_bb6fc25e86.jfif" type="image/jpeg" />
 </item>
 </channel>
 </rss>
