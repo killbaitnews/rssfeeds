@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>How AI-Native Specifications Reduce Errors in AI Coding Agents</title>
+<description>The article discusses a recurring problem in modern software development: AI coding agents often produce code that unintentionally breaks existing systems, even when given clear requirements. The auth...</description>
+<category>Artificial intelligence</category>
+<link>https://killbait.com/posts/post/2450c93c-aa61-48f4-ae8f-4bc68b9a8174</link>
+<guid>https://killbait.com/posts/post/2450c93c-aa61-48f4-ae8f-4bc68b9a8174</guid>
+<pubDate>Thu, 4 Jun 2026 04:27:34 +0200</pubDate>
+<enclosure url="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8kk5fk47lpfu7jujiz6q.png" type="image/jpeg" />
+</item>
+<item>
 <title>Fox News Poll Shows Democratic Leads in Key Ohio Senate and Governor Races</title>
 <description>A new Fox News poll suggests that Republicans may face significant challenges in several high-profile Ohio races ahead of the upcoming elections. The survey found a notable decline in President Donald...</description>
 <category>Politics</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/86e67b2c-6ca0-4c82-a138-0dcca3ac1701</guid>
 <pubDate>Wed, 3 Jun 2026 23:58:05 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1780521856/posts/autoimages/y6s7ug3mly0q5zlbhlhw.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Richard Gere Criticizes Trump and Warns About Democratic Backsliding During Oslo Freedom Forum Speech</title>
-<description>Actor Richard Gere delivered a strongly worded political speech at the Oslo Freedom Forum in Norway, where he expressed deep concern about the current state of the United States under President Donald...</description>
-<category>Politics</category>
-<link>https://killbait.com/posts/post/48fc774c-e629-474e-9f46-413375259d9f</link>
-<guid>https://killbait.com/posts/post/48fc774c-e629-474e-9f46-413375259d9f</guid>
-<pubDate>Wed, 3 Jun 2026 23:51:36 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1780514620/posts/autoimages/b4apcj8malowiiqygymd.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
