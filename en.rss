@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Guide to Installing and Testing Beta Apps with Apple&apos;s TestFlight on Mac, iPhone, and iPad</title>
+<description>OSXDaily explains how Apple users can access and test pre-release applications through TestFlight, Apple&apos;s official platform for beta software distribution. TestFlight allows developers to share upcom...</description>
+<category>Computing</category>
+<link>https://killbait.com/posts/post/5fcfec80-8244-4046-abcc-a4fa359311c4</link>
+<guid>https://killbait.com/posts/post/5fcfec80-8244-4046-abcc-a4fa359311c4</guid>
+<pubDate>Sun, 7 Jun 2026 15:22:12 +0200</pubDate>
+<enclosure url="https://cdn.osxdaily.com/wp-content/uploads/2026/06/how-get-beta-apps-testflight.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Indiana Fever and New York Liberty Meet in Commissioner’s Cup Matchup with Playoff-Level Expectations</title>
 <description>The article previews a highly anticipated WNBA Commissioner’s Cup game between the Indiana Fever and the New York Liberty at Barclays Center in Brooklyn. Both teams entered the matchup with positive m...</description>
 <category>Sports</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/1913a4a2-8694-4fc1-be00-1b1de1078eaf</guid>
 <pubDate>Sun, 7 Jun 2026 10:51:59 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1780821709/posts/autoimages/qdy7ydhhwjclowqlfwyu.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>US Mission in Pakistan commemorates America’s 250th anniversary and highlights enduring US-Pakistan partnership</title>
-<description>The United States Mission in Pakistan hosted a major Freedom 250 celebration in Islamabad to mark 250 years of American democracy and freedom. The event formed part of a year-long international progra...</description>
-<category>Geopolitics</category>
-<link>https://killbait.com/posts/post/fc16565c-1a05-4b12-9bde-e664bc99595d</link>
-<guid>https://killbait.com/posts/post/fc16565c-1a05-4b12-9bde-e664bc99595d</guid>
-<pubDate>Sun, 7 Jun 2026 08:52:15 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1780814567/posts/autoimages/t9vzpda9xwhdd1amigie.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
