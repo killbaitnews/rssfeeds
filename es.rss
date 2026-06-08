@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>La rebelión pacífica de los campesinos extremeños de 1936 y sus consecuencias</title>
+<description>El 25 de marzo de 1936, más de 60.000 campesinos extremeños sin tierras protagonizaron la mayor ocupación pacífica de fincas registrada en Extremadura. Siguiendo las instrucciones de la Federación Nac...</description>
+<category>Historia</category>
+<link>https://killbait.com/posts/post/216e6e26-70d1-43a4-9094-023e5821f8d0</link>
+<guid>https://killbait.com/posts/post/216e6e26-70d1-43a4-9094-023e5821f8d0</guid>
+<pubDate>Mon, 8 Jun 2026 02:32:18 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1780866880/posts/autoimages/bnbt1yydvvgbyfuidcqn.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Q-Day y la amenaza cuántica al cifrado actual</title>
 <description>El Q-Day es un concepto que marca el momento en que un ordenador cuántico lo suficientemente potente podría romper los sistemas de cifrado asimétrico actuales, como RSA y ECDSA, que protegen la mayor ...</description>
 <category>Ciencia</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/ff6efe0c-a399-49b2-a3b3-5372099528a4</guid>
 <pubDate>Sun, 7 Jun 2026 19:19:56 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1780852501/posts/autoimages/fxhsbwz0qokfo2u1efw0.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>El Vaticano mantiene la condecoración a Franco durante la visita del Papa a España</title>
-<description>Durante la primera visita oficial del Papa León XIV a España, se ha evidenciado que el Vaticano no ha retirado la condecoración que Pío XII otorgó a Francisco Franco en 1953. Franco recibió el Gran Co...</description>
-<category>Religión</category>
-<link>https://killbait.com/posts/post/1885b552-9681-4fd9-a96a-b708beabd0fe</link>
-<guid>https://killbait.com/posts/post/1885b552-9681-4fd9-a96a-b708beabd0fe</guid>
-<pubDate>Sun, 7 Jun 2026 18:45:57 +0200</pubDate>
-<enclosure url="https://cdn.killbait.com/static/posts/autoimages/0725035e-20c3-4668-bc18-13d1cf398ea2.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
