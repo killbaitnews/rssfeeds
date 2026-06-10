@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>CoMaps: app de mapas offline de código abierto centrada en la privacidad y la colaboración comunitaria</title>
+<description>CoMaps es una aplicación de navegación y mapas creada y mantenida por la comunidad, orientada a ofrecer una alternativa libre, privada y sin conexión a los servicios de mapas tradicionales. El proyect...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/c22c3553-e97d-4237-8ea8-7043b510a94b</link>
+<guid>https://killbait.com/posts/post/c22c3553-e97d-4237-8ea8-7043b510a94b</guid>
+<pubDate>Wed, 10 Jun 2026 18:44:05 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1781106821/posts/autoimages/radldcxdlehtx5zaijpn.webp" type="image/jpeg" />
+</item>
+<item>
 <title>Diez fallecidos y decenas de heridos en una oleada de protestas y bloqueos en Bolivia</title>
 <description>Según un informe del Defensor del Pueblo, entre el 1 de mayo y el 2 de junio se han registrado intensos enfrentamientos en Bolivia entre fuerzas policiales y manifestantes, con un balance de al menos ...</description>
 <category>Conflicto</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/8bbe545d-33f1-40c1-ac66-5ff847e674c5</guid>
 <pubDate>Wed, 10 Jun 2026 10:34:29 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1781079828/posts/autoimages/fvka3mcmsbbuybjwbd7n.png" type="image/jpeg" />
-</item>
-<item>
-<title>Euro-Office lanza una alternativa europea de código abierto a Microsoft 365 centrada en la soberanía digital</title>
-<description>Una coalición de empresas tecnológicas europeas ha presentado Euro-Office, una nueva suite ofimática de código abierto diseñada para ofrecer una alternativa europea a Microsoft 365. El proyecto reúne ...</description>
-<category>Tecnología</category>
-<link>https://killbait.com/posts/post/9fffd53a-51e6-489f-a087-cd8d63d9b9c1</link>
-<guid>https://killbait.com/posts/post/9fffd53a-51e6-489f-a087-cd8d63d9b9c1</guid>
-<pubDate>Wed, 10 Jun 2026 10:29:19 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1781061127/posts/iaimages/uq6ortsplucbocl5ckve.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
