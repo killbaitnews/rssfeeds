@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>La Ira del Dragón: el juego de cartas español que intentó competir con Magic: The Gathering en los años 90</title>
+<description>El texto repasa la historia del juego de cartas coleccionables español ‘La Ira del Dragón’, lanzado en 1995 por Heraclio Fournier como intento de competir con el éxito de Magic: The Gathering en el me...</description>
+<category>Cultura</category>
+<link>https://killbait.com/posts/post/729a7c3c-4021-4f3c-b2e6-15a48e80aa67</link>
+<guid>https://killbait.com/posts/post/729a7c3c-4021-4f3c-b2e6-15a48e80aa67</guid>
+<pubDate>Fri, 12 Jun 2026 06:12:52 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1781228336/posts/autoimages/f9eqdnpiidsgzahxifcw.png" type="image/jpeg" />
+</item>
+<item>
 <title>Nuevos detalles sobre la gestión de la DANA en el Consell valenciano a través de mensajes de WhatsApp</title>
 <description>La investigación judicial sobre la gestión de la DANA que afectó a la Comunidad Valenciana ha revelado nuevos detalles a partir de conversaciones de un grupo de WhatsApp de los miembros del Consell qu...</description>
 <category>Política</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/727830ef-9ac8-44fd-8b05-fb7bfa7a8500</guid>
 <pubDate>Thu, 11 Jun 2026 22:05:29 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1781198633/posts/autoimages/zyiv4vmop15dswnu9cuh.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Chrome elimina definitivamente el soporte para extensiones Manifest V2 y complica el uso de uBlock Origin</title>
-<description>Google Chrome está culminando el proceso de eliminación de las extensiones basadas en Manifest V2 (MV2), una tecnología antigua utilizada por complementos populares como uBlock Origin. Según los cambi...</description>
-<category>Informática</category>
-<link>https://killbait.com/posts/post/3aa6cfb0-84d6-42b5-8d2a-80f4c1b3c535</link>
-<guid>https://killbait.com/posts/post/3aa6cfb0-84d6-42b5-8d2a-80f4c1b3c535</guid>
-<pubDate>Thu, 11 Jun 2026 22:03:17 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1781183465/posts/autoimages/oo8jzsnunporq9sz1rav.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
