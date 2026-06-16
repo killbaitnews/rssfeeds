@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Data Pipeline Architecture: Core Layers, Design Patterns, and Best Practices for Modern Data Systems</title>
+<description>This article explains data pipeline architecture, the framework that defines how data is collected, processed, stored, and delivered to users, applications, and AI systems. Rather than focusing on a s...</description>
+<category>Computing</category>
+<link>https://killbait.com/posts/post/74c0ff97-abca-403b-9fa0-ab1c86273dfe</link>
+<guid>https://killbait.com/posts/post/74c0ff97-abca-403b-9fa0-ab1c86273dfe</guid>
+<pubDate>Tue, 16 Jun 2026 23:32:47 +0200</pubDate>
+<enclosure url="https://www.databricks.com/sites/default/files/2026-01/4personas-analytics-ai-bi-2b-og.png" type="image/jpeg" />
+</item>
+<item>
 <title>Recovered Newspaper Archive Photos Highlight Michael Jackson’s Career and Public Life in the 1990s</title>
 <description>Vintage Everyday published a collection of newspaper photographs of Michael Jackson that were reportedly recovered from a dumpster behind a small-town newspaper office. According to the article, the i...</description>
 <category>Music</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/fc1e24d1-1fc3-4d7c-96e0-fc1756647e57</guid>
 <pubDate>Tue, 16 Jun 2026 14:33:54 +0200</pubDate>
 <enclosure url="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frtvom0agmq3ukqfw59jw.png" type="image/jpeg" />
-</item>
-<item>
-<title>Major Political, Justice, Security and Environmental Developments Reported Across Africa on June 16, 2026</title>
-<description>This AllAfrica regional news roundup highlights several significant developments from across the continent on 16 June 2026. In Niger, the military-led government issued a decree provisionally revoking...</description>
-<category>Current affairs</category>
-<link>https://killbait.com/posts/post/4a81f1c7-9aad-4cb4-b792-6fd98b3bae8a</link>
-<guid>https://killbait.com/posts/post/4a81f1c7-9aad-4cb4-b792-6fd98b3bae8a</guid>
-<pubDate>Tue, 16 Jun 2026 14:10:50 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1781611410/posts/autoimages/fhvghjzntdcodc5wjmg9.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
