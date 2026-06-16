@@ -6,6 +6,24 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Rare Childhood Photographs and Early Life of Tupac Shakur in 1970s New York</title>
+<description>This article presents a collection of 32 childhood photographs of Tupac Shakur and explores the circumstances that shaped his early years during the 1970s. Born Lesane Parish Crooks on June 16, 1971, ...</description>
+<category>Music</category>
+<link>https://killbait.com/posts/post/b5f01a27-09b5-482e-9f86-48507b298577</link>
+<guid>https://killbait.com/posts/post/b5f01a27-09b5-482e-9f86-48507b298577</guid>
+<pubDate>Wed, 17 Jun 2026 00:03:25 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1781647191/posts/autoimages/excjzqwmlbxehkvwhmtt.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Republican Senators Demand More Details on Iran Agreement and Question JD Vance&apos;s Role</title>
+<description>A report by political analyst Joe Perticone, published by The Bulwark and cited by Raw Story, describes growing scrutiny among Republican senators regarding a reported agreement between the Trump admi...</description>
+<category>Politics</category>
+<link>https://killbait.com/posts/post/176e83b0-e613-48a8-8349-95cf2a3b550e</link>
+<guid>https://killbait.com/posts/post/176e83b0-e613-48a8-8349-95cf2a3b550e</guid>
+<pubDate>Tue, 16 Jun 2026 23:47:51 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1781645289/posts/autoimages/hqukuz7jlvfvxurxhasl.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Data Pipeline Architecture: Core Layers, Design Patterns, and Best Practices for Modern Data Systems</title>
 <description>This article explains data pipeline architecture, the framework that defines how data is collected, processed, stored, and delivered to users, applications, and AI systems. Rather than focusing on a s...</description>
 <category>Computing</category>
@@ -166,24 +184,6 @@
 <guid>https://killbait.com/posts/post/e4e83fdd-dca6-477d-bd5b-e78719633edd</guid>
 <pubDate>Tue, 16 Jun 2026 15:02:29 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1781611284/posts/autoimages/iofwt5cq8fw11ersyhaj.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Nigeria Seeks Better Ocean Data Systems to Improve Maritime Safety and Support Blue Economy Growth</title>
-<description>The Hydrographer of the Federation and Chief Executive Officer of the National Hydrographic Agency, Rear Admiral Olumide Fadahunsi, has stressed the importance of modern hydrography to Nigeria’s marit...</description>
-<category>Current affairs</category>
-<link>https://killbait.com/posts/post/0da54d8a-6897-468b-a229-ef0f80fd1913</link>
-<guid>https://killbait.com/posts/post/0da54d8a-6897-468b-a229-ef0f80fd1913</guid>
-<pubDate>Tue, 16 Jun 2026 14:43:59 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1781613040/posts/autoimages/txzqbngzz8rw9dlxplqr.webp" type="image/jpeg" />
-</item>
-<item>
-<title>Agent Island: macOS notch-based workspace for managing local AI coding agent sessions</title>
-<description>The article introduces a developer-built macOS utility called Agent Island designed to improve the workflow of users running multiple local AI coding agents. The creator explains that while tools such...</description>
-<category>Technology</category>
-<link>https://killbait.com/posts/post/fc1e24d1-1fc3-4d7c-96e0-fc1756647e57</link>
-<guid>https://killbait.com/posts/post/fc1e24d1-1fc3-4d7c-96e0-fc1756647e57</guid>
-<pubDate>Tue, 16 Jun 2026 14:33:54 +0200</pubDate>
-<enclosure url="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frtvom0agmq3ukqfw59jw.png" type="image/jpeg" />
 </item>
 </channel>
 </rss>
