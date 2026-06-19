@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Investigación sobre una posible red masiva de repositorios en GitHub que distribuyen malware mediante patrones automatizados</title>
+<description>El artículo describe la investigación de un desarrollador que afirma haber descubierto una posible campaña de distribución de malware a gran escala en GitHub. El hallazgo surge de la detección de repo...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/0decfb33-2d9a-4da6-abc1-047f029e882c</link>
+<guid>https://killbait.com/posts/post/0decfb33-2d9a-4da6-abc1-047f029e882c</guid>
+<pubDate>Fri, 19 Jun 2026 20:41:38 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1781887314/posts/iaimages/wjz3s12oxbasqq27fboz.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>El juez corrige un error material y aclara que no hay nueva imputación contra Begoña Gómez</title>
 <description>El juez Juan Carlos Peinado ha emitido una nueva providencia en la que rectifica una resolución anterior relacionada con el denominado caso Begoña Gómez. En el documento inicial se había incluido por ...</description>
 <category>Justicia</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/634f8707-94ce-4c86-82c0-f7648ab43079</guid>
 <pubDate>Fri, 19 Jun 2026 10:30:24 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1781830697/posts/autoimages/oz34wipi5rqwjmjdu8qq.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>La reciente renovación del estanque reflectante de Washington muestra fallos con desprendimiento del revestimiento y proliferación de algas</title>
-<description>La reciente renovación del estanque reflectante del Lincoln Memorial en Washington D.C., impulsada durante la administración de Donald Trump y con un coste aproximado de 13 millones de dólares, está s...</description>
-<category>Política</category>
-<link>https://killbait.com/posts/post/29048203-eff9-4017-81fc-95003a986562</link>
-<guid>https://killbait.com/posts/post/29048203-eff9-4017-81fc-95003a986562</guid>
-<pubDate>Fri, 19 Jun 2026 10:30:18 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1781840837/posts/autoimages/bbdj3fo1dwhfcofoh0cz.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
