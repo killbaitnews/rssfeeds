@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Erosión del apoyo occidental a Israel en medio del aumento de tensiones en Oriente Medio</title>
+<description>El artículo analiza un posible cambio en el equilibrio de apoyos internacionales hacia el gobierno israelí de Benjamín Netanyahu en un contexto de creciente tensión en Oriente Medio. Según el texto, e...</description>
+<category>Geopolítica</category>
+<link>https://killbait.com/posts/post/48b32a6d-7b5f-40db-bace-1cb80c933b32</link>
+<guid>https://killbait.com/posts/post/48b32a6d-7b5f-40db-bace-1cb80c933b32</guid>
+<pubDate>Sat, 20 Jun 2026 09:21:44 +0200</pubDate>
+<enclosure url="https://cdn.killbait.com/static/channels/customimages/nuclear-news.net.png" type="image/jpeg" />
+</item>
+<item>
 <title>Los primeros sistemas operativos: del procesamiento por lotes a GM-NAA I/O</title>
 <description>El texto repasa los orígenes de los sistemas operativos, situando su evolución en las décadas de 1950 y 1960, antes de la aparición de UNIX en los años 70. En sus inicios, los ordenadores eran máquina...</description>
 <category>Informática</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/036f00df-7bb2-4eb2-beb1-088212157d91</guid>
 <pubDate>Fri, 19 Jun 2026 21:58:16 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1781875919/posts/iaimages/t3ucssiugeajjvlp3hpn.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Investigación sobre una posible red masiva de repositorios en GitHub que distribuyen malware mediante patrones automatizados</title>
-<description>El artículo describe la investigación de un desarrollador que afirma haber descubierto una posible campaña de distribución de malware a gran escala en GitHub. El hallazgo surge de la detección de repo...</description>
-<category>Tecnología</category>
-<link>https://killbait.com/posts/post/0decfb33-2d9a-4da6-abc1-047f029e882c</link>
-<guid>https://killbait.com/posts/post/0decfb33-2d9a-4da6-abc1-047f029e882c</guid>
-<pubDate>Fri, 19 Jun 2026 20:41:38 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1781887314/posts/iaimages/wjz3s12oxbasqq27fboz.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
