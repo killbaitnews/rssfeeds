@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>El despliegue acelerado de un reactor nuclear experimental en Parsons (Kansas) y el debate sobre su seguridad y transparencia</title>
+<description>La noticia aborda la instalación de un innovador proyecto de reactor nuclear en Parsons, Kansas, impulsado por la empresa Deep Fission dentro de un programa federal estadounidense de aceleración de te...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/e17ac6ee-356b-451d-95e5-064d4c3c617a</link>
+<guid>https://killbait.com/posts/post/e17ac6ee-356b-451d-95e5-064d4c3c617a</guid>
+<pubDate>Sun, 21 Jun 2026 15:28:02 +0200</pubDate>
+<enclosure url="https://cdn.killbait.com/static/channels/customimages/nuclear-news.net.png" type="image/jpeg" />
+</item>
+<item>
 <title>Uso de texto engañoso en malware para interferir en el análisis automatizado con IA</title>
 <description>La noticia describe una técnica emergente observada en ciertos desarrollos de spyware en la que los atacantes insertan contenido textual diseñado específicamente para interferir en sistemas de análisi...</description>
 <category>Ciberseguridad</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/aab16fe2-836e-41f5-a059-24cbb323b09d</guid>
 <pubDate>Sun, 21 Jun 2026 09:36:14 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1782019957/posts/autoimages/lujqarqbm4bxy8yzange.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Críticas a la instrucción del juez Peinado en el caso Begoña Gómez y su envío a juicio</title>
-<description>El artículo de opinión analiza el cierre de la instrucción judicial llevada a cabo por el juez Peinado en el denominado caso de Begoña Gómez, tras más de dos años de investigación. Según el texto, el ...</description>
-<category>Opinión</category>
-<link>https://killbait.com/posts/post/ebf3b29d-dda5-444d-a9af-5ec0265303cf</link>
-<guid>https://killbait.com/posts/post/ebf3b29d-dda5-444d-a9af-5ec0265303cf</guid>
-<pubDate>Sun, 21 Jun 2026 09:14:15 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1782025359/posts/autoimages/dkrs2xumpbtfotnxaxip.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
