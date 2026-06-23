@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Un tribunal suizo respalda a la revista Republik frente a las demandas de réplica de Palantir</title>
+<description>Un tribunal mercantil de Zúrich ha dado la razón en gran medida a la revista suiza Republik en un caso que enfrentaba al medio con la tecnológica estadounidense Palantir, especializada en inteligencia...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/82bf7ba1-0ed3-41ca-a002-a99e278aa96a</link>
+<guid>https://killbait.com/posts/post/82bf7ba1-0ed3-41ca-a002-a99e278aa96a</guid>
+<pubDate>Tue, 23 Jun 2026 17:35:09 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1782206252/posts/autoimages/cr70lxb1uhjph6a2oec1.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Dos vulnerabilidades críticas en libssh2 permiten ejecución remota de código y ataques de denegación de servicio</title>
 <description>Se han identificado dos vulnerabilidades críticas en libssh2, una biblioteca SSH ampliamente utilizada que está integrada en millones de sistemas y aplicaciones en todo el mundo. Esta librería es una ...</description>
 <category>Tecnología</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/f7efaeeb-de38-4edd-8de1-4722f0369cb9</guid>
 <pubDate>Tue, 23 Jun 2026 08:07:01 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1782184319/posts/iaimages/wjul8pcwddenc9ixypn2.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Las comunidades autónomas acuerdan permitir el control letal del lobo en España tras considerar su estado de conservación favorable</title>
-<description>La Conferencia Sectorial de Medio Ambiente, formada por el Ministerio para la Transición Ecológica y las comunidades autónomas, ha aprobado una propuesta que abre la puerta a la caza o control letal d...</description>
-<category>Medio ambiente</category>
-<link>https://killbait.com/posts/post/35b2582d-b5ac-4bed-9c51-715d6e03b396</link>
-<guid>https://killbait.com/posts/post/35b2582d-b5ac-4bed-9c51-715d6e03b396</guid>
-<pubDate>Tue, 23 Jun 2026 07:54:32 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1782191860/posts/autoimages/znsn8egycdjxj2u7elyz.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
