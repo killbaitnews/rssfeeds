@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Oleiros quema una falla de San Juan con figuras de Trump y Netanyahu en la playa de Bastiagueiro</title>
+<description>El municipio de Oleiros, en la provincia de A Coruña, ha finalizado la instalación de su tradicional falla de San Juan en la playa de Bastiagueiro, una estructura pirotécnica que será quemada durante ...</description>
+<category>Cultura</category>
+<link>https://killbait.com/posts/post/612911f8-160b-400d-819d-3bf87158976f</link>
+<guid>https://killbait.com/posts/post/612911f8-160b-400d-819d-3bf87158976f</guid>
+<pubDate>Wed, 24 Jun 2026 04:55:20 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1782253054/posts/autoimages/ivgwb23aejpwfhocevtv.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Debate sobre la percepción de corrupción estructural y desigualdad en la justicia en España</title>
 <description>El artículo analiza una creciente percepción de deterioro institucional en España, centrada en dos problemas que el autor considera interrelacionados: la corrupción política estructural y un sistema j...</description>
 <category>Opinión</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/82bf7ba1-0ed3-41ca-a002-a99e278aa96a</guid>
 <pubDate>Tue, 23 Jun 2026 17:35:09 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1782206252/posts/autoimages/cr70lxb1uhjph6a2oec1.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Dos vulnerabilidades críticas en libssh2 permiten ejecución remota de código y ataques de denegación de servicio</title>
-<description>Se han identificado dos vulnerabilidades críticas en libssh2, una biblioteca SSH ampliamente utilizada que está integrada en millones de sistemas y aplicaciones en todo el mundo. Esta librería es una ...</description>
-<category>Tecnología</category>
-<link>https://killbait.com/posts/post/d9823799-b921-45fd-ad43-768c0ab0ec20</link>
-<guid>https://killbait.com/posts/post/d9823799-b921-45fd-ad43-768c0ab0ec20</guid>
-<pubDate>Tue, 23 Jun 2026 16:11:47 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1782212531/posts/iaimages/zd2yoo8tctmrlotmh9wz.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
