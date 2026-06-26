@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Tilman Fertitta&apos;s planned America 250 yacht visit to Venice sparks local protests ahead of historic festival</title>
+<description>Tilman Fertitta, the billionaire businessman, owner of the Houston Rockets, and U.S. ambassador to Italy appointed by President Donald Trump, has drawn criticism from residents and activists in Venice...</description>
+<category>Politics</category>
+<link>https://killbait.com/posts/post/3c28789c-9670-40c4-8761-f06ba6e76bcc</link>
+<guid>https://killbait.com/posts/post/3c28789c-9670-40c4-8761-f06ba6e76bcc</guid>
+<pubDate>Fri, 26 Jun 2026 09:29:33 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1782455205/posts/autoimages/kajhwudukokzgmdmfeto.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Why API-level authorization, not client tooling, is the real security boundary in MCP server design</title>
 <description>This article explores the architecture and security model behind an MCP (Model Context Protocol) server used as a team knowledge base system called intent-brain. The system sits on top of a Fastify HT...</description>
 <category>Artificial intelligence</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/a16af0e4-5fa6-405b-9999-99aac8fde056</guid>
 <pubDate>Thu, 25 Jun 2026 20:57:50 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1782409245/posts/autoimages/nr90n2zdaibrsufvy32j.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>House GOP cancels scheduled votes amid internal party dispute over stalled legislation</title>
-<description>House Republican leaders were forced to cancel a planned Friday voting session after an internal standoff within the party threatened to disrupt the chamber’s legislative schedule. According to a noti...</description>
-<category>Politics</category>
-<link>https://killbait.com/posts/post/ad6672a8-6067-44bf-8861-ec78ef9ca499</link>
-<guid>https://killbait.com/posts/post/ad6672a8-6067-44bf-8861-ec78ef9ca499</guid>
-<pubDate>Thu, 25 Jun 2026 19:45:52 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1782404743/posts/autoimages/apeh4dqtmilplusnfcml.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
