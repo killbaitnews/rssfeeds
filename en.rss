@@ -6,6 +6,24 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>CNN analysis says rising health care costs could give Democrats a significant advantage in the 2026 midterm elections</title>
+<description>A CNN data analysis presented by Harry Enten argues that health care costs have become the leading financial concern for Americans, potentially giving Democrats a significant political advantage ahead...</description>
+<category>Politics</category>
+<link>https://killbait.com/posts/post/2a43289a-30fc-4d94-92f1-5d801ee7f701</link>
+<guid>https://killbait.com/posts/post/2a43289a-30fc-4d94-92f1-5d801ee7f701</guid>
+<pubDate>Fri, 26 Jun 2026 18:16:34 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1782486751/posts/autoimages/tbottvjwm8wg9jhpwvnb.png" type="image/jpeg" />
+</item>
+<item>
+<title>MSNBC panel questions Michael Boulos&apos; presence at Rubio&apos;s Middle East meetings amid conflict-of-interest concerns</title>
+<description>An MSNBC discussion focused on questions surrounding Michael Boulos, the husband of Tiffany Trump, after reports indicated that he attended meetings alongside Secretary of State Marco Rubio during a d...</description>
+<category>Politics</category>
+<link>https://killbait.com/posts/post/c82f3eda-6a46-4d46-8ddc-75edcfba0ae5</link>
+<guid>https://killbait.com/posts/post/c82f3eda-6a46-4d46-8ddc-75edcfba0ae5</guid>
+<pubDate>Fri, 26 Jun 2026 18:00:21 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1782489365/posts/autoimages/hncujrd7nv1mmyp7tzs4.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>New Genetic Study Finds Late Neanderthals Were Not Highly Inbred</title>
 <description>A new study analyzing ancient DNA from 27 Neanderthal individuals suggests that the last surviving Neanderthal populations in northwestern Europe were not heavily affected by inbreeding, challenging l...</description>
 <category>Genetics</category>
@@ -166,24 +184,6 @@
 <guid>https://killbait.com/posts/post/9ec76ac8-4805-4954-bb61-bc842fca5461</guid>
 <pubDate>Fri, 26 Jun 2026 09:59:15 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1782458764/posts/autoimages/oarihj6hzqgayqfzzsew.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Tilman Fertitta&apos;s planned America 250 yacht visit to Venice sparks local protests ahead of historic festival</title>
-<description>Tilman Fertitta, the billionaire businessman, owner of the Houston Rockets, and U.S. ambassador to Italy appointed by President Donald Trump, has drawn criticism from residents and activists in Venice...</description>
-<category>Politics</category>
-<link>https://killbait.com/posts/post/3c28789c-9670-40c4-8761-f06ba6e76bcc</link>
-<guid>https://killbait.com/posts/post/3c28789c-9670-40c4-8761-f06ba6e76bcc</guid>
-<pubDate>Fri, 26 Jun 2026 09:29:33 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1782455205/posts/autoimages/kajhwudukokzgmdmfeto.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Why API-level authorization, not client tooling, is the real security boundary in MCP server design</title>
-<description>This article explores the architecture and security model behind an MCP (Model Context Protocol) server used as a team knowledge base system called intent-brain. The system sits on top of a Fastify HT...</description>
-<category>Artificial intelligence</category>
-<link>https://killbait.com/posts/post/6016fc32-8c48-468b-a2f1-23af3897819f</link>
-<guid>https://killbait.com/posts/post/6016fc32-8c48-468b-a2f1-23af3897819f</guid>
-<pubDate>Fri, 26 Jun 2026 08:33:14 +0200</pubDate>
-<enclosure url="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fedbxn78tvymjm6gselll.png" type="image/jpeg" />
 </item>
 </channel>
 </rss>
