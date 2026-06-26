@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Why API-level authorization, not client tooling, is the real security boundary in MCP server design</title>
+<description>This article explores the architecture and security model behind an MCP (Model Context Protocol) server used as a team knowledge base system called intent-brain. The system sits on top of a Fastify HT...</description>
+<category>Artificial intelligence</category>
+<link>https://killbait.com/posts/post/6016fc32-8c48-468b-a2f1-23af3897819f</link>
+<guid>https://killbait.com/posts/post/6016fc32-8c48-468b-a2f1-23af3897819f</guid>
+<pubDate>Fri, 26 Jun 2026 08:33:14 +0200</pubDate>
+<enclosure url="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fedbxn78tvymjm6gselll.png" type="image/jpeg" />
+</item>
+<item>
 <title>Rep. Rich McCormick Faces Backlash After Describing Medicaid as &apos;Free Money&apos; at Town Hall</title>
 <description>Republican Rep. Rich McCormick of Georgia drew widespread criticism after comments he made about Medicaid during a town hall event. McCormick argued that providing what he described as &apos;free money&apos; th...</description>
 <category>Politics</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/ad6672a8-6067-44bf-8861-ec78ef9ca499</guid>
 <pubDate>Thu, 25 Jun 2026 19:45:52 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1782404743/posts/autoimages/apeh4dqtmilplusnfcml.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Disney to Pay $50 Million Settlement Over Alleged Price Inflation Impacting YouTube TV and DIRECTV Stream Users</title>
-<description>Disney has agreed to a $50 million settlement following a class action lawsuit involving subscribers of YouTube TV and DIRECTV Stream. The lawsuit alleges that Disney used its market power to force st...</description>
-<category>Justice</category>
-<link>https://killbait.com/posts/post/c29f6ba8-7637-41da-8074-1b52ea5c9cb1</link>
-<guid>https://killbait.com/posts/post/c29f6ba8-7637-41da-8074-1b52ea5c9cb1</guid>
-<pubDate>Thu, 25 Jun 2026 18:31:51 +0200</pubDate>
-<enclosure url="https://www.androidheadlines.com/wp-content/uploads/2023/06/YouTube-TV-AM-AH0.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
