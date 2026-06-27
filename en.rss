@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Behind-the-Scenes Photos of Isabelle Adjani During the Filming of The Story of Adèle H. (1975)</title>
+<description>The article presents a collection of behind-the-scenes photographs of Isabelle Adjani during the production of François Truffaut’s 1975 film “The Story of Adèle H.”, highlighting both her performance ...</description>
+<category>Cinema</category>
+<link>https://killbait.com/posts/post/7c4a1359-759e-4c71-afc4-6546f84ebaca</link>
+<guid>https://killbait.com/posts/post/7c4a1359-759e-4c71-afc4-6546f84ebaca</guid>
+<pubDate>Sat, 27 Jun 2026 20:26:36 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1782573235/posts/autoimages/e8gtgkwdw785iduc9bgq.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>JD Vance questioned on U.S. assessment of Iran nuclear program during interview with Bill Maher</title>
 <description>Vice President JD Vance faced pointed questioning during a Friday appearance on HBO’s “Real Time with Bill Maher,” where the discussion centered on the Trump administration’s tentative peace deal with...</description>
 <category>Geopolitics</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/ccf7c6b5-79d3-4f68-b7bf-f7692fac8345</guid>
 <pubDate>Sat, 27 Jun 2026 03:53:25 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1782521815/posts/autoimages/ussmwpcxw7ndvmypushp.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Using OpenTelemetry to Trace AI Agent Decisions and Tool Usage</title>
-<description>The article explains how traditional logging falls short when debugging failures in AI agents, especially in high-stakes scenarios where an agent may execute unintended actions such as deleting or mod...</description>
-<category>Artificial intelligence</category>
-<link>https://killbait.com/posts/post/5f0d99cb-1d35-424b-87f1-e8bddbb06294</link>
-<guid>https://killbait.com/posts/post/5f0d99cb-1d35-424b-87f1-e8bddbb06294</guid>
-<pubDate>Sat, 27 Jun 2026 02:44:12 +0200</pubDate>
-<enclosure url="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkt18h2arvyxcif2wc57j.png" type="image/jpeg" />
 </item>
 </channel>
 </rss>
