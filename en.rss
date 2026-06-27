@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Vanilla Ice Performance at Freedom 250 Great American State Fair Canceled Due to Severe Weather</title>
+<description>The Freedom 250 Great American State Fair announced that it would close early on Friday, June 26, 2026, because of severe weather, resulting in the cancellation of rapper Vanilla Ice&apos;s scheduled perfo...</description>
+<category>Music</category>
+<link>https://killbait.com/posts/post/ccf7c6b5-79d3-4f68-b7bf-f7692fac8345</link>
+<guid>https://killbait.com/posts/post/ccf7c6b5-79d3-4f68-b7bf-f7692fac8345</guid>
+<pubDate>Sat, 27 Jun 2026 03:53:25 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1782521815/posts/autoimages/ussmwpcxw7ndvmypushp.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Using OpenTelemetry to Trace AI Agent Decisions and Tool Usage</title>
 <description>The article explains how traditional logging falls short when debugging failures in AI agents, especially in high-stakes scenarios where an agent may execute unintended actions such as deleting or mod...</description>
 <category>Artificial intelligence</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/fd8fc113-aa95-48a5-a319-8114d8133e27</guid>
 <pubDate>Fri, 26 Jun 2026 16:45:56 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1782484876/posts/autoimages/f4qpvfqdfcghe1bxlj8b.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Report: Pope Leo XIV to issue updated guidance on just war amid tensions with President Trump</title>
-<description>Pope Leo XIV is expected to release new guidance on the Catholic Church’s teaching regarding what constitutes a “just war,” following a high-level meeting with cardinals from around the world. Accordi...</description>
-<category>Religion</category>
-<link>https://killbait.com/posts/post/c1e9c802-b422-4d0e-a2ae-2881704b134e</link>
-<guid>https://killbait.com/posts/post/c1e9c802-b422-4d0e-a2ae-2881704b134e</guid>
-<pubDate>Fri, 26 Jun 2026 16:33:09 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1782479975/posts/autoimages/nn50y8msz3ad8gkoymih.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
