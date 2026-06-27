@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Using OpenTelemetry to Trace AI Agent Decisions and Tool Usage</title>
+<description>The article explains how traditional logging falls short when debugging failures in AI agents, especially in high-stakes scenarios where an agent may execute unintended actions such as deleting or mod...</description>
+<category>Artificial intelligence</category>
+<link>https://killbait.com/posts/post/5f0d99cb-1d35-424b-87f1-e8bddbb06294</link>
+<guid>https://killbait.com/posts/post/5f0d99cb-1d35-424b-87f1-e8bddbb06294</guid>
+<pubDate>Sat, 27 Jun 2026 02:44:12 +0200</pubDate>
+<enclosure url="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkt18h2arvyxcif2wc57j.png" type="image/jpeg" />
+</item>
+<item>
 <title>Casio announces Pokémon-themed G-Shock watch with July 2026 release and lottery sale system</title>
 <description>Casio is set to release a special Pokémon-themed G-Shock watch as part of the franchise’s 30th anniversary celebrations. The collaboration uses the well-known G-Shock GA-110 model as its base and inco...</description>
 <category>Technology</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/c1e9c802-b422-4d0e-a2ae-2881704b134e</guid>
 <pubDate>Fri, 26 Jun 2026 16:33:09 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1782479975/posts/autoimages/nn50y8msz3ad8gkoymih.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Report claims concerns about President Trump’s health and ability to complete his term amid staff and political speculation</title>
-<description>A report highlighted by columnist Brian Karem and published in Salon claims that concerns are circulating among some members of President Donald Trump’s staff and political circles regarding his physi...</description>
-<category>Politics</category>
-<link>https://killbait.com/posts/post/1d03d4ce-5a5f-44d2-a51b-bef0a4527a3f</link>
-<guid>https://killbait.com/posts/post/1d03d4ce-5a5f-44d2-a51b-bef0a4527a3f</guid>
-<pubDate>Fri, 26 Jun 2026 16:27:41 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1782483304/posts/autoimages/w4iihsoinfrv6s3ot0tk.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
