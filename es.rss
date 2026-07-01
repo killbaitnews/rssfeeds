@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>La ola de calor en Europa reduce la producción nuclear y tensiona el sistema eléctrico europeo</title>
+<description>Una intensa ola de calor en Europa está provocando una fuerte presión sobre los sistemas energéticos del continente, afectando especialmente a la producción de energía nuclear. Las altas temperaturas ...</description>
+<category>Cambio climático</category>
+<link>https://killbait.com/posts/post/a63dfc1a-1ca3-4497-83dd-03cb5c7ddc47</link>
+<guid>https://killbait.com/posts/post/a63dfc1a-1ca3-4497-83dd-03cb5c7ddc47</guid>
+<pubDate>Wed, 1 Jul 2026 18:50:47 +0200</pubDate>
+<enclosure url="https://cdn.killbait.com/static/channels/customimages/nuclear-news.net.png" type="image/jpeg" />
+</item>
+<item>
 <title>Gilberto Mora, segundo jugador más joven en ser titular en eliminatorias de un Mundial</title>
 <description>Gilberto Mora, la joven promesa del fútbol mexicano que juega para los Xolos de Tijuana, se ha convertido en una de las grandes revelaciones de la Selección Mexicana en la Copa Mundial 2026. Con tan s...</description>
 <category>Deportes</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/a71cc04d-324c-41f8-9b18-a92a40480d28</guid>
 <pubDate>Mon, 29 Jun 2026 15:28:52 +0200</pubDate>
 <enclosure url="https://cdn.killbait.com/static/channels/customimages/nuclear-news.net.png" type="image/jpeg" />
-</item>
-<item>
-<title>Fuertes lluvias afectarán a México por tres ondas tropicales y sistemas de baja presión</title>
-<description>El Servicio Meteorológico Nacional y la Comisión Nacional del Agua (Conagua) han alertado sobre la llegada de tres ondas tropicales, identificadas como 12, 13 y 14, que impactarán diversas regiones de...</description>
-<category>Cambio climático</category>
-<link>https://killbait.com/posts/post/02dc1d9c-a8b9-4fae-9ca8-34c159bb2b26</link>
-<guid>https://killbait.com/posts/post/02dc1d9c-a8b9-4fae-9ca8-34c159bb2b26</guid>
-<pubDate>Mon, 29 Jun 2026 09:20:46 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1782709103/posts/autoimages/mvvnxgouytpdjb6p2lxb.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
