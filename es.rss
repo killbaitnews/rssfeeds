@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Actualización sobre cuestiones nucleares y desafíos globales</title>
+<description>La noticia recoge un amplio abanico de temas relacionados con la industria nuclear, destacando la expansión estratégica británica, los problemas de gestión de residuos radiactivos en Fukushima, y el i...</description>
+<category>Medio ambiente</category>
+<link>https://killbait.com/posts/post/37c6a555-ea12-41be-936d-b0dec261e23a</link>
+<guid>https://killbait.com/posts/post/37c6a555-ea12-41be-936d-b0dec261e23a</guid>
+<pubDate>Sat, 1 Aug 2026 00:55:08 +0200</pubDate>
+<enclosure url="https://cdn.killbait.com/static/channels/customimages/nuclear-news.net.png" type="image/jpeg" />
+</item>
+<item>
 <title>Aumento en la demanda de medicamentos públicos y ajustes regulatorios</title>
 <description>La demanda de medicamentos para el sector público, destinados al uso en los años 2027 y 2028, aumentó a mil millones de piezas respecto del periodo anterior, según informó el Instituto Farmacéutico Mé...</description>
 <category>Política</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/dbab0d7a-aa12-4dca-9353-0d859d3a1e15</guid>
 <pubDate>Fri, 31 Jul 2026 22:39:31 +0200</pubDate>
 <enclosure url="https://cdn.killbait.com/static/posts/autoimages/f8c311c2-0e6e-472f-a6f8-902028123b3d.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Ostras y arrecifes: el proyecto que revierte residuos marinos en ecosistemas</title>
-<description>Un ambicioso proyecto en Florida transformó más de 500.000 toneladas de conchas de ostras y mejillones recolectados de restaurantes y plantas procesadoras en arrecifes marinos que revitalizaron ecosis...</description>
-<category>Medio ambiente</category>
-<link>https://killbait.com/posts/post/cb1e585a-4dc3-4b5c-97bd-d09818bf4092</link>
-<guid>https://killbait.com/posts/post/cb1e585a-4dc3-4b5c-97bd-d09818bf4092</guid>
-<pubDate>Fri, 31 Jul 2026 22:39:28 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1785530014/posts/autoimages/sc16koax9nx0674mzsmj.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
