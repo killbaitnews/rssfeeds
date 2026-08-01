@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>ICE Implements New Dress Code Amid Controversy Over Officer Safety and Public Perception</title>
+<description>Senior Trump administration officials and Immigration and Customs Enforcement (ICE) officers are expressing frustration over a recent dress code policy implemented by the agency. The new guidelines, w...</description>
+<category>Politics</category>
+<link>https://killbait.com/posts/post/9b731602-be88-4d60-aed3-b46d7117dfcb</link>
+<guid>https://killbait.com/posts/post/9b731602-be88-4d60-aed3-b46d7117dfcb</guid>
+<pubDate>Sat, 1 Aug 2026 10:51:44 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1785573958/posts/autoimages/ii1ehnm5zhhvjzduga2f.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Linux Kernel Vulnerability Enables Privilege Escalation via Local Exploits</title>
 <description>The National Vulnerability Database (NVD) has published a critical vulnerability, CVE-2026-15262, affecting the Linux kernel. This flaw allows local attackers to escalate privileges by exploiting impr...</description>
 <category>Technology</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/a6713bde-159d-409f-b79e-33bb45999c85</guid>
 <pubDate>Fri, 31 Jul 2026 22:42:28 +0200</pubDate>
 <enclosure url="https://cdn.killbait.com/static/channels/customimages/nuclear-news.net.png" type="image/jpeg" />
-</item>
-<item>
-<title>Balochistan Security Crisis: Military Operations and Development Initiatives</title>
-<description>The military spokesperson addressed ongoing security challenges in Balochistan, highlighting attacks on infrastructure, police capacity constraints, and Indian involvement in terrorism. Terrorist grou...</description>
-<category>Conflict</category>
-<link>https://killbait.com/posts/post/4af1ce9b-c807-464d-8569-2ad08f616407</link>
-<guid>https://killbait.com/posts/post/4af1ce9b-c807-464d-8569-2ad08f616407</guid>
-<pubDate>Fri, 31 Jul 2026 22:41:56 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1785508143/posts/autoimages/fbns8etmk1kc054nw2kl.webp" type="image/jpeg" />
 </item>
 </channel>
 </rss>
