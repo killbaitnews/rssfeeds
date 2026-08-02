@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Una película que enseña sobre el cine</title>
+<description>La noticia analiza la película &apos;El niño de la bicicleta&apos;, dirigida por los hermanos Dardenne, destacando su enfoque realista y su crítica a las condiciones sociales en Europa. La obra, ganadora del Gr...</description>
+<category>Cine</category>
+<link>https://killbait.com/posts/post/c903ac84-0ec5-4367-baa0-74179b043500</link>
+<guid>https://killbait.com/posts/post/c903ac84-0ec5-4367-baa0-74179b043500</guid>
+<pubDate>Mon, 3 Aug 2026 01:23:18 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1785712192/posts/autoimages/trnr51nrs75vkdfbb6ym.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Gobierno peruano evalúa clausura de aeropuerto de Pisco tras accidente aéreo en Nasca</title>
 <description>Un accidente aéreo ocurrido el sábado 1 de agosto en el distrito de Pueblo Nuevo, región Ica, dejó 13 muertos, incluyendo 11 ciudadanos europeos y dos tripulantes peruanos. La avioneta modelo Cessna G...</description>
 <category>Sucesos</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/b5efab0d-af72-47f0-a7cd-0817378a7aac</guid>
 <pubDate>Mon, 3 Aug 2026 00:41:24 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1785709789/posts/autoimages/zx940viwnevttrboeutl.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Elecciones municipales en Santiago del Estero: resultados y análisis político</title>
-<description>Este domingo 19 de agosto se finalizaron las elecciones municipales en Santiago del Estero, donde los santiagueños eligieron intendentes y concejales en 25 municipios. El escrutinio comenzó tras la ce...</description>
-<category>Política</category>
-<link>https://killbait.com/posts/post/a34a3594-e300-42da-a12b-a553e27c3d1f</link>
-<guid>https://killbait.com/posts/post/a34a3594-e300-42da-a12b-a553e27c3d1f</guid>
-<pubDate>Mon, 3 Aug 2026 00:40:34 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1785709765/posts/autoimages/wvdu7lnlban3uxge9sic.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
