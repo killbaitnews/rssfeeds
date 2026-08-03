@@ -6,6 +6,33 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Apple Struggles with MacBook Air Supply Due to Global Memory Shortage</title>
+<description>The article discusses how a global memory chip shortage, driven by high demand from AI companies, is impacting Apple&apos;s supply chain. This shortage has affected niche Mac products like the Mac mini and...</description>
+<category>Technology</category>
+<link>https://killbait.com/posts/post/7cd299ac-5ace-4e98-94a4-024bb2323f8c</link>
+<guid>https://killbait.com/posts/post/7cd299ac-5ace-4e98-94a4-024bb2323f8c</guid>
+<pubDate>Mon, 3 Aug 2026 09:53:27 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1785739915/posts/autoimages/tzk4g22jpla6byf13o5m.png" type="image/jpeg" />
+</item>
+<item>
+<title>Chadema Takes Legal Action Against Defamatory Social Media Campaigns</title>
+<description>Tanzania’s main opposition party Chadema has decided to take legal action against individuals spreading false information about its chairman, Freeman Mbowe, through social media. The party accuses the...</description>
+<category>Politics</category>
+<link>https://killbait.com/posts/post/910c5f58-d6c4-4957-99c4-7f957faad7e2</link>
+<guid>https://killbait.com/posts/post/910c5f58-d6c4-4957-99c4-7f957faad7e2</guid>
+<pubDate>Mon, 3 Aug 2026 09:53:16 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1785740353/posts/autoimages/mtgjohxx2eertcwuahk6.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Understanding Dependency Caching in Continuous Integration Pipelines</title>
+<description>This article explains how dependency caching works in CI/CD (Continuous Integration/Continuous Deployment) pipelines, a critical process for software development teams. When developers push code chang...</description>
+<category>Technology</category>
+<link>https://killbait.com/posts/post/59bb36c9-690f-4c66-933a-8dd36fb5947d</link>
+<guid>https://killbait.com/posts/post/59bb36c9-690f-4c66-933a-8dd36fb5947d</guid>
+<pubDate>Mon, 3 Aug 2026 09:50:29 +0200</pubDate>
+<enclosure url="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjpjpycoalxg1wqogfnr.png" type="image/jpeg" />
+</item>
+<item>
 <title>Supreme Court asks ED to release partial funds from TMC&apos;s frozen accounts for operational needs</title>
 <description>The Supreme Court has directed the Enforcement Directorate (ED) to evaluate releasing some funds from three frozen bank accounts of the Trinamool Congress (TMC), amid a legal dispute over the validity...</description>
 <category>Justice</category>
@@ -157,33 +184,6 @@
 <guid>https://killbait.com/posts/post/4daef58c-5ace-4cf4-9f46-9431400707b2</guid>
 <pubDate>Mon, 3 Aug 2026 09:15:12 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1785740413/posts/autoimages/k78ngqx2fpxwyykhukzb.webp" type="image/jpeg" />
-</item>
-<item>
-<title>Nigeria and South Africa Must Strengthen Their Ties to Avoid Historical Mistakes</title>
-<description>The article discusses the strained relationship between Nigeria and South Africa, highlighting historical racial tensions and recent incidents of xenophobia. Former Nigerian Minister Femi Fani-Kayode ...</description>
-<category>Politics</category>
-<link>https://killbait.com/posts/post/532573be-6c02-40e5-9bb1-4c3e1e2f7771</link>
-<guid>https://killbait.com/posts/post/532573be-6c02-40e5-9bb1-4c3e1e2f7771</guid>
-<pubDate>Mon, 3 Aug 2026 09:14:49 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1785740319/posts/autoimages/ciszqfbkfuihwzdijajn.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>News Corp Australia Blocks Crawlers with Access Issues Message</title>
-<description>The article discusses an error message issued by News Corp Australia to users attempting to access their website, indicating they may have been detected as a crawler bot. The company employs software ...</description>
-<category>Politics</category>
-<link>https://killbait.com/posts/post/2842025b-848a-4af7-a111-fe5401c52f84</link>
-<guid>https://killbait.com/posts/post/2842025b-848a-4af7-a111-fe5401c52f84</guid>
-<pubDate>Mon, 3 Aug 2026 09:11:05 +0200</pubDate>
-<enclosure url="https://killbait.com/assets/images/logo/logo-360x360-white.png" type="image/jpeg" />
-</item>
-<item>
-<title>Delhi Court Acquits Brij Bhushan Singh in Sexual Harassment Case After Two Years of Trial</title>
-<description>The Delhi court has acquitted Brij Bhushan Singh, former president of the Wrestling Federation of India (WFI), in a sexual harassment case involving allegations by six women wrestlers. The trial spann...</description>
-<category>Justice</category>
-<link>https://killbait.com/posts/post/fb353ddc-19f2-4590-be50-184f7ef36d2a</link>
-<guid>https://killbait.com/posts/post/fb353ddc-19f2-4590-be50-184f7ef36d2a</guid>
-<pubDate>Mon, 3 Aug 2026 09:11:00 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1785736238/posts/autoimages/qzgg6gvctvuvywjdiri8.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
