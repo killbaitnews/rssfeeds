@@ -6,6 +6,24 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Technical Access Issue Prevents Reading News Article</title>
+<description>The article discusses a technical issue where users are being blocked by News Corp Australia&apos;s crawler management system. The message explains that if a user is not a crawler bot but is encountering a...</description>
+<category>Incidents</category>
+<link>https://killbait.com/posts/post/5d7260a4-f9ce-488e-9cbd-f1ad6268c5ec</link>
+<guid>https://killbait.com/posts/post/5d7260a4-f9ce-488e-9cbd-f1ad6268c5ec</guid>
+<pubDate>Sun, 9 Aug 2026 07:50:10 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1786240605/posts/iaimages/avrtqvhmrg6eavp8uunc.png" type="image/jpeg" />
+</item>
+<item>
+<title>Durban City Coach Khalil Ben Youssef Discusses Job Security Amid PSL Challenges</title>
+<description>Durban City head coach Khalil Ben Youssef has addressed concerns about his position following the team&apos;s 2-1 extra-time defeat to Orlando Pirates in the MTN8 quarter-finals. The Tunisian coach acknowl...</description>
+<category>Sports</category>
+<link>https://killbait.com/posts/post/00567ef8-1866-4950-95e2-7ec6dad8236b</link>
+<guid>https://killbait.com/posts/post/00567ef8-1866-4950-95e2-7ec6dad8236b</guid>
+<pubDate>Sun, 9 Aug 2026 07:43:53 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1786252457/posts/autoimages/fprzrjrbgfk970rpnv5j.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Blue Jays defeat Phillies with late rally; Scherzer reaches 3,516 strikeouts</title>
 <description>In a thrilling late-inning showdown, the Toronto Blue Jays secured a 7-5 victory over the Philadelphia Phillies on Saturday night. Nathan Lukes delivered the decisive blow with a two-run home run in t...</description>
 <category>Sports</category>
@@ -166,24 +184,6 @@
 <guid>https://killbait.com/posts/post/124bccbc-799e-49b0-bad4-64b85d3c414c</guid>
 <pubDate>Sun, 9 Aug 2026 07:03:52 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1786236901/posts/autoimages/awer3zbza6rfevblhl12.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Government Delay in Import Tender Sparks Concern Over Flour Price Hikes</title>
-<description>The article highlights the ongoing surge in wheat and flour prices across Pakistan, with consumers facing significant cost increases despite government plans to import one million tonnes of grain. Acc...</description>
-<category>Economy</category>
-<link>https://killbait.com/posts/post/fa255650-f8aa-4deb-b267-f4161ecfdbb5</link>
-<guid>https://killbait.com/posts/post/fa255650-f8aa-4deb-b267-f4161ecfdbb5</guid>
-<pubDate>Sun, 9 Aug 2026 07:03:33 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1786251145/posts/autoimages/ks4fv3pyhrdphba58cgx.webp" type="image/jpeg" />
-</item>
-<item>
-<title>ANC leadership conflict in Northern Cape threatens election stability</title>
-<description>The ANC&apos;s national executive committee (NEC) has intervened in a leadership dispute within the Northern Cape province, aiming to prevent instability ahead of local government elections. Premier Zamani...</description>
-<category>Politics</category>
-<link>https://killbait.com/posts/post/96647bb2-31d8-4c19-a411-c5522e60acf3</link>
-<guid>https://killbait.com/posts/post/96647bb2-31d8-4c19-a411-c5522e60acf3</guid>
-<pubDate>Sun, 9 Aug 2026 07:02:51 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1786240542/posts/autoimages/avahi63hdkmn9abksyim.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
