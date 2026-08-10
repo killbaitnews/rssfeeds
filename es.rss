@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Acceso bloqueado por medidas de seguridad</title>
+<description>El texto proporcionado corresponde a una página de bloqueo generada por el servicio Cloudflare, que protege sitios web contra ataques en línea. El usuario fue bloqueado tras realizar una acción que ac...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/1100bed1-d990-43a9-b803-ba04c24092b4</link>
+<guid>https://killbait.com/posts/post/1100bed1-d990-43a9-b803-ba04c24092b4</guid>
+<pubDate>Tue, 11 Aug 2026 01:47:42 +0200</pubDate>
+<enclosure url="https://killbait.com/assets/images/logo/logo-360x360-white.png" type="image/jpeg" />
+</item>
+<item>
 <title>Universal Audio Luna 2.0.5: nuevas herramientas para producción musical</title>
 <description>Universal Audio ha lanzado la actualización 2.0.5 de su DAW gratuito Luna, que introduce importantes novedades para mejorar la producción musical. Entre las principales características se encuentra un...</description>
 <category>Tecnología</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/4d47320c-c21a-4c3c-9db4-eefa40e37d19</guid>
 <pubDate>Tue, 11 Aug 2026 01:02:19 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1786402560/posts/autoimages/glb7ul64xvoxarfb1dsl.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Abelardo de la Espriella y su discurso ambiental en la posesión presidencial</title>
-<description>Abelardo de la Espriella, durante su posesión presidencial, abordó temas como la seguridad energética, el combate contra el narcoterrorismo y la fumigación de cultivos ilícitos, pero omitió mencionar ...</description>
-<category>Medio ambiente</category>
-<link>https://killbait.com/posts/post/0b2f84ac-5d9b-4e25-b78e-6e341503e77c</link>
-<guid>https://killbait.com/posts/post/0b2f84ac-5d9b-4e25-b78e-6e341503e77c</guid>
-<pubDate>Tue, 11 Aug 2026 01:01:17 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1786402143/posts/autoimages/pnyyyfzr7wt7acxqqw7w.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
