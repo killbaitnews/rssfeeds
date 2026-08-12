@@ -6,6 +6,60 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Osun State Political Landscape: Key Figures and Their Legacies</title>
+<description>The article provides an in-depth look at the political dynamics in Osun State, Nigeria, highlighting the legacies and contributions of key figures who have shaped the state&apos;s governance over the years...</description>
+<category>Politics</category>
+<link>https://killbait.com/posts/post/2dcdcda4-5453-4737-8c18-dfe8f2cd4dbc</link>
+<guid>https://killbait.com/posts/post/2dcdcda4-5453-4737-8c18-dfe8f2cd4dbc</guid>
+<pubDate>Wed, 12 Aug 2026 09:34:17 +0200</pubDate>
+<enclosure url="https://cdn.killbait.com/static/posts/autoimages/8eb0cb2b-120c-4db8-94ee-656040c77b37.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Low attendance at European Athletics Championships despite high ticket prices</title>
+<description>The European Athletics Championships in Birmingham faced criticism for low spectator numbers, with nearly 10,000 seats remaining empty at the Alexander Stadium. Despite organizers claiming ticket sale...</description>
+<category>Sports</category>
+<link>https://killbait.com/posts/post/95ec0815-7668-44c9-a43a-7a7ae8305972</link>
+<guid>https://killbait.com/posts/post/95ec0815-7668-44c9-a43a-7a7ae8305972</guid>
+<pubDate>Wed, 12 Aug 2026 09:32:16 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1786497015/posts/autoimages/qtytofrilm1zueeaeoqr.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>SunKissed Lola launches new single &apos;Edi Magalit Ka&apos;</title>
+<description>SunKissed Lola, a popular Filipino music group, has officially released their latest single titled &apos;Edi Magalit Ka&apos;. The track marks another milestone in the band&apos;s career, continuing their signature ...</description>
+<category>Music</category>
+<link>https://killbait.com/posts/post/87e39641-7838-486b-9637-4011e7585ed3</link>
+<guid>https://killbait.com/posts/post/87e39641-7838-486b-9637-4011e7585ed3</guid>
+<pubDate>Wed, 12 Aug 2026 09:29:13 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1786509012/posts/autoimages/tm1ywrqlnqpvhhrpkbcq.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Rahul Gandhi criticizes PM Modi over US court&apos;s decision in Gautam Adani case</title>
+<description>A US court dismissed criminal charges against Gautam Adani and his associates, ending a legal saga. This development has prompted Lok Sabha Leader of Opposition Rahul Gandhi to question the integrity ...</description>
+<category>Politics</category>
+<link>https://killbait.com/posts/post/7f4ed364-69cb-49e0-876e-b2a162c9a19b</link>
+<guid>https://killbait.com/posts/post/7f4ed364-69cb-49e0-876e-b2a162c9a19b</guid>
+<pubDate>Wed, 12 Aug 2026 09:26:23 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1786511432/posts/autoimages/c8qbm7zzhqe7iukbptqy.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Student Protests at Fort Hare Highlight Balancing Rights and Community Impact</title>
+<description>The article discusses the recent student protests at the University of Fort Hare, which blocked major roads in Alice, raising concerns about the balance between constitutional rights to protest and co...</description>
+<category>Opinion</category>
+<link>https://killbait.com/posts/post/d87ec946-63af-4a79-8d72-df9a583c311e</link>
+<guid>https://killbait.com/posts/post/d87ec946-63af-4a79-8d72-df9a583c311e</guid>
+<pubDate>Wed, 12 Aug 2026 09:26:16 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1786504250/posts/autoimages/nus88q9g3wyzfubjlnc7.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Kenyan Resident in Germany Shares Rent Costs and Apartment Details</title>
+<description>A Kenyan man based in Wunsiedel, Germany, shared an unfiltered tour of his three-bedroom apartment, revealing he pays €720 (approx. KSh 108,000) monthly in rent. The apartment, which includes a kitche...</description>
+<category>Travel</category>
+<link>https://killbait.com/posts/post/2d511fea-0b97-4492-810a-436ca699528a</link>
+<guid>https://killbait.com/posts/post/2d511fea-0b97-4492-810a-436ca699528a</guid>
+<pubDate>Wed, 12 Aug 2026 09:22:28 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1786517425/posts/autoimages/mgyygidr0mafpceknnt3.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Racial Double Standards in WNBA Fouls: How White Players Face Different Consequences</title>
 <description>The article examines the racial double standards faced by WNBA players, focusing on incidents involving Sophie Cunningham (white) and DiJonai Carrington (Black). Carrington was ejected for a foul on C...</description>
 <category>Sports</category>
@@ -130,60 +184,6 @@
 <guid>https://killbait.com/posts/post/89c81125-9649-4964-8335-dfda34a6f21a</guid>
 <pubDate>Wed, 12 Aug 2026 08:54:30 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1786504246/posts/autoimages/h6r69ymgdiaahuqkc0tu.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Fixing Gold Tick Sequence Gaps in Live Market Data Streams</title>
-<description>This article addresses a critical issue in quantitative finance: broken Tick sequence IDs in live market data streams. When building precious metals data pipelines, sequence gaps in WebSocket connecti...</description>
-<category>Technology</category>
-<link>https://killbait.com/posts/post/ef853396-eb68-4b47-a87d-d4d5cb69dede</link>
-<guid>https://killbait.com/posts/post/ef853396-eb68-4b47-a87d-d4d5cb69dede</guid>
-<pubDate>Wed, 12 Aug 2026 08:53:16 +0200</pubDate>
-<enclosure url="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpbmk6j3gbajegex0pfz4.png" type="image/jpeg" />
-</item>
-<item>
-<title>Cape Town&apos;s plan to expand municipal policing faces constitutional and political criticism</title>
-<description>A leading criminologist has criticized the City of Cape Town&apos;s proposal to grant metro police investigative powers, arguing it is constitutionally problematic and politically motivated. Dr Irvin Kinne...</description>
-<category>Politics</category>
-<link>https://killbait.com/posts/post/18de2048-9e16-45f7-95c8-0fe42ef41b02</link>
-<guid>https://killbait.com/posts/post/18de2048-9e16-45f7-95c8-0fe42ef41b02</guid>
-<pubDate>Wed, 12 Aug 2026 08:50:16 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1786503044/posts/autoimages/iftddyznlftapgr04tqm.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Nigeria&apos;s Economic Growth Projected at 3.3% by CBO for 2024</title>
-<description>The Central Bank of Nigeria (CBN) has projected that the country&apos;s economic growth will reach 3.3% in 2024, driven by factors such as improved agricultural output, stable oil prices, and government-le...</description>
-<category>Economy</category>
-<link>https://killbait.com/posts/post/f7e9e558-959c-415d-8446-be20549e35b4</link>
-<guid>https://killbait.com/posts/post/f7e9e558-959c-415d-8446-be20549e35b4</guid>
-<pubDate>Wed, 12 Aug 2026 08:50:09 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1786511402/posts/autoimages/isbgairhhaznvexxuod9.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Outgoing CIT CEO receives $445,000 settlement amid misconduct allegations</title>
-<description>The Canberra Liberals have strongly criticized the payment of $445,000 to Margot McNeill, the former chief executive of the Canberra Institute of Technology (CIT), calling it a &apos;disgrace&apos;. Opposition ...</description>
-<category>Politics</category>
-<link>https://killbait.com/posts/post/9a23ff0f-cd74-4e28-bf9b-1ff603e299d1</link>
-<guid>https://killbait.com/posts/post/9a23ff0f-cd74-4e28-bf9b-1ff603e299d1</guid>
-<pubDate>Wed, 12 Aug 2026 08:43:35 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1786505429/posts/autoimages/evs1dqweiqi8ly1i7ncu.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Austria targets Russian arms exports through shell companies and intermediary nations</title>
-<description>Austria has revealed that a sanctioned Australian shell company facilitated the export of defence equipment to Russia, which was intended for use in cruise missiles and fighter jets. The products were...</description>
-<category>Conflict</category>
-<link>https://killbait.com/posts/post/596ec41f-4cb0-4e4c-a8c4-ea9373112b42</link>
-<guid>https://killbait.com/posts/post/596ec41f-4cb0-4e4c-a8c4-ea9373112b42</guid>
-<pubDate>Wed, 12 Aug 2026 08:43:14 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1786507794/posts/autoimages/youish45vmnn1claqitt.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Five Teenagers Killed in Colorado Car Crash Near Grand Junction</title>
-<description>Five teenagers were tragically killed in a car crash near Grand Junction, Colorado, when their vehicle plunged down a steep cliff. The incident occurred on Lookout Lane, a location familiar to the vic...</description>
-<category>Incidents</category>
-<link>https://killbait.com/posts/post/7fbc311b-a64a-4c54-bae3-689f821b4a3a</link>
-<guid>https://killbait.com/posts/post/7fbc311b-a64a-4c54-bae3-689f821b4a3a</guid>
-<pubDate>Wed, 12 Aug 2026 08:42:12 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1786507791/posts/autoimages/j2ruzjbi3rpkkoenjzgy.png" type="image/jpeg" />
 </item>
 </channel>
 </rss>
