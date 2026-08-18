@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Tumbler Ridge Secondary School Demolition Begins After Tragic Shooting</title>
+<description>The demolition of Tumbler Ridge Secondary School, which was the site of a tragic school shooting in February 2026, has officially begun. The Peace River South School District confirmed that crews star...</description>
+<category>Incidents</category>
+<link>https://killbait.com/posts/post/ac8a89bd-31dd-4046-83a8-d6474f6db99f</link>
+<guid>https://killbait.com/posts/post/ac8a89bd-31dd-4046-83a8-d6474f6db99f</guid>
+<pubDate>Tue, 18 Aug 2026 03:00:57 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1787012059/posts/autoimages/gpnlpcodlq2ajh43akap.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Preventing Database Stampedes with Single-Flight Caching Techniques</title>
 <description>The article discusses the problem of cache stampedes, where multiple simultaneous requests for a cached resource trigger a surge in database queries, overwhelming the connection pool. This occurs when...</description>
 <category>Technology</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/a1e0907f-2a0d-400e-afcf-f5db11ac1a9a</guid>
 <pubDate>Tue, 18 Aug 2026 02:09:20 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1787003391/posts/autoimages/xcsiadxqwboumfn37vu5.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Fatboy Slim Announces 30th Anniversary Reissue of Debut Album &apos;Better Living Through Chemistry&apos;</title>
-<description>Fatboy Slim is set to reissue his groundbreaking debut album ‘Better Living Through Chemistry’, released in 1996, to mark its 30th anniversary. The new edition includes remastered tracks, rare B-sides...</description>
-<category>Music</category>
-<link>https://killbait.com/posts/post/fcf1067e-4040-4fa5-9778-c2193aa489c7</link>
-<guid>https://killbait.com/posts/post/fcf1067e-4040-4fa5-9778-c2193aa489c7</guid>
-<pubDate>Tue, 18 Aug 2026 02:08:23 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1787001178/posts/autoimages/as5wbrzel0ojwfu2ded2.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
