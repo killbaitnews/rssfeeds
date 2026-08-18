@@ -6,6 +6,60 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Preventing Database Stampedes with Single-Flight Caching Techniques</title>
+<description>The article discusses the problem of cache stampedes, where multiple simultaneous requests for a cached resource trigger a surge in database queries, overwhelming the connection pool. This occurs when...</description>
+<category>Technology</category>
+<link>https://killbait.com/posts/post/296d808b-5b6b-47e3-93b5-2a302d90a011</link>
+<guid>https://killbait.com/posts/post/296d808b-5b6b-47e3-93b5-2a302d90a011</guid>
+<pubDate>Tue, 18 Aug 2026 02:54:11 +0200</pubDate>
+<enclosure url="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9mf8olg8vup352b1hi33.png" type="image/jpeg" />
+</item>
+<item>
+<title>Alberta Premier Announces Calgary-Shaw By-Election for September 14</title>
+<description>Alberta Premier Danielle Smith has announced a by-election in the Calgary-Shaw riding for September 14, following the resignation of former United Conservative Party cabinet minister Rebecca Schulz wh...</description>
+<category>Politics</category>
+<link>https://killbait.com/posts/post/9acc4699-9c30-4d74-a084-ba875069db57</link>
+<guid>https://killbait.com/posts/post/9acc4699-9c30-4d74-a084-ba875069db57</guid>
+<pubDate>Tue, 18 Aug 2026 02:53:59 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1787007590/posts/autoimages/sjncewyoo04drlmayqsp.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Cristiano Ronaldo Considers Retirement Amid Career Reflections</title>
+<description>Cristiano Ronaldo, the 41-year-old Al Nassr forward, is reportedly contemplating an official retirement from football. Though no formal statement has been made, the news has sparked significant reacti...</description>
+<category>Sports</category>
+<link>https://killbait.com/posts/post/b204b30d-c874-47ff-a86d-f27673923fb5</link>
+<guid>https://killbait.com/posts/post/b204b30d-c874-47ff-a86d-f27673923fb5</guid>
+<pubDate>Tue, 18 Aug 2026 02:53:44 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1787010481/posts/autoimages/nymdwzyv8bfeazzrlb39.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Belgian wildfire grows rapidly with air support deployed</title>
+<description>A massive wildfire in Belgium has seen rapid growth, prompting emergency services to deploy air support to combat the blaze. The incident, which has already surpassed previous records for size, is bei...</description>
+<category>Environment</category>
+<link>https://killbait.com/posts/post/73d5732a-4012-4da8-8993-820bbf429437</link>
+<guid>https://killbait.com/posts/post/73d5732a-4012-4da8-8993-820bbf429437</guid>
+<pubDate>Tue, 18 Aug 2026 02:52:10 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1786996397/posts/iaimages/tnqbe5oji9uvckkdidrw.png" type="image/jpeg" />
+</item>
+<item>
+<title>All Blacks face multiple injury challenges ahead of Springboks clash</title>
+<description>The All Blacks are dealing with a wave of injuries ahead of their crucial Test match against the Springboks in the Rugby&apos;s Greatest Rivalry. Coach Dave Rennie confirmed prop Ollie Norris has been sent...</description>
+<category>Sports</category>
+<link>https://killbait.com/posts/post/3e251c26-a5d3-4e9e-af52-6fb651da9385</link>
+<guid>https://killbait.com/posts/post/3e251c26-a5d3-4e9e-af52-6fb651da9385</guid>
+<pubDate>Tue, 18 Aug 2026 02:51:50 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1787003830/posts/autoimages/y6kiobv4j0k6quunww2y.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Nigeria Sets Six-Month Cap On Temporary Doctor Contracts With Welfare Protections</title>
+<description>The National Association of Resident Doctors (NARD) has launched a new policy to regulate temporary healthcare workers in Nigeria. The policy limits locum contracts to six months with one possible ren...</description>
+<category>Health</category>
+<link>https://killbait.com/posts/post/46f1e24d-483c-418b-b2d0-b7c940267f71</link>
+<guid>https://killbait.com/posts/post/46f1e24d-483c-418b-b2d0-b7c940267f71</guid>
+<pubDate>Tue, 18 Aug 2026 02:51:21 +0200</pubDate>
+<enclosure url="https://killbait.com/assets/images/logo/logo-360x360-white.png" type="image/jpeg" />
+</item>
+<item>
 <title>LIV Golf Concludes Season Early Amid Uncertainty Over Future</title>
 <description>The 2026 LIV Golf season will conclude a week ahead of schedule after the rebel series cancelled its planned finale in Michigan. This decision follows the withdrawal of Saudi Arabia&apos;s Public Investmen...</description>
 <category>Sports</category>
@@ -130,60 +184,6 @@
 <guid>https://killbait.com/posts/post/fcf1067e-4040-4fa5-9778-c2193aa489c7</guid>
 <pubDate>Tue, 18 Aug 2026 02:08:23 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1787001178/posts/autoimages/as5wbrzel0ojwfu2ded2.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Australian government introduces gambling ad opt-out scheme amid international tensions</title>
-<description>The Australian government has introduced a new bill allowing the imposition of a levy on gambling companies to fund an &apos;opt-out&apos; regime for online advertising. This initiative aims to provide consumer...</description>
-<category>Politics</category>
-<link>https://killbait.com/posts/post/42425a91-2d20-4399-8d04-190f03e9fca3</link>
-<guid>https://killbait.com/posts/post/42425a91-2d20-4399-8d04-190f03e9fca3</guid>
-<pubDate>Tue, 18 Aug 2026 02:06:09 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1787003505/posts/autoimages/alugrbtspne3telfha3y.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Abuja Flooding Crisis: Canal Blockage and Construction Linked to Kano Deputy Gov&apos;s Home Inundation</title>
-<description>Residents in Maitama Extension, Abuja, are facing severe flooding after a major canal was blocked for construction linked to Senator Ibrahim Mohammed Bomai. The floodwaters have damaged properties, in...</description>
-<category>Environment</category>
-<link>https://killbait.com/posts/post/cb7e2a90-5eb9-480c-a31e-716a5824248b</link>
-<guid>https://killbait.com/posts/post/cb7e2a90-5eb9-480c-a31e-716a5824248b</guid>
-<pubDate>Tue, 18 Aug 2026 02:05:26 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1786996290/posts/iaimages/vjzpbuztlfioshfsbpt6.png" type="image/jpeg" />
-</item>
-<item>
-<title>Camavinga chooses to stay at Real Madrid, complicating Manchester United&apos;s transfer plans</title>
-<description>Eduardo Camavinga has rejected Manchester United&apos;s transfer offer, opting to remain with Real Madrid. The French midfielder&apos;s decision highlights his importance to Ancelotti&apos;s squad despite high-profi...</description>
-<category>Sports</category>
-<link>https://killbait.com/posts/post/daed9a25-5441-471d-9cce-3db83cfd82e3</link>
-<guid>https://killbait.com/posts/post/daed9a25-5441-471d-9cce-3db83cfd82e3</guid>
-<pubDate>Tue, 18 Aug 2026 02:02:42 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1787004847/posts/autoimages/zerofcdcd5rvf8qil6nc.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Bonnie Tyler Honored at World-Wide Funeral in Wales</title>
-<description>Bonnie Tyler, the iconic Welsh singer known for her hit &apos;Total Eclipse of the Heart,&apos; was honored at a heartfelt funeral in Swansea, Wales. The event drew fans and loved ones to commemorate her life a...</description>
-<category>Music</category>
-<link>https://killbait.com/posts/post/1cd6e00a-e183-4047-9a92-bad713c43c4c</link>
-<guid>https://killbait.com/posts/post/1cd6e00a-e183-4047-9a92-bad713c43c4c</guid>
-<pubDate>Tue, 18 Aug 2026 02:02:06 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1787003755/posts/autoimages/lgdrnyfjimxypgysqswj.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Pornhub Owner Settles Child Sexual Abuse Claims with $120 Million Payment</title>
-<description>The owner of Pornhub, a major adult entertainment website, has agreed to pay over $120 million to victims of child sexual abuse material following legal proceedings. The settlement comes after years o...</description>
-<category>Justice</category>
-<link>https://killbait.com/posts/post/a9b651a0-d53b-44e5-9264-13af77540a55</link>
-<guid>https://killbait.com/posts/post/a9b651a0-d53b-44e5-9264-13af77540a55</guid>
-<pubDate>Tue, 18 Aug 2026 02:00:47 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1786996345/posts/autoimages/noj3m1fleaqqelfuhzte.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Senate debates Anika Wells&apos; gambling reform proposals amid crossbench scrutiny</title>
-<description>The Australian government&apos;s proposed gambling reforms, led by Communications Minister Anika Wells, are facing intense scrutiny in the Senate after significant opposition from both the Coalition and th...</description>
-<category>Politics</category>
-<link>https://killbait.com/posts/post/26f87236-f15c-4262-ae9a-04d94bf6802d</link>
-<guid>https://killbait.com/posts/post/26f87236-f15c-4262-ae9a-04d94bf6802d</guid>
-<pubDate>Tue, 18 Aug 2026 02:00:01 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1787001303/posts/autoimages/s01ulcxdozfjq1pcnhve.webp" type="image/jpeg" />
 </item>
 </channel>
 </rss>
