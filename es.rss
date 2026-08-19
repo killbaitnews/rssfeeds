@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Windows Defender causa demora en VLC al abrir archivos MP3</title>
+<description>Un error en el antivirus de Microsoft, Windows Defender, está generando demoras en la apertura de archivos MP3 al usar el reproductor multimedia VLC. El problema surge porque el servicio antimalware p...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/f71e4d01-e080-40d0-a314-3f4a03288208</link>
+<guid>https://killbait.com/posts/post/f71e4d01-e080-40d0-a314-3f4a03288208</guid>
+<pubDate>Wed, 19 Aug 2026 17:47:15 +0200</pubDate>
+<enclosure url="https://cdn.killbait.com/static/posts/autoimages/68960712-47ee-4986-aad9-ddbe1147840e.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Desafíos en la Implementación de Pagos en Línea en Cuba</title>
 <description>La noticia aborda los desafíos enfrentados por el sistema de pagos en línea en Cuba, destacando la necesidad de superar obstáculos para garantizar la eficacia de estas transacciones. El artículo menci...</description>
 <category>Economía</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/583a75e7-1f95-4e08-87f3-f7e985877cf9</guid>
 <pubDate>Wed, 19 Aug 2026 17:00:18 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1787151134/posts/autoimages/lmlgt4owfwq6r7157dpv.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Didier Blanco Named Director of Colombia&apos;s National Protection Unit</title>
-<description>El gobierno colombiano oficializó el nombramiento de Didier Blanco como director de la Unidad Nacional de Protección (UNP), una entidad encargada de proteger a líderes sociales, periodistas y funciona...</description>
-<category>Política</category>
-<link>https://killbait.com/posts/post/f0b97bb1-e769-4aea-87e3-3915c3538e3c</link>
-<guid>https://killbait.com/posts/post/f0b97bb1-e769-4aea-87e3-3915c3538e3c</guid>
-<pubDate>Wed, 19 Aug 2026 16:59:34 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1787151149/posts/autoimages/tcuvb1poxyy8z0mhktbz.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
