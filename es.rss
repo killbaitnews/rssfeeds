@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Entendiendo la magnitud de un terremoto: un análisis detallado</title>
+<description>La noticia explica la diferencia entre la magnitud de un terremoto y sus efectos locales. La magnitud, medida en escala logarítmica, indica la energía liberada, mientras que la intensidad (escala de M...</description>
+<category>Geología</category>
+<link>https://killbait.com/posts/post/8f0b0ec9-f4b8-4764-b7ef-430f3e7e8c9d</link>
+<guid>https://killbait.com/posts/post/8f0b0ec9-f4b8-4764-b7ef-430f3e7e8c9d</guid>
+<pubDate>Thu, 20 Aug 2026 00:47:17 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1787179517/posts/autoimages/v4v0dcfn7cktacnec0zu.png" type="image/jpeg" />
+</item>
+<item>
 <title>Cuban Comedian Ulises Toirac Criticizes ETECSA Over False Earthquake Alert</title>
 <description>El humorista cubano Ulises Toirac aprovechó la falsa alarma sísmica que generó pánico en varias provincias de Cuba para criticar a ETECSA, la empresa estatal de telecomunicaciones. La alerta, activada...</description>
 <category>Actualidad</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/720d6b52-a8d0-481d-9aa1-6bc3466aad3a</guid>
 <pubDate>Wed, 19 Aug 2026 23:56:27 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1787176212/posts/autoimages/igpjp2uoeptm0aslfdts.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Modernización aduanera en Guatemala: Estrategias para mejorar la eficiencia del comercio internacional</title>
-<description>La Superintendencia de Aduanas y Estadísticas (SAT) de Guatemala anunció una migración de su sistema tradicional Declaraguate hacia una plataforma virtual para optimizar el proceso de declaración de m...</description>
-<category>Economía</category>
-<link>https://killbait.com/posts/post/99f4ce91-5b5c-4f34-a5fa-fe7544a6a111</link>
-<guid>https://killbait.com/posts/post/99f4ce91-5b5c-4f34-a5fa-fe7544a6a111</guid>
-<pubDate>Wed, 19 Aug 2026 23:52:21 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1787175815/posts/autoimages/mdubntxrwds2ejfi9nws.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
