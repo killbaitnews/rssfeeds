@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Blade Runner: una obra maestra del cine visual</title>
+<description>La noticia analiza la influencia y el legado visual de la película Blade Runner, destacando su impacto en el arte, la cultura cinematográfica y su diseño futurista. Se menciona la colaboración de Syd ...</description>
+<category>Cine</category>
+<link>https://killbait.com/posts/post/5dc4514e-39b9-4142-a720-392c57ce32cc</link>
+<guid>https://killbait.com/posts/post/5dc4514e-39b9-4142-a720-392c57ce32cc</guid>
+<pubDate>Sun, 23 Aug 2026 12:43:51 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1787481701/posts/autoimages/c4aaforptokj460xiffb.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Perú registra más de 500 sismos en lo que va de año</title>
 <description>La noticia aborda la alta frecuencia de sismos registrados en Perú durante el primer semestre del año, destacando la preocupación de expertos y autoridades. Se menciona que la actividad sísmica ha sid...</description>
 <category>Geología</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/31a498c2-fc0b-475e-ab05-ea1698747594</guid>
 <pubDate>Sun, 23 Aug 2026 11:18:00 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1787476273/posts/autoimages/bbtgasdhntznixe1lsy8.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>La precariedad y la desesperanza en la literatura de Patricia González López</title>
-<description>La crítica social y el análisis de la juventud en crisis son temas centrales del libro &apos;Llegué cansada a la felicidad&apos; de Patricia González López. En su obra, la autora explora la desesperanza que car...</description>
-<category>Literatura</category>
-<link>https://killbait.com/posts/post/714eeff8-ec4d-4ebc-9bc0-b714c659e210</link>
-<guid>https://killbait.com/posts/post/714eeff8-ec4d-4ebc-9bc0-b714c659e210</guid>
-<pubDate>Sun, 23 Aug 2026 11:16:41 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1787476263/posts/autoimages/wk3idysgqdqn9warf76f.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
