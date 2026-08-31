@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Alex Karp y el control de la guerra en Silicon Valley</title>
+<description>La noticia profundiza en la figura de Alex Karp, fundador de Palantir, una empresa tecnológica clave en el desarrollo de sistemas de inteligencia militar. Su plataforma, utilizada en operaciones como ...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/f7986031-e915-4873-a08a-0813f7673ef3</link>
+<guid>https://killbait.com/posts/post/f7986031-e915-4873-a08a-0813f7673ef3</guid>
+<pubDate>Mon, 31 Aug 2026 08:50:26 +0200</pubDate>
+<enclosure url="https://s1.ppllstatics.com/starfish/latest/assets/images/placeholders/elcorreo-placeholder.png" type="image/jpeg" />
+</item>
+<item>
 <title>La importancia de la política industrial para las democracias en el futuro</title>
 <description>La noticia analiza cómo las democracias deben reevaluar su rol en la economía para competir con países que priorizan políticas industriales. Se destaca que, a diferencia de modelos como el chino, las ...</description>
 <category>Economía</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/66e4739b-159f-4550-ba62-843df3dbfb04</guid>
 <pubDate>Mon, 31 Aug 2026 08:01:59 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1788155360/posts/autoimages/lpocrt6lcnp13tqqhkkn.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Rafa Pérez, el entrenador venezolano del Inter Miami y su debut inesperado</title>
-<description>La noticia relata la sorprendente trayectoria de Rafael Pérez, un técnico venezolano de 44 años que se convierte en el director técnico del Inter Miami, equipo de Lionel Messi. A pesar de ser una figu...</description>
-<category>Deportes</category>
-<link>https://killbait.com/posts/post/e91040c9-cdd8-41d1-84ba-f3b18722d13f</link>
-<guid>https://killbait.com/posts/post/e91040c9-cdd8-41d1-84ba-f3b18722d13f</guid>
-<pubDate>Mon, 31 Aug 2026 08:01:36 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1788155311/posts/autoimages/esuyqzjgnyqp4qiu24wi.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
