@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Problemas de acceso debido a medidas de seguridad</title>
+<description>La página web de The Telegraph muestra un mensaje de error que indica que se ha detectado actividad inusual en la conexión del usuario. Este mensaje es parte de las medidas de seguridad implementadas ...</description>
+<category>Tecnología</category>
+<link>https://killbait.com/posts/post/c5170936-f03b-4400-9a02-b938771d3a05</link>
+<guid>https://killbait.com/posts/post/c5170936-f03b-4400-9a02-b938771d3a05</guid>
+<pubDate>Mon, 31 Aug 2026 22:02:37 +0200</pubDate>
+<enclosure url="https://killbait.com/assets/images/logo/logo-360x360-white.png" type="image/jpeg" />
+</item>
+<item>
 <title>Lester Martínez retiene título del CMB tras victoria sobre Luka Plantić</title>
 <description>El boxeador guatemalteco Lester Martínez logró conservar su cinturón de campeón mundial interino supermediano del Consejo Mundial de Boxeo (CMB) al derrotar al croata Luka Plantić. La victoria, que ma...</description>
 <category>Deportes</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/5b58b86c-2c22-4106-a036-4a064aa84ab4</guid>
 <pubDate>Mon, 31 Aug 2026 21:18:05 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1788203371/posts/autoimages/brknjwtuxcxsnehg0grw.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Empresarios rechazan bloqueos y alertan sobre impacto económico</title>
-<description>El sector empresarial guatemalteco ha expresado su rechazo a los bloqueos de carreteras, destacando que estas medidas incrementan costos, afectan el abastecimiento y ponen en riesgo empleos, acuerdos ...</description>
-<category>Economía</category>
-<link>https://killbait.com/posts/post/9038561c-e629-410d-ad17-ec30a583d797</link>
-<guid>https://killbait.com/posts/post/9038561c-e629-410d-ad17-ec30a583d797</guid>
-<pubDate>Mon, 31 Aug 2026 21:17:50 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1788203029/posts/autoimages/roxfgr0pt2lf6zmt2ei0.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
