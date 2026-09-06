@@ -6,6 +6,33 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Dengue cases show mixed trends with recent uptick</title>
+<description>According to the Department of Health (DOH) data, the Philippines recorded 128,634 dengue cases from January to August 2026, which is 39% lower than the 209,631 cases reported during the same period i...</description>
+<category>Health</category>
+<link>https://killbait.com/posts/post/f5492e7b-57b5-4b61-80ee-857ad14afce1</link>
+<guid>https://killbait.com/posts/post/f5492e7b-57b5-4b61-80ee-857ad14afce1</guid>
+<pubDate>Sun, 6 Sep 2026 03:32:08 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1788650077/posts/autoimages/njn3sf3nkjjpu2mkldwe.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Understanding Native Interoperability in Flutter: FFI, Pigeon, and MethodChannels</title>
+<description>The article discusses the challenges of native interop in Flutter, highlighting how MethodChannel&apos;s string-based approach leads to silent failures and maintenance nightmares. It compares three Flutter...</description>
+<category>Technology</category>
+<link>https://killbait.com/posts/post/8f19c4a6-628b-4980-a1fd-f34edc8a4cd0</link>
+<guid>https://killbait.com/posts/post/8f19c4a6-628b-4980-a1fd-f34edc8a4cd0</guid>
+<pubDate>Sun, 6 Sep 2026 03:22:16 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1788651151/posts/iaimages/veirnmq121dr5wp6lixe.png" type="image/jpeg" />
+</item>
+<item>
+<title>PNP&apos;s Legal Actions and Duterte&apos;s Bail Post-Grave Threats Case</title>
+<description>The Philippine National Police (PNP) executed its mandate impartially and in accordance with the law when securing the Quezon City Hall of Justice during Vice President Sara Duterte&apos;s bail posting ove...</description>
+<category>Politics</category>
+<link>https://killbait.com/posts/post/e4691c36-3ad6-47da-b625-f4f3b2f39369</link>
+<guid>https://killbait.com/posts/post/e4691c36-3ad6-47da-b625-f4f3b2f39369</guid>
+<pubDate>Sun, 6 Sep 2026 03:16:41 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1788646884/posts/autoimages/dnsodbugerf3dxfarcq3.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>RG Snyman and Wife Saskia&apos;s Luxurious Paarl Home and New Family Chapter</title>
 <description>South African rugby star RG Snyman and his wife Saskia are expecting their first child as he recovers from an ACL injury. The couple recently shared glimpses of their opulent Paarl mansion in the West...</description>
 <category>Sports</category>
@@ -157,33 +184,6 @@
 <guid>https://killbait.com/posts/post/fcf5001a-e678-47ea-b3ea-984b44c38fc8</guid>
 <pubDate>Sun, 6 Sep 2026 01:20:58 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1788638464/posts/autoimages/nwmvsfftdrysyn62l1si.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>PNP confirms VP Sara has not reported threats or harassment</title>
-<description>Philippine National Police chief Police General Jose Melencio Nartatez Jr. clarified that Vice President Sara Duterte has not officially reported any threats against her or her family to the PNP, desp...</description>
-<category>Politics</category>
-<link>https://killbait.com/posts/post/de1bc7bf-24ef-462d-a91e-6c9d92b8f51b</link>
-<guid>https://killbait.com/posts/post/de1bc7bf-24ef-462d-a91e-6c9d92b8f51b</guid>
-<pubDate>Sun, 6 Sep 2026 01:18:52 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1788634965/posts/autoimages/uonzaije8z8lwjvwb6hy.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Trump&apos;s Hair Color Change Sparks Online Debate and Speculation</title>
-<description>President Donald Trump&apos;s apparent shift to a brownish hair color, as captured in a viral photo from his recent trip to New Jersey, has ignited widespread online speculation and commentary. The image, ...</description>
-<category>Politics</category>
-<link>https://killbait.com/posts/post/06ff134f-9b48-4c09-8bd0-1e81096df258</link>
-<guid>https://killbait.com/posts/post/06ff134f-9b48-4c09-8bd0-1e81096df258</guid>
-<pubDate>Sun, 6 Sep 2026 01:17:20 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1788649927/posts/autoimages/n2hehgjpgcnfimppdtin.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Liverpool Eyes Leroy Sane as Transfer Target to Bolster Squad Depth</title>
-<description>The article discusses Liverpool&apos;s potential pursuit of Bayern Munich winger Leroy Sane as a key transfer target to address squad depth issues. With the Reds struggling in their opening Premier League ...</description>
-<category>Sports</category>
-<link>https://killbait.com/posts/post/c76df2e5-a192-4380-8d62-e42fefba0f2d</link>
-<guid>https://killbait.com/posts/post/c76df2e5-a192-4380-8d62-e42fefba0f2d</guid>
-<pubDate>Sun, 6 Sep 2026 00:53:07 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1788645072/posts/iaimages/kz5v6nocmcvxb1tgzqtw.png" type="image/jpeg" />
 </item>
 </channel>
 </rss>
