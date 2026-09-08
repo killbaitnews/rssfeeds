@@ -6,6 +6,24 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Noticia de ejemplo evalúa la relevancia de la información</title>
+<description>La noticia presentada como ejemplo aborda la cuestión de la relevancia de la información publicada. Aunque el título plantea una pregunta, el contenido se centra en la evaluación de la importancia de ...</description>
+<category>Sucesos</category>
+<link>https://killbait.com/posts/post/1ad10bb7-18cc-4730-8e58-82ac3d913605</link>
+<guid>https://killbait.com/posts/post/1ad10bb7-18cc-4730-8e58-82ac3d913605</guid>
+<pubDate>Tue, 8 Sep 2026 13:56:48 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1788868563/posts/iaimages/naelmerjrkmutm985jbo.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Senadora Paulina Núñez promueve modernización del Estado y transparencia en el Senado</title>
+<description>La senadora de RN, Paulina Núñez, aborda en el Senado temas clave como la modernización del Estado, la transparencia institucional y la lucha contra la corrupción. En una entrevista reciente, destacó ...</description>
+<category>Política</category>
+<link>https://killbait.com/posts/post/2628fd0f-85b5-443a-a2c3-255122f18f28</link>
+<guid>https://killbait.com/posts/post/2628fd0f-85b5-443a-a2c3-255122f18f28</guid>
+<pubDate>Tue, 8 Sep 2026 13:53:13 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1788865287/posts/iaimages/rqt9equo8hlsxutnvtlq.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>El déficit fiscal requiere una constitución para evitar la cultura de gasto excesivo</title>
 <description>El artículo analiza el problema del déficit fiscal como una cultura política arraigada en la sociedad guatemalteca. Se critica la tendencia a gastar a manos llenas, evitando aumentos tributarios que g...</description>
 <category>Política</category>
@@ -166,24 +184,6 @@
 <guid>https://killbait.com/posts/post/6d6890d4-40ff-4340-92d2-f47b091fea3d</guid>
 <pubDate>Tue, 8 Sep 2026 13:11:48 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1788865372/posts/iaimages/yd7i3vjtuzauetkg88r7.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Justicia determina responsabilidad de Serviu Antofagasta por fallas en condominio El Salar</title>
-<description>El Juzgado de Letras en lo Civil de Antofagasta declaró que el Servicio de Vivienda y Urbanismo (Serviu) de la región incurrió en una falta de servicio en el condominio El Salar, donde las viviendas c...</description>
-<category>Justicia</category>
-<link>https://killbait.com/posts/post/52f1ca91-8dbf-4a4e-9a54-6412760a0f0d</link>
-<guid>https://killbait.com/posts/post/52f1ca91-8dbf-4a4e-9a54-6412760a0f0d</guid>
-<pubDate>Tue, 8 Sep 2026 13:07:51 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1788837673/posts/iaimages/rcisj56qizqiuvl52hjc.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Siquicha presenta colección en la Indigenous New York Fashion Week, destacando la herencia indígena</title>
-<description>La marca peruana Siquicha lanzó su colección en la Indigenous New York Fashion Week, un evento que promueve la moda indígena y la sostenibilidad. La colección, inspirada en la cultura andina, incluye ...</description>
-<category>Moda</category>
-<link>https://killbait.com/posts/post/9a9e14af-fae7-4505-b927-dadc67652bbc</link>
-<guid>https://killbait.com/posts/post/9a9e14af-fae7-4505-b927-dadc67652bbc</guid>
-<pubDate>Tue, 8 Sep 2026 13:07:41 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1788865213/posts/iaimages/mbq9fvz82uclbzmba38o.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
