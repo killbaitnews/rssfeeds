@@ -6,6 +6,33 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>io_uring Maintainer Proposes Thread Identity Handoff to Improve Asynchronous I/O Performance</title>
+<description>The io_uring subsystem in the Linux kernel, designed for asynchronous I/O operations, has faced challenges maintaining its &apos;never blocks&apos; guarantee due to kernel paths not originally designed for asyn...</description>
+<category>Computing</category>
+<link>https://killbait.com/posts/post/9194a01d-ac6a-41c9-b683-948b80da40dd</link>
+<guid>https://killbait.com/posts/post/9194a01d-ac6a-41c9-b683-948b80da40dd</guid>
+<pubDate>Sun, 20 Sep 2026 01:00:51 +0200</pubDate>
+<enclosure url="https://killbait.com/assets/images/logo/logo-360x360-white.png" type="image/jpeg" />
+</item>
+<item>
+<title>Gavin Kaplan scores century as Boland batsmen dominate in Paarl</title>
+<description>Gavin Kaplan returned to form with a century for Boland against North West in Paarl, contributing to a strong batting performance on a pitch that offered little assistance to bowlers. The match, playe...</description>
+<category>Sports</category>
+<link>https://killbait.com/posts/post/f32989c9-65a1-49da-b681-a7dc7dc96db7</link>
+<guid>https://killbait.com/posts/post/f32989c9-65a1-49da-b681-a7dc7dc96db7</guid>
+<pubDate>Sun, 20 Sep 2026 01:00:40 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1789847828/post/autoimages/odyhlexkdk5tcth24lai.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Punjab Chief Minister Bhagwant Mann Opposes FIRs Against Farmers Burning Paddy Stubble Ahead Of Smog Season</title>
+<description>Punjab Chief Minister Bhagwant Mann has taken a firm stance in defense of farmers ahead of the smog season, opposing the registration of FIRs against those who burn paddy stubble. Speaking at a Kisan ...</description>
+<category>Politics</category>
+<link>https://killbait.com/posts/post/97b2c608-9bb6-42a2-b3f4-7b67ed6d0b7d</link>
+<guid>https://killbait.com/posts/post/97b2c608-9bb6-42a2-b3f4-7b67ed6d0b7d</guid>
+<pubDate>Sun, 20 Sep 2026 00:53:26 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1789844407/post/autoimages/jhcrgy3ffxskadagzjwx.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Springbok Flyhalf Feinberg-Mngomezulu&apos;s Consistent Excellence in Rugby</title>
 <description>The article focuses on Sacha Feinberg-Mngomezulu, the Springbok flyhalf, highlighting his exceptional performances and contributions to the team despite criticism. Feinberg-Mngomezulu has played again...</description>
 <category>Sports</category>
@@ -157,33 +184,6 @@
 <guid>https://killbait.com/posts/post/6c751d06-1ad6-459b-b00e-32d847a22ec0</guid>
 <pubDate>Sun, 20 Sep 2026 00:00:03 +0200</pubDate>
 <enclosure url="https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png" type="image/jpeg" />
-</item>
-<item>
-<title>Kenyan Engineer Erick Ohaga Elected President-Elect of African Engineering Body with 83% Vote</title>
-<description>Kenyan engineer Erick Ohaga has been elected president-elect of the Federation of African Engineering Organisations (FAEO) after securing 83% of the vote in the continental leadership contest. Ohaga, ...</description>
-<category>Current affairs</category>
-<link>https://killbait.com/posts/post/236d799b-ee6c-4599-b36b-c98b0c356228</link>
-<guid>https://killbait.com/posts/post/236d799b-ee6c-4599-b36b-c98b0c356228</guid>
-<pubDate>Sat, 19 Sep 2026 23:26:31 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1789852584/post/autoimages/yqbfdo2ssj7fe05gzgb0.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Brighton defeats Arsenal 3-0 to end Gunners&apos; unbeaten run in Premier League</title>
-<description>Brighton &amp; Hove Albion delivered a commanding performance against Arsenal, ending the Gunners&apos; perfect start to the Premier League season with a 3-0 victory at the Amex Stadium. Goals from Pascal Gros...</description>
-<category>Sports</category>
-<link>https://killbait.com/posts/post/339a33f3-dee2-4f46-ac56-afb7f655ecdf</link>
-<guid>https://killbait.com/posts/post/339a33f3-dee2-4f46-ac56-afb7f655ecdf</guid>
-<pubDate>Sat, 19 Sep 2026 23:25:28 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dh88xxdy1/image/upload/v1789843209/post/autoimages/ukkjvfkeitpndeyh948f.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Researchers Reconstruct the Wind Field of the Great Miami Hurricane of 1926</title>
-<description>Researchers at the University of Miami have reconstructed the wind field of the Great Miami Hurricane of 1926, providing a more detailed picture of one of the most destructive storms in South Florida&apos;...</description>
-<category>Science</category>
-<link>https://killbait.com/posts/post/d570b035-9489-4bac-a40d-6512cb669111</link>
-<guid>https://killbait.com/posts/post/d570b035-9489-4bac-a40d-6512cb669111</guid>
-<pubDate>Sat, 19 Sep 2026 23:23:49 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1789848665/post/iaiamges/n8pweuvivikgb5feqwsq.png" type="image/jpeg" />
 </item>
 </channel>
 </rss>
