@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>AI System Testing Requires Updated Evidence When Prompt Changes</title>
+<description>The article discusses a critical issue in AI system development where changes to the prompt or model configuration can invalidate previously accepted test evidence. The author, Alex Agafonov, explains...</description>
+<category>Artificial intelligence</category>
+<link>https://killbait.com/posts/post/c62b6bab-75b4-4057-b9c6-d88b04cd1927</link>
+<guid>https://killbait.com/posts/post/c62b6bab-75b4-4057-b9c6-d88b04cd1927</guid>
+<pubDate>Fri, 9 Oct 2026 10:08:40 +0200</pubDate>
+<enclosure url="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyl27fim840p9e5bk6zc2.png" type="image/jpeg" />
+</item>
+<item>
 <title>Nidal Hasan to be executed by firing squad at Fort Hood on December 3</title>
 <description>The United States has announced that Nidal Hasan, the convicted Fort Hood shooter, will face a firing squad execution at Fort Hood on December 3, 2026. This marks the first military execution in over ...</description>
 <category>Crime</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/0878884c-a8b9-48ca-9813-4e86872f1f99</guid>
 <pubDate>Fri, 9 Oct 2026 09:44:42 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1791525407/post/autoimages/r9odkxkwd2faimac0gff.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Readers share top European wellness retreats featuring historic spas, forest bathing, and coastal relaxation</title>
-<description>The Guardian has compiled a collection of reader-submitted tips for European wellbeing breaks, highlighting unique relaxation experiences across the continent. Centralbadet in Stockholm, a historic ar...</description>
-<category>Travel</category>
-<link>https://killbait.com/posts/post/2565aa02-6199-4ee3-8694-0f5d89523bb9</link>
-<guid>https://killbait.com/posts/post/2565aa02-6199-4ee3-8694-0f5d89523bb9</guid>
-<pubDate>Fri, 9 Oct 2026 09:43:02 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1791531513/post/autoimages/zarfyhr7kyik4p7eqh4n.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
