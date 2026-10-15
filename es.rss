@@ -6,6 +6,15 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Embajada estadounidense niega reporte de despliegue de 600 soldados en Panamá</title>
+<description>La Embajada de Estados Unidos en Panamá emitió un comunicado para desmentir una información publicada por The New York Times sobre el envío de 600 soldados estadounidenses a Panamá para un nuevo centr...</description>
+<category>Geopolítica</category>
+<link>https://killbait.com/posts/post/6de8b050-c0fe-4ca3-af7e-70ca7791631e</link>
+<guid>https://killbait.com/posts/post/6de8b050-c0fe-4ca3-af7e-70ca7791631e</guid>
+<pubDate>Thu, 15 Oct 2026 16:59:09 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1792072001/post/autoimages/dj6zd6vr0wr480uxpv5h.png" type="image/jpeg" />
+</item>
+<item>
 <title>ATM implementa cámaras en estación Boca 9 para garantizar uso correcto del carril exclusivo de Metrovía</title>
 <description>La Agencia de Tránsito y Movilidad (ATM) de Guayaquil ha instalado cámaras de control en la estación Boca 9, ubicada en el centro de la ciudad en la calle Boyacá entre Víctor Manuel Rendón y Padre Sol...</description>
 <category>Transporte</category>
@@ -175,15 +184,6 @@
 <guid>https://killbait.com/posts/post/7ac17184-8dc7-4e7e-b974-d969c27206c7</guid>
 <pubDate>Thu, 15 Oct 2026 16:29:01 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1792063473/post/autoimages/sdisolibfgbnnsaah5ix.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Un nuevo proyecto de código abierto permite a los agentes de IA realizar ingeniería inversa de software de forma autónoma</title>
-<description>El proyecto REA (Reverse Engineer Anything) es una herramienta modular desarrollada en TypeScript que busca revolucionar la ingeniería inversa asistida por inteligencia artificial. Su objetivo no es c...</description>
-<category>Inteligencia artificial</category>
-<link>https://killbait.com/posts/post/0cd94395-03a9-43ec-ab55-56b1d6e648f8</link>
-<guid>https://killbait.com/posts/post/0cd94395-03a9-43ec-ab55-56b1d6e648f8</guid>
-<pubDate>Thu, 15 Oct 2026 16:22:30 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1792047543/post/autoimages/wuiuportbc5ww8uhvrcf.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
