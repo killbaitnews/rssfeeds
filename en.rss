@@ -1,14 +1,55 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:killbait="https://killbait.com/xmlns/rss">
 <channel>
 <atom:link href="https://killbaitnews.github.io/rssfeeds/en.rss" rel="self" />
 <title>KillBait RSS Feed</title>
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>The cost of the gospel: A story that should humble every generation (1), By Ayo Akerele</title>
+<description>The article recounts a powerful story shared by Dr. Billy Graham about an African evangelist named Joseph who endured severe persecution for sharing his faith. In 1986, Dr. Graham hosted an internatio...</description>
+<category>Religion</category>
+<killbait:country>NG</killbait:country>
+<link>https://killbait.com/posts/post/e91e1d9d-f0f8-4ec3-98d6-013b6c0827e8</link>
+<guid>https://killbait.com/posts/post/e91e1d9d-f0f8-4ec3-98d6-013b6c0827e8</guid>
+<pubDate>Sat, 17 Oct 2026 11:46:15 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1792212705/post/autoimages/hfqo4yjqdxjl94dsp8p1.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Kaizer Chiefs&apos; inconsistent form prompts scrutiny of Da Cruz&apos;s coaching decisions</title>
+<description>Kaizer Chiefs&apos; recent performance has raised significant concerns about head coach Fernando da Cruz&apos;s leadership and tactical decisions. Following a frustrating 0-0 draw against Stellenbosch FC at FNB...</description>
+<category>Sports</category>
+<killbait:country>ZA</killbait:country>
+<link>https://killbait.com/posts/post/bddb5ef0-bd6d-4aeb-88bf-a3b8ff2058df</link>
+<guid>https://killbait.com/posts/post/bddb5ef0-bd6d-4aeb-88bf-a3b8ff2058df</guid>
+<pubDate>Sat, 17 Oct 2026 11:43:39 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dyz6ogz6o/image/upload/v1792215186/post/autoimages/eqk5f4oumqpqlagd7yoe.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Uttarakhand Minister Rekha Arya&apos;s Husband Denies Murder Allegation, Accuses Her of Corruption</title>
+<description>Uttarakhand Women and Child Development Minister Rekha Arya has alleged that her husband Girdhari Lal Sahu conspired to murder her, subjected her to caste-based harassment, and forged her signatures. ...</description>
+<category>Politics</category>
+<killbait:country>IN</killbait:country>
+<link>https://killbait.com/posts/post/0e555391-d0a7-4697-8861-3ffeacd6f192</link>
+<guid>https://killbait.com/posts/post/0e555391-d0a7-4697-8861-3ffeacd6f192</guid>
+<pubDate>Sat, 17 Oct 2026 11:41:02 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1792209174/post/autoimages/yrwpp2h0wmx8foszwxdi.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Elon Musk proposed speed limits on Starlink in Ukraine to Trump</title>
+<description>Elon Musk, the billionaire tech entrepreneur, reportedly approached former US President Donald Trump with a proposal to introduce speed limits on Starlink services in Ukraine. According to four source...</description>
+<category>Geopolitics</category>
+<killbait:country>AU</killbait:country>
+<link>https://killbait.com/posts/post/62736ef4-5be5-48a0-a4cf-3bf6a30f896f</link>
+<guid>https://killbait.com/posts/post/62736ef4-5be5-48a0-a4cf-3bf6a30f896f</guid>
+<pubDate>Sat, 17 Oct 2026 11:40:07 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1792206824/post/autoimages/fnlzjsboysor2ikvw18f.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>State Minister Chaudhry criticizes JUI-F leader for demanding role in KP administration following emergency declaration</title>
 <description>State Minister for Interior Tallal Chaudhry has publicly criticized Jamiat Ulema-i-Islam-Fazl (JUI-F) chief Maulana Fazlur Rehman for allegedly seeking a political &apos;share&apos; in Khyber Pakhtunkhwa&apos;s gove...</description>
 <category>Politics</category>
+<killbait:country>PK</killbait:country>
 <link>https://killbait.com/posts/post/6bc92c9e-36dc-4713-b79d-2a674a5fe459</link>
 <guid>https://killbait.com/posts/post/6bc92c9e-36dc-4713-b79d-2a674a5fe459</guid>
 <pubDate>Sat, 17 Oct 2026 11:38:20 +0200</pubDate>
@@ -18,6 +59,7 @@
 <title>Kenyan Musician Nameless Shares Health Update, Cancels Shows Amid Illness</title>
 <description>Veteran Kenyan rapper Nameless has announced the cancellation of his weekend performances due to a health setback, sharing an update on Instagram on October 17, 2026. The artist, whose real name is Da...</description>
 <category>Music</category>
+<killbait:country>KE</killbait:country>
 <link>https://killbait.com/posts/post/4f31930e-a9a5-4c5d-bdbe-4bfbfcedd52d</link>
 <guid>https://killbait.com/posts/post/4f31930e-a9a5-4c5d-bdbe-4bfbfcedd52d</guid>
 <pubDate>Sat, 17 Oct 2026 11:36:07 +0200</pubDate>
@@ -27,6 +69,7 @@
 <title>Chinese microdramas gain popularity in Philippine entertainment landscape</title>
 <description>Chinese microdramas, known as duanju in Mandarin, are rapidly gaining popularity in the Philippines, particularly with the success of shows like &apos;The Heiress Who Won with Brains&apos; and the involvement o...</description>
 <category>Media &amp; entertainment</category>
+<killbait:country>PH</killbait:country>
 <link>https://killbait.com/posts/post/cde20418-fd4d-4e81-a406-11f0e719b287</link>
 <guid>https://killbait.com/posts/post/cde20418-fd4d-4e81-a406-11f0e719b287</guid>
 <pubDate>Sat, 17 Oct 2026 11:34:45 +0200</pubDate>
@@ -36,6 +79,7 @@
 <title>Iringa Farmers Adopt Improved Seed Varieties to Boost Yields and Livelihoods</title>
 <description>Farmers in Iringa, Tanzania, are experiencing significant improvements in their agricultural productivity and household incomes after adopting certified improved seed varieties. The shift from traditi...</description>
 <category>Culture</category>
+<killbait:country>TZ</killbait:country>
 <link>https://killbait.com/posts/post/af26f26e-cbe7-414c-8fcd-bee4336f033c</link>
 <guid>https://killbait.com/posts/post/af26f26e-cbe7-414c-8fcd-bee4336f033c</guid>
 <pubDate>Sat, 17 Oct 2026 11:33:49 +0200</pubDate>
@@ -45,6 +89,7 @@
 <title>Windsor Spitfires dominate Owen Sound Attack with 11-3 victory</title>
 <description>The Windsor Spitfires secured a decisive 11-3 victory over the Owen Sound Attack in a recent hockey game. The game, which took place on October 16, 2026, saw the Spitfires dominate from start to finis...</description>
 <category>Sports</category>
+<killbait:country>CA</killbait:country>
 <link>https://killbait.com/posts/post/c973f7e6-3e76-4b91-a1ca-4d2137b26217</link>
 <guid>https://killbait.com/posts/post/c973f7e6-3e76-4b91-a1ca-4d2137b26217</guid>
 <pubDate>Sat, 17 Oct 2026 11:33:14 +0200</pubDate>
@@ -54,6 +99,7 @@
 <title>David Bedingham finds mental clarity after Durham County stint to embrace Proteas role</title>
 <description>David Bedingham, the South African cricketer, has found renewed confidence and mental clarity following his stint with Durham County Cricket Club, which has helped him transition into a new role at th...</description>
 <category>Sports</category>
+<killbait:country>ZA</killbait:country>
 <link>https://killbait.com/posts/post/da8f9628-9877-453f-bde6-5efcbd36979b</link>
 <guid>https://killbait.com/posts/post/da8f9628-9877-453f-bde6-5efcbd36979b</guid>
 <pubDate>Sat, 17 Oct 2026 11:32:57 +0200</pubDate>
@@ -63,6 +109,7 @@
 <title>ACT Policing seeks public assistance in search for missing 13-year-old boy in Canberra</title>
 <description>ACT Policing is urgently seeking the public&apos;s assistance in locating a 13-year-old Canberra boy named Dramien, who has been missing since Thursday evening. The boy was last seen in the west Canberra s...</description>
 <category>Crime</category>
+<killbait:country>AU</killbait:country>
 <link>https://killbait.com/posts/post/b17c7df1-a909-46c0-9f4e-a445a2455285</link>
 <guid>https://killbait.com/posts/post/b17c7df1-a909-46c0-9f4e-a445a2455285</guid>
 <pubDate>Sat, 17 Oct 2026 11:30:40 +0200</pubDate>
@@ -72,6 +119,7 @@
 <title>KMTC Student Faith Nafuna Wafula Dies After Complications During Childbirth, Buried with Newborn in Bungoma</title>
 <description>Faith Nafuna Wafula, a 23-year-old biomedical engineering student at Kenya Medical Training College (KMTC) Eldoret Campus, tragically died on October 6, 2026, at Bungoma Referral Hospital following se...</description>
 <category>Health</category>
+<killbait:country>KE</killbait:country>
 <link>https://killbait.com/posts/post/af1471b1-532a-42f0-9d12-8a3fcfa83832</link>
 <guid>https://killbait.com/posts/post/af1471b1-532a-42f0-9d12-8a3fcfa83832</guid>
 <pubDate>Sat, 17 Oct 2026 11:30:19 +0200</pubDate>
@@ -81,6 +129,7 @@
 <title>Philippines faces aging population challenges as fertility rates drop below replacement level</title>
 <description>The Philippines is rapidly transitioning into an aging society, with 7.4 million Filipinos aged 65 or older as of 2024, representing 6.6% of the population. This demographic shift is occurring at a lo...</description>
 <category>Current affairs</category>
+<killbait:country>PH</killbait:country>
 <link>https://killbait.com/posts/post/ba26ee11-5348-4fbe-9166-92c67f2a3bd9</link>
 <guid>https://killbait.com/posts/post/ba26ee11-5348-4fbe-9166-92c67f2a3bd9</guid>
 <pubDate>Sat, 17 Oct 2026 11:26:57 +0200</pubDate>
@@ -90,6 +139,7 @@
 <title>Security forces engage terrorists in Kupwara encounter near Line of Control</title>
 <description>An encounter between security forces and terrorists occurred in Jammu and Kashmir&apos;s Kupwara district on Saturday, following the detection of suspicious movement along the Line of Control (LoC). Accord...</description>
 <category>Conflict</category>
+<killbait:country>IN</killbait:country>
 <link>https://killbait.com/posts/post/ea38ac47-ef36-41c3-a639-2bb7f1700ca8</link>
 <guid>https://killbait.com/posts/post/ea38ac47-ef36-41c3-a639-2bb7f1700ca8</guid>
 <pubDate>Sat, 17 Oct 2026 11:17:36 +0200</pubDate>
@@ -99,6 +149,7 @@
 <title>Post-referendum dynamics in Alberta: What comes after the separation vote?</title>
 <description>The Globe and Mail explores the potential consequences of Alberta&apos;s upcoming separation referendum, which is scheduled for October 19. The article examines what might happen in the days, weeks, and mo...</description>
 <category>Politics</category>
+<killbait:country>CA</killbait:country>
 <link>https://killbait.com/posts/post/dac0843e-af60-43c0-b1e3-7f771f1caebf</link>
 <guid>https://killbait.com/posts/post/dac0843e-af60-43c0-b1e3-7f771f1caebf</guid>
 <pubDate>Sat, 17 Oct 2026 11:17:27 +0200</pubDate>
@@ -108,6 +159,7 @@
 <title>Cyber-attack on French supermarkets causes food spoilage as freezers overheated</title>
 <description>A cyber-attack targeting supermarket refrigeration systems across France has caused widespread food spoilage, with temperatures in freezers rising to over 50°C (122°F) and some reaching as high as 80°...</description>
 <category>Cybersecurity</category>
+<killbait:country>GB</killbait:country>
 <link>https://killbait.com/posts/post/170e74a8-f523-4360-9ade-064baf1e3db3</link>
 <guid>https://killbait.com/posts/post/170e74a8-f523-4360-9ade-064baf1e3db3</guid>
 <pubDate>Sat, 17 Oct 2026 11:16:28 +0200</pubDate>
@@ -117,6 +169,7 @@
 <title>Ruvuma River communities warned of potential flooding due to El Niño rains</title>
 <description>Residents living along the banks of the Ruvuma River in southern Tanzania are being urged to prepare for significant flooding as meteorological agencies forecast heavy El Niño rains in the coming mont...</description>
 <category>Climate change</category>
+<killbait:country>TZ</killbait:country>
 <link>https://killbait.com/posts/post/4bef0fea-ba8a-4be5-9fd0-5290bde6435f</link>
 <guid>https://killbait.com/posts/post/4bef0fea-ba8a-4be5-9fd0-5290bde6435f</guid>
 <pubDate>Sat, 17 Oct 2026 11:14:54 +0200</pubDate>
@@ -126,6 +179,7 @@
 <title>Chief Justice Surya Kant calls on law graduates to champion justice, defend freedoms, and uphold constitutional values</title>
 <description>Chief Justice of India Surya Kant addressed the 34th annual convocation of the National Law School of India University in Bengaluru, urging graduating law students to uphold justice, defend liberty, a...</description>
 <category>Justice</category>
+<killbait:country>IN</killbait:country>
 <link>https://killbait.com/posts/post/b684c309-55f7-4e0d-b57b-f0e108b3fa91</link>
 <guid>https://killbait.com/posts/post/b684c309-55f7-4e0d-b57b-f0e108b3fa91</guid>
 <pubDate>Sat, 17 Oct 2026 11:12:31 +0200</pubDate>
@@ -135,6 +189,7 @@
 <title>International Timekeeping Body Abandons Leap Seconds to Prevent Future Disruptions</title>
 <description>The International Bureau of Weights and Measurements (BIPM) has announced the discontinuation of leap seconds, a timekeeping adjustment that has been used since 1972 to align atomic time with Earth&apos;s ...</description>
 <category>Science</category>
+<killbait:country>US</killbait:country>
 <link>https://killbait.com/posts/post/2c367f54-a707-4853-a27c-d257e557dc87</link>
 <guid>https://killbait.com/posts/post/2c367f54-a707-4853-a27c-d257e557dc87</guid>
 <pubDate>Sat, 17 Oct 2026 11:11:27 +0200</pubDate>
@@ -144,46 +199,11 @@
 <title>Pakistan&apos;s Energy Supplies Sufficient Until November Amid Winter Planning</title>
 <description>Finance Minister Muhammad Aurangzeb has stated that Pakistan has secured sufficient energy supplies to last through November, with preparations underway for the winter months when household energy dem...</description>
 <category>Energy</category>
+<killbait:country>PK</killbait:country>
 <link>https://killbait.com/posts/post/63147ee6-103f-4958-a56f-30274be94de5</link>
 <guid>https://killbait.com/posts/post/63147ee6-103f-4958-a56f-30274be94de5</guid>
 <pubDate>Sat, 17 Oct 2026 11:09:57 +0200</pubDate>
 <enclosure url="https://cdn.killbait.com/static/post/autoimages/cdf46e80-d5cd-4cc1-b9a2-2973ee51cd9e.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Owa-Ooye of Imesi-Ile, Oba Enoch Ademola Akinyemi, Dies After 21-Year Rule</title>
-<description>Oba Enoch Ademola Akinyemi, the Owa-Ooye of Imesi-Ile in Osun State, has died at the age of 85 after a 21-year reign. The traditional ruler, popularly known as Baba Daadaa, passed away on October 16, ...</description>
-<category>Politics</category>
-<link>https://killbait.com/posts/post/df4906ef-7cbe-4801-8b88-bc27fccc6d7a</link>
-<guid>https://killbait.com/posts/post/df4906ef-7cbe-4801-8b88-bc27fccc6d7a</guid>
-<pubDate>Sat, 17 Oct 2026 11:09:45 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1792217456/post/autoimages/bozv6cxxwas4ehpxrezp.png" type="image/jpeg" />
-</item>
-<item>
-<title>Philippine lawmaker demands expulsion of Chinese ambassador following diplomatic challenge</title>
-<description>Akbayan party-list Representative Perci Cendaña has called for the expulsion of Chinese Ambassador Jing Quan after the Chinese Embassy in Manila issued a challenge to Philippine lawmakers to declare t...</description>
-<category>Geopolitics</category>
-<link>https://killbait.com/posts/post/dbdc3047-70c6-42ad-9196-1db2b5339cf2</link>
-<guid>https://killbait.com/posts/post/dbdc3047-70c6-42ad-9196-1db2b5339cf2</guid>
-<pubDate>Sat, 17 Oct 2026 11:06:16 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dexggxaeg/image/upload/v1792224038/post/autoimages/tdz7akkurfg50zfa3vy8.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>ATC Judge Asserts Fearlessness Amid Case Record Delays in Lawyers&apos; Case</title>
-<description>An anti-terrorism court (ATC) judge in Islamabad, Abul Hasnat Zulqarnain, has made several notable remarks during a hearing involving lawyers Imaan Mazari and Hadi Ali Chattha. The judge expressed fru...</description>
-<category>Justice</category>
-<link>https://killbait.com/posts/post/c7fb8af2-704a-4d7a-9cc4-6f8cb430b1cc</link>
-<guid>https://killbait.com/posts/post/c7fb8af2-704a-4d7a-9cc4-6f8cb430b1cc</guid>
-<pubDate>Sat, 17 Oct 2026 11:01:07 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/diptopf29/image/upload/v1792227071/post/autoimages/gkuowcpcqqwof2qfoxqe.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>London Knights secure victory over Sudbury Wolves with 4-1 win at home</title>
-<description>The London Knights defeated the Sudbury Wolves 4-1 in a home game on October 16, 2026. The game took place at the London arena, where the Knights dominated the match from start to finish. The Knights&apos;...</description>
-<category>Sports</category>
-<link>https://killbait.com/posts/post/bf55c6ba-78fd-4d19-bcd1-d0fcefac3ce1</link>
-<guid>https://killbait.com/posts/post/bf55c6ba-78fd-4d19-bcd1-d0fcefac3ce1</guid>
-<pubDate>Sat, 17 Oct 2026 10:56:19 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1792209158/post/autoimages/qsdzxlkay7ngtf46vuaj.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
