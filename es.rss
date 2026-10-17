@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:killbait="https://killbait.com/xmlns/rss">
 <channel>
 <atom:link href="https://killbaitnews.github.io/rssfeeds/es.rss" rel="self" />
 <title>KillBait RSS Feed</title>
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Mastergrama del sábado 17 de octubre de 2026: respuestas y soluciones del juego de palabras</title>
+<description>El diario peruano La República publicó el solucionario de Mastergrama correspondiente al sábado 17 de octubre de 2026. La publicación, firmada por Redacción LR y fechada a las 3:43 de la madrugada, es...</description>
+<category>Videojuegos</category>
+<killbait:country>PE</killbait:country>
+<link>https://killbait.com/posts/post/623433d7-1c18-4b22-a8f8-9927281f074b</link>
+<guid>https://killbait.com/posts/post/623433d7-1c18-4b22-a8f8-9927281f074b</guid>
+<pubDate>Sat, 17 Oct 2026 11:43:30 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1792226686/post/autoimages/v3qarwwifvp9gvyl0wuy.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Nuevas evidencias arqueológicas indican mayor violencia interpersonal en neandertales</title>
+<description>Un estudio reciente analiza una herida en el omóplato de un neandertal que murió hace 75.000 años, hallada en una cueva del Kurdistán iraquí. Los arqueólogos creen que el orificio de 15 mm, causado po...</description>
+<category>Arqueología</category>
+<killbait:country>ES</killbait:country>
+<link>https://killbait.com/posts/post/5f737f46-097a-4152-85c5-a5c06eaf5a75</link>
+<guid>https://killbait.com/posts/post/5f737f46-097a-4152-85c5-a5c06eaf5a75</guid>
+<pubDate>Sat, 17 Oct 2026 11:43:24 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1792228821/post/autoimages/nizqphek65j51gxguqz9.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Elon Musk presenta el Roadster, un vehículo volador equipado con propulsores de alta presión</title>
 <description>Elon Musk, director general de Tesla, presentó durante un evento de SpaceX, su empresa aeroespacial, un vehículo volador que describió como un Roadster deportivo. El evento fue transmitido en vivo a t...</description>
 <category>Tecnología</category>
+<killbait:country>VE</killbait:country>
 <link>https://killbait.com/posts/post/9317207a-7511-489d-9f3a-49dbcb6174cb</link>
 <guid>https://killbait.com/posts/post/9317207a-7511-489d-9f3a-49dbcb6174cb</guid>
 <pubDate>Sat, 17 Oct 2026 11:38:19 +0200</pubDate>
@@ -18,6 +39,7 @@
 <title>Ingeniero Pedro Roberto Martínez Fuentes abandona cargo de viceministro de Infraestructura en CIV</title>
 <description>El Ministerio de Comunicaciones, Infraestructura y Vivienda (CIV) confirmó oficialmente la salida del ingeniero Pedro Roberto Martínez Fuentes del cargo de viceministro de Infraestructura, sin especif...</description>
 <category>Política</category>
+<killbait:country>GT</killbait:country>
 <link>https://killbait.com/posts/post/d0d5474d-cf32-4e47-a37d-88d66804dc43</link>
 <guid>https://killbait.com/posts/post/d0d5474d-cf32-4e47-a37d-88d66804dc43</guid>
 <pubDate>Sat, 17 Oct 2026 11:34:50 +0200</pubDate>
@@ -27,6 +49,7 @@
 <title>Docentes madrileños mantienen huelga indefinida tras años de demandas no cumplidas</title>
 <description>Los docentes de la Comunidad de Madrid han vuelto a tomar las calles en la tercera jornada de huelga indefinida, reivindicando una serie de medidas que llevan años exigiendo sin obtener respuestas sat...</description>
 <category>Educación</category>
+<killbait:country>ES</killbait:country>
 <link>https://killbait.com/posts/post/658ad60e-6622-4eab-a6ef-eb2bdddb3219</link>
 <guid>https://killbait.com/posts/post/658ad60e-6622-4eab-a6ef-eb2bdddb3219</guid>
 <pubDate>Sat, 17 Oct 2026 11:33:23 +0200</pubDate>
@@ -36,6 +59,7 @@
 <title>Meta rechaza acusaciones de sesgo político en Brasil tras fallo electoral</title>
 <description>El gigante tecnológico Meta ha negado las acusaciones de sesgo político durante la campaña presidencial brasileña, tras un fallo del Tribunal Superior Electoral (TSE) que ordenó tratar por igual a los...</description>
 <category>Política</category>
+<killbait:country>AR</killbait:country>
 <link>https://killbait.com/posts/post/0a14251d-3323-4164-a1bd-c4abbc6ce502</link>
 <guid>https://killbait.com/posts/post/0a14251d-3323-4164-a1bd-c4abbc6ce502</guid>
 <pubDate>Sat, 17 Oct 2026 11:33:05 +0200</pubDate>
@@ -45,6 +69,7 @@
 <title>Atlas vence 2-0 al Necaxa y se posiciona como sublíder del Apertura 2026</title>
 <description>El Atlas logró una victoria contundente por 2-0 ante el Necaxa en el Estadio Victoria, consolidando su posición como uno de los equipos más sólidos en el Apertura 2026 de la Liga MX. El partido, dispu...</description>
 <category>Deportes</category>
+<killbait:country>MX</killbait:country>
 <link>https://killbait.com/posts/post/e9879dad-8537-4fa4-9062-2ad466518a86</link>
 <guid>https://killbait.com/posts/post/e9879dad-8537-4fa4-9062-2ad466518a86</guid>
 <pubDate>Sat, 17 Oct 2026 11:27:10 +0200</pubDate>
@@ -54,6 +79,7 @@
 <title>Presidente De la Espriella anuncia traslado de reclusos vinculados a delitos en San Andrés a penitenciaría de Cómbita</title>
 <description>El presidente Abelardo De la Espriella anunció nuevas medidas de seguridad para San Andrés, tras un consejo de seguridad realizado en el archipiélago. Entre las decisiones destacadas está el traslado,...</description>
 <category>Criminalidad</category>
+<killbait:country>CO</killbait:country>
 <link>https://killbait.com/posts/post/a55e69fa-7ac4-4739-abbb-9120067dc03b</link>
 <guid>https://killbait.com/posts/post/a55e69fa-7ac4-4739-abbb-9120067dc03b</guid>
 <pubDate>Sat, 17 Oct 2026 11:25:22 +0200</pubDate>
@@ -63,6 +89,7 @@
 <title>Incendios en el sur de California destruyen viviendas y obligan a evacuar a residentes</title>
 <description>Varios incendios de rápida propagación han azotado el sur de California este viernes, destruyendo viviendas y obligando a evacuar a cientos de residentes mientras las autoridades luchan por contener l...</description>
 <category>Clima</category>
+<killbait:country>GT</killbait:country>
 <link>https://killbait.com/posts/post/7ac17c5f-e2ec-45f3-8c3c-6f209bd02a3d</link>
 <guid>https://killbait.com/posts/post/7ac17c5f-e2ec-45f3-8c3c-6f209bd02a3d</guid>
 <pubDate>Sat, 17 Oct 2026 11:17:01 +0200</pubDate>
@@ -72,6 +99,7 @@
 <title>IMSS confirma carencias en hospitales tras revisión piso por piso</title>
 <description>El Instituto Mexicano del Seguro Social (IMSS) ha confirmado las carencias en insumos, equipo médico, mobiliario y personal en sus hospitales, tras realizar una revisión &apos;piso por piso&apos; en el 60% de s...</description>
 <category>Salud</category>
+<killbait:country>MX</killbait:country>
 <link>https://killbait.com/posts/post/01461521-8942-410b-abc5-c537684ca113</link>
 <guid>https://killbait.com/posts/post/01461521-8942-410b-abc5-c537684ca113</guid>
 <pubDate>Sat, 17 Oct 2026 11:16:08 +0200</pubDate>
@@ -81,6 +109,7 @@
 <title>Osasuna y Racing Santander se enfrentan en el estadio El Sadar por la jornada 9 de LaLiga</title>
 <description>El próximo domingo 18 de octubre, a las 07:00 horas, Osasuna recibirá a Racing Santander en el estadio El Sadar por la fecha 9 de LaLiga EA Sports. Ambos equipos buscan sumar puntos para mejorar su po...</description>
 <category>Deportes</category>
+<killbait:country>PE</killbait:country>
 <link>https://killbait.com/posts/post/37bc0ec9-f539-4703-bada-48b5e0402bab</link>
 <guid>https://killbait.com/posts/post/37bc0ec9-f539-4703-bada-48b5e0402bab</guid>
 <pubDate>Sat, 17 Oct 2026 11:13:32 +0200</pubDate>
@@ -90,6 +119,7 @@
 <title>Así han quedado las candidaturas de la izquierda alternativa, territorio a territorio</title>
 <description>La noticia analiza la situación de las candidaturas de la izquierda alternativa en las elecciones generales de 2026 en España, centrándose en los acuerdos o falta de ellos entre los partidos de izquie...</description>
 <category>Politica</category>
+<killbait:country>ES</killbait:country>
 <link>https://killbait.com/posts/post/d3315af5-486f-4282-8694-d1341286316b</link>
 <guid>https://killbait.com/posts/post/d3315af5-486f-4282-8694-d1341286316b</guid>
 <pubDate>Sat, 17 Oct 2026 11:09:40 +0200</pubDate>
@@ -99,6 +129,7 @@
 <title>Estudiantes denuncian síntomas de intoxicación en Universidad Politécnica Territorial de Trujillo</title>
 <description>Una estudiante de la Universidad Politécnica Territorial del estado Trujillo Mario Briceño Iragorry (UPTTMBI), ubicada en el sector San Luis de Valera, denunció un presunto caso de intoxicación en la ...</description>
 <category>Educación</category>
+<killbait:country>VE</killbait:country>
 <link>https://killbait.com/posts/post/3f5632f5-ee27-4fc4-bc0f-42d86bcd1a29</link>
 <guid>https://killbait.com/posts/post/3f5632f5-ee27-4fc4-bc0f-42d86bcd1a29</guid>
 <pubDate>Sat, 17 Oct 2026 11:06:24 +0200</pubDate>
@@ -108,6 +139,7 @@
 <title>Trump pospone aplicación de sanciones a Rusia tras acuerdo de diésel con Moscú</title>
 <description>El presidente estadounidense Donald Trump firmó una orden ejecutiva que suspende la aplicación de un paquete de sanciones contra Rusia, promulgado recientemente por el Congreso. La medida, que se tomó...</description>
 <category>Geopolítica</category>
+<killbait:country>AR</killbait:country>
 <link>https://killbait.com/posts/post/a234b5d1-428d-4558-8f14-a042a875e912</link>
 <guid>https://killbait.com/posts/post/a234b5d1-428d-4558-8f14-a042a875e912</guid>
 <pubDate>Sat, 17 Oct 2026 11:03:07 +0200</pubDate>
@@ -117,6 +149,7 @@
 <title>Detallan reparto de 30 millones de pesos por asesinato del exalcalde de Yopal &apos;John Calzones&apos;</title>
 <description>El asesinato del exalcalde de Yopal, John Jairo Torres, conocido como &apos;John Calzones&apos;, habría sido coordinado mediante contactos entre personas que estaban fuera y dentro de centros carcelarios. Según...</description>
 <category>Criminalidad</category>
+<killbait:country>CO</killbait:country>
 <link>https://killbait.com/posts/post/bcac70b7-a728-48a6-9241-d5b3d7f0d229</link>
 <guid>https://killbait.com/posts/post/bcac70b7-a728-48a6-9241-d5b3d7f0d229</guid>
 <pubDate>Sat, 17 Oct 2026 11:02:55 +0200</pubDate>
@@ -126,6 +159,7 @@
 <title>Naim Darrechi confirma su libertad tras detención en Madrid por demanda por publicación de imagen</title>
 <description>El creador de contenido Naim Darrechi ha reaparecido públicamente tras ser detenido en el aeropuerto de Madrid, donde intentó ingresar al país. Durante una transmisión en vivo en la plataforma Kick, D...</description>
 <category>Entretenimiento</category>
+<killbait:country>MX</killbait:country>
 <link>https://killbait.com/posts/post/50b6e9b6-ab55-4438-bcfb-11b96357246f</link>
 <guid>https://killbait.com/posts/post/50b6e9b6-ab55-4438-bcfb-11b96357246f</guid>
 <pubDate>Sat, 17 Oct 2026 10:56:42 +0200</pubDate>
@@ -135,6 +169,7 @@
 <title>Dragon Ball Super Beerus capítulo 2 se estrenará el domingo 18 de octubre de 2026 en Crunchyroll con horarios específicos para Perú y otros países</title>
 <description>El anime Dragon Ball Super Beerus continuará su historia con el segundo capítulo, titulado &apos;The God of Destruction Heads To The Kaio’s Planet&apos; (El Dios de la Destrucción se dirige al planeta de los Ka...</description>
 <category>Cine</category>
+<killbait:country>PE</killbait:country>
 <link>https://killbait.com/posts/post/26cbff18-6e93-4b3d-9390-c26e4b7ffdd7</link>
 <guid>https://killbait.com/posts/post/26cbff18-6e93-4b3d-9390-c26e4b7ffdd7</guid>
 <pubDate>Sat, 17 Oct 2026 10:54:21 +0200</pubDate>
@@ -144,6 +179,7 @@
 <title>Puente Vincent Thomas cerrará 16 meses para reemplazo de plataforma de rodadura</title>
 <description>El puente Vincent Thomas, que conecta San Pedro con Terminal Island en Los Ángeles, cerrará por completo al tráfico vehicular a partir del 7 de noviembre de 2026 durante un periodo de 16 meses. El cie...</description>
 <category>Transporte</category>
+<killbait:country>GT</killbait:country>
 <link>https://killbait.com/posts/post/c7502968-3e39-4572-a0ad-5b77e5d5b963</link>
 <guid>https://killbait.com/posts/post/c7502968-3e39-4572-a0ad-5b77e5d5b963</guid>
 <pubDate>Sat, 17 Oct 2026 10:53:43 +0200</pubDate>
@@ -153,6 +189,7 @@
 <title>Viuda del exsenador colombiano acusa a Petro y Maduro de ordenar asesinato de su esposo</title>
 <description>María Claudia Tarazona, viuda del exsenador colombiano Miguel Uribe Turbay, ha afirmado en una entrevista con Noticias RCN que el asesinato de su esposo fue un crimen de Estado ordenado conjuntamente ...</description>
 <category>Politica</category>
+<killbait:country>VE</killbait:country>
 <link>https://killbait.com/posts/post/091e7b6c-fe16-4468-8330-bc1972bb9c13</link>
 <guid>https://killbait.com/posts/post/091e7b6c-fe16-4468-8330-bc1972bb9c13</guid>
 <pubDate>Sat, 17 Oct 2026 10:48:48 +0200</pubDate>
@@ -162,28 +199,11 @@
 <title>Flávio Bolsonaro descarta nombrar a su padre en cargo gubernamental en caso de ganar elecciones</title>
 <description>El senador Flávio Bolsonaro, candidato conservador a la presidencia de Brasil, declaró en una entrevista con TV Globo que no planea otorgar un cargo gubernamental a su padre, Jair Bolsonaro, en caso d...</description>
 <category>Política</category>
+<killbait:country>AR</killbait:country>
 <link>https://killbait.com/posts/post/08935ada-0ab4-4fcb-90e3-bc05b5017bf1</link>
 <guid>https://killbait.com/posts/post/08935ada-0ab4-4fcb-90e3-bc05b5017bf1</guid>
 <pubDate>Sat, 17 Oct 2026 10:46:36 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1792216052/post/autoimages/ibmv2gccicfee222dnv5.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Fiscalía captura a nueve presuntos integrantes de banda sicarial en Caldas tras hallar altares de santería y listas de víctimas</title>
-<description>La Fiscalía General de la Nación ha capturado a nueve presuntos integrantes de estructuras delincuenciales vinculadas a al menos nueve homicidios ocurridos en el departamento de Caldas durante el últi...</description>
-<category>Criminalidad</category>
-<link>https://killbait.com/posts/post/0e9261ef-4f76-4155-b897-2ccad1c1d429</link>
-<guid>https://killbait.com/posts/post/0e9261ef-4f76-4155-b897-2ccad1c1d429</guid>
-<pubDate>Sat, 17 Oct 2026 10:45:23 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1792223466/post/autoimages/o337q0cmhtllxqrr2enf.webp" type="image/jpeg" />
-</item>
-<item>
-<title>Garbage se presenta en el Zócalo de la CDMX el 14 de noviembre de 2026 con entrada libre</title>
-<description>La Secretaría de Cultura de la Ciudad de México confirmó que la banda estadounidense Garbage ofrecerá un concierto gratuito en la Plaza de la Constitución el próximo 14 de noviembre de 2026 a las 20:0...</description>
-<category>Música</category>
-<link>https://killbait.com/posts/post/6e1b715a-ba84-4bcc-add1-78cc8a958184</link>
-<guid>https://killbait.com/posts/post/6e1b715a-ba84-4bcc-add1-78cc8a958184</guid>
-<pubDate>Sat, 17 Oct 2026 10:41:19 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1792211252/post/autoimages/zh7z9q2ig0mlvqvtpevt.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
