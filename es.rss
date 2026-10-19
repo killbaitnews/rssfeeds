@@ -6,6 +6,26 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Un médico zaragozano revivió el legado de NeoGeo en los años 90 con un salón de videojuegos exclusivo</title>
+<description>La noticia relata la historia de Luis, un médico de Zaragoza que, en los años 90, decidió apostar por el negocio de los salones recreativos con una propuesta única: un salón exclusivo dedicado a NeoGe...</description>
+<category>Videojuegos</category>
+<killbait:country>ES</killbait:country>
+<link>https://killbait.com/posts/post/8b561953-b44d-4942-a65e-ef10c76748d1</link>
+<guid>https://killbait.com/posts/post/8b561953-b44d-4942-a65e-ef10c76748d1</guid>
+<pubDate>Mon, 19 Oct 2026 15:04:01 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1792413290/post/autoimages/bqjzlc89mscurlkc3gne.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Lista de películas de terror recomendadas para Halloween disponibles en plataformas de streaming</title>
+<description>La revista Cinemanía ha seleccionado las 10 películas de terror más recomendables para ver durante el mes de octubre, especialmente en la víspera de Halloween. Estas películas, disponibles en diversas...</description>
+<category>Cine</category>
+<killbait:country>ES</killbait:country>
+<link>https://killbait.com/posts/post/77d56f2a-e20f-450b-afab-cb9e5d012530</link>
+<guid>https://killbait.com/posts/post/77d56f2a-e20f-450b-afab-cb9e5d012530</guid>
+<pubDate>Mon, 19 Oct 2026 15:03:54 +0200</pubDate>
+<enclosure url="https://res.cloudinary.com/dmwx3pcq3/image/upload/v1792412119/post/autoimages/vdhquysnhc032u1b9oul.webp" type="image/jpeg" />
+</item>
+<item>
 <title>Nuevos hallazgos sobre microexones y su relación con el autismo</title>
 <description>Un estudio publicado en la revista Nature ha identificado nuevas secuencias diminutas de ARN, conocidas como microexones, y su relación con el autismo. Los investigadores, liderados por Guillermo E. P...</description>
 <category>Ciencia</category>
@@ -184,26 +204,6 @@
 <guid>https://killbait.com/posts/post/5c7c3c33-100c-4d90-8697-cc00e7e260af</guid>
 <pubDate>Mon, 19 Oct 2026 14:21:29 +0200</pubDate>
 <enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1792411251/post/autoimages/zgrjibsgrkxfpx3cc6og.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Meta niega interferencia en elecciones brasileñas tras acusaciones de favorecer a Flávio Bolsonaro</title>
-<description>El Tribunal Superior Electoral (TSE) de Brasil ordenó a Meta explicaciones sobre supuestas restricciones a las publicaciones de Lula, su distribución, recomendaciones algorítmicas y posibles bloqueos ...</description>
-<category>Política</category>
-<killbait:country>PE</killbait:country>
-<link>https://killbait.com/posts/post/a50c8930-001d-400e-9691-df372588679c</link>
-<guid>https://killbait.com/posts/post/a50c8930-001d-400e-9691-df372588679c</guid>
-<pubDate>Mon, 19 Oct 2026 14:21:14 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dlqf1qjv0/image/upload/v1792407771/post/autoimages/xroil8gph3jdl4luakhd.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Nueve personas extranjeras detenidas tras robo organizado a minibodegas en Ñuñoa</title>
-<description>Nueve personas de nacionalidad extranjera fueron detenidas durante la madrugada en la comuna de Ñuñoa tras un robo organizado a una empresa de minibodegas ubicada en la calle Eduardo Llanos. Según inf...</description>
-<category>Criminalidad</category>
-<killbait:country>CL</killbait:country>
-<link>https://killbait.com/posts/post/03fc3651-5548-402e-b08e-64bb8d1b22cb</link>
-<guid>https://killbait.com/posts/post/03fc3651-5548-402e-b08e-64bb8d1b22cb</guid>
-<pubDate>Mon, 19 Oct 2026 14:20:34 +0200</pubDate>
-<enclosure url="https://res.cloudinary.com/dqof8njtb/image/upload/v1792407862/post/autoimages/q6yiaukuaxni9uhgmdcu.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
