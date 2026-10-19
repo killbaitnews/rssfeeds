@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Lua Blanco, actriz brasileña de &quot;Rebelde&quot;, fallece a los 39 años tras lucha contra el cáncer</title>
+<description>Lua Blanco, actriz brasileña conocida por interpretar a Roberta Messi en la versión brasileña de la serie &quot;Rebelde&quot;, falleció a los 39 años tras una lucha contra el cáncer en sus últimos meses de vida...</description>
+<category>Entretenimiento</category>
+<killbait:country>MX</killbait:country>
+<link>https://killbait.com/posts/post/cea2162f-26f3-41ea-a816-5a41152c384e</link>
+<guid>https://killbait.com/posts/post/cea2162f-26f3-41ea-a816-5a41152c384e</guid>
+<pubDate>Tue, 20 Oct 2026 00:34:02 +0200</pubDate>
+<enclosure url="https://cdn.killbait.com/static/post/iaimages/c731e00c-3c9d-45da-ab7d-6eb6bcc4200c.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Dos policías de Limoges niegan haber saqueado tienda Lacoste, el fiscal confirma intervención judicial</title>
 <description>La ciudad de Limoges, en Francia, se ha visto envuelta en un conflicto mediático tras la difusión de una video en redes sociales que mostraba a dos policías moteros recuperando artículos de una tienda...</description>
 <category>Justicia</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/7b5d4014-b071-4c7a-869b-963295dcd650</guid>
 <pubDate>Mon, 19 Oct 2026 23:44:28 +0200</pubDate>
 <enclosure url="https://cdn.britannica.com/43/243743-050-B44485BB/Jalen-Hurts-Super-Bowl-LVII.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>PSOE de Palencia renuncia a toda su lista parlamentaria tras cambio en la posición de Ferraz</title>
-<description>El Partido Socialista Obrero Español (PSOE) de Palencia ha decidido renunciar a toda su lista de candidatos para las elecciones al Congreso de los Diputados tras la decisión de cambiar la posición de ...</description>
-<category>Politica</category>
-<killbait:country>ES</killbait:country>
-<link>https://killbait.com/posts/post/f82c661d-b7f4-448f-83cf-cfc56f2b42c2</link>
-<guid>https://killbait.com/posts/post/f82c661d-b7f4-448f-83cf-cfc56f2b42c2</guid>
-<pubDate>Mon, 19 Oct 2026 23:43:24 +0200</pubDate>
-<enclosure url="https://images.ecestaticos.com/QGBgy8MG-2Wk9bsKf39036l_gYE=/0x0:2272x1506/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/65c/43d/0ca/65c43d0ca5dbd5ff8f19b44167343db9.png,0,275,1)/f.elconfidencial.com/original/de2/cbc/57e/de2cbc57e2b4be826401e233091ed057.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
