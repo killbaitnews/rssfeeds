@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Propietario de piso en Barcelona busca recuperar vivienda tras dos años de desahucio paralizado</title>
+<description>Juan M., propietario del piso ubicado en la calle Otger número 11 de Barcelona, lleva más de dos años intentando recuperar su vivienda, cuyo desahucio fue paralizado por el decreto de vivienda aprobad...</description>
+<category>Derecho a la vivienda</category>
+<killbait:country>ES</killbait:country>
+<link>https://killbait.com/posts/post/30ea41bd-572b-41c8-9036-890ed43d2ecb</link>
+<guid>https://killbait.com/posts/post/30ea41bd-572b-41c8-9036-890ed43d2ecb</guid>
+<pubDate>Tue, 20 Oct 2026 16:18:58 +0200</pubDate>
+<enclosure url="https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/19/6ad64d2b7f30a.r_d.2773-1684.jpeg" type="image/jpeg" />
+</item>
+<item>
 <title>La educación como viaje: marinos o piratas en el mundo digital</title>
 <description>La noticia aborda la reflexión sobre la educación en el contexto actual, destacando la necesidad de adaptarse a los cambios tecnológicos y sociales. El texto utiliza una metáfora poética de Gabriel Ce...</description>
 <category>Educación</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/7d2188a3-176c-4dac-90ac-29202c90828f</guid>
 <pubDate>Tue, 20 Oct 2026 15:34:08 +0200</pubDate>
 <enclosure url="https://www.lasillavacia.com/wp-content/uploads/2026/10/Abelardo_De_La_Espriella_y_la_sacada_de_LOS_contratistas_huevos_1111.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>El impacto de la inteligencia artificial en el futuro del software y los modelos de negocio</title>
-<description>La noticia analiza cómo la inteligencia artificial está transformando el panorama del software, introduciendo cambios radicales en su desarrollo, distribución y uso. El artículo destaca que el softwar...</description>
-<category>Inteligencia artificial</category>
-<killbait:country>ES</killbait:country>
-<link>https://killbait.com/posts/post/865cc3e4-208d-4e8e-94af-eaf1c856e95a</link>
-<guid>https://killbait.com/posts/post/865cc3e4-208d-4e8e-94af-eaf1c856e95a</guid>
-<pubDate>Tue, 20 Oct 2026 15:33:51 +0200</pubDate>
-<enclosure url="https://substackcdn.com/image/fetch/$s_!mjAD!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd00ccddd-4b49-478c-ad41-3e16406372fb_3072x2048.jpeg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
