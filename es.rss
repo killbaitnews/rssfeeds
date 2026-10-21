@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Barcelona pierde 4-2 ante PSG en partido de Champions League</title>
+<description>Barcelona sufrió una nueva derrota por goleada en la competición de la Champions League tras enfrentarse al Paris Saint-Germain (PSG), bicampeón de la competición. El partido, disputado en el estadio ...</description>
+<category>Deportes</category>
+<killbait:country>PE</killbait:country>
+<link>https://killbait.com/posts/post/c4b16852-b214-48d1-b7eb-4036352c0ecb</link>
+<guid>https://killbait.com/posts/post/c4b16852-b214-48d1-b7eb-4036352c0ecb</guid>
+<pubDate>Wed, 21 Oct 2026 05:04:29 +0200</pubDate>
+<enclosure url="https://f.rpp-noticias.io/2026/10/20/portada_2105812.jpg?width=860&amp;quality=80" type="image/jpeg" />
+</item>
+<item>
 <title>Meteorología advierte de nuevas lluvias intensas en zona central durante la madrugada</title>
 <description>La Dirección Meteorológica de Chile ha proyectado nuevas precipitaciones moderadas a fuertes en un corto periodo de tiempo para esta madrugada, principalmente en las regiones de Coquimbo y Maule. Segú...</description>
 <category>Clima</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/a35103f3-c671-4b1c-b6f6-9c9e13771bd1</guid>
 <pubDate>Wed, 21 Oct 2026 04:20:27 +0200</pubDate>
 <enclosure url="https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/20/6ad7e586940a3.jpeg" type="image/jpeg" />
-</item>
-<item>
-<title>El profesorado madrileño reclama más inversión educativa y medidas contra la segregación en su quinta jornada de huelga</title>
-<description>El profesorado de la Comunidad de Madrid ha protagonizado el martes 20 de octubre de 2026 una nueva jornada de movilizaciones, la quinta desde el inicio de la huelga educativa, para reclamar mejoras l...</description>
-<category>Sociedad</category>
-<killbait:country>ES</killbait:country>
-<link>https://killbait.com/posts/post/6f8c74b0-55be-4389-9845-286aa803f153</link>
-<guid>https://killbait.com/posts/post/6f8c74b0-55be-4389-9845-286aa803f153</guid>
-<pubDate>Wed, 21 Oct 2026 04:17:22 +0200</pubDate>
-<enclosure url="https://www.elsaltodiario.com/uploads/fotos/rs600/14f63751/AM8_0703%20copia_general.jpg?v=63959751190" type="image/jpeg" />
 </item>
 </channel>
 </rss>
