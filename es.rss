@@ -6,6 +6,26 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>JNE rompe reglas electorales: dispone recuento de votos en Piura en base a actas siniestradas</title>
+<description>El Jurado Nacional de Elecciones (JNE) ha sido denunciado por romper reglas electorales al ordenar el recuento de votos en la región de Piura, utilizando actas siniestradas. Según las informaciones, l...</description>
+<category>Política</category>
+<killbait:country>PE</killbait:country>
+<link>https://killbait.com/posts/post/6c0600e5-317d-4b17-a45e-1cd13f83fd82</link>
+<guid>https://killbait.com/posts/post/6c0600e5-317d-4b17-a45e-1cd13f83fd82</guid>
+<pubDate>Wed, 21 Oct 2026 08:02:42 +0200</pubDate>
+<enclosure url="https://imgmedia.larepublica.pe/1200x735/larepublica/original/2026/10/20/6ad812cd7509cf5b3a0b08e6.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Dos agentes de seguridad del Hospital Casimiro Ulloa acusados de hurtar motocicleta de paciente en Miraflores</title>
+<description>En el distrito limeño de Miraflores, dos trabajadores de seguridad del Hospital Casimiro Ulloa fueron identificados como presuntos responsables de hurtar la motocicleta de un paciente que se encontrab...</description>
+<category>Criminalidad</category>
+<killbait:country>PE</killbait:country>
+<link>https://killbait.com/posts/post/619af912-8465-43d1-8598-e16dd3b9bc49</link>
+<guid>https://killbait.com/posts/post/619af912-8465-43d1-8598-e16dd3b9bc49</guid>
+<pubDate>Wed, 21 Oct 2026 07:59:30 +0200</pubDate>
+<enclosure url="https://f.rpp-noticias.io/2026/10/20/raflo-2026-10-20-21-35-13-25552-1920842mp4_1920843.jpg?width=860&amp;quality=80" type="image/jpeg" />
+</item>
+<item>
 <title>Mujer y su perro fallecen en ataque armado en barrio Nariño de Montería</title>
 <description>En el barrio Nariño de Montería, Córdoba, se registró un ataque armado que terminó con la vida de Zaira Díaz Flórez, de 50 años, y su perro, quien habría intentado protegerla de los agresores. El hech...</description>
 <category>Criminalidad</category>
@@ -184,26 +204,6 @@
 <guid>https://killbait.com/posts/post/791bc1bd-0b88-465c-8048-e63f3d645ff6</guid>
 <pubDate>Wed, 21 Oct 2026 07:03:23 +0200</pubDate>
 <enclosure url="https://s3.elespanol.com/k/imgp/cms/elespanol/9814724.jpg?p=f:jpeg/w:1706/h:960&amp;h=mIyAROKY" type="image/jpeg" />
-</item>
-<item>
-<title>Boca Juniors vence a Vasco da Gama en Brasil y se clasifica para la final de la Copa Sudamericana sin Palacios y Alarcón</title>
-<description>Boca Juniors logró una victoria histórica en el estadio Maracaná ante Vasco da Gama, remontando un 0-1 sufrido en el partido anterior para alcanzar la final de la Copa Sudamericana. El equipo argentin...</description>
-<category>Deportes</category>
-<killbait:country>CL</killbait:country>
-<link>https://killbait.com/posts/post/39a9be15-8a7f-4a88-8762-299d03ac9b6a</link>
-<guid>https://killbait.com/posts/post/39a9be15-8a7f-4a88-8762-299d03ac9b6a</guid>
-<pubDate>Wed, 21 Oct 2026 06:59:33 +0200</pubDate>
-<enclosure url="https://www.latercera.com/resizer/v2/KC5AAUYPZFCWTEQ5VTCNMFD5HQ.jfif?auth=9d2c9582db15fb16bad99ad345a9846229cfd0921068cb76476907ec13f9ea84&amp;height=630&amp;width=1200&amp;focal=1759%2C768" type="image/jpeg" />
-</item>
-<item>
-<title>Detención de metrodelegados genera reacción gremial por represión policial</title>
-<description>La detención de los metrodelegados en Buenos Aires ha generado una fuerte reacción de solidaridad por parte de los gremios. Según la noticia publicada en Página|12, la CGT, la CTA y la CATT han apoyad...</description>
-<category>Sociedad</category>
-<killbait:country>AR</killbait:country>
-<link>https://killbait.com/posts/post/b25c220d-ecb6-4ffa-ba10-c3c4eb9c0dd1</link>
-<guid>https://killbait.com/posts/post/b25c220d-ecb6-4ffa-ba10-c3c4eb9c0dd1</guid>
-<pubDate>Wed, 21 Oct 2026 06:59:27 +0200</pubDate>
-<enclosure url="https://www.pagina12.com.ar/resizer/v2/BQJB7LKK75EQ5PEFYQIEQTPY2U.jpg?smart=true&amp;auth=cca5d59f9fe09669bd1825dba531cac72cc0fc5556fa19681e02767141ae3b7f&amp;width=1200&amp;height=630" type="image/jpeg" />
 </item>
 </channel>
 </rss>
