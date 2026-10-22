@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>El Día de la Hispanidad en América: una diversidad de significados y celebraciones</title>
+<description>El 12 de octubre, fecha que España celebra como Fiesta Nacional o Día de la Hispanidad, recibe en América Latina y el Caribe interpretaciones diversas y a menudo contradictorias. Mientras España manti...</description>
+<category>Geopolítica</category>
+<killbait:country>ES</killbait:country>
+<link>https://killbait.com/posts/post/d04a8719-624d-4d9e-bd10-7e37e5f05a75</link>
+<guid>https://killbait.com/posts/post/d04a8719-624d-4d9e-bd10-7e37e5f05a75</guid>
+<pubDate>Thu, 22 Oct 2026 01:37:53 +0200</pubDate>
+<enclosure url="https://elordenmundial.com/wp-content/uploads/2026/10/mapa_dia-hispanidad-america.png" type="image/jpeg" />
+</item>
+<item>
 <title>Díaz-Canel supervisa avances en el Programa Integral de Abasto de Agua en La Habana y visita empresas en Cerro</title>
 <description>El Presidente Miguel Díaz-Canel Bermúdez realizó una visita a la fuente de abasto Aguada del Cura, ubicada en el municipio de Boyeros, como parte del seguimiento al Programa Integral de Aseguramiento ...</description>
 <category>Economía</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/e876c6d3-9a40-45c1-af40-3309c49c840a</guid>
 <pubDate>Thu, 22 Oct 2026 00:24:05 +0200</pubDate>
 <enclosure url="https://lahora.gt/wp-content/uploads/sites/5/2026/10/itzapa_d0fca1.jpeg" type="image/jpeg" />
-</item>
-<item>
-<title>Juicio por crimen de Ronald Ojeda se llevará a cabo con 16 acusados tras sobreseimiento de dos imputados</title>
-<description>El juicio contra los integrantes de Los Piratas del Tren de Aragua, acusados del secuestro y homicidio de Ronald Ojeda, se desarrollará con 16 imputados en lugar de 18, tras la aprobación del sobresei...</description>
-<category>Criminalidad</category>
-<killbait:country>CL</killbait:country>
-<link>https://killbait.com/posts/post/a69da30d-4749-4e22-8229-8a8639b23302</link>
-<guid>https://killbait.com/posts/post/a69da30d-4749-4e22-8229-8a8639b23302</guid>
-<pubDate>Thu, 22 Oct 2026 00:22:39 +0200</pubDate>
-<enclosure url="https://www.latercera.com/resizer/v2/HU2P26LKNBHJDLRHX5JMR5IQIY.jpg?auth=c1f2a9dab7657a0f18be833c70efbc55e70b083e518f37d4cfbe16f623e02bbf&amp;height=630&amp;width=1200&amp;smart=true" type="image/jpeg" />
 </item>
 </channel>
 </rss>
