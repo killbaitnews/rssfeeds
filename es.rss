@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Trump, tóxico para candidatos republicanos</title>
+<description>La noticia analiza cómo la presencia de Donald Trump en la política estadounidense ha generado un impacto negativo en los candidatos republicanos, quienes están evitando mencionar su nombre en sus cam...</description>
+<category>Política</category>
+<killbait:country>MX</killbait:country>
+<link>https://killbait.com/posts/post/ff671909-2238-41c5-a556-189f9f2057ad</link>
+<guid>https://killbait.com/posts/post/ff671909-2238-41c5-a556-189f9f2057ad</guid>
+<pubDate>Fri, 23 Oct 2026 14:20:18 +0200</pubDate>
+<enclosure url="https://www.elfinanciero.com.mx/resizer/v2/IPACXAVQRRCQXAX74ZS47Z7XSY.jpg?smart=true&amp;auth=e08e78c72dd41498c446fd7eae104b29b396449be705bcdbed416ce00c10e7bc&amp;width=1200&amp;height=630" type="image/jpeg" />
+</item>
+<item>
 <title>Ministro de Energía advierte escasez prolongada de carburantes en Cuba</title>
 <description>El ministro de Energía y Minas, Vicente de la O Levy, ha advertido que Cuba no dispone ni dispondrá de carburantes a corto plazo, una situación que no debe servir de pretexto para paralizar la búsqued...</description>
 <category>Energía</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/920d7a02-0d8b-4be7-927b-5bfeadb71e93</guid>
 <pubDate>Fri, 23 Oct 2026 13:36:27 +0200</pubDate>
 <enclosure url="https://s.yimg.com/lo/mysterio/api/e4e6ab1797bad216b165c549c855d0b652881519f300b79cb3a4440de8019eea/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmediaite_845%2F57f9673b4284aed057d5b5ec77f39842.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>La criminalización de la violencia en el contexto de la seguridad pública</title>
-<description>El artículo analiza la relación entre la violencia, la criminalidad y la necesidad de adaptar las leyes a las realidades sociales. El autor, Mario Antonio Sandoval, aborda la situación en Europa, part...</description>
-<category>Opinión</category>
-<killbait:country>GT</killbait:country>
-<link>https://killbait.com/posts/post/ba99b558-e496-485f-96c2-b12e8ea5c54e</link>
-<guid>https://killbait.com/posts/post/ba99b558-e496-485f-96c2-b12e8ea5c54e</guid>
-<pubDate>Fri, 23 Oct 2026 13:34:35 +0200</pubDate>
-<enclosure url="https://www.prensalibre.com/wp-content/uploads/2026/10/Mario-antonio-sandoval_1283b2.png" type="image/jpeg" />
 </item>
 </channel>
 </rss>
