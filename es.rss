@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Migración Colombia expulsa a 27 extranjeros en Arauca por riesgos fronterizos y delitos</title>
+<description>Migración Colombia llevó a cabo un operativo en Arauca en la noche del domingo, expulsando a 27 ciudadanos extranjeros que representaban un riesgo elevado para la seguridad en la zona fronteriza. Segú...</description>
+<category>Criminalidad</category>
+<killbait:country>CO</killbait:country>
+<link>https://killbait.com/posts/post/80c3cc5b-d7c5-4b33-86db-4b18e122190b</link>
+<guid>https://killbait.com/posts/post/80c3cc5b-d7c5-4b33-86db-4b18e122190b</guid>
+<pubDate>Mon, 26 Oct 2026 04:15:59 +0100</pubDate>
+<enclosure url="https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images-resized/PP5340231A-h-o.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Consumidor ecuatoriano exige productos más saludables y sostenibles, impulsando crecimiento del sector agroalimentario</title>
 <description>El sector agroalimentario ecuatoriano ha registrado un crecimiento significativo en ventas internas, alcanzando 25.079 millones de dólares entre enero y julio de 2026, un aumento del 3,25% respecto al...</description>
 <category>Economía</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/2ee70e36-d4cc-4d23-acf1-058fbb91c431</guid>
 <pubDate>Mon, 26 Oct 2026 03:23:24 +0100</pubDate>
 <enclosure url="https://www.prensalibre.com/wp-content/uploads/2026/10/ec88c6f0-d0b9-11f1-93e1-3b657b665bcf.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Lula reelecto anuncia medidas educativas y defensa de soberanía nacional en discurso de victoria</title>
-<description>El presidente reelecto de Brasil, Luiz Inácio Lula da Silva, celebró su victoria en las elecciones presidenciales del 25 de octubre de 2026, obteniendo el 52% de los votos frente al 48% de su rival, e...</description>
-<category>Politica</category>
-<killbait:country>EC</killbait:country>
-<link>https://killbait.com/posts/post/53ff8672-c9e3-4436-8eb7-b8be848c3ed4</link>
-<guid>https://killbait.com/posts/post/53ff8672-c9e3-4436-8eb7-b8be848c3ed4</guid>
-<pubDate>Mon, 26 Oct 2026 03:23:11 +0100</pubDate>
-<enclosure url="https://media.elcomercio.com/wp-content/uploads/2026/10/Lula-da-Silva-1.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
