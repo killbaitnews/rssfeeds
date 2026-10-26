@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Nuevos políticos y alianzas se perfilan en la carrera presidencial de 2027</title>
+<description>La noticia analiza los movimientos políticos que están perfilando la carrera presidencial de Guatemala para las elecciones de 2027. Se mencionan varios actores clave que podrían ser candidatos a la pr...</description>
+<category>Política</category>
+<killbait:country>GT</killbait:country>
+<link>https://killbait.com/posts/post/d82d8959-9af1-4a5f-b566-7b8660bde256</link>
+<guid>https://killbait.com/posts/post/d82d8959-9af1-4a5f-b566-7b8660bde256</guid>
+<pubDate>Mon, 26 Oct 2026 12:17:39 +0100</pubDate>
+<enclosure url="https://lahora.gt/wp-content/uploads/sites/5/2026/10/Perfiles-elecciones.jpeg" type="image/jpeg" />
+</item>
+<item>
 <title>¿Por qué la región se acerca a Delcy Rodríguez?</title>
 <description>La noticia analiza el acercamiento de líderes políticos de la región hacia Delcy Rodríguez, presidenta interina de Venezuela, y cuestiona si este contacto otorga legitimidad democrática al gobierno ch...</description>
 <category>Política</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/373a71f6-ecb3-48e9-acb1-b3a1a068774e</guid>
 <pubDate>Mon, 26 Oct 2026 11:26:11 +0100</pubDate>
 <enclosure url="https://elcomercio.pe/resizer/v2/YZ77UQR56FBLDPZ35MPAJZBSK4.jpg?auth=507aface6a3bcde36c9a011e0be9872f2ca01354d99a0115969dda51424f6be8&amp;width=980&amp;height=528&amp;quality=75&amp;smart=true" type="image/jpeg" />
-</item>
-<item>
-<title>Sismos registrados en Chile: epicentro y magnitud del movimiento sísmico del lunes 26 de octubre</title>
-<description>Durante la jornada del lunes 26 de octubre, el Centro Sismológico Nacional de la Universidad de Chile registró varios movimientos sísmicos en distintas regiones del país. El más destacado fue un sismo...</description>
-<category>Ciencia</category>
-<killbait:country>CL</killbait:country>
-<link>https://killbait.com/posts/post/09101331-03a0-462b-82de-775e17576643</link>
-<guid>https://killbait.com/posts/post/09101331-03a0-462b-82de-775e17576643</guid>
-<pubDate>Mon, 26 Oct 2026 11:24:32 +0100</pubDate>
-<enclosure url="https://www.latercera.com/resizer/v2/WJVZ4RZ2GVAFNLSDARBLUVBWJA.png?auth=7a114d5945e0d34ed544719bc7a5c07e3e9178c8069b1a79187db905b3eeea27&amp;height=630&amp;width=1200&amp;smart=true" type="image/jpeg" />
 </item>
 </channel>
 </rss>
