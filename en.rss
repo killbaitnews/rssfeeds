@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Sahel juntas launch Tafouk TV to counter Western media influence</title>
+<description>Tafouk TV, a new media outlet launched by the military regimes of Mali, Burkina Faso, and Niger, began broadcasting on September 16, 2026. The channel, part of the Alliance of Sahel States (AES), aims...</description>
+<category>Geopolitics</category>
+<killbait:country>TZ</killbait:country>
+<link>https://killbait.com/posts/post/62f95fa6-d66f-4bd8-bf28-d6b69c5db910</link>
+<guid>https://killbait.com/posts/post/62f95fa6-d66f-4bd8-bf28-d6b69c5db910</guid>
+<pubDate>Tue, 27 Oct 2026 14:42:08 +0100</pubDate>
+<enclosure url="https://prod.cdn-medias.theafricareport.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1215,height=810,fit=cover/https://prod.cdn-medias.theafricareport.com/medias/2026/10/27/jad20261026-ass-mali-medias-tafouk-tv.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Second day of murder trial begins as court examines evidence</title>
 <description>The murder trial of Robert Crawford, accused of killing his wife, has progressed to its second day in court. The case, which will determine whether the death of Crawford&apos;s wife was a tragic accident i...</description>
 <category>Crime</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/fb942e6f-056a-4897-9a5a-ba5cc081d6ac</guid>
 <pubDate>Tue, 27 Oct 2026 13:43:49 +0100</pubDate>
 <enclosure url="https://content.api.news/v3/images/bin/4f175e52c503a8c19ac91c6f9799473a" type="image/jpeg" />
-</item>
-<item>
-<title>Katsina Governor Orders Probe After Cleric and Associate Killed by Gunmen</title>
-<description>Governor Umaru Dikko Radda of Katsina State has ordered a thorough investigation into the killing of Islamic cleric Sheikh Yahaya Masussuka and his associate, who were attacked by gunmen at the cleric...</description>
-<category>Crime</category>
-<killbait:country>NG</killbait:country>
-<link>https://killbait.com/posts/post/452daa72-cb15-4b93-8ca6-f876a5531ce6</link>
-<guid>https://killbait.com/posts/post/452daa72-cb15-4b93-8ca6-f876a5531ce6</guid>
-<pubDate>Tue, 27 Oct 2026 13:41:51 +0100</pubDate>
-<enclosure url="https://www.naijanews.com/wp-content/uploads/2026/04/images-1-7.jpeg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
