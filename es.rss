@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Elecciones israelíes de 2026: Netanyahu enfrenta desafío político tras guerra en Gaza</title>
+<description>El martes 27 de octubre de 2026, Israel celebrará elecciones legislativas que definirán la composición de la próxima Knéset, el Parlamento de 120 bancas, tras los ataques de Hamas del 7 de octubre de ...</description>
+<category>Política</category>
+<killbait:country>AR</killbait:country>
+<link>https://killbait.com/posts/post/604fb4cd-8af2-439e-bf44-bb693ee60018</link>
+<guid>https://killbait.com/posts/post/604fb4cd-8af2-439e-bf44-bb693ee60018</guid>
+<pubDate>Tue, 27 Oct 2026 08:04:11 +0100</pubDate>
+<enclosure url="https://media.ambito.com/p/82f55f5bf63f18b4e05f79ac36abab13/adjuntos/239/imagenes/043/238/0043238922/benjamin-netanyahu.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Quebrada Honda en Las Condes se desborda nuevamente tras intensas lluvias, superando medidas preventivas</title>
 <description>La Quebrada Honda en Las Condes volvió a provocar inundaciones en San Carlos de Apoquindo, a menos de tres semanas del aluvión ocurrido el 8 de octubre. Según informaciones del Ministerio de Obras Púb...</description>
 <category>Clima</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/1badf296-ba60-4a1b-bea7-4c04fda09bf2</guid>
 <pubDate>Tue, 27 Oct 2026 07:11:37 +0100</pubDate>
 <enclosure url="https://www.elfinanciero.com.mx/resizer/v2/KELK4IMPRZGGHK7XJVN3N6TM74.jpeg?smart=true&amp;auth=25b2d3a21c2451f0d350490958e488768925c970614af2a77552a1f9f0d0950b&amp;width=1200&amp;height=630" type="image/jpeg" />
-</item>
-<item>
-<title>Pronóstico del tiempo en Punta Lara para el martes 27 de octubre de 2026: temperaturas entre 10°C y 18°C</title>
-<description>El Servicio Meteorológico Nacional (SMN) ha emitido el pronóstico del tiempo para Punta Lara, Buenos Aires, correspondiente al martes 27 de octubre de 2026. Según el informe, las temperaturas oscilará...</description>
-<category>Clima</category>
-<killbait:country>AR</killbait:country>
-<link>https://killbait.com/posts/post/b169fa5d-8863-4e7f-8624-787569bb0818</link>
-<guid>https://killbait.com/posts/post/b169fa5d-8863-4e7f-8624-787569bb0818</guid>
-<pubDate>Tue, 27 Oct 2026 07:10:54 +0100</pubDate>
-<enclosure url="https://www.clarin.com/img/2025/04/30/wQXHTTuRr_2000x1500__1.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
