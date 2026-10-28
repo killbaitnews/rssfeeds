@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Un peón del metal guipuzcoano cobra más que ingenieros en 13 provincias españolas</title>
+<description>El Convenio del Metal de Gipuzkoa, uno de los más veteranos y relevantes del país, establece salarios significativamente más altos que en otras provincias españolas. Según un informe de Confemetal, un...</description>
+<category>Economía</category>
+<killbait:country>ES</killbait:country>
+<link>https://killbait.com/posts/post/f1613b54-b28a-488f-a34e-73befdf779ba</link>
+<guid>https://killbait.com/posts/post/f1613b54-b28a-488f-a34e-73befdf779ba</guid>
+<pubDate>Wed, 28 Oct 2026 08:57:20 +0100</pubDate>
+<enclosure url="https://s2.ppllstatics.com/diariovasco/www/multimedia/noticias/2026/10/27/ParaMetal-U4031128438roB-1200x840@Diario%20Vasco.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Guillermo del Toro presenta proyección gratuita de &quot;Frankenstein&quot; en CDMX con motivo del Día de Muertos</title>
 <description>La Ciudad de México ofrecerá una proyección gratuita de la película &quot;Frankenstein&quot;, dirigida por Guillermo del Toro, como parte de las celebraciones del Día de Muertos. La función especial se llevará ...</description>
 <category>Cine</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/7bf58843-5979-488f-b3fd-c9c14579813b</guid>
 <pubDate>Wed, 28 Oct 2026 07:59:37 +0100</pubDate>
 <enclosure url="https://imgmedia.larepublica.pe/1200x735/larepublica/original/2026/10/26/6adfc76e2ddd4daada088b8c.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Siemens obtiene contrato para suministrar 40 trenes de alta velocidad a Renfe con entrega prevista para 2030</title>
-<description>Siemens Mobility ha sido seleccionada por Renfe para suministrar 30 trenes de alta velocidad Velaro Novo, con posibilidad de ampliación a 40 unidades, por un valor de 1.218 millones de euros. El contr...</description>
-<category>Transporte</category>
-<killbait:country>ES</killbait:country>
-<link>https://killbait.com/posts/post/41cc04a9-0526-467e-a344-dc4970c07189</link>
-<guid>https://killbait.com/posts/post/41cc04a9-0526-467e-a344-dc4970c07189</guid>
-<pubDate>Wed, 28 Oct 2026 07:59:20 +0100</pubDate>
-<enclosure url="https://s03.s3c.es/imag/_v0/2560x1397/6/3/3/1200x655_smo-velaro-novo-neutral-spanien-bridge.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
