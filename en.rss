@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Icy roads lead to hundreds of crashes and travel disruptions across Edmonton region</title>
+<description>Drivers across Edmonton and surrounding areas faced significant travel disruptions on Wednesday morning as icy roads caused hundreds of crashes and delays for commuters. A fatal multi-vehicle collisio...</description>
+<category>Weather</category>
+<killbait:country>CA</killbait:country>
+<link>https://killbait.com/posts/post/b7b6f6fb-b2e3-43fd-90f0-3ac991b1e109</link>
+<guid>https://killbait.com/posts/post/b7b6f6fb-b2e3-43fd-90f0-3ac991b1e109</guid>
+<pubDate>Thu, 29 Oct 2026 17:38:31 +0100</pubDate>
+<enclosure url="https://www.ctvnews.ca/resizer/v2/BSVD3KC73ZEHXGRCC4Y24TSQEI.jpg?smart=true&amp;auth=d444d622ac77d7d7a0c8b899f0e50d1a9dcc511d20da4c9c0150a46d07cda13f&amp;width=1200&amp;height=630" type="image/jpeg" />
+</item>
+<item>
 <title>Python Regurgitates Another Python in Rare Wildlife Encounter Near Indian Village</title>
 <description>Villagers in Madhya Pradesh, India, witnessed a rare wildlife event when a python was observed regurgitating another python in front of onlookers. The incident occurred near a residential building, dr...</description>
 <category>Wildlife &amp; pets</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/79cd46a0-a241-4f2c-9b36-56c709a39f12</guid>
 <pubDate>Thu, 29 Oct 2026 16:56:19 +0100</pubDate>
 <enclosure url="https://static.toiimg.com/thumb/msid-135317672,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Durban selected as South Africa&apos;s preferred candidate for 2036 or 2040 Olympic Games bid</title>
-<description>Durban has been identified as South Africa&apos;s preferred city to host the 2036 or 2040 Olympic Games, according to the South African Sports Confederation, Olympic and Paralympic Committee (Sascoc). Sasc...</description>
-<category>Sports</category>
-<killbait:country>ZA</killbait:country>
-<link>https://killbait.com/posts/post/00b66593-2cad-4094-9a55-db2fb250279c</link>
-<guid>https://killbait.com/posts/post/00b66593-2cad-4094-9a55-db2fb250279c</guid>
-<pubDate>Thu, 29 Oct 2026 16:54:46 +0100</pubDate>
-<enclosure url="https://www.timeslive.co.za/resizer/v2/OCBEHIAGUNFKXAGAIURT434IYU.jpg?smart=true&amp;auth=c7f2d586550733c44075e98c4547c00364ccb4d199577ea26c68d39ea257f62f&amp;width=1200&amp;height=630" type="image/jpeg" />
 </item>
 </channel>
 </rss>
