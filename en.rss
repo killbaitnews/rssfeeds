@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>1960 Aloha Week Parade in Honolulu Captured in Vibrant Kodachrome Photos</title>
+<description>The 1960 Aloha Week Parade in Honolulu, Hawaii, is vividly captured through a series of vintage Kodachrome photographs, offering a nostalgic glimpse into mid-century Hawaiian culture and traditions. E...</description>
+<category>History</category>
+<killbait:country>US</killbait:country>
+<link>https://killbait.com/posts/post/c716a8d8-15c6-4e59-810e-74f9c5230043</link>
+<guid>https://killbait.com/posts/post/c716a8d8-15c6-4e59-810e-74f9c5230043</guid>
+<pubDate>Thu, 29 Oct 2026 03:51:58 +0100</pubDate>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuGv1TbxCGG77VxA-hlgppi49SSY8oHm1Oow6FMloJF7HWApT0UXfSZugSn90GHP3kgKmjsB7qSnxjIOL2bFBq_rgYYp5O6ytDhKzHkDCSHhrZGfCH83FaC5aFaqNHYtpgZ42H2JM4bcI6Rj1-_UQRYP1PYtvJ32O-I0RWjkuYLIdLNPRF4VPSY3cF3azv/w1200-h630-p-k-no-nu/1960-aloha-week-parade-1.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Stripe Billing Coordination Design Prevents Duplicate Payment Attempts</title>
 <description>Stripe Billing has a built-in feature called Smart Retries that automatically handles failed subscription payments by retrying at optimal times based on network and issuer signals. However, when merch...</description>
 <category>Business</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/0eb8e9c5-da84-4b51-a1c8-bbc06225957e</guid>
 <pubDate>Thu, 29 Oct 2026 02:34:09 +0100</pubDate>
 <enclosure url="https://static.foxnews.com/foxnews.com/content/uploads/2026/10/savannah-chrisley.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Thirteen minors and adult hospitalized after consuming poisonous tuba-tuba fruit</title>
-<description>Thirteen minors and an adult were hospitalized in Koronadal, South Cotabato, following the ingestion of the fruit of a tuba-tuba plant. The incident occurred on Monday when the adult victim first repo...</description>
-<category>Health</category>
-<killbait:country>PH</killbait:country>
-<link>https://killbait.com/posts/post/ff34eea4-dda5-44f4-b3aa-8c2a124f2c6e</link>
-<guid>https://killbait.com/posts/post/ff34eea4-dda5-44f4-b3aa-8c2a124f2c6e</guid>
-<pubDate>Thu, 29 Oct 2026 02:30:56 +0100</pubDate>
-<enclosure url="https://media.philstar.com/photos/2026/10/28/kids_2026-10-28_21-33-55.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
