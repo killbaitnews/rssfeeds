@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Stripe Billing Coordination Design Prevents Duplicate Payment Attempts</title>
+<description>Stripe Billing has a built-in feature called Smart Retries that automatically handles failed subscription payments by retrying at optimal times based on network and issuer signals. However, when merch...</description>
+<category>Business</category>
+<killbait:country>US</killbait:country>
+<link>https://killbait.com/posts/post/842f71b7-168a-4a87-8801-fa620b6d0c5d</link>
+<guid>https://killbait.com/posts/post/842f71b7-168a-4a87-8801-fa620b6d0c5d</guid>
+<pubDate>Thu, 29 Oct 2026 03:35:55 +0100</pubDate>
+<enclosure url="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxy2djfm5n8ezj6shbbzx.png" type="image/jpeg" />
+</item>
+<item>
 <title>U.S. and Cuba clash at UN over embargo resolution amid rising tensions</title>
 <description>The United Nations General Assembly has condemned the U.S. economic embargo against Cuba for the 34th consecutive year, with a vote of 130-17 and 25 abstentions. This marks a significant decline in in...</description>
 <category>Politics</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/ff34eea4-dda5-44f4-b3aa-8c2a124f2c6e</guid>
 <pubDate>Thu, 29 Oct 2026 02:30:56 +0100</pubDate>
 <enclosure url="https://media.philstar.com/photos/2026/10/28/kids_2026-10-28_21-33-55.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Supreme Court warns against granting bail in digital fraud cases targeting elderly</title>
-<description>The Supreme Court of India has stated that it may restrain courts from granting bail to individuals arrested for orchestrating digital fraud schemes that target senior citizens, describing such crimes...</description>
-<category>Crime</category>
-<killbait:country>IN</killbait:country>
-<link>https://killbait.com/posts/post/6c3778e7-84e6-441f-9cae-4eb893a7dad9</link>
-<guid>https://killbait.com/posts/post/6c3778e7-84e6-441f-9cae-4eb893a7dad9</guid>
-<pubDate>Thu, 29 Oct 2026 02:30:29 +0100</pubDate>
-<enclosure url="https://static.toiimg.com/thumb/msid-135279789,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
