@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Editoriales y agentes literarios evalúan protocolos para detectar uso de inteligencia artificial en obras</title>
+<description>La industria editorial se enfrenta a un debate acelerado por el uso de inteligencia artificial en la creación literaria, tras casos de obras detectadas como generadas por IA en premios literarios. Has...</description>
+<category>Literatura</category>
+<killbait:country>ES</killbait:country>
+<link>https://killbait.com/posts/post/ffe5bf05-0f41-42c3-84b9-4e7eed5a7af5</link>
+<guid>https://killbait.com/posts/post/ffe5bf05-0f41-42c3-84b9-4e7eed5a7af5</guid>
+<pubDate>Fri, 30 Oct 2026 13:58:49 +0100</pubDate>
+<enclosure url="https://www.aeu.org.uy/imgnoticias/202510/19226.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>El Pechu, el hombre que cargó a Olivella en la Eurocopa 1964, y su vida turbulenta en Usera</title>
 <description>La noticia relata la vida de Antonio Romero, conocido como El Pechu, un personaje destacado en el barrio de Usera en Madrid, y su conexión con el fútbol, específicamente con el momento en que España g...</description>
 <category>Historia</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/9b4e809c-e4a4-46d5-b1a7-940aa5cfa88d</guid>
 <pubDate>Fri, 30 Oct 2026 12:09:05 +0100</pubDate>
 <enclosure url="https://media.elcomercio.com/wp-content/uploads/2025/01/CARTAS-A-QUITO-1-1024x684-1.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>74 fallecidos en accidente ferroviario en Urda, España, según CIAF</title>
-<description>El accidente ferroviario ocurrido el miércoles en Urda, España, ha dejado un saldo de 74 fallecidos, según informó la Comisión de Investigación de Accidentes Ferroviarios (CIAF). Este balance es provi...</description>
-<category>Sucesos</category>
-<killbait:country>VE</killbait:country>
-<link>https://killbait.com/posts/post/2211a679-aa17-4a3e-a85f-57b36a2789ee</link>
-<guid>https://killbait.com/posts/post/2211a679-aa17-4a3e-a85f-57b36a2789ee</guid>
-<pubDate>Fri, 30 Oct 2026 12:05:34 +0100</pubDate>
-<enclosure url="https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/28130306/trenes.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
