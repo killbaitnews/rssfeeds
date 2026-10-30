@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>El Pechu, el hombre que cargó a Olivella en la Eurocopa 1964, y su vida turbulenta en Usera</title>
+<description>La noticia relata la vida de Antonio Romero, conocido como El Pechu, un personaje destacado en el barrio de Usera en Madrid, y su conexión con el fútbol, específicamente con el momento en que España g...</description>
+<category>Historia</category>
+<killbait:country>ES</killbait:country>
+<link>https://killbait.com/posts/post/6e6fc41f-b597-4edc-810f-0157e30bf93c</link>
+<guid>https://killbait.com/posts/post/6e6fc41f-b597-4edc-810f-0157e30bf93c</guid>
+<pubDate>Fri, 30 Oct 2026 13:26:48 +0100</pubDate>
+<enclosure url="https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2023/05/14/6460f7fd44cab.jpeg" type="image/jpeg" />
+</item>
+<item>
 <title>Fito Vázquez analiza la relación entre la derecha política, la patronal y las bajas médicas en el ámbito laboral</title>
 <description>Fito Vázquez, figura destacada en el ámbito laboral y sindical, ha realizado una reflexión sobre la interacción entre la derecha política, la patronal y las políticas relacionadas con las bajas médica...</description>
 <category>Politica</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/2211a679-aa17-4a3e-a85f-57b36a2789ee</guid>
 <pubDate>Fri, 30 Oct 2026 12:05:34 +0100</pubDate>
 <enclosure url="https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/28130306/trenes.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Empresario Mario Hernández niega haber afirmado bancarrota ni criticar a gobierno de De la Espriella</title>
-<description>La noticia aborda un video viral en Facebook que supuestamente muestra al empresario Mario Hernández anunciando su bancarrota y criticando al gobierno de Abelardo de la Espriella, afirmando que &apos;arrui...</description>
-<category>Politica</category>
-<killbait:country>CO</killbait:country>
-<link>https://killbait.com/posts/post/c621afdb-ac35-42bf-8323-235dd1a3c934</link>
-<guid>https://killbait.com/posts/post/c621afdb-ac35-42bf-8323-235dd1a3c934</guid>
-<pubDate>Fri, 30 Oct 2026 12:05:03 +0100</pubDate>
-<enclosure url="https://www.lasillavacia.com/wp-content/uploads/2026/10/Mario-Hernandez-empresario.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
