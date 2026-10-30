@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Medios de comunicación deben evitar mostrar escenas violentas a niños en noticieros</title>
+<description>La carta publicada en &apos;Cartas a Quito&apos; del 30 de octubre de 2026 aborda una preocupación creciente sobre la exposición de contenidos violentos en los medios de comunicación, especialmente en programas...</description>
+<category>Opinión</category>
+<killbait:country>EC</killbait:country>
+<link>https://killbait.com/posts/post/9b4e809c-e4a4-46d5-b1a7-940aa5cfa88d</link>
+<guid>https://killbait.com/posts/post/9b4e809c-e4a4-46d5-b1a7-940aa5cfa88d</guid>
+<pubDate>Fri, 30 Oct 2026 12:09:05 +0100</pubDate>
+<enclosure url="https://media.elcomercio.com/wp-content/uploads/2025/01/CARTAS-A-QUITO-1-1024x684-1.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>74 fallecidos en accidente ferroviario en Urda, España, según CIAF</title>
 <description>El accidente ferroviario ocurrido el miércoles en Urda, España, ha dejado un saldo de 74 fallecidos, según informó la Comisión de Investigación de Accidentes Ferroviarios (CIAF). Este balance es provi...</description>
 <category>Sucesos</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/40596394-1af3-4484-8aa1-5d4f3f7315bf</guid>
 <pubDate>Fri, 30 Oct 2026 11:21:56 +0100</pubDate>
 <enclosure url="https://www.prensalibre.com/wp-content/uploads/2026/09/20260916-20648898d90370b8475db2bc2fa709742901677e.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Grabaciones revelan que operadores autorizaron a tren AVE a avanzar a velocidad normal mientras otro tren estaba detenido</title>
-<description>Las grabaciones de las conversaciones entre el centro de control de trenes de Atocha en Madrid y los maquinistas de los trenes accidentados en Toledo ofrecen detalles clave sobre el choque por alcance...</description>
-<category>Transporte</category>
-<killbait:country>VE</killbait:country>
-<link>https://killbait.com/posts/post/50d7b948-6440-47fa-9b06-39abb7ff49fa</link>
-<guid>https://killbait.com/posts/post/50d7b948-6440-47fa-9b06-39abb7ff49fa</guid>
-<pubDate>Fri, 30 Oct 2026 11:21:29 +0100</pubDate>
-<enclosure url="https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/30055141/c4714630-d323-11f1-ba7d-b5eab6da6837.jpg.webp" type="image/jpeg" />
 </item>
 </channel>
 </rss>
