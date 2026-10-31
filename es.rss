@@ -6,6 +6,26 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Hombre de 77 años restaura cabaña ancestral en los Alpes italianos para preservar legado familiar</title>
+<description>Franco, un hombre de 77 años, ha logrado restaurar una cabaña familiar de más de 200 años ubicada a 1.800 metros de altitud en los Alpes italianos, en el valle Maira del Piamonte cerca de Elva. La pro...</description>
+<category>Historia</category>
+<killbait:country>PE</killbait:country>
+<link>https://killbait.com/posts/post/1761e955-22eb-4fae-9b69-22d8eb82c615</link>
+<guid>https://killbait.com/posts/post/1761e955-22eb-4fae-9b69-22d8eb82c615</guid>
+<pubDate>Sat, 31 Oct 2026 03:34:50 +0100</pubDate>
+<enclosure url="https://imgmedia.larepublica.pe/1200x735/larepublica/original/2026/10/30/6ae4c9692ddd4daada088c2d.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Detención en EE.UU. de Inés Gómez Mont, exconductora de Ventaneando, por lavado de dinero</title>
+<description>La exconductora de televisión Inés Gómez Mont fue detenida en Estados Unidos tras ser señalada en México por delitos de lavado de dinero y defraudación fiscal. La Fiscalía de Justicia emitió una orden...</description>
+<category>Sucesos</category>
+<killbait:country>MX</killbait:country>
+<link>https://killbait.com/posts/post/d1c96790-7b2e-401c-b19a-c2e043e8959e</link>
+<guid>https://killbait.com/posts/post/d1c96790-7b2e-401c-b19a-c2e043e8959e</guid>
+<pubDate>Sat, 31 Oct 2026 03:33:41 +0100</pubDate>
+<enclosure url="https://www.eluniversal.com.mx/resizer/v2/XDQM54RUIZDCXLBGSWAWTG3HR4.jpg?auth=b2e3eb0d923b478ad8a424933ca44a7dc609215e2a50e0bcc020b335a7c23a34" type="image/jpeg" />
+</item>
+<item>
 <title>Filtración de datos expone información sensible de empleados de agencias migratorias en EE.UU.</title>
 <description>Una filtración de datos ha sacudido a las agencias migratorias de Estados Unidos, exponiendo información de más de 41 mil empleados y contratistas del Departamento de Seguridad Nacional (DHS). El arch...</description>
 <category>Ciberseguridad</category>
@@ -184,26 +204,6 @@
 <guid>https://killbait.com/posts/post/5577a356-149b-4af4-9ec6-c90b118e18c0</guid>
 <pubDate>Sat, 31 Oct 2026 02:46:42 +0100</pubDate>
 <enclosure url="https://imagenes.elpais.com/resizer/v2/IVAS4RCJOZF63AAXMQCD2K2GYA.jpeg?auth=f479bde13f819fe092954b288a5c1d6ab59b6604c932864e0f40e55f175ea2d3&amp;width=414&amp;height=233&amp;smart=true" type="image/jpeg" />
-</item>
-<item>
-<title>El Salvador envía helicópteros y vehículos blindados a Haití para buscar a militares desaparecidos tras emboscada</title>
-<description>El presidente de El Salvador, Nayib Bukele, ordenó el envío de helicópteros y vehículos blindados a Haití para intensificar la búsqueda de cuatro militares salvadoreños desaparecidos desde el 18 de oc...</description>
-<category>Defensa</category>
-<killbait:country>GT</killbait:country>
-<link>https://killbait.com/posts/post/67a24f43-4d25-4ed6-8e0c-b9a2135005ca</link>
-<guid>https://killbait.com/posts/post/67a24f43-4d25-4ed6-8e0c-b9a2135005ca</guid>
-<pubDate>Sat, 31 Oct 2026 02:40:55 +0100</pubDate>
-<enclosure url="https://www.prensalibre.com/wp-content/uploads/2026/10/20261030-ac8f114a3926b42c1afd64176ea47dd8bcbc88f1.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Propietarios de Tesla en España exigen soluciones a fallos en baterías del Model Y</title>
-<description>La Plataforma de Afectados por las Baterías organizó una protesta frente al Tesla Service Center de Fuenlabrada, en España, para reclamar soluciones a los problemas técnicos que están dejando inmovili...</description>
-<category>Automóviles</category>
-<killbait:country>ES</killbait:country>
-<link>https://killbait.com/posts/post/9d3a456e-fce6-4385-b228-f7fdda35a841</link>
-<guid>https://killbait.com/posts/post/9d3a456e-fce6-4385-b228-f7fdda35a841</guid>
-<pubDate>Sat, 31 Oct 2026 02:40:40 +0100</pubDate>
-<enclosure url="https://www.autopista.es/uploads/s1/15/45/16/74/propietarios-de-tesla-protestan-ante-su-sede-en-espana-por-problemas-en-las-baterias-del-model-y_7_1200x690.jpeg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
