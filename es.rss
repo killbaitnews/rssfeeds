@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Autor de novela premiada niega uso de IA en creación literaria</title>
+<description>David Silva Rojas, autor de la novela breve &apos;Donde el agua trabaja&apos;, ganadora del I Premio Internacional de Novela Breve Almadía-Ventosa Arrufat, ha realizado una declaración en su cuenta de Instagram...</description>
+<category>Literatura</category>
+<killbait:country>PE</killbait:country>
+<link>https://killbait.com/posts/post/b9c210dd-f66b-4a34-96b9-4034d2fc828b</link>
+<guid>https://killbait.com/posts/post/b9c210dd-f66b-4a34-96b9-4034d2fc828b</guid>
+<pubDate>Sun, 1 Nov 2026 11:23:00 +0100</pubDate>
+<enclosure url="https://imgmedia.larepublica.pe/1200x735/larepublica/original/2026/10/31/6ae61ff44625171c660c4e73.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Colisión en ruta Interamericana deja 18 heridos y congestión en Chimaltenango</title>
 <description>Un accidente de tránsito ocurrido este sábado 31 de octubre en el kilómetro 73 de la Ruta Interamericana, en Patzicía, Chimaltenango, dejó un total de 18 personas heridas. Los vehículos involucrados f...</description>
 <category>Sucesos</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/b7ee843f-db93-482a-ae5e-fde5693ce7cb</guid>
 <pubDate>Sun, 1 Nov 2026 10:19:42 +0100</pubDate>
 <enclosure url="https://cdn2.mediotiempo.com/uploads/media/2026/11/01/federico-pereira-burlo-aficion-america.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Joan Manuel Serrat reflexiona sobre el envejecimiento y el desprecio hacia las personas mayores en charla en la Universidad de La Laguna</title>
-<description>El cantautor español Joan Manuel Serrat, de 82 años, compartió en una charla con estudiantes de la Universidad de La Laguna en Tenerife sus reflexiones sobre la vejez, el desprecio social hacia las pe...</description>
-<category>Música</category>
-<killbait:country>ES</killbait:country>
-<link>https://killbait.com/posts/post/b48cfbcf-a2d9-4f29-b85f-f87472693cfa</link>
-<guid>https://killbait.com/posts/post/b48cfbcf-a2d9-4f29-b85f-f87472693cfa</guid>
-<pubDate>Sun, 1 Nov 2026 10:02:19 +0100</pubDate>
-<enclosure url="https://www.infobae.com/resizer/v2/FZG2OMBIZRD7JDJGYOPEMZ4HJY.jpeg?auth=032e4af35d17656547833941ae2795cf30b2663cb5f8da05967a5e6a766d4544&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=85" type="image/jpeg" />
 </item>
 </channel>
 </rss>
