@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Fiscalía archiva caso de esterilizaciones forzadas pese a reconocer crimen de lesa humanidad</title>
+<description>La Fiscalía peruana ha archivado el caso de las esterilizaciones forzadas realizadas durante el gobierno de Alberto Fujimori, a pesar de haber reconocido previamente que dichos hechos constituyen un c...</description>
+<category>Justicia</category>
+<killbait:country>ES</killbait:country>
+<link>https://killbait.com/posts/post/c4b82d0e-ffb9-438d-a48b-53ece8c18569</link>
+<guid>https://killbait.com/posts/post/c4b82d0e-ffb9-438d-a48b-53ece8c18569</guid>
+<pubDate>Sun, 1 Nov 2026 08:50:04 +0100</pubDate>
+<enclosure url="https://imgmedia.larepublica.pe/1200x735/larepublica/original/2026/10/31/6ae6b3e41e4b51700e0ccaf3.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Rossana Alayza defiende su postura política frente a críticas por distanciamiento de su abuelo</title>
 <description>La diputada Rossana Alayza, representante del partido Buen Gobierno y figura crítica del fujimorismo, ha respondido a las críticas que recibe por su postura política distinta a la de su abuelo, Ernest...</description>
 <category>Politica</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/22e8afe7-a6ac-49fd-a0ff-aa7e417b7055</guid>
 <pubDate>Sun, 1 Nov 2026 07:14:54 +0100</pubDate>
 <enclosure url="https://cdn.amxinfra.com/unotv/images/2026/10/imagen-220625.png" type="image/jpeg" />
-</item>
-<item>
-<title>OpenAI lidera coalición de empresas para mejorar ciberdefensa ante amenazas de inteligencia artificial</title>
-<description>La noticia aborda la creación de una coalición de empresas preocupadas por la ciberdefensa ante los riesgos de la inteligencia artificial, liderada por OpenAI, la empresa detrás de ChatGPT. Aunque Ope...</description>
-<category>Ciberseguridad</category>
-<killbait:country>ES</killbait:country>
-<link>https://killbait.com/posts/post/3b85848f-5e1d-4e11-9986-7ad8248c67f9</link>
-<guid>https://killbait.com/posts/post/3b85848f-5e1d-4e11-9986-7ad8248c67f9</guid>
-<pubDate>Sun, 1 Nov 2026 07:11:43 +0100</pubDate>
-<enclosure url="https://img.microsiervos.com/images2026/anakin-te-convertiste.webp" type="image/jpeg" />
 </item>
 </channel>
 </rss>
