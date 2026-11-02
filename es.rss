@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Presidente del Santos FC es asesinado en Pasaje durante ataque armado</title>
+<description>El fútbol ecuatoriano enfrenta un nuevo episodio de violencia con el asesinato del presidente del Santos Fútbol Club, Jaime Gonzalo Chicaiza Chango, ocurrido el domingo 1 de noviembre de 2026 en el ca...</description>
+<category>Deportes</category>
+<killbait:country>EC</killbait:country>
+<link>https://killbait.com/posts/post/99d8a647-8299-4487-a169-d72f9853496d</link>
+<guid>https://killbait.com/posts/post/99d8a647-8299-4487-a169-d72f9853496d</guid>
+<pubDate>Mon, 2 Nov 2026 04:14:34 +0100</pubDate>
+<enclosure url="https://media.elcomercio.com/wp-content/uploads/2026/11/86601.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Alfredo Alcalde presenta exposición en Lima con enfoque social y crítico</title>
 <description>El artista plástico Alfredo Alcalde, reconocido por su compromiso social y su enfoque figurativo en el arte, presenta en la Galería Pancho Fierro de la Municipalidad de Lima la exposición &apos;El rumor de...</description>
 <category>Arte</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/588cb426-031f-45da-9d4a-4a65ab2d3774</guid>
 <pubDate>Mon, 2 Nov 2026 03:20:34 +0100</pubDate>
 <enclosure url="https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images-resized/PP5346304-h-o.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Operativos de Halloween en Quito entregan 235 menores a sus familias tras clausurar ocho locales</title>
-<description>El Municipio de Quito realizó operativos durante las noches del 30 y 31 de octubre de 2026 para regular las celebraciones de Halloween en la ciudad. Durante estos controles, las autoridades clausuraro...</description>
-<category>Sociedad</category>
-<killbait:country>EC</killbait:country>
-<link>https://killbait.com/posts/post/036aceb7-c42c-4a42-af04-2e3dbbfbc8af</link>
-<guid>https://killbait.com/posts/post/036aceb7-c42c-4a42-af04-2e3dbbfbc8af</guid>
-<pubDate>Mon, 2 Nov 2026 03:17:52 +0100</pubDate>
-<enclosure url="https://media.elcomercio.com/wp-content/uploads/2026/11/Operativo.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
