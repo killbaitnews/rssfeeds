@@ -6,6 +6,26 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>CNE habilita consulta del padrón provisorio para elecciones 2027</title>
+<description>La Cámara Nacional Electoral (CNE) ha habilitado la consulta del padrón provisorio para las elecciones nacionales de 2027. Los ciudadanos podrán verificar sus datos personales y presentar reclamos por...</description>
+<category>Política</category>
+<killbait:country>AR</killbait:country>
+<link>https://killbait.com/posts/post/11dcfdf6-730c-4466-8e04-5bc269157844</link>
+<guid>https://killbait.com/posts/post/11dcfdf6-730c-4466-8e04-5bc269157844</guid>
+<pubDate>Mon, 2 Nov 2026 21:20:26 +0100</pubDate>
+<enclosure url="https://media.ambito.com/p/1384e6b3a3e72393b7ec3ce9ad1d208c/adjuntos/239/imagenes/042/398/0042398608/1200x675/smart/urnajpg.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>México reporta 266 homicidios en la última semana de octubre, con Estado de México como líder nacional</title>
+<description>Según datos de la Secretaría de Seguridad y Protección Ciudadana (SSPC), México registró un total de 266 homicidios durante la última semana de octubre de 2026, específicamente entre el 26 de octubre ...</description>
+<category>Criminalidad</category>
+<killbait:country>MX</killbait:country>
+<link>https://killbait.com/posts/post/194ea4d7-0483-4e21-8d76-f1c486c50b7f</link>
+<guid>https://killbait.com/posts/post/194ea4d7-0483-4e21-8d76-f1c486c50b7f</guid>
+<pubDate>Mon, 2 Nov 2026 21:20:08 +0100</pubDate>
+<enclosure url="https://cdn.amxinfra.com/unotv/images/2026/11/homicidios-mexico-octubre1-110507.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Educación creativa en la escuela Frank País García: docentes y padres unen esfuerzos para fomentar valores</title>
 <description>En la escuela primaria Frank País García, el colectivo docente, junto con la participación activa de los padres, transforma cada clase en una oportunidad para inculcar valores en los estudiantes. La p...</description>
 <category>Educación</category>
@@ -184,26 +204,6 @@
 <guid>https://killbait.com/posts/post/931faae6-c5d8-4263-97bf-8ecec044e4ef</guid>
 <pubDate>Mon, 2 Nov 2026 20:40:30 +0100</pubDate>
 <enclosure url="https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/10194330/WhatsApp-Image-2026-10-10-at-7.32.46-PM-e1793646189457.jpeg" type="image/jpeg" />
-</item>
-<item>
-<title>Guayaquil enfrenta riesgo de dengue tras acumulación de agua y residuos por lluvias</title>
-<description>Las lluvias recientes en Guayaquil han generado acumulación de agua y residuos en distintos sectores de la ciudad, lo que ha incrementado las preocupaciones sobre el posible brote de enfermedades tran...</description>
-<category>Salud</category>
-<killbait:country>EC</killbait:country>
-<link>https://killbait.com/posts/post/8ef2e39d-c727-4baa-9d3b-3d5928f147cd</link>
-<guid>https://killbait.com/posts/post/8ef2e39d-c727-4baa-9d3b-3d5928f147cd</guid>
-<pubDate>Mon, 2 Nov 2026 20:37:54 +0100</pubDate>
-<enclosure url="https://media.elcomercio.com/wp-content/uploads/2026/11/HWIzPkiWsAAiTf-.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Análisis de la postura de EE.UU. hacia Cuba en el contexto de tensiones diplomáticas y expectativas del exilio</title>
-<description>La noticia aborda la cuestión de si Estados Unidos está genuinamente comprometido con un cambio político en Cuba o si las declaraciones de la administración Trump son meramente retóricas. El analista ...</description>
-<category>Política</category>
-<killbait:country>CU</killbait:country>
-<link>https://killbait.com/posts/post/7eec9c92-48c4-4f12-8e40-dd0cb61ad6c0</link>
-<guid>https://killbait.com/posts/post/7eec9c92-48c4-4f12-8e40-dd0cb61ad6c0</guid>
-<pubDate>Mon, 2 Nov 2026 20:35:06 +0100</pubDate>
-<enclosure url="https://cdn0.celebritax.com/sites/default/files/styles/watermark_100/public/1793396042-cuba-prioridad-eeuu-solo-promesa-vacia.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
