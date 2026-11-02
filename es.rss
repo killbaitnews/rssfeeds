@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Homenaje a Cuauhtémoc Cárdenas, figura histórica de la política mexicana</title>
+<description>El texto proporcionado es un homenaje escrito por un exfuncionario de Hacienda a Cuauhtémoc Cárdenas, quien falleció recientemente. El autor recuerda las reuniones periódicas que mantenía con Cárdenas...</description>
+<category>Política</category>
+<killbait:country>MX</killbait:country>
+<link>https://killbait.com/posts/post/1b89ba21-3916-4832-85db-d10f5f28132f</link>
+<guid>https://killbait.com/posts/post/1b89ba21-3916-4832-85db-d10f5f28132f</guid>
+<pubDate>Mon, 2 Nov 2026 14:20:46 +0100</pubDate>
+<enclosure url="https://www.elfinanciero.com.mx/resizer/v2/HMPZVYNMF5HBDDX5ME536AIWLI.jpg?smart=true&amp;auth=421e7466f8eb32f9fe949fa63de2109c8e1f8facff7ab998d50b0346700c19cd&amp;width=1200&amp;height=630" type="image/jpeg" />
+</item>
+<item>
 <title>Universidad Católica del Norte busca voluntarios para estudio sobre variantes genéticas del Parkinson</title>
 <description>La Universidad Católica del Norte está realizando una investigación en la Región de Coquimbo para identificar variantes genéticas asociadas al Parkinson. Según información proporcionada por Jorge Lira...</description>
 <category>Ciencia</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/548d979a-48e6-485e-8e6b-1027fdc3c686</guid>
 <pubDate>Mon, 2 Nov 2026 13:35:43 +0100</pubDate>
 <enclosure url="https://cdn.mos.cms.futurecdn.net/jdtik9ACK8EYqi9fwXEuH9-1920-80.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Psicoanalista Erich Fromm reflexiona sobre los desafíos en las relaciones amorosas</title>
-<description>El psicoanalista Erich Fromm, reconocido por sus aportes en el campo de la psicología y la filosofía, realizó una observación profunda sobre las relaciones amorosas. Según su análisis, el amor es una ...</description>
-<category>Filosofía</category>
-<killbait:country>PE</killbait:country>
-<link>https://killbait.com/posts/post/d7376349-bac8-434e-8b0d-2378bbc9e8ed</link>
-<guid>https://killbait.com/posts/post/d7376349-bac8-434e-8b0d-2378bbc9e8ed</guid>
-<pubDate>Mon, 2 Nov 2026 13:34:33 +0100</pubDate>
-<enclosure url="https://elcomercio.pe/resizer/v2/FUTPZU3YKVAK5OYMFHWCEKJTHQ.jpg?auth=0cc283d454adb847f6d2e3bd54b104f516b03b5b294bd60fbdd233e548c2284b&amp;width=980&amp;height=528&amp;quality=75&amp;smart=true" type="image/jpeg" />
 </item>
 </channel>
 </rss>
