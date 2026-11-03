@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Ataques cibernéticos en aplicaciones oficiales de alerta de Ucrania y Rusia con falsos avisos de ataque nuclear</title>
+<description>Ucrania y Rusia han sido víctimas de un ciberataque que afectó a sus aplicaciones oficiales de alerta de emergencia. Según la información proporcionada, el 1 de noviembre de 2026, la aplicación Air Al...</description>
+<category>Ciberseguridad</category>
+<killbait:country>ES</killbait:country>
+<link>https://killbait.com/posts/post/08af0618-b61d-4f2a-b8d1-ee421ea59b11</link>
+<guid>https://killbait.com/posts/post/08af0618-b61d-4f2a-b8d1-ee421ea59b11</guid>
+<pubDate>Tue, 3 Nov 2026 06:36:56 +0100</pubDate>
+<enclosure url="https://static.kyivpost.com/storage/2026/11/02/b44a3ff77434e07d51fc0b671aefc199.png?w=1200&amp;q=90&amp;f=jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Alexander Zverev alcanza el número uno del ranking ATP tras ganar Roland Garros y el US Open</title>
 <description>Alexander Zverev se convirtió en el nuevo número uno del ranking mundial de tenis tras completar una temporada 2026 extraordinaria, en la que conquistó sus primeros dos títulos de Grand Slam: Roland G...</description>
 <category>Deportes</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/17a697b2-822e-43e4-ad0c-6e7d8adb98ee</guid>
 <pubDate>Tue, 3 Nov 2026 05:13:24 +0100</pubDate>
 <enclosure url="https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images-resized/PP5346751A-h-o.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Colonos israelíes agreden a trabajador de MSF en Cisjordania durante ataque coordinado</title>
-<description>El 15 de octubre de 2026, un trabajador de Médicos Sin Fronteras (MSF) fue agredido por colonos israelíes en Cisjordania, al sur de Hebrón. Según el relato del afectado, un grupo de aproximadamente 20...</description>
-<category>Conflicto</category>
-<killbait:country>ES</killbait:country>
-<link>https://killbait.com/posts/post/662c1904-eb57-4fe6-b56a-974d22995c41</link>
-<guid>https://killbait.com/posts/post/662c1904-eb57-4fe6-b56a-974d22995c41</guid>
-<pubDate>Tue, 3 Nov 2026 05:05:40 +0100</pubDate>
-<enclosure url="https://www.msf.es/sites/default/files/styles/thumbnail_list/public/MSB90757.jpg?h=56d0ca2e&amp;itok=MKPhgX_4" type="image/jpeg" />
 </item>
 </channel>
 </rss>
