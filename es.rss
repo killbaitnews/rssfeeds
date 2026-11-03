@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Un bombardeo ruso contra un centro de reparto de ayuda humanitaria en Komishuvaja deja al menos 26 muertos</title>
+<description>Al menos 26 personas han muerto y otras cinco han resultado heridas este lunes en un bombardeo ruso contra una escuela utilizada para distribuir ayuda humanitaria y un refugio cercano en Komishuvaja, ...</description>
+<category>Conflicto</category>
+<killbait:country>ES</killbait:country>
+<link>https://killbait.com/posts/post/2b9a95ad-119b-451c-a78f-eb1582eaf37c</link>
+<guid>https://killbait.com/posts/post/2b9a95ad-119b-451c-a78f-eb1582eaf37c</guid>
+<pubDate>Tue, 3 Nov 2026 06:46:54 +0100</pubDate>
+<enclosure url="https://img.rtve.es/imagenes/muertos-bombardeo-ruso-escuela-repartia-ayuda-urbe-ucraniana-komishuvaja/01793643080913.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Ataques cibernéticos en aplicaciones oficiales de alerta de Ucrania y Rusia con falsos avisos de ataque nuclear</title>
 <description>Ucrania y Rusia han sido víctimas de un ciberataque que afectó a sus aplicaciones oficiales de alerta de emergencia. Según la información proporcionada, el 1 de noviembre de 2026, la aplicación Air Al...</description>
 <category>Ciberseguridad</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/22b6ba54-7770-4cba-9fa5-b5badce962ec</guid>
 <pubDate>Tue, 3 Nov 2026 05:14:23 +0100</pubDate>
 <enclosure url="https://lahora.gt/wp-content/uploads/sites/5/2026/11/Familia-amenazada-con-arma-de-fuego-en-Quetzaltenango-.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Cinco muertos y más de 18 heridos por ataques con explosivos en Tolima, Cauca y Huila</title>
-<description>El puente festivo de comienzos de noviembre estuvo marcado por una serie de ataques con explosivos en los departamentos de Tolima, Cauca y Huila, que dejaron un saldo de cinco personas muertas y más d...</description>
-<category>Conflicto</category>
-<killbait:country>CO</killbait:country>
-<link>https://killbait.com/posts/post/17a697b2-822e-43e4-ad0c-6e7d8adb98ee</link>
-<guid>https://killbait.com/posts/post/17a697b2-822e-43e4-ad0c-6e7d8adb98ee</guid>
-<pubDate>Tue, 3 Nov 2026 05:13:24 +0100</pubDate>
-<enclosure url="https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images-resized/PP5346751A-h-o.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
