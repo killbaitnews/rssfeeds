@@ -6,6 +6,26 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>GPT-6 Astra demuestra que los modelos de lenguaje pueden interpretar, modificar y crear redes neuronales directamente a partir de sus pesos</title>
+<description>Un equipo de investigadores del MIT CSAIL ha presentado los primeros resultados de una técnica denominada Weight-Space Programming, que permite a los grandes modelos de lenguaje (LLM) interpretar, mod...</description>
+<category>Inteligencia artificial</category>
+<killbait:country>ES</killbait:country>
+<link>https://killbait.com/posts/post/66105ee7-298f-4e11-834e-fc9cec4b74e8</link>
+<guid>https://killbait.com/posts/post/66105ee7-298f-4e11-834e-fc9cec4b74e8</guid>
+<pubDate>Wed, 4 Nov 2026 02:34:03 +0100</pubDate>
+<enclosure url="https://rikiyat.github.io/images/blog/weight-space-programming.png" type="image/jpeg" />
+</item>
+<item>
+<title>Las elecciones de medio mandato en EE.UU. y su impacto histórico en la política nacional</title>
+<description>La noticia aborda las elecciones de medio mandato en Estados Unidos, destacando cómo estas han marcado hitos históricos para el país. Se menciona que el partido del presidente estadounidense ha perdid...</description>
+<category>Historia</category>
+<killbait:country>ES</killbait:country>
+<link>https://killbait.com/posts/post/b44e2e80-8359-4ccc-a17b-ec6827c13d56</link>
+<guid>https://killbait.com/posts/post/b44e2e80-8359-4ccc-a17b-ec6827c13d56</guid>
+<pubDate>Wed, 4 Nov 2026 02:25:36 +0100</pubDate>
+<enclosure url="https://elordenmundial.com/wp-content/uploads/2026/11/midterms-elecciones-historia-estados-unidos-politica.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Carlos Bardem y &quot;Triángulo&quot;: La crítica al libro que no merece ser leído</title>
 <description>La reseña de la novela &apos;Triángulo&apos; por Carlos Bardem ha generado una controversia significativa en el mundo literario. El autor, conocido por su estilo narrativo peculiar, presenta una obra que muchos...</description>
 <category>Literatura</category>
@@ -184,26 +204,6 @@
 <guid>https://killbait.com/posts/post/082c8d24-a3da-41b8-8b89-faee15ebf029</guid>
 <pubDate>Tue, 3 Nov 2026 23:28:17 +0100</pubDate>
 <enclosure url="https://media.elcomercio.com/wp-content/uploads/2026/11/Avianca-1.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Mujeres trans fueron agredidas a palazos en los lagos de Palermo antes de la Marcha del Orgullo</title>
-<description>A pocos días de la celebración de la Marcha del Orgullo, mujeres trans fueron víctimas de un violento ataque en la zona de los lagos de Palermo, en la Ciudad de Buenos Aires. Según la información publ...</description>
-<category>Sociedad</category>
-<killbait:country>AR</killbait:country>
-<link>https://killbait.com/posts/post/f161e842-0484-4652-8893-0945d6725293</link>
-<guid>https://killbait.com/posts/post/f161e842-0484-4652-8893-0945d6725293</guid>
-<pubDate>Tue, 3 Nov 2026 23:26:49 +0100</pubDate>
-<enclosure url="https://www.pagina12.com.ar/resizer/v2/BAWA2OKKMBD2NIWLETGBW6NH2E.jpg?smart=true&amp;auth=347d6c5d81c70f666e4d171b34b07e76c7d23cf47ce7ddbb48afa00010b0d308&amp;width=1200&amp;height=630" type="image/jpeg" />
-</item>
-<item>
-<title>Guatemala prepara exposición de manuscritos del escritor Miguel Ángel Asturias en el Gran Centro Cultural</title>
-<description>El país guatemalteco ha decidido exponer los manuscritos originales del Nobel de Literatura Miguel Ángel Asturias, antes de su repatriación a Guatemala. Estos documentos, que habían estado abandonados...</description>
-<category>Literatura</category>
-<killbait:country>MX</killbait:country>
-<link>https://killbait.com/posts/post/811b6622-3cda-4bb7-9f98-2cf7b265fb2c</link>
-<guid>https://killbait.com/posts/post/811b6622-3cda-4bb7-9f98-2cf7b265fb2c</guid>
-<pubDate>Tue, 3 Nov 2026 23:25:37 +0100</pubDate>
-<enclosure url="https://www.bing.com//th?id=ONUT.pWWOgYjGM2xOPHi3C69qHg&amp;pid=News&amp;w=234&amp;h=132&amp;c=14&amp;rs=2&amp;qlt=90" type="image/jpeg" />
 </item>
 </channel>
 </rss>
