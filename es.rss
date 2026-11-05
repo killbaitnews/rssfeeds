@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Sabrina Pasterski: La física teórica que busca unificar la relatividad y la mecánica cuántica mediante la holografía celeste</title>
+<description>Sabrina Pasterski, una física teórica de ascendencia cubana nacida en Chicago, se ha destacado desde su juventud por su talento excepcional en ciencia. A los 14 años construyó su propio avión y a los ...</description>
+<category>Ciencia</category>
+<killbait:country>ES</killbait:country>
+<link>https://killbait.com/posts/post/1a4e42da-95bb-495e-8362-39875099b415</link>
+<guid>https://killbait.com/posts/post/1a4e42da-95bb-495e-8362-39875099b415</guid>
+<pubDate>Thu, 5 Nov 2026 23:13:29 +0100</pubDate>
+<enclosure url="https://content.nationalgeographic.com.es/medio/2026/11/05/sabrina-pasterski1_5b5b345b_261105122106_1200x630.webp" type="image/jpeg" />
+</item>
+<item>
 <title>Cubano paga 2.400 pesos por 12 kilos de equipaje excedente en transporte estatal</title>
 <description>Un pasajero de Ómnibus Nacionales tuvo que pagar 2.400 pesos por transportar 12 kilogramos adicionales de equipaje en un viaje realizado el 1 de noviembre, una cantidad equivalente al 74.8% del salari...</description>
 <category>Transporte</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/e841d8a1-134a-473a-85fc-7f7ccb2ef506</guid>
 <pubDate>Thu, 5 Nov 2026 22:37:00 +0100</pubDate>
 <enclosure url="https://www.lasillavacia.com/wp-content/uploads/2026/11/Roberto-Prieto.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Venezuela y Chile reanudan diálogo diplomático tras dos años de tensión</title>
-<description>Durante la XXX Cumbre Iberoamericana celebrada en Madrid, el ministro de Relaciones Exteriores de Venezuela, Oliver Blanco, sostuvo una reunión bilateral con el canciller chileno Francisco Pérez Macke...</description>
-<category>Política</category>
-<killbait:country>VE</killbait:country>
-<link>https://killbait.com/posts/post/2bd23263-72d4-4974-a8c1-a1e083c9a9d2</link>
-<guid>https://killbait.com/posts/post/2bd23263-72d4-4974-a8c1-a1e083c9a9d2</guid>
-<pubDate>Thu, 5 Nov 2026 22:36:36 +0100</pubDate>
-<enclosure url="https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png" type="image/jpeg" />
 </item>
 </channel>
 </rss>
