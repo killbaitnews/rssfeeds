@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Sedapal programa corte de agua en varias zonas de Lima para mantenimiento de infraestructura</title>
+<description>El Servicio de Agua Potable y Alcantarillado de Lima (Sedapal) ha programado un corte de agua en diversas zonas de la ciudad para realizar trabajos de mantenimiento en la infraestructura de almacenami...</description>
+<category>Obras</category>
+<killbait:country>PE</killbait:country>
+<link>https://killbait.com/posts/post/044d46d0-9b50-4c38-8fca-73f709180d92</link>
+<guid>https://killbait.com/posts/post/044d46d0-9b50-4c38-8fca-73f709180d92</guid>
+<pubDate>Thu, 5 Nov 2026 11:13:38 +0100</pubDate>
+<enclosure url="https://f.rpp-noticias.io/2025/03/06/232523_1714108.jpg?width=860&amp;quality=80" type="image/jpeg" />
+</item>
+<item>
 <title>Crimen organizado y estrategias policiales en la CA-2: llamado a transformar enfoques</title>
 <description>La noticia aborda el reciente intento de atraco a un vehículo blindado de transporte de valores en la ruta CA-2, que conecta las fronteras de El Salvador y México, una vía crítica para el transporte d...</description>
 <category>Criminalidad</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/13a97342-2c63-403e-b2d8-1b1038ecc67e</guid>
 <pubDate>Thu, 5 Nov 2026 10:27:38 +0100</pubDate>
 <enclosure url="https://www.clarin.com/img/2026/11/04/w4nReHnu4_2000x1500__1.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Metro de Santiago opera con todas sus líneas disponibles desde las 6:00 horas este jueves</title>
-<description>El Metro de Santiago opera actualmente con siete líneas disponibles, abarcando 149 kilómetros y 143 estaciones operativas. El sistema de transporte subterráneo, que transporta mensualmente a más de 50...</description>
-<category>Transporte</category>
-<killbait:country>CL</killbait:country>
-<link>https://killbait.com/posts/post/b0a5c3d0-d15e-4e12-8a4c-8873516ba3a4</link>
-<guid>https://killbait.com/posts/post/b0a5c3d0-d15e-4e12-8a4c-8873516ba3a4</guid>
-<pubDate>Thu, 5 Nov 2026 10:27:05 +0100</pubDate>
-<enclosure url="https://www.latercera.com/resizer/v2/WCDNL2RSFVA3FDOKRK7FZ45G74.jpg?auth=fd15da43f5b6bef2f1fde319b1a923d25ac78328d7cd30f2efe5c4c1bda0ff0e&amp;height=630&amp;width=1200&amp;smart=true" type="image/jpeg" />
 </item>
 </channel>
 </rss>
