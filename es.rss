@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>España ahorra 26.000 millones de dólares en gas natural gracias a energías renovables</title>
+<description>La Agencia Internacional de la Energía (AIE) ha publicado un informe en el que destaca que España ha logrado un ahorro estimado de 26.000 millones de dólares en importaciones de gas natural entre 2011...</description>
+<category>Energía</category>
+<killbait:country>ES</killbait:country>
+<link>https://killbait.com/posts/post/c5028627-25f6-409a-a502-80340b23d907</link>
+<guid>https://killbait.com/posts/post/c5028627-25f6-409a-a502-80340b23d907</guid>
+<pubDate>Fri, 6 Nov 2026 00:55:04 +0100</pubDate>
+<enclosure url="https://cdn.inspenet.com/Energia-renovables-en-Espana.webp" type="image/jpeg" />
+</item>
+<item>
 <title>Profesores en huelga exigen diálogo tras detención de colega en manifestación pacífica</title>
 <description>Los profesores de la Comunidad de Madrid, en huelga desde el 14 de octubre, han protagonizado una manifestación pacífica frente a la Consejería de Educación que se tornó tensa tras la detención de uno...</description>
 <category>Educación</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/610fd029-3cb2-4803-9c33-b9a368e586af</guid>
 <pubDate>Fri, 6 Nov 2026 00:23:37 +0100</pubDate>
 <enclosure url="https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/05170034/Vinotinto-femenina-de-futsal.jpeg" type="image/jpeg" />
-</item>
-<item>
-<title>Usuario denuncia maltrato por parte de administrador de Menéame tras uso no autorizado de su imagen</title>
-<description>Un usuario de Menéame, Livingstone85, ha denunciado en un artículo publicado en su perfil de Renegados que dos imágenes generadas por IA utilizando sus rasgos faciales fueron subidas a la plataforma s...</description>
-<category>Sociedad</category>
-<killbait:country>ES</killbait:country>
-<link>https://killbait.com/posts/post/2b313e22-5a57-4d0e-8127-524c0b6dcb19</link>
-<guid>https://killbait.com/posts/post/2b313e22-5a57-4d0e-8127-524c0b6dcb19</guid>
-<pubDate>Fri, 6 Nov 2026 00:23:30 +0100</pubDate>
-<enclosure url="https://app.renegados.es/logo-wolf.png" type="image/jpeg" />
 </item>
 </channel>
 </rss>
