@@ -6,6 +6,66 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Earthquake of Magnitude 6.4 Recorded Near Ushirombo, Tanzania, Felt in Kigali</title>
+<description>An earthquake measuring 6.4 on the Richter scale was recorded on Thursday, November 5, 2026, near Ushirombo in Tanzania, approximately 292 kilometers from Kigali, Rwanda. The Rwanda Mines, Petroleum a...</description>
+<category>Environment</category>
+<killbait:country>TZ</killbait:country>
+<link>https://killbait.com/posts/post/13cb05a8-f1f1-4c7e-9b19-dd7164ec99ed</link>
+<guid>https://killbait.com/posts/post/13cb05a8-f1f1-4c7e-9b19-dd7164ec99ed</guid>
+<pubDate>Fri, 6 Nov 2026 07:06:54 +0100</pubDate>
+<enclosure url="https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png" type="image/jpeg" />
+</item>
+<item>
+<title>LangGraph SQL Agent Optimizes Database Queries by Limiting Schema Exposure</title>
+<description>The article discusses a new LangGraph SQL agent developed by Ashish Sinha that addresses a common inefficiency in text-to-SQL agents. Most existing agents include the entire database schema in every p...</description>
+<category>Artificial intelligence</category>
+<killbait:country>US</killbait:country>
+<link>https://killbait.com/posts/post/08058383-3d8d-4b78-a9b2-ef5e38c12450</link>
+<guid>https://killbait.com/posts/post/08058383-3d8d-4b78-a9b2-ef5e38c12450</guid>
+<pubDate>Fri, 6 Nov 2026 07:06:07 +0100</pubDate>
+<enclosure url="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuav948zile7wcu04ztoe.png" type="image/jpeg" />
+</item>
+<item>
+<title>India&apos;s cow slaughter laws mirror Saudi Arabia&apos;s blasphemy penalties</title>
+<description>The article draws parallels between India&apos;s cow slaughter laws and Saudi Arabia&apos;s blasphemy laws, highlighting how both countries punish individuals for actions deemed to insult religious sentiments. ...</description>
+<category>Politics</category>
+<killbait:country>IN</killbait:country>
+<link>https://killbait.com/posts/post/dfe25f33-ad1a-4fc6-bf71-8e53e242f8f3</link>
+<guid>https://killbait.com/posts/post/dfe25f33-ad1a-4fc6-bf71-8e53e242f8f3</guid>
+<pubDate>Fri, 6 Nov 2026 07:04:44 +0100</pubDate>
+<enclosure url="https://sc0.blr1.cdn.digitaloceanspaces.com/book/216469-fafemmgtxp-1793888146.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>NJC suspends three judges for misconduct, disciplines six others</title>
+<description>The National Judicial Council (NJC) has suspended three judges for one year without pay due to various acts of judicial misconduct, including unlawful detention of litigants, reopening of concluded ca...</description>
+<category>Justice</category>
+<killbait:country>NG</killbait:country>
+<link>https://killbait.com/posts/post/ddbf0d28-356f-4b40-878f-4f95829f2dbd</link>
+<guid>https://killbait.com/posts/post/ddbf0d28-356f-4b40-878f-4f95829f2dbd</guid>
+<pubDate>Fri, 6 Nov 2026 07:03:25 +0100</pubDate>
+<enclosure url="https://cdn.punchng.com/wp-content/uploads/2016/10/14003102/National-Judicial-Council-NJC.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Unisa PhD student Gosego Sedikelo awarded Eni Award for sustainable battery recycling research</title>
+<description>Gosego Sedikelo, a doctoral researcher at the University of South Africa (Unisa), has been recognized with the 2026 Eni Award in the Young Talents from Africa category. The award was presented by Ital...</description>
+<category>Science</category>
+<killbait:country>KE</killbait:country>
+<link>https://killbait.com/posts/post/2b25adf4-2cbd-40ac-a77b-234a528c8d92</link>
+<guid>https://killbait.com/posts/post/2b25adf4-2cbd-40ac-a77b-234a528c8d92</guid>
+<pubDate>Fri, 6 Nov 2026 06:51:16 +0100</pubDate>
+<enclosure url="https://cdn.tuko.co.ke/images/1200x675/92e8c9fbe15612fc.jpeg?v=1" type="image/jpeg" />
+</item>
+<item>
+<title>Trump and Pope Leo&apos;s political clash intensifies following election night events</title>
+<description>The article discusses the escalating conflict between former U.S. President Donald Trump and Pope Leo, which reached a dramatic peak during the election night of November 5, 2026. According to the rep...</description>
+<category>Politics</category>
+<killbait:country>US</killbait:country>
+<link>https://killbait.com/posts/post/2db747ed-5e00-425f-a7e1-1baef07d9516</link>
+<guid>https://killbait.com/posts/post/2db747ed-5e00-425f-a7e1-1baef07d9516</guid>
+<pubDate>Fri, 6 Nov 2026 06:48:17 +0100</pubDate>
+<enclosure url="https://www.rawstory.com/media-library/file-photo-file-photo-pope-leo-leaves-gemelli-hospital-following-his-lung-surgery-and-cancer-diagnosis-in-rome-italy-octobe.jpg?id=68609515&amp;width=1200&amp;height=600&amp;coordinates=0%2C187%2C0%2C187" type="image/jpeg" />
+</item>
+<item>
 <title>Perth father charged with manslaughter after infant&apos;s death linked to family violence</title>
 <description>A Perth father, Matthew Wayne Winmar, 23, has been charged with the manslaughter of his five-month-old son and assault of a woman, with police treating both incidents as family violence matters. The b...</description>
 <category>Crime</category>
@@ -144,66 +204,6 @@
 <guid>https://killbait.com/posts/post/a90ff9f4-50af-48e9-a3e2-71a858630496</guid>
 <pubDate>Fri, 6 Nov 2026 06:19:21 +0100</pubDate>
 <enclosure url="https://sportal365images.com/process/smp-images-production/ringier.africa/31102026/2a9fa7cf-e3f4-4115-bd89-d49dfcdf33f0.jpeg?operations=crop(0:122:3511:2097),autocrop(1200:630)" type="image/jpeg" />
-</item>
-<item>
-<title>Nithya Raman&apos;s Journey from Chennai Urban Planner to Los Angeles Mayor</title>
-<description>Nithya Raman, a Tamil-born politician of Indian origin, has made history as the first Indian-origin mayor elected in Los Angeles. Her journey began over a decade ago in Chennai, where she worked as an...</description>
-<category>Politics</category>
-<killbait:country>IN</killbait:country>
-<link>https://killbait.com/posts/post/65fc9e67-9111-47b3-92ac-e31ec778b132</link>
-<guid>https://killbait.com/posts/post/65fc9e67-9111-47b3-92ac-e31ec778b132</guid>
-<pubDate>Fri, 6 Nov 2026 06:15:29 +0100</pubDate>
-<enclosure url="https://static.toiimg.com/thumb/msid-135590083,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Duterte impeachment trial: Bank and AMLC documents accepted as evidence by prosecution</title>
-<description>The impeachment trial of former President Rodrigo Duterte has seen the admission of bank records and Anti-Money Laundering Council (AMLC) documents as evidence by the prosecution. This development mar...</description>
-<category>Politics</category>
-<killbait:country>PH</killbait:country>
-<link>https://killbait.com/posts/post/e0efc6b5-b049-4a1b-b380-2bf70603fbd4</link>
-<guid>https://killbait.com/posts/post/e0efc6b5-b049-4a1b-b380-2bf70603fbd4</guid>
-<pubDate>Fri, 6 Nov 2026 06:12:43 +0100</pubDate>
-<enclosure url="https://od2-image-api.abs-cbn.com/prod/20261106021116/c2a41896506a841404fc9e2672db7bf1a9f579d1f8647df9e222bed81e8a7473.jpg?w=1200&amp;h=800" type="image/jpeg" />
-</item>
-<item>
-<title>Bianca Censori and North West share moment at Kanye West&apos;s Yeezy Season 01 runway show</title>
-<description>Kanye West&apos;s Yeezy Season 01 Runway Show, held at the Yeezy Flagship Droam 1 in Los Angeles on November 4, 2026, marked a rare family appearance for the rapper as all four of his children with ex-wife...</description>
-<category>Fashion</category>
-<killbait:country>AU</killbait:country>
-<link>https://killbait.com/posts/post/515a18c0-878f-452f-be54-000c77788986</link>
-<guid>https://killbait.com/posts/post/515a18c0-878f-452f-be54-000c77788986</guid>
-<pubDate>Fri, 6 Nov 2026 06:11:21 +0100</pubDate>
-<enclosure url="https://images.perthnow.com.au/publication/C-23125019/371b778f10df308f00a42e9ce72c92b0f4109d67-16x9-x0y482w4000h2250.jpg?imwidth=1200" type="image/jpeg" />
-</item>
-<item>
-<title>Qatar revokes licenses of two recruitment agencies for Kenyan workers</title>
-<description>Qatar&apos;s Ministry of Labour has revoked the licenses of two recruitment agencies, Special Manpower Supply and Riviera Manpower Supply, which were involved in recruiting Kenyan domestic workers for the ...</description>
-<category>Business</category>
-<killbait:country>KE</killbait:country>
-<link>https://killbait.com/posts/post/5ad30096-2504-43b6-b254-4caff83c0290</link>
-<guid>https://killbait.com/posts/post/5ad30096-2504-43b6-b254-4caff83c0290</guid>
-<pubDate>Fri, 6 Nov 2026 06:08:37 +0100</pubDate>
-<enclosure url="https://cdn.tuko.co.ke/images/1200x675/83f70d0e9c91b1ce.jpeg?v=1" type="image/jpeg" />
-</item>
-<item>
-<title>Gauteng urban voters prioritise local issues over party loyalty as councils face coalition talks</title>
-<description>With Gauteng&apos;s metropolitan municipalities appearing unlikely to produce outright winners, an analyst has described voters in the country&apos;s economic hub as increasingly different from those elsewhere....</description>
-<category>Politics</category>
-<killbait:country>ZA</killbait:country>
-<link>https://killbait.com/posts/post/e0c7d9ae-76c4-4086-9d9e-bc2a43770551</link>
-<guid>https://killbait.com/posts/post/e0c7d9ae-76c4-4086-9d9e-bc2a43770551</guid>
-<pubDate>Fri, 6 Nov 2026 06:08:30 +0100</pubDate>
-<enclosure url="https://www.timeslive.co.za/resizer/v2/H3KG5LT2JVFJDLY2BEMO3TH62Q.jpeg?smart=true&amp;auth=3240544dabafe349f4f209eefebe748c666cf92c929ecb523b9649de8af790e8&amp;width=1200&amp;height=630" type="image/jpeg" />
-</item>
-<item>
-<title>Laura Loomer Ends Her Show Following Intense Trump-Related Activities</title>
-<description>Laura Loomer, a prominent figure known for her political commentary and association with former U.S. President Donald Trump, has announced the cancellation of her media show. According to the article,...</description>
-<category>Politics</category>
-<killbait:country>US</killbait:country>
-<link>https://killbait.com/posts/post/f9408202-14c2-44cd-be7e-a4c20b7a3f1b</link>
-<guid>https://killbait.com/posts/post/f9408202-14c2-44cd-be7e-a4c20b7a3f1b</guid>
-<pubDate>Fri, 6 Nov 2026 06:06:30 +0100</pubDate>
-<enclosure url="https://www.rawstory.com/media-library/file-photo-laura-loomer-arrives-ahead-of-former-u-s-president-donald-trump-s-debate-with-democratic-presidential-nominee-and-u.jpg?id=53726688&amp;width=1200&amp;height=600&amp;coordinates=0%2C176%2C0%2C177" type="image/jpeg" />
 </item>
 </channel>
 </rss>
