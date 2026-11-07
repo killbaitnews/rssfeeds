@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Atentado en la plaza mayor de Cracovia deja seis muertos y quince heridos, incluidos dos policías</title>
+<description>Un atentado ocurrido este sábado en la plaza mayor de Cracovia, Polonia, ha dejado un saldo de al menos seis personas fallecidas y quince heridas, según informó la policía. El atacante, un hombre de 2...</description>
+<category>Sucesos</category>
+<killbait:country>ES</killbait:country>
+<link>https://killbait.com/posts/post/5910fa3b-b46b-4a34-bdd2-7b354bcfa516</link>
+<guid>https://killbait.com/posts/post/5910fa3b-b46b-4a34-bdd2-7b354bcfa516</guid>
+<pubDate>Sat, 7 Nov 2026 20:53:40 +0100</pubDate>
+<enclosure url="https://imagenes.elpais.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Fprisa%2F455d0be9-0f28-48dc-be5b-6b7dbabff26e.png?auth=9bea4edcb070e797dd06379e9bf5ac35250118bcafd6983313c46f734083b9d2&amp;width=100&amp;height=100&amp;smart=true" type="image/jpeg" />
+</item>
+<item>
 <title>Sylvester Stallone revela el momento en que terminó su rivalidad con Arnold Schwarzenegger</title>
 <description>Sylvester Stallone, actor de 80 años, ha compartido en una reciente entrevista para el pódcast The Rest Is Entertainment los detalles sobre la rivalidad que mantuvo durante años con Arnold Schwarzeneg...</description>
 <category>Cine</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/7c4bd8e5-3b48-4a8f-9aa7-a02bbf33466f</guid>
 <pubDate>Sat, 7 Nov 2026 20:16:49 +0100</pubDate>
 <enclosure url="https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/07/6aef5299dbf6c.png" type="image/jpeg" />
-</item>
-<item>
-<title>Delcy Rodríguez y diplomático estadounidense conmemoran 191 años de relaciones diplomáticas en Caracas</title>
-<description>La presidenta encargada de Venezuela, Delcy Rodríguez, lideró un homenaje floral ante la estatua de George Washington en Caracas, en compañía del encargado de negocios de Estados Unidos en Venezuela, ...</description>
-<category>Política</category>
-<killbait:country>CU</killbait:country>
-<link>https://killbait.com/posts/post/e62272fe-ad44-4c6f-b944-8855f94cb5c9</link>
-<guid>https://killbait.com/posts/post/e62272fe-ad44-4c6f-b944-8855f94cb5c9</guid>
-<pubDate>Sat, 7 Nov 2026 20:12:52 +0100</pubDate>
-<enclosure url="https://cdn0.celebritax.com/sites/default/files/styles/watermark_100/public/1794070921-delcy-rodriguez-encabeza-homenaje-george-washington-caracas-junto-diplomatico.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
