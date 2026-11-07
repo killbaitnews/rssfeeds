@@ -6,6 +6,26 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Sismo registrado en Arequipa el 6 de noviembre con magnitud 3.7 según el IGP</title>
+<description>El Instituto Geofísico del Perú (IGP) reportó un sismo de magnitud 3.7 ocurrido el viernes 6 de noviembre a las 13:07 horas en la región de Arequipa, específicamente a 2 kilómetros al este de Huambo, ...</description>
+<category>Sociedad</category>
+<killbait:country>PE</killbait:country>
+<link>https://killbait.com/posts/post/026aab67-a4b1-40c0-ade3-5a262646c31d</link>
+<guid>https://killbait.com/posts/post/026aab67-a4b1-40c0-ade3-5a262646c31d</guid>
+<pubDate>Sat, 7 Nov 2026 01:47:49 +0100</pubDate>
+<enclosure url="https://imgmedia.larepublica.pe/1200x735/larepublica/original/2026/11/06/6acaf6f511bdb039f2040db2.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Al Jazeera revela que números de visualizaciones del documental israelí contrapuesto son falsos</title>
+<description>Una investigación de Al Jazeera ha expuesto que los números de visualizaciones falsos atribuidos a un documental israelí contrapuesto al documental NAZA son fabricados. El documental NAZA, ganador de ...</description>
+<category>Cine</category>
+<killbait:country>ES</killbait:country>
+<link>https://killbait.com/posts/post/2864d3cd-b2b2-4d1f-a256-14a1209e56cd</link>
+<guid>https://killbait.com/posts/post/2864d3cd-b2b2-4d1f-a256-14a1209e56cd</guid>
+<pubDate>Sat, 7 Nov 2026 01:46:41 +0100</pubDate>
+<enclosure url="https://www.aljazeera.com/wp-content/uploads/2026/10/s1-1792053785.jpg?resize=1920%2C1440" type="image/jpeg" />
+</item>
+<item>
 <title>Trece presuntos integrantes de Los Lobos enfrentan prisión preventiva por delitos de extorsión, secuestro y asesinato</title>
 <description>La Fiscalía General del Estado y la Policía Nacional ejecutaron un operativo conjunto en las provincias de Guayas, Pichincha, Azuay y Los Ríos, que resultó en la detención de trece personas vinculadas...</description>
 <category>Criminalidad</category>
@@ -184,26 +204,6 @@
 <guid>https://killbait.com/posts/post/5a430a4e-914b-4a68-8c60-f19b1b40d733</guid>
 <pubDate>Sat, 7 Nov 2026 01:07:53 +0100</pubDate>
 <enclosure url="https://imgmedia.larepublica.pe/1200x735/larepublica/original/2026/11/06/6ae8fb41db77feb3b101d5f2.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Juez modifica delito de secuestro a venezolanos implicados en caso en Izabal</title>
-<description>El juez de Mayor Riesgo B, Eduardo Orozco, modificó el delito de detenciones ilegales por el de plagio o secuestro en contra de tres venezolanos: Johao Carlos Martínez, Williams René Lucero y Jeferson...</description>
-<category>Criminalidad</category>
-<killbait:country>GT</killbait:country>
-<link>https://killbait.com/posts/post/abe86905-c84b-45eb-8b0f-9e92e647e540</link>
-<guid>https://killbait.com/posts/post/abe86905-c84b-45eb-8b0f-9e92e647e540</guid>
-<pubDate>Sat, 7 Nov 2026 01:07:04 +0100</pubDate>
-<enclosure url="https://lahora.gt/wp-content/uploads/sites/5/2026/11/secuestro-izabal.jpeg" type="image/jpeg" />
-</item>
-<item>
-<title>El diésel podría experimentar menores alzas en precios pese a proyección de $80 por litro</title>
-<description>El Observatorio del Contexto Económico de la Universidad Diego Portales (OCEC-UDP) ha publicado su último boletín semanal sobre precios de combustibles, anticipando que los precios mayoristas de gasol...</description>
-<category>Economía</category>
-<killbait:country>CL</killbait:country>
-<link>https://killbait.com/posts/post/ebb96d97-92f7-4920-9002-50a0f9fb2ec1</link>
-<guid>https://killbait.com/posts/post/ebb96d97-92f7-4920-9002-50a0f9fb2ec1</guid>
-<pubDate>Sat, 7 Nov 2026 01:06:58 +0100</pubDate>
-<enclosure url="https://static.theclinic.cl/media/og-watermarked/20261106-1819190-bencinas-1.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
