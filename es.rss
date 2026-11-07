@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Dos sismos registrados en Huánuco y Tumbes el sábado 7 de noviembre según el IGP</title>
+<description>El Instituto Geofísico del Perú (IGP) reportó dos sismos ocurridos en la madrugada del sábado 7 de noviembre en diferentes regiones del país. El primer movimiento telúrico, de magnitud 4.3, se registr...</description>
+<category>Sociedad</category>
+<killbait:country>PE</killbait:country>
+<link>https://killbait.com/posts/post/7c72ccf9-e457-4b9c-a794-b870087bc823</link>
+<guid>https://killbait.com/posts/post/7c72ccf9-e457-4b9c-a794-b870087bc823</guid>
+<pubDate>Sat, 7 Nov 2026 14:55:48 +0100</pubDate>
+<enclosure url="https://imgmedia.larepublica.pe/1200x735/larepublica/original/2026/11/07/6acaf6f511bdb039f2040db2.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Caisa renueva flota de ómnibus tras esfuerzo colectivo en condiciones complejas</title>
 <description>La Empresa de Ómnibus Evelio Prieto Guillama, conocida como Caisa, ha logrado renovar una veintena de ómnibus en excelentes condiciones, tras un arduo proceso de reparación y adaptación. Este logro se...</description>
 <category>Transporte</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/b9f08840-b59c-44cf-8aca-6be43add2d44</guid>
 <pubDate>Sat, 7 Nov 2026 14:13:42 +0100</pubDate>
 <enclosure url="https://cdn2.mediotiempo.com/uploads/media/2026/11/06/aaron-gordon-expectativas-duelo-pacers.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>El Papa León XIV advierte sobre los riesgos de la inteligencia artificial y la concentración de poder en empresas</title>
-<description>La encíclica &apos;Magnífica humanidad&apos;, publicada en mayo de 2026 por el Papa León XIV, aborda los desafíos que plantea la inteligencia artificial en la sociedad actual, comparando su impacto con las tens...</description>
-<category>Economía</category>
-<killbait:country>AR</killbait:country>
-<link>https://killbait.com/posts/post/c51c26ce-032b-44c5-aae8-186ab71a8ee7</link>
-<guid>https://killbait.com/posts/post/c51c26ce-032b-44c5-aae8-186ab71a8ee7</guid>
-<pubDate>Sat, 7 Nov 2026 14:11:47 +0100</pubDate>
-<enclosure url="https://www.clarin.com/img/2026/10/12/DUOxjaZQ3_2000x1500__1.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
