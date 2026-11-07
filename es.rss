@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Reporte de sismos en Venezuela: información actualizada por Funvisis</title>
+<description>La Fundación Venezolana de Investigaciones Sismológicas (Funvisis) ha proporcionado los últimos reportes sobre los sismos ocurridos en Venezuela, específicamente para el día sábado 7 de noviembre de 2...</description>
+<category>Clima</category>
+<killbait:country>PE</killbait:country>
+<link>https://killbait.com/posts/post/300d27a5-c181-4487-8401-7919c8a70927</link>
+<guid>https://killbait.com/posts/post/300d27a5-c181-4487-8401-7919c8a70927</guid>
+<pubDate>Sat, 7 Nov 2026 08:31:46 +0100</pubDate>
+<enclosure url="https://elcomercio.pe/resizer/v2/2GQ6DNEHBVFDTKX37KDLCUK6MM.jpg?auth=94ce95fbf56e2c70b89a825952b94a1afa2a32c38b3218e9e7fae99e5e10af38&amp;width=980&amp;height=528&amp;quality=75&amp;smart=true" type="image/jpeg" />
+</item>
+<item>
 <title>Diputado Julio Portillo fallece en hospital tras ataque armado en Río Hondo, Zacapa</title>
 <description>El diputado Julio César Portillo Paz falleció la noche del viernes 6 de noviembre en un centro asistencial tras ser trasladado tras un ataque armado ocurrido en el kilómetro 137 de la ruta al Atlántic...</description>
 <category>Sucesos</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/2cb2ade7-1585-4a9a-8c34-f89fb3db81db</guid>
 <pubDate>Sat, 7 Nov 2026 07:11:52 +0100</pubDate>
 <enclosure url="https://lahora.gt/wp-content/uploads/sites/5/2026/11/convivio.jpeg" type="image/jpeg" />
-</item>
-<item>
-<title>Partido de fútbol Melgar vs. Juan Pablo II: Horario y canal de transmisión para la fecha 16 del Torneo Clausura 2026</title>
-<description>El partido entre Melgar y Juan Pablo II por la fecha 16 del Torneo Clausura 2026 se disputará el sábado 7 de noviembre en el estadio Monumental de la UNSA, ubicado en Arequipa, con capacidad para 40,0...</description>
-<category>Deportes</category>
-<killbait:country>PE</killbait:country>
-<link>https://killbait.com/posts/post/7bb0ae9c-d2f7-45ba-a101-1ec083d2176c</link>
-<guid>https://killbait.com/posts/post/7bb0ae9c-d2f7-45ba-a101-1ec083d2176c</guid>
-<pubDate>Sat, 7 Nov 2026 07:10:44 +0100</pubDate>
-<enclosure url="https://f.rpp-noticias.io/2026/11/06/360736_1926660.jpg?width=860&amp;quality=80" type="image/jpeg" />
 </item>
 </channel>
 </rss>
