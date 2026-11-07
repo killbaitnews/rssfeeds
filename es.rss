@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Ingeniero español registra patente en Suiza para sistema de seguridad ferroviaria basado en datos móviles</title>
+<description>El ingeniero español Rogelio Triviño, con experiencia en los Ferrocarriles Federales Suizos (SBB), ha registrado una patente en Suiza para un sistema de seguridad ferroviaria innovador que utiliza dat...</description>
+<category>Tecnología</category>
+<killbait:country>ES</killbait:country>
+<link>https://killbait.com/posts/post/5c02e4d2-71b1-45c4-81a4-ca597d5aa7fe</link>
+<guid>https://killbait.com/posts/post/5c02e4d2-71b1-45c4-81a4-ca597d5aa7fe</guid>
+<pubDate>Sat, 7 Nov 2026 02:54:42 +0100</pubDate>
+<enclosure url="https://lacienciaparatodos.wordpress.com/wp-content/uploads/2026/11/imagen.png" type="image/jpeg" />
+</item>
+<item>
 <title>Madre cubana denuncia escalada de precios del arroz en Trinidad y dificultades para alimentar a sus hijas</title>
 <description>Una madre residente en Trinidad, Sancti Spíritus, denunció en redes sociales la imparable escalada del precio del arroz, que ha alcanzado los 900 pesos cubanos por bolsa, impidiéndole alimentar a sus ...</description>
 <category>Economía</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/6c3ae1e8-4b90-411e-987c-a3fa5d3958ae</guid>
 <pubDate>Sat, 7 Nov 2026 02:08:00 +0100</pubDate>
 <enclosure url="https://media.elcomercio.com/wp-content/uploads/2026/11/pleno_Asamblea.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>España ocupa el tercer puesto en salarios medios anuales en la UE, superando a Italia</title>
-<description>Según los últimos datos publicados por Eurostat, España ha alcanzado una remuneración media anual ajustada a tiempo completo de 35.125 euros en 2025, lo que posiciona al país como la tercera gran econ...</description>
-<category>Economía</category>
-<killbait:country>ES</killbait:country>
-<link>https://killbait.com/posts/post/0a74d2c2-9346-441d-85b0-013f0e099201</link>
-<guid>https://killbait.com/posts/post/0a74d2c2-9346-441d-85b0-013f0e099201</guid>
-<pubDate>Sat, 7 Nov 2026 02:07:41 +0100</pubDate>
-<enclosure url="https://www.infobae.com/resizer/v2/FC6653AHDVCAFE57NDYVREZ4YI.png?auth=b426b28ed1a7bcf64e4e8ddcebda4b583bded8984717b6528f800c7e79717640&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=85" type="image/jpeg" />
 </item>
 </channel>
 </rss>
