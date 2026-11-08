@@ -6,6 +6,26 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>La educación y el apoyo familiar: un desafío para adolescentes en situación de vulnerabilidad</title>
+<description>La noticia aborda la situación de adolescentes en España que, debido a circunstancias familiares adversas, enfrentan dificultades en su desarrollo educativo y social. La autora, una profesora con quin...</description>
+<category>Educación</category>
+<killbait:country>ES</killbait:country>
+<link>https://killbait.com/posts/post/d5ec4d15-d615-44c7-afea-05444419ff94</link>
+<guid>https://killbait.com/posts/post/d5ec4d15-d615-44c7-afea-05444419ff94</guid>
+<pubDate>Sun, 8 Nov 2026 17:54:44 +0100</pubDate>
+<enclosure url="https://static.eldiario.es/clip/e9dd5721-8063-4b4d-b45f-7f16a420ae71_facebook-aspect-ratio-1200-675_default_0.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Lluvias intensas anegan tiendas de campaña en Gaza y exacerban la crisis humanitaria</title>
+<description>Las fuertes lluvias que han caído en Gaza desde la madrugada del viernes al sábado han provocado inundaciones que han anegado hasta 70.000 tiendas de campaña y derribado edificios fragilizados por los...</description>
+<category>Conflicto</category>
+<killbait:country>ES</killbait:country>
+<link>https://killbait.com/posts/post/ba3a9129-0fdb-4e73-8d9a-4cc238088201</link>
+<guid>https://killbait.com/posts/post/ba3a9129-0fdb-4e73-8d9a-4cc238088201</guid>
+<pubDate>Sun, 8 Nov 2026 17:47:55 +0100</pubDate>
+<enclosure url="https://imagenes.elpais.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Fprisa%2Fef4d66e1-be68-42cb-9ef6-55e110262c20.jpg?auth=5eae0b3a6341c218493edb2d9fbccc6ac48a37b7b2c0de0c338af82150c3fae1&amp;width=100&amp;height=100&amp;smart=true" type="image/jpeg" />
+</item>
+<item>
 <title>Nuevas normas laborales para médicos residentes: límites en guardias y aumento salarial a partir de 2027</title>
 <description>El Ministerio de Sanidad ha publicado un decreto que modifica las condiciones laborales de los médicos residentes en España, introduciendo importantes cambios en la jornada laboral y el salario. Entre...</description>
 <category>Trabajo</category>
@@ -184,26 +204,6 @@
 <guid>https://killbait.com/posts/post/826a9d1b-08e7-489b-9151-df9d6ce99932</guid>
 <pubDate>Sun, 8 Nov 2026 17:23:58 +0100</pubDate>
 <enclosure url="https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/09/25192622/efe-mesa-negociacion-tercera-ronda-2.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Dos heridos en accidente de tránsito en Santo Domingo permanecen en estado crítico</title>
-<description>El Servicio de Salud de Valparaíso-San Antonio informó que, tras el accidente ocurrido en Santo Domingo, cinco pacientes han sido dados de alta a sus hogares mientras que ocho heridos se mantienen est...</description>
-<category>Sucesos</category>
-<killbait:country>CL</killbait:country>
-<link>https://killbait.com/posts/post/91c857e7-bec7-48be-8c57-fecce5cbacfe</link>
-<guid>https://killbait.com/posts/post/91c857e7-bec7-48be-8c57-fecce5cbacfe</guid>
-<pubDate>Sun, 8 Nov 2026 17:20:03 +0100</pubDate>
-<enclosure url="https://www.cooperativa.cl/noticias/site/artic/20261108/imag/foto_0000000720261108114951.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Homenaje a Pablo Armando Fernández en el quinto aniversario de su fallecimiento con poesía inédita</title>
-<description>El 8 de noviembre de 2026, la revista cultural Granma publicó un homenaje al poeta, novelista, ensayista y traductor cubano Pablo Armando Fernández, con motivo del quinto aniversario de su fallecimien...</description>
-<category>Literatura</category>
-<killbait:country>CU</killbait:country>
-<link>https://killbait.com/posts/post/1957c4d5-36c9-4d5c-88e0-3be4ea708b69</link>
-<guid>https://killbait.com/posts/post/1957c4d5-36c9-4d5c-88e0-3be4ea708b69</guid>
-<pubDate>Sun, 8 Nov 2026 17:19:15 +0100</pubDate>
-<enclosure url="https://www.granma.cu//file/img/2026/11/medium/f0448563.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
