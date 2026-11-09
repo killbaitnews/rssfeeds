@@ -6,6 +6,26 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Clima en CABA: temperatura máxima de 23°C en jornada soleada y feriado nacional</title>
+<description>El clima en la Ciudad de Buenos Aires y el conurbano bonaerense presentará condiciones ideales para actividades al aire libre este lunes 9 de noviembre, día declarado feriado nacional. Según el Servic...</description>
+<category>Clima</category>
+<killbait:country>AR</killbait:country>
+<link>https://killbait.com/posts/post/d4eed9c6-9f6e-44c4-9fcf-87d23852fa64</link>
+<guid>https://killbait.com/posts/post/d4eed9c6-9f6e-44c4-9fcf-87d23852fa64</guid>
+<pubDate>Mon, 9 Nov 2026 06:32:26 +0100</pubDate>
+<enclosure url="https://media.perfil.com/prod/images/hero/789dd732bf9f-clima-buenos-aires-2176549.webp" type="image/jpeg" />
+</item>
+<item>
+<title>Hallan seis cuerpos en zona despoblada de Mazatlán horas antes de visita de secretario de Seguridad</title>
+<description>La violencia en Mazatlán, Sinaloa, continúa con el hallazgo de seis cuerpos en avanzado estado de descomposición en una zona despoblada del puerto sinaloense. El descubrimiento fue realizado por el co...</description>
+<category>Criminalidad</category>
+<killbait:country>MX</killbait:country>
+<link>https://killbait.com/posts/post/e4352570-ad3b-44b7-a112-7d45a94cdb35</link>
+<guid>https://killbait.com/posts/post/e4352570-ad3b-44b7-a112-7d45a94cdb35</guid>
+<pubDate>Mon, 9 Nov 2026 06:30:12 +0100</pubDate>
+<enclosure url="https://cdn.amxinfra.com/unotv/images/2026/11/hallan-6-cuerpos-en-predio-de-mazatlan-a-horas-de-la-visita-de-omar-garcia-harfuch-al-estado-202632.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>El mercado informal de divisas en Cuba registra caídas en el dólar y el euro al cierre del domingo 8 de noviembre</title>
 <description>El mercado informal de divisas en Cuba cerró el domingo 8 de noviembre de 2026 con retrocesos en el dólar estadounidense y el euro, según informó CiberCuba. El dólar se cotizó a 921 pesos cubanos (CUP...</description>
 <category>Economía</category>
@@ -184,26 +204,6 @@
 <guid>https://killbait.com/posts/post/8c6920f8-be06-45f1-83f3-f98731c1a4c4</guid>
 <pubDate>Mon, 9 Nov 2026 05:40:03 +0100</pubDate>
 <enclosure url="https://lahora.gt/wp-content/uploads/sites/5/2026/11/papas.jpeg" type="image/jpeg" />
-</item>
-<item>
-<title>Córdoba ocupa segundo lugar en juicios laborales con reducción del 20,1% en demandas</title>
-<description>Córdoba ocupa el segundo lugar en el ranking nacional de judicialidad laboral, con 34,87 juicios por cada 1.000 trabajadores cubiertos durante los primeros siete meses de 2026, según datos de la Super...</description>
-<category>Trabajo</category>
-<killbait:country>AR</killbait:country>
-<link>https://killbait.com/posts/post/6c49b592-beaf-4ee1-bcde-7025b8473c14</link>
-<guid>https://killbait.com/posts/post/6c49b592-beaf-4ee1-bcde-7025b8473c14</guid>
-<pubDate>Mon, 9 Nov 2026 05:38:28 +0100</pubDate>
-<enclosure url="https://media.perfil.com/prod/images/hero/99f4d2b90684-juicio-laboral-1891998.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Trump reconoce que su política migratoria fue excesivamente dura tras derrota electoral</title>
-<description>En su primera entrevista nacional desde que su partido perdió el control del Congreso en las elecciones legislativas, el presidente Donald Trump admitió que su enfoque en las deportaciones podría habe...</description>
-<category>Política</category>
-<killbait:country>MX</killbait:country>
-<link>https://killbait.com/posts/post/0ac93543-2634-40c0-819f-9b60a76f5634</link>
-<guid>https://killbait.com/posts/post/0ac93543-2634-40c0-819f-9b60a76f5634</guid>
-<pubDate>Mon, 9 Nov 2026 05:37:09 +0100</pubDate>
-<enclosure url="https://www.bing.com//th?id=ONUT.EiapwY2eFX7r28Os031ocw&amp;pid=News&amp;w=234&amp;h=132&amp;c=14&amp;rs=2&amp;qlt=90" type="image/jpeg" />
 </item>
 </channel>
 </rss>
