@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Argentina presenta ante el Tribunal del Mar su reclamo contra el proyecto Sea Lion para proteger derechos soberanos en Malvinas</title>
+<description>La Argentina ha presentado una solicitud ante el Tribunal del Mar para impedir la explotación de hidrocarburos en la Cuenca Malvinas Norte, específicamente en el proyecto Sea Lion desarrollado por Nav...</description>
+<category>Geopolítica</category>
+<killbait:country>AR</killbait:country>
+<link>https://killbait.com/posts/post/6964e3ab-3e59-4aad-97a2-f17fb9d356eb</link>
+<guid>https://killbait.com/posts/post/6964e3ab-3e59-4aad-97a2-f17fb9d356eb</guid>
+<pubDate>Tue, 10 Nov 2026 17:29:16 +0100</pubDate>
+<enclosure url="https://media.ambito.com/p/bb24ef0cf4d33a4087a0cc8e4deaf048/adjuntos/239/imagenes/043/759/0043759952/tribunal-internacional-del-mar-malvinas-reino-unido.png" type="image/jpeg" />
+</item>
+<item>
 <title>Siete personas detenidas por extorsión y secuestro en operativos policiales en Guayaquil</title>
 <description>La Unidad Nacional Antisecuestros y Extorsión (Unase) logró la aprehensión de siete personas en dos operativos distintos en Guayaquil, según informó la Policía. El primer operativo, denominado Liberta...</description>
 <category>Criminalidad</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/5674e78b-a8e3-460d-af5f-fede834b0a29</guid>
 <pubDate>Tue, 10 Nov 2026 16:59:22 +0100</pubDate>
 <enclosure url="https://www.pagina12.com.ar/resizer/v2/WEVUOWDSAJC23PCCL3YXYHR25U.JPG?smart=true&amp;auth=979015f9aa1d1111207dda125acb77708b17e4ca4853d37635492159bc92cdc7&amp;width=1200&amp;height=630" type="image/jpeg" />
-</item>
-<item>
-<title>La &quot;Zamba de mi esperanza&quot; y su historia: cómo una canción popular se convirtió en homenaje al papa León XIV</title>
-<description>La canción &quot;Zamba de mi esperanza&quot;, considerada un clásico del folklore argentino, volvió a ser protagonista durante la visita del papa León XIV a la Argentina. Los obispos argentinos la interpretaron...</description>
-<category>Música</category>
-<killbait:country>AR</killbait:country>
-<link>https://killbait.com/posts/post/6157a28f-04a0-47cb-9e18-bfc41ca593df</link>
-<guid>https://killbait.com/posts/post/6157a28f-04a0-47cb-9e18-bfc41ca593df</guid>
-<pubDate>Tue, 10 Nov 2026 16:50:17 +0100</pubDate>
-<enclosure url="https://www.clarin.com/img/2026/11/09/yagEgPr_-_2000x1500__1.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
