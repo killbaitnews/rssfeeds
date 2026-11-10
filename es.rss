@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Los imprevistos también viajan: historias de viajes llenos de sorpresas y lecciones inesperadas</title>
+<description>El texto relata diversas experiencias de viaje llenas de imprevistos y lecciones aprendidas. En primer lugar, describe una escala en Lisboa debido a un retraso en el vuelo, donde la compañía aérea no ...</description>
+<category>Viajes</category>
+<killbait:country>ES</killbait:country>
+<link>https://killbait.com/posts/post/e9e4745b-66e8-4969-bdc6-9aaedcf11abe</link>
+<guid>https://killbait.com/posts/post/e9e4745b-66e8-4969-bdc6-9aaedcf11abe</guid>
+<pubDate>Tue, 10 Nov 2026 12:30:04 +0100</pubDate>
+<enclosure url="https://fotos.jmgracia.com/experiencies/els-imprevistos-tambe-viatgen/portada.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Candidato político presenta caricatura en su campaña</title>
 <description>La noticia presenta una caricatura del candidato Alfredo Morales, conocido como Fo, en una publicación titulada &apos;El candidato de los disfraces&apos;. La publicación incluye información sobre la fecha de pu...</description>
 <category>Politica</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/bcac3beb-72f2-4f15-8a81-bedf61713728</guid>
 <pubDate>Tue, 10 Nov 2026 11:41:27 +0100</pubDate>
 <enclosure url="https://www.prensalibre.com/wp-content/uploads/2026/11/20261109-5acefe90bf8eee7bc0d16ce176452bd66a27cd4f.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Salinas Pliego acusa a familia de López Obrador de negocios con el poder y protección estatal</title>
-<description>El empresario Ricardo Salinas Pliego respondió públicamente al hijo del expresidente Andrés Manuel López Obrador, Andrés Manuel López Beltrán, quien lo había calificado como &apos;miserable&apos; y &apos;buitre&apos; en ...</description>
-<category>Politica</category>
-<killbait:country>MX</killbait:country>
-<link>https://killbait.com/posts/post/fa37fcd3-9836-465b-95e4-e512cf781181</link>
-<guid>https://killbait.com/posts/post/fa37fcd3-9836-465b-95e4-e512cf781181</guid>
-<pubDate>Tue, 10 Nov 2026 11:41:07 +0100</pubDate>
-<enclosure url="https://www.bing.com//th?id=ONUT.LGZckySn4gl7PMyPAbp9pA&amp;pid=News&amp;w=234&amp;h=132&amp;c=14&amp;rs=2&amp;qlt=90" type="image/jpeg" />
 </item>
 </channel>
 </rss>
