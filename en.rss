@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Traders express concerns over expensive financing and unstable payment infrastructure</title>
+<description>The article discusses the challenges faced by traders in Tanzania due to costly loans and unreliable payment systems. According to the Business Reporter Rosemary Mirondo, traders are expressing frustr...</description>
+<category>Business</category>
+<killbait:country>TZ</killbait:country>
+<link>https://killbait.com/posts/post/bd42e671-216d-4898-982c-3837fed92dce</link>
+<guid>https://killbait.com/posts/post/bd42e671-216d-4898-982c-3837fed92dce</guid>
+<pubDate>Thu, 12 Nov 2026 08:19:58 +0100</pubDate>
+<enclosure url="https://www.thecitizen.co.tz/resource/image/5667624/landscape_ratio3x2/1200/800/37085046e897293c0f6b5ed9f9950de1/Cl/traders-pc.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>KMTC student mourns daughter he raised while balancing studies and fatherhood</title>
 <description>A Kisii-based Kenya Medical Training College (KMTC) student, identified as Baba Kylen Gianna, is grieving the loss of his young daughter, a child he raised while managing his academic responsibilities...</description>
 <category>Education</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/17fce195-c6d5-4112-8436-1d06d6defff6</guid>
 <pubDate>Thu, 12 Nov 2026 07:29:19 +0100</pubDate>
 <enclosure url="https://media.wired.com/photos/6af2619c5a9cd51895c4c0be/191:100/w_1280,c_limit/science_ai_fight_bioweapon.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Ring introduces indoor drone and security robot for home and business monitoring</title>
-<description>Amazon&apos;s Ring has unveiled two new security devices: the $250 Ring Drone Cam, an indoor drone that autonomously patrols homes, and the $1000 Ring Rover Cam, a security robot designed for business envi...</description>
-<category>Consumer tech</category>
-<killbait:country>AU</killbait:country>
-<link>https://killbait.com/posts/post/44e8e2c1-2fae-42df-803c-b3b5370fa86d</link>
-<guid>https://killbait.com/posts/post/44e8e2c1-2fae-42df-803c-b3b5370fa86d</guid>
-<pubDate>Thu, 12 Nov 2026 07:24:02 +0100</pubDate>
-<enclosure url="https://images.thenightly.com.au/publication/C-23153713/408694cdecb2433d9d435fafdab3aaad100dbab0-16x9-x66y0w1778h1000.webp?imwidth=1200" type="image/jpeg" />
 </item>
 </channel>
 </rss>
