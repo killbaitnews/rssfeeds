@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Inamhi advierte de índices muy altos de radiación UV en varias regiones del país para el jueves 12 de noviembre</title>
+<description>El Instituto Nacional de Meteorología e Hidrología (Inamhi) ha pronosticado niveles muy altos de radiación ultravioleta (UV) en varias zonas de Ecuador para el jueves 12 de noviembre de 2026. Según el...</description>
+<category>Clima</category>
+<killbait:country>EC</killbait:country>
+<link>https://killbait.com/posts/post/d9af78ab-0efc-495e-93ba-7bd49bbf1028</link>
+<guid>https://killbait.com/posts/post/d9af78ab-0efc-495e-93ba-7bd49bbf1028</guid>
+<pubDate>Thu, 12 Nov 2026 01:25:04 +0100</pubDate>
+<enclosure url="https://media.elcomercio.com/wp-content/uploads/2026/07/9bced8f430709fc3a6288584d82b4323.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Coordinador de Vente Venezuela exige transición política para resolver crisis laboral</title>
 <description>El coordinador de Vente Venezuela en el estado Bolívar, Douglas Rodríguez, ha señalado que la crisis laboral que atraviesa Venezuela no podrá resolver de manera sostenible sin una transición política ...</description>
 <category>Política</category>
@@ -14,6 +24,16 @@
 <guid>https://killbait.com/posts/post/16a679d0-072c-44c2-988e-a6584e3f56ca</guid>
 <pubDate>Thu, 12 Nov 2026 01:20:48 +0100</pubDate>
 <enclosure url="https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/11200040/photo_2026-11-11_19-37-41.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Daniel Ortega reaparece en acto oficial con apariencia debilitada y uso inusual de flores como micrófono</title>
+<description>El presidente de Nicaragua, Daniel Ortega, ha vuelto a aparecer en público tras 68 días sin participar en actos oficiales, marcando su reaparición con imágenes que han generado dudas sobre su estado d...</description>
+<category>Politica</category>
+<killbait:country>GT</killbait:country>
+<link>https://killbait.com/posts/post/2a7b9a16-057f-4a8f-8298-7fc464052fdc</link>
+<guid>https://killbait.com/posts/post/2a7b9a16-057f-4a8f-8298-7fc464052fdc</guid>
+<pubDate>Thu, 12 Nov 2026 01:20:22 +0100</pubDate>
+<enclosure url="https://lahora.gt/wp-content/uploads/sites/5/2026/11/Daniel-Ortega-1.jpg" type="image/jpeg" />
 </item>
 <item>
 <title>Ministro de Hacienda reconoce recesión económica y enfrenta peticiones de renuncia</title>
@@ -184,26 +204,6 @@
 <guid>https://killbait.com/posts/post/65235c8d-c4e5-458c-9aad-78893fb1388f</guid>
 <pubDate>Thu, 12 Nov 2026 00:50:35 +0100</pubDate>
 <enclosure url="https://imgmedia.larepublica.pe/1200x735/larepublica/original/2026/11/11/6af35f05d3f1e107840d1909.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Colombia solicita apoyo estadounidense para localizar a subteniente secuestrada por ELN en Arauca</title>
-<description>El Gobierno colombiano ha iniciado gestiones con Estados Unidos para obtener apoyo en inteligencia con el fin de localizar a la subteniente María Camila Pantoja Hernández, secuestrada por el Ejército ...</description>
-<category>Defensa</category>
-<killbait:country>CO</killbait:country>
-<link>https://killbait.com/posts/post/b8103163-fc46-4fb9-b8f4-baaf5dff2a0d</link>
-<guid>https://killbait.com/posts/post/b8103163-fc46-4fb9-b8f4-baaf5dff2a0d</guid>
-<pubDate>Thu, 12 Nov 2026 00:50:10 +0100</pubDate>
-<enclosure url="https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images-resized/PP5354690-h-o.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Matrimonio &apos;orfi&apos; en Marruecos: una práctica religiosa sin validez legal</title>
-<description>La autora, Soumaya Naamane Guessous, explora el fenómeno del matrimonio &apos;orfi&apos; en Marruecos, una unión religiosa reconocida por el islam pero sin validez legal. Este tipo de matrimonio, practicado pri...</description>
-<category>Sociedad</category>
-<killbait:country>ES</killbait:country>
-<link>https://killbait.com/posts/post/2e436b59-40ea-491b-a0b1-22a87b75b6af</link>
-<guid>https://killbait.com/posts/post/2e436b59-40ea-491b-a0b1-22a87b75b6af</guid>
-<pubDate>Thu, 12 Nov 2026 00:38:43 +0100</pubDate>
-<enclosure url="https://msur.es/wp-content/uploads/2015/04/soumaya-naamane.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
