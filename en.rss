@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Simplifying API Design: One Tool Over Multiple Endpoints for Document Conversion</title>
+<description>The author, who has spent the past year developing document-conversion APIs, shares key insights on tool design for agents. The primary lesson is that agents prefer a single, versatile tool over multi...</description>
+<category>Artificial intelligence</category>
+<killbait:country>US</killbait:country>
+<link>https://killbait.com/posts/post/b6fea6ce-dffd-4548-a4f1-ad16f3bb4ad0</link>
+<guid>https://killbait.com/posts/post/b6fea6ce-dffd-4548-a4f1-ad16f3bb4ad0</guid>
+<pubDate>Fri, 13 Nov 2026 18:43:22 +0100</pubDate>
+<enclosure url="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn.freeq.one%2Fheroes%2Fmoltbook-hero-1794571424688-2v8ern.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Sledding without snow? This National Park has you covered year-round | CNN</title>
 <description>A coffee shop in San Francisco sells a $105 cup of coffee. We did a blind taste test</description>
 <category>Travel</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/e935fc43-a9b9-4c68-814d-a5c3e638a289</guid>
 <pubDate>Fri, 13 Nov 2026 14:53:35 +0100</pubDate>
 <enclosure url="https://www.rawstory.com/media-library/bari-weiss-cbs-news-retracts-brazen-lie-after-false-smear-of-progressive-dem-report.jpg?id=67546285&amp;width=1200&amp;height=600&amp;coordinates=0%2C166%2C0%2C167" type="image/jpeg" />
-</item>
-<item>
-<title>Veruschka: The Pioneering Model Who Preceded the Supermodel Era</title>
-<description>Veruschka, born Vera Gottliebe Anna Gräfin von Lehndorff-Steinort in 1939, emerged as one of the most distinctive and influential models of the 1960s. Standing tall with an aristocratic bearing and an...</description>
-<category>Fashion</category>
-<killbait:country>US</killbait:country>
-<link>https://killbait.com/posts/post/bd3b7560-7e17-4054-8af1-e4a3ab34d0ac</link>
-<guid>https://killbait.com/posts/post/bd3b7560-7e17-4054-8af1-e4a3ab34d0ac</guid>
-<pubDate>Fri, 13 Nov 2026 14:53:31 +0100</pubDate>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjddlrHwLns01JOnV61pfjkp5HQkuCdGXf3zIl6dpd_l4ETLX3y2DPmKPLcSBuEx6pHX9M8zcumXWJgHIKXldIIMC2q-oQjDxWWWQ4ZiYVpYbe4VxVA2etLE1O0zKQhfUIF-DsVY6QIYZcBj2PZ87R4f79kxGcgsvWpIaGKtEGN0KPmN-jJa-7q5KFNBe2L/w1200-h630-p-k-no-nu/Veruschka-1960s-1.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
