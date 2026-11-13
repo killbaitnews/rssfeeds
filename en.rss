@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Ted Cruz Criticizes Democratic Tactics as &apos;Dirty Trick&apos; in Political Dispute</title>
+<description>The article discusses Senator Ted Cruz&apos;s reaction to what he describes as a &apos;dirty trick&apos; by Democrats, which he claims has made his &apos;blood boil.&apos; Cruz, a Republican senator from Texas, expressed stro...</description>
+<category>Politics</category>
+<killbait:country>US</killbait:country>
+<link>https://killbait.com/posts/post/0300e008-176d-41c3-a894-ccb4552fe229</link>
+<guid>https://killbait.com/posts/post/0300e008-176d-41c3-a894-ccb4552fe229</guid>
+<pubDate>Sat, 14 Nov 2026 00:03:14 +0100</pubDate>
+<enclosure url="https://www.rawstory.com/media-library/ted-cruz-image-via-gage-skidmore.jpg?id=31886458&amp;width=1200&amp;height=600&amp;coordinates=0%2C77%2C0%2C77" type="image/jpeg" />
+</item>
+<item>
 <title>Secret leak reveals alleged influence of Kristi Noem&apos;s partner on DHS operations</title>
 <description>The news article discusses a leaked document that allegedly shows significant influence held by Kristi Noem&apos;s rumored boyfriend over Department of Homeland Security (DHS) operations. The leak, which a...</description>
 <category>Government &amp; policy</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/d68ca0a4-2239-4f39-bac8-87f8ad709af7</guid>
 <pubDate>Fri, 13 Nov 2026 19:07:11 +0100</pubDate>
 <enclosure url="https://www.rawstory.com/media-library/u-s-senator-chris-van-hollen-d-md-speaks-through-a-megaphone-during-a-sendoff-event-for-u-s-state-department-workers-in-wash.jpg?id=61333202&amp;width=1200&amp;height=600&amp;coordinates=0%2C541%2C0%2C542" type="image/jpeg" />
-</item>
-<item>
-<title>Simplifying API Design: One Tool Over Multiple Endpoints for Document Conversion</title>
-<description>The author, who has spent the past year developing document-conversion APIs, shares key insights on tool design for agents. The primary lesson is that agents prefer a single, versatile tool over multi...</description>
-<category>Artificial intelligence</category>
-<killbait:country>US</killbait:country>
-<link>https://killbait.com/posts/post/b6fea6ce-dffd-4548-a4f1-ad16f3bb4ad0</link>
-<guid>https://killbait.com/posts/post/b6fea6ce-dffd-4548-a4f1-ad16f3bb4ad0</guid>
-<pubDate>Fri, 13 Nov 2026 18:43:22 +0100</pubDate>
-<enclosure url="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn.freeq.one%2Fheroes%2Fmoltbook-hero-1794571424688-2v8ern.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
