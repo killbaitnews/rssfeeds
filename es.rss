@@ -6,6 +6,26 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>España celebra su primera huelga general en 14 años contra la crisis de vivienda y salarios</title>
+<description>Miles de personas se han movilizado en toda España durante la primera huelga general en 14 años, convocada para protestar contra la crisis de la vivienda y los bajos salarios. La huelga, que comenzó a...</description>
+<category>Trabajo</category>
+<killbait:country>ES</killbait:country>
+<link>https://killbait.com/posts/post/cb115e75-a993-499c-b640-c7832daf2fa6</link>
+<guid>https://killbait.com/posts/post/cb115e75-a993-499c-b640-c7832daf2fa6</guid>
+<pubDate>Fri, 13 Nov 2026 12:55:00 +0100</pubDate>
+<enclosure url="https://images.euronews.com/articles/stories/09/98/88/11/1200x675_cmsv2_b7944f9d-cf02-579a-95ed-833fd3b5cdfa-9988811.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Croquetas internacionales: 6 variantes globales que destacan en la cocina</title>
+<description>La noticia explora las diversas versiones de croquetas que existen en diferentes países, destacando cómo cada cultura ha adaptado este plato tradicional a sus gustos y recursos culinarios. En Japón, l...</description>
+<category>Alimentación</category>
+<killbait:country>ES</killbait:country>
+<link>https://killbait.com/posts/post/d364391f-fcb3-4c4f-87c3-0afdaee093b1</link>
+<guid>https://killbait.com/posts/post/d364391f-fcb3-4c4f-87c3-0afdaee093b1</guid>
+<pubDate>Fri, 13 Nov 2026 12:50:17 +0100</pubDate>
+<enclosure url="https://imag.bonviveur.com/asi-son-las-croquetas-en-otros-paises.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Deltha.eu cumple un mes sin algoritmos de personalización y logra 18.509 lectores</title>
 <description>Deltha.eu, una red social sin algoritmos de personalización, ha cumplido un mes desde su lanzamiento el 6 de octubre de 2026, demostrando que es posible crear una plataforma alternativa a los modelos ...</description>
 <category>Tecnología</category>
@@ -184,26 +204,6 @@
 <guid>https://killbait.com/posts/post/9f7d879c-8a5e-4392-a10e-c26f5ddf09fc</guid>
 <pubDate>Fri, 13 Nov 2026 11:38:46 +0100</pubDate>
 <enclosure url="https://cdn2.mediotiempo.com/uploads/media/2026/11/13/camila-zamorano-vencio-brenda-balderas.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Termoeléctrica Felton suspende operaciones por mantenimiento programado durante tres semanas</title>
-<description>La central termoeléctrica «Lidio Ramón Pérez» en Felton, Mayarí, Holguín, detuvo sus operaciones este martes a las 9:27 a.m. para realizar un mantenimiento programado de 21 días, según informó la Unió...</description>
-<category>Energía</category>
-<killbait:country>CU</killbait:country>
-<link>https://killbait.com/posts/post/f10d2507-b3cd-4b2c-9cb3-1e37e1e4a662</link>
-<guid>https://killbait.com/posts/post/f10d2507-b3cd-4b2c-9cb3-1e37e1e4a662</guid>
-<pubDate>Fri, 13 Nov 2026 11:25:00 +0100</pubDate>
-<enclosure url="https://cdn0.celebritax.com/sites/default/files/styles/watermark_100/public/1794330361-tres-semanas-felton-termoelectrica-detiene-sus-operaciones-mantenimiento.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Mecanismo de protección para periodistas en México falla en garantizar seguridad ante amenazas</title>
-<description>La noticia aborda la grave situación que enfrentan los periodistas en México, quienes no solo son blanco de amenazas por parte de grupos criminales y funcionarios corruptos, sino también de un sistema...</description>
-<category>Justicia</category>
-<killbait:country>MX</killbait:country>
-<link>https://killbait.com/posts/post/5fafc813-c78a-4cbb-8796-99c0b758b526</link>
-<guid>https://killbait.com/posts/post/5fafc813-c78a-4cbb-8796-99c0b758b526</guid>
-<pubDate>Fri, 13 Nov 2026 11:24:29 +0100</pubDate>
-<enclosure url="https://www.bing.com//th?id=ONUT.dBtUVW3ddZJi52suzFkrgw&amp;pid=News&amp;w=234&amp;h=132&amp;c=14&amp;rs=2&amp;qlt=90" type="image/jpeg" />
 </item>
 </channel>
 </rss>
