@@ -6,6 +6,26 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Argentina lidera en normativas para productos agropecuarios derivados de edición génica</title>
+<description>La Argentina se ha posicionado como pionera en establecer normativas específicas para productos agropecuarios obtenidos mediante nuevas técnicas de mejoramiento genético, incluida la edición génica. E...</description>
+<category>Ciencia</category>
+<killbait:country>AR</killbait:country>
+<link>https://killbait.com/posts/post/45867da6-e74f-4936-93f8-ee0e11df2e47</link>
+<guid>https://killbait.com/posts/post/45867da6-e74f-4936-93f8-ee0e11df2e47</guid>
+<pubDate>Fri, 13 Nov 2026 10:55:00 +0100</pubDate>
+<enclosure url="https://media.perfil.com/prod/images/hero/3553033ef5f4-el-sistema-permite-certificar-todos-los-productos-y-subproductos-de-origen-veget.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Servicio de Publicaciones de la ULE celebra 50 años consolidando su catálogo y premios nacionales</title>
+<description>El Servicio de Publicaciones de la Universidad de León (ULE) celebra su 50º aniversario, marcado por una consolidación de su catálogo editorial, la recepción de premios nacionales y un enfoque innovad...</description>
+<category>Cultura</category>
+<killbait:country>ES</killbait:country>
+<link>https://killbait.com/posts/post/da327454-4c54-40ad-916f-77c2678a2368</link>
+<guid>https://killbait.com/posts/post/da327454-4c54-40ad-916f-77c2678a2368</guid>
+<pubDate>Fri, 13 Nov 2026 10:54:05 +0100</pubDate>
+<enclosure url="https://static.eldiario.es/clip/3defd274-aea4-4a9e-a20a-7bdc09697074_facebook-ileon-watermarked-aspect-ratio-1200-675_default_0_x1027y726.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Presidente anuncia inversiones por más de 630.000 millones en Boyacá para vías, salud y seguridad</title>
 <description>El presidente Abelardo De La Espriella concluyó una jornada de siete horas de trabajo con ministros, el gobernador y los 123 alcaldes del departamento de Boyacá, en la ciudad de Tunja. Durante esta re...</description>
 <category>Politica</category>
@@ -184,26 +204,6 @@
 <guid>https://killbait.com/posts/post/b0e01576-d217-4b36-8c19-1ed08425ced8</guid>
 <pubDate>Fri, 13 Nov 2026 09:20:00 +0100</pubDate>
 <enclosure url="https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images-resized/PP5351625-h-o.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>El faro de Aniva: un monumento histórico en la costa de Sajalín</title>
-<description>El faro de Aniva, ubicado en una roca frente a la costa de la isla de Sajalín, representa una de las construcciones más singulares del Lejano Oriente de Rusia. Este faro abandonado, rodeado por las ag...</description>
-<category>Viajes</category>
-<killbait:country>ES</killbait:country>
-<link>https://killbait.com/posts/post/6d4df3ee-5d79-4821-b9e2-e0a4a9801290</link>
-<guid>https://killbait.com/posts/post/6d4df3ee-5d79-4821-b9e2-e0a4a9801290</guid>
-<pubDate>Fri, 13 Nov 2026 09:10:51 +0100</pubDate>
-<enclosure url="https://www.lavanguardia.com/uploads/2018/06/15/5fa43d71a111f.jpeg" type="image/jpeg" />
-</item>
-<item>
-<title>Educación en riesgo: Terremotos profundizan crisis escolar en Venezuela</title>
-<description>La organización Fe y Alegría reporta que 200.000 estudiantes se encuentran en riesgo de no continuar sus estudios tras los terremotos ocurridos en Venezuela. El proceso de inscripción para el año esco...</description>
-<category>Educación</category>
-<killbait:country>VE</killbait:country>
-<link>https://killbait.com/posts/post/43dcdb45-cbd3-4194-81aa-32ec15902d24</link>
-<guid>https://killbait.com/posts/post/43dcdb45-cbd3-4194-81aa-32ec15902d24</guid>
-<pubDate>Fri, 13 Nov 2026 09:05:00 +0100</pubDate>
-<enclosure url="https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/11150841/AFP__20260915__AA_15092026_2951866__v1__MidRes__TheStartOfTheSchoolYearInLaGuairaIsM.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
