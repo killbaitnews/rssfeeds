@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Desarrolladores mexicanos exponen prototipos de videojuegos en Pixelatl</title>
+<description>El festival Pixelatl, celebrado los días 13 y 14 de noviembre en Guadalajara, Jalisco, se convirtió en un escenario clave para que desarrolladores mexicanos presentaran sus proyectos de videojuegos an...</description>
+<category>Entretenimiento</category>
+<killbait:country>MX</killbait:country>
+<link>https://killbait.com/posts/post/00c85ee2-5969-4df0-9571-88cff461cbc3</link>
+<guid>https://killbait.com/posts/post/00c85ee2-5969-4df0-9571-88cff461cbc3</guid>
+<pubDate>Sat, 14 Nov 2026 08:00:00 +0100</pubDate>
+<enclosure url="https://disenowebakus.net/noticias/imagenes/noticias/videojuegos/evolucion-entretenimiento-mexico.webp" type="image/jpeg" />
+</item>
+<item>
 <title>Stefan Medina se suma a las bajas de Rayados antes del partido contra Querétaro</title>
 <description>El defensor colombiano Stefan Medina se ha sumado a la lista de ausencias de Rayados de cara al partido pendiente de la Jornada 7 del Apertura 2026 ante Querétaro. Según informó Canal 6 Deportes, Medi...</description>
 <category>Deportes</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/400ebbe7-89ba-46be-b2df-ce4989b0b348</guid>
 <pubDate>Sat, 14 Nov 2026 06:53:18 +0100</pubDate>
 <enclosure url="https://cdn2.mediotiempo.com/uploads/media/2026/11/13/rafa-marquez-aclaro-contempla-juan.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>El origen de la superstición del viernes 13: una combinación de tradiciones religiosas y culturales</title>
-<description>La superstición del viernes 13 como día de mala suerte tiene raíces profundas en diversas tradiciones culturales y religiosas. Aunque no está vinculada a un evento histórico específico, su origen se r...</description>
-<category>Historia</category>
-<killbait:country>MX</killbait:country>
-<link>https://killbait.com/posts/post/7a7385eb-170c-4fa3-af0f-6345bb3189d8</link>
-<guid>https://killbait.com/posts/post/7a7385eb-170c-4fa3-af0f-6345bb3189d8</guid>
-<pubDate>Sat, 14 Nov 2026 06:53:12 +0100</pubDate>
-<enclosure url="https://www.eluniversal.com.mx/resizer/v2/B2Y5IXUJOFDLJCQYJF4JEN4SGI.png?auth=7211cc0f9a2d219ce0fcc13eb3dcd12164212fc69b578e1265c12143d5db0bf2" type="image/jpeg" />
 </item>
 </channel>
 </rss>
