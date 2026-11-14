@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>White House Officials Linked to Release of Seized Goods Amid Trump Administration</title>
+<description>The White House has been linked to the release of millions of seized products through individuals connected to the Trump family. According to a report by Alexander Willis, a senior editor at Raw Story...</description>
+<category>Politics</category>
+<killbait:country>US</killbait:country>
+<link>https://killbait.com/posts/post/76c539d3-c0f6-4b9b-b263-c8e1634ac4ed</link>
+<guid>https://killbait.com/posts/post/76c539d3-c0f6-4b9b-b263-c8e1634ac4ed</guid>
+<pubDate>Sat, 14 Nov 2026 17:21:48 +0100</pubDate>
+<enclosure url="https://www.rawstory.com/media-library/image.jpg?id=67070977&amp;width=1200&amp;height=600&amp;coordinates=0%2C416%2C0%2C417" type="image/jpeg" />
+</item>
+<item>
 <title>Charly Kodjo: Ivorian producer building African cinema infrastructure from Paris to villages</title>
 <description>Charly Kodjo, an Ivorian film producer, is challenging foreign dominance in African cinema by developing a business model that brings locally financed films to audiences across the continent, includin...</description>
 <category>Cinema</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/491dabe7-1f24-4d02-bdb5-f21ac6543831</guid>
 <pubDate>Sat, 14 Nov 2026 08:10:00 +0100</pubDate>
 <enclosure url="https://cdn.tuko.co.ke/images/1200x675/a0f9cfbc4223b93d.jpeg?v=1" type="image/jpeg" />
-</item>
-<item>
-<title>Pakistan to host FIH Hockey Nations Cup in Lahore from February 19-28, 2027</title>
-<description>Pakistan is set to host the fifth edition of the FIH Hockey Men&apos;s Nations Cup in Lahore from February 19 to 28, 2027, marking the country&apos;s return to hosting a major international hockey event after a...</description>
-<category>Sports</category>
-<killbait:country>PK</killbait:country>
-<link>https://killbait.com/posts/post/9d2c091b-5131-4da2-a599-b8e7355ad04f</link>
-<guid>https://killbait.com/posts/post/9d2c091b-5131-4da2-a599-b8e7355ad04f</guid>
-<pubDate>Sat, 14 Nov 2026 08:05:00 +0100</pubDate>
-<enclosure url="https://i.dawn.com/large/2025/10/01105154e057162.webp" type="image/jpeg" />
 </item>
 </channel>
 </rss>
