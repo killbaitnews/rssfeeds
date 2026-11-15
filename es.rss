@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Inflación acumulada supera el 33% en los primeros diez meses de 2026</title>
+<description>La inflación acumulada en los primeros diez meses de 2026 alcanzó el 33,1 por ciento, superando el nivel del mismo período en 2025 que fue de 31,3 por ciento. Este aumento se debe principalmente a los...</description>
+<category>Economía</category>
+<killbait:country>AR</killbait:country>
+<link>https://killbait.com/posts/post/91e624fe-5aca-409d-91d4-2cd26d636dea</link>
+<guid>https://killbait.com/posts/post/91e624fe-5aca-409d-91d4-2cd26d636dea</guid>
+<pubDate>Sun, 15 Nov 2026 01:45:00 +0100</pubDate>
+<enclosure url="https://www.pagina12.com.ar/resizer/v2/CLDTZPNX6BDFFIIDV7MM4E56AQ.jpg?smart=true&amp;auth=1a5b4f2a56f50e0b925b1d590eac683c0ae94f96368f8f90017daac518f650d3&amp;width=1200&amp;height=630" type="image/jpeg" />
+</item>
+<item>
 <title>Gobierno de Trump atribuye caos aéreo a sistema de gestión obsoleto</title>
 <description>El Gobierno de Donald Trump ha atribuido el caos aéreo que afecta a todo el país a un sistema de gestión aérea obsoleto, según informó la Casa Blanca. En un comunicado oficial, se anunció que se solic...</description>
 <category>Transporte</category>
@@ -195,16 +205,6 @@
 <guid>https://killbait.com/posts/post/a38130ad-b6d7-4902-9df9-0f9488071c28</guid>
 <pubDate>Sun, 15 Nov 2026 00:11:07 +0100</pubDate>
 <enclosure url="https://cdn.amxinfra.com/unotv/images/2026/11/google-ofertas-1-183149.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Belarra critica la &apos;doble vara de medir&apos; judicial tras denunciar prisión de huelguistas y libertad de dirigentes de Núcleo Nacional</title>
-<description>La secretaria general de Podemos, Ione Belarra, ha denunciado este sábado 14 de noviembre la situación de tres personas en prisión provisional por participar en la huelga del 11 de noviembre, mientras...</description>
-<category>Politica</category>
-<killbait:country>ES</killbait:country>
-<link>https://killbait.com/posts/post/139cde75-2ee9-41a5-8af2-50f7a5d8fde7</link>
-<guid>https://killbait.com/posts/post/139cde75-2ee9-41a5-8af2-50f7a5d8fde7</guid>
-<pubDate>Sun, 15 Nov 2026 00:10:34 +0100</pubDate>
-<enclosure url="https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/29/6abbc9651814c8-56567977.jpeg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
