@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>Trump administration addresses claims about Iran conflict after ceasefire ends</title>
+<description>The Trump administration is actively working to refute a recent claim regarding Iran, following the end of a temporary ceasefire in the ongoing conflict. The administration has been under pressure to ...</description>
+<category>Geopolitics</category>
+<killbait:country>US</killbait:country>
+<link>https://killbait.com/posts/post/b2965420-61f7-4a1f-a2bc-fbe2e06f6c7e</link>
+<guid>https://killbait.com/posts/post/b2965420-61f7-4a1f-a2bc-fbe2e06f6c7e</guid>
+<pubDate>Sun, 15 Nov 2026 02:15:23 +0100</pubDate>
+<enclosure url="https://www.rawstory.com/media-library/trump-viciously-mocked-by-us-service-members-in-wild-alleged-photo-epstein-fury.jpg?id=67633693&amp;width=1200&amp;height=600&amp;coordinates=0%2C417%2C0%2C417" type="image/jpeg" />
+</item>
+<item>
 <title>Economists Express Concern Over Potential Trump Policies During Tech Sector Downturn</title>
 <description>The article discusses concerns raised by economists regarding potential actions that former U.S. President Donald Trump might take during an anticipated downturn in the technology sector. The piece re...</description>
 <category>Politics</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/70601236-a652-43f3-8667-044dada750dc</guid>
 <pubDate>Sat, 14 Nov 2026 19:30:00 +0100</pubDate>
 <enclosure url="https://www.rawstory.com/media-library/image.jpg?id=60339618&amp;width=1200&amp;height=600&amp;coordinates=0%2C31%2C0%2C31" type="image/jpeg" />
-</item>
-<item>
-<title>Arrests reveal deepening rift between law enforcement and public</title>
-<description>The recent arrests have brought to light increasing tensions between the police force and the general public in Tanzania. These incidents have sparked widespread concern and discussion about the relat...</description>
-<category>Crime</category>
-<killbait:country>TZ</killbait:country>
-<link>https://killbait.com/posts/post/bafdc3bb-c72a-49d3-91a0-e4aaa72b51e6</link>
-<guid>https://killbait.com/posts/post/bafdc3bb-c72a-49d3-91a0-e4aaa72b51e6</guid>
-<pubDate>Sat, 14 Nov 2026 19:25:00 +0100</pubDate>
-<enclosure url="https://www.thecitizen.co.tz/resource/image/5670812/landscape_ratio3x2/1200/800/fd4e6c5af21a12d0b2f75c51e896c524/Af/arrests-pic.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
