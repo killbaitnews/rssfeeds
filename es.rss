@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Candidato del PP al 29N coordina ataque contra periodista en grupo de WhatsApp de NNGG</title>
+<description>La noticia revela cómo un grupo de voluntarios de Nuevas Generaciones de Madrid (NNGG), organización juvenil del Partido Popular, coordina ataques contra periodistas y medios de comunicación a través ...</description>
+<category>Politica</category>
+<killbait:country>ES</killbait:country>
+<link>https://killbait.com/posts/post/b7b041d4-b713-445d-8c99-3b6af9c0beca</link>
+<guid>https://killbait.com/posts/post/b7b041d4-b713-445d-8c99-3b6af9c0beca</guid>
+<pubDate>Wed, 18 Nov 2026 18:55:00 +0100</pubDate>
+<enclosure url="https://www.elconstitucional.es/uploads/s1/20/09/45/collage-politico-sobre-fondo-granate_23_1200x630.webp" type="image/jpeg" />
+</item>
+<item>
 <title>Sánchez critica a Abascal por sus ideas contra migrantes y sugiere que vestiría de rey mago</title>
 <description>El presidente del Gobierno, Pedro Sánchez, ha generado controversia durante una entrevista en el programa &apos;Fuera de control&apos; al referirse al líder de Vox, Santiago Abascal, como &apos;racista&apos; pero con &apos;ge...</description>
 <category>Política</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/0afbb622-a5d0-45f0-ad7d-617c82031ca5</guid>
 <pubDate>Wed, 18 Nov 2026 18:16:33 +0100</pubDate>
 <enclosure url="https://www.nuevatribuna.es/media/nuevatribuna/images/2026/11/18/2026111802014774985.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Senado avanza con dictamen de reforma política sin listas colectoras para elecciones 2027</title>
-<description>El Senado se prepara para dictaminar la reforma política que busca suspender las Primarias Abiertas, Simultáneas y Obligatorias (PASO) en las elecciones presidenciales de 2027, sin incluir las listas ...</description>
-<category>Política</category>
-<killbait:country>AR</killbait:country>
-<link>https://killbait.com/posts/post/08215622-432d-45ad-bdfe-a7433279e3d2</link>
-<guid>https://killbait.com/posts/post/08215622-432d-45ad-bdfe-a7433279e3d2</guid>
-<pubDate>Wed, 18 Nov 2026 18:15:00 +0100</pubDate>
-<enclosure url="https://media.ambito.com/p/4549d5b9402c7837fd671bba3196daa6/adjuntos/239/imagenes/043/776/0043776852/1200x675/1562x594:1582x614/senado-8.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
