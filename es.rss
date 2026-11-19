@@ -6,6 +6,26 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Sismo de magnitud 5.1 sacude Guayas cerca de Durán sin reportar daños</title>
+<description>El Instituto Geofísico de la Escuela Politécnica Nacional (IG-EPN) reportó un sismo de magnitud 5.1 ocurrido a las 00:49 horas del 19 de noviembre de 2026, a 21,29 kilómetros de Durán, en la provincia...</description>
+<category>Actualidad</category>
+<killbait:country>EC</killbait:country>
+<link>https://killbait.com/posts/post/e807463f-0da5-4499-8c70-8c1349524f39</link>
+<guid>https://killbait.com/posts/post/e807463f-0da5-4499-8c70-8c1349524f39</guid>
+<pubDate>Thu, 19 Nov 2026 07:52:42 +0100</pubDate>
+<enclosure url="https://media.elcomercio.com/wp-content/uploads/2026/11/sismo-guayas.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Secretario de Defensa estadounidense firma acuerdo militar con Venezuela tras captura de Maduro</title>
+<description>El secretario de Defensa de Estados Unidos, Pete Hegseth, realizó una visita inesperada a Caracas el miércoles 18 de noviembre de 2026, donde firmó un nuevo acuerdo de cooperación militar con la presi...</description>
+<category>Geopolítica</category>
+<killbait:country>MX</killbait:country>
+<link>https://killbait.com/posts/post/a66ea1c1-4afb-4dd2-81ed-dd7e15a077d2</link>
+<guid>https://killbait.com/posts/post/a66ea1c1-4afb-4dd2-81ed-dd7e15a077d2</guid>
+<pubDate>Thu, 19 Nov 2026 07:45:18 +0100</pubDate>
+<enclosure url="https://images.ecestaticos.com/a293SoslOPv_NuDsC04ZpJnIDE0=/0x266:2272x1459/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/65c/43d/0ca/65c43d0ca5dbd5ff8f19b44167343db9.png,0,275,1)/f.elconfidencial.com/original/4d1/733/a1d/4d1733a1d51962327e764b0427d1e527.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Post de @manuelagm.bsky.social</title>
 <description></description>
 <category>Bluesky</category>
@@ -184,26 +204,6 @@
 <guid>https://killbait.com/posts/post/ef43044d-ae4e-42f3-a602-c7b291758b95</guid>
 <pubDate>Thu, 19 Nov 2026 06:24:05 +0100</pubDate>
 <enclosure url="https://imgs.hipertextual.com/wp-content/uploads/2021/04/alex-chumak-zguburggmdy-unsplash-scaled.jpeg" type="image/jpeg" />
-</item>
-<item>
-<title>Matanzas presenta su potencial exportador y de inversión en la Feria Internacional de La Habana</title>
-<description>La provincia de Matanzas participará de manera virtual en la edición 42 de la Feria Internacional de La Habana (Fihav 2026), programada del 24 al 26 de noviembre, exhibiendo sus capacidades productiva...</description>
-<category>Economía</category>
-<killbait:country>CU</killbait:country>
-<link>https://killbait.com/posts/post/e197cecf-f88c-49e0-b238-e4ed6d1c3c4c</link>
-<guid>https://killbait.com/posts/post/e197cecf-f88c-49e0-b238-e4ed6d1c3c4c</guid>
-<pubDate>Thu, 19 Nov 2026 06:15:00 +0100</pubDate>
-<enclosure url="https://www.juventudrebelde.cu/thumbs/600x600/aspectRatio/images/news/2026/11/1wgZr0_18-11-2026_16.11.22.000000.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Post de @santichajo.bsky.social</title>
-<description></description>
-<category>Bluesky</category>
-<killbait:country>ES</killbait:country>
-<link>https://killbait.com/posts/post/44ba85eb-313c-48a7-bb12-652e34387b1d</link>
-<guid>https://killbait.com/posts/post/44ba85eb-313c-48a7-bb12-652e34387b1d</guid>
-<pubDate>Thu, 19 Nov 2026 06:10:00 +0100</pubDate>
-<enclosure url="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ry6vywghftrcjgvvcavzevcb/bafkreich2l2iqf4q4dozggquf7wzlhro22fo24cywbhzvmuu5droih42be" type="image/jpeg" />
 </item>
 </channel>
 </rss>
