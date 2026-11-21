@@ -6,6 +6,26 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>WordPress Plugin Vulnerability Allows Stored XSS for Subscribers</title>
+<description>A critical security vulnerability has been identified in the CodePeople Post Map for Google Maps plugin for WordPress, affecting versions up to 1.3.0. The flaw, designated as CVE-2026-133369, allows a...</description>
+<category>Cybersecurity</category>
+<killbait:country>US</killbait:country>
+<link>https://killbait.com/posts/post/67ef6066-7f68-4f79-9ec7-a784608115a7</link>
+<guid>https://killbait.com/posts/post/67ef6066-7f68-4f79-9ec7-a784608115a7</guid>
+<pubDate>Sat, 21 Nov 2026 11:03:38 +0100</pubDate>
+<enclosure url="https://vulners.com/static/img/og/bulletin-v1.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Ruth Hussey: A Timeless Presence in Hollywood&apos;s Golden Age</title>
+<description>Ruth Hussey (1911–2005) was an American actress celebrated for her sharp wit, refined presence, and sophisticated style during Hollywood&apos;s Golden Age. Born in Providence, Rhode Island, she began her c...</description>
+<category>Cinema</category>
+<killbait:country>US</killbait:country>
+<link>https://killbait.com/posts/post/8c13c878-4891-4120-8131-0940332a87b8</link>
+<guid>https://killbait.com/posts/post/8c13c878-4891-4120-8131-0940332a87b8</guid>
+<pubDate>Sat, 21 Nov 2026 10:49:56 +0100</pubDate>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNSorXDwx6vDwM9cidMuaAfjnqXSfV2iEdCme-Fne3V3XtXul3J2OYn4G-i47JS2_iQkHY_shME9q2GXrGkTfuLkD8Ma0RAAj9s5NArU5iKEszFlwnobdxUXNG6CTJaz8tsRt7m4l88G8jOpfvkzz2amIqSO8oM4_MBAlemejoQf4VhYVtzQM3yB-wbOQ/w1200-h630-p-k-no-nu/ruth-hussey-1.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Lehmann denies knowledge of sandpaper use in 2018 ball-tampering scandal</title>
 <description>Former Australian cricket coach Darren Lehmann has stated he was unaware that sandpaper was being used on the ball during the 2018 Test tour of South Africa. The revelation comes as the Cricket Austra...</description>
 <category>Sports</category>
@@ -184,26 +204,6 @@
 <guid>https://killbait.com/posts/post/e9d1acc1-365a-4fdb-883b-516ae5969ae0</guid>
 <pubDate>Sat, 21 Nov 2026 10:11:55 +0100</pubDate>
 <enclosure url="https://static.toiimg.com/thumb/msid-136048583,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Peguis First Nation community attempts to remove CFS leadership amid transparency concerns</title>
-<description>On Thursday, members of the Peguis First Nation, including Chief Stan Bird and Councilor Dennis Cameron, attempted to enter the Peguis Child and Family Services (CFS) building in Manitoba&apos;s Interlake ...</description>
-<category>Government &amp; policy</category>
-<killbait:country>CA</killbait:country>
-<link>https://killbait.com/posts/post/42c6de14-05a7-40ad-8ad3-683d3dde8aa6</link>
-<guid>https://killbait.com/posts/post/42c6de14-05a7-40ad-8ad3-683d3dde8aa6</guid>
-<pubDate>Sat, 21 Nov 2026 10:11:42 +0100</pubDate>
-<enclosure url="https://i.cbc.ca/ais/5b134489-02b3-435b-bd1e-235b27c495a5,1795227486629/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620" type="image/jpeg" />
-</item>
-<item>
-<title>Tragic Matatu Crash Claims Life of KCSE Candidate on Eldoret-Webuye Highway</title>
-<description>A tragic road accident occurred on the Eldoret-Webuye Highway in Kenya, resulting in the death of one person and serious injuries to over ten passengers, most of whom were KCSE candidates returning ho...</description>
-<category>Transportation</category>
-<killbait:country>KE</killbait:country>
-<link>https://killbait.com/posts/post/a5e632a7-ba4e-4e7d-9c2c-f7add7517995</link>
-<guid>https://killbait.com/posts/post/a5e632a7-ba4e-4e7d-9c2c-f7add7517995</guid>
-<pubDate>Sat, 21 Nov 2026 10:10:48 +0100</pubDate>
-<enclosure url="https://cdn.tuko.co.ke/images/1200x675/5e146e8ff53e3f23.jpeg?v=1" type="image/jpeg" />
 </item>
 </channel>
 </rss>
