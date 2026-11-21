@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Cultivo de patatas en suelo simulado lunar logra rendimientos comparables a los terrestres</title>
+<description>Un estudio realizado por botánicos de la Universidad Estatal de Oregón (OSU) ha demostrado que es posible cultivar patatas sanas y comestibles en suelo simulado lunar con la ayuda de lombrices comunes...</description>
+<category>Ciencia</category>
+<killbait:country>ES</killbait:country>
+<link>https://killbait.com/posts/post/e09eb417-87fd-4fe1-8d2c-a26d079f86f0</link>
+<guid>https://killbait.com/posts/post/e09eb417-87fd-4fe1-8d2c-a26d079f86f0</guid>
+<pubDate>Sat, 21 Nov 2026 06:11:09 +0100</pubDate>
+<enclosure url="https://www.popsci.com/wp-content/uploads/2026/11/Moon-Potato-Study.jpg?quality=85&amp;w=1200" type="image/jpeg" />
+</item>
+<item>
 <title>Bayern Munich confirma lesiones de Kane y Olise, afectando a su preparación para Champions</title>
 <description>El Bayern Munich anunció oficialmente las lesiones de dos de sus jugadores clave, Harry Kane y Michael Olise, quienes sufrieron daños durante el partido contra el Colonia en la Jornada 10 de la Bundes...</description>
 <category>Deportes</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/b7ffe7fe-992d-48c5-8f56-32496dcfb3b4</guid>
 <pubDate>Sat, 21 Nov 2026 05:16:42 +0100</pubDate>
 <enclosure url="https://www.lasillavacia.com/wp-content/uploads/2025/03/La-Silla-En-Vivo.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Gobierno mexicano investiga origen de residuos en playa tras explosión de cohete SpaceX</title>
-<description>El Gobierno de México inició una investigación para determinar si los residuos encontrados en una playa fronteriza con Estados Unidos son producto de la explosión de un cohete Starship de SpaceX, ocur...</description>
-<category>Medio ambiente</category>
-<killbait:country>MX</killbait:country>
-<link>https://killbait.com/posts/post/f6b106ef-371f-4959-afa1-9eb8116fca4e</link>
-<guid>https://killbait.com/posts/post/f6b106ef-371f-4959-afa1-9eb8116fca4e</guid>
-<pubDate>Sat, 21 Nov 2026 05:15:00 +0100</pubDate>
-<enclosure url="https://cdn.amxinfra.com/unotv/images/2026/11/profepa-193141.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
