@@ -6,6 +6,26 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Tres líderes nucleares se reúnen en Shenzhen, pero acuerdos son genéricos y sin fechas</title>
+<description>La cumbre trilateral entre Donald Trump, Xi Jinping y Vladímir Putin en Shenzhen, celebrada el 20 de noviembre de 2026, marcó un hito histórico como primera reunión directa de los líderes de Estados U...</description>
+<category>Geopolítica</category>
+<killbait:country>EC</killbait:country>
+<link>https://killbait.com/posts/post/e4f98306-43f4-4799-bedd-285e68d59d4c</link>
+<guid>https://killbait.com/posts/post/e4f98306-43f4-4799-bedd-285e68d59d4c</guid>
+<pubDate>Sat, 21 Nov 2026 06:58:48 +0100</pubDate>
+<enclosure url="https://media.elcomercio.com/wp-content/uploads/2026/11/Trump-Xi-Jinping-y-Vladimir-Putin-en-Shenzhen.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Juárez y Atlas se enfrentan en partido clave de la Jornada 17 de Liga MX</title>
+<description>El partido entre FC Juárez y Atlas, correspondiente a la Jornada 17 del torneo Apertura 2026 de la Liga MX, se disputará este viernes 20 de noviembre a las 21:00 horas en el Estadio Olímpico Benito Ju...</description>
+<category>Deportes</category>
+<killbait:country>MX</killbait:country>
+<link>https://killbait.com/posts/post/f2fd0c46-22b5-4a01-8022-fc4601a0121b</link>
+<guid>https://killbait.com/posts/post/f2fd0c46-22b5-4a01-8022-fc4601a0121b</guid>
+<pubDate>Sat, 21 Nov 2026 06:48:58 +0100</pubDate>
+<enclosure url="https://cdn2.mediotiempo.com/uploads/media/2026/11/17/rivalidad-fc-juarez-vs-atlas-3.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Tigres de Aragua remontan 11-6 para vencer a Bravos de Margarita y consolidar su liderato en la LVBP</title>
 <description>Los Tigres de Aragua lograron una emocionante victoria 12-11 sobre los Bravos de Margarita en el Estadio José Pérez Colmenares de Maracay, tras remontar una desventaja de 11-6 en el séptimo inning con...</description>
 <category>Deportes</category>
@@ -184,26 +204,6 @@
 <guid>https://killbait.com/posts/post/b387bf73-dea6-4141-bd96-f1c84bd6d1f3</guid>
 <pubDate>Sat, 21 Nov 2026 05:30:17 +0100</pubDate>
 <enclosure url="https://static.dw.com/image/80002251_6.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Diputados buscan aprobar Ley de Contrataciones Públicas antes de fin de año para facilitar gestión gubernamental</title>
-<description>La Comisión de Economía y Comercio Exterior del Congreso de Guatemala se encuentra en proceso de analizar el dictamen de la nueva iniciativa de Ley de Contrataciones Públicas, con el objetivo de aprob...</description>
-<category>Politica</category>
-<killbait:country>GT</killbait:country>
-<link>https://killbait.com/posts/post/04fe398b-47d5-4300-8474-1fc551257fba</link>
-<guid>https://killbait.com/posts/post/04fe398b-47d5-4300-8474-1fc551257fba</guid>
-<pubDate>Sat, 21 Nov 2026 05:20:19 +0100</pubDate>
-<enclosure url="https://lahora.gt/wp-content/uploads/sites/5/2026/11/Bloque-valor-e-nLey-de-contratcionees.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>El Plan Nacional de Desarrollo mantiene el discurso ambiental del ABC, pero elimina fondos clave para su implementación</title>
-<description>El Plan Nacional de Desarrollo (PND) mantiene el lenguaje ambiental del proyecto ABC (Agua, Biodiversidad y Comunidades), presentado durante la campaña presidencial de Gustavo Petro, pero elimina los ...</description>
-<category>Economía</category>
-<killbait:country>CO</killbait:country>
-<link>https://killbait.com/posts/post/04db0e41-5685-4027-8f9c-7ed295483edc</link>
-<guid>https://killbait.com/posts/post/04db0e41-5685-4027-8f9c-7ed295483edc</guid>
-<pubDate>Sat, 21 Nov 2026 05:20:00 +0100</pubDate>
-<enclosure url="https://www.lasillavacia.com/wp-content/uploads/2026/10/Javier_Sabogal.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
