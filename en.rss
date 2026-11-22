@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - News highlights delivered clearly and responsibly—no clickbait, no sensationalism</description>
 <item>
+<title>AI Debt Collection Platform Reveals Data Vulnerability Affecting Millions</title>
+<description>A security researcher discovered two critical vulnerabilities in CreditNirvana, an AI-driven debt collection platform used by major Indian financial services firms. The flaws, which were patched in Ju...</description>
+<category>Cybersecurity</category>
+<killbait:country>US</killbait:country>
+<link>https://killbait.com/posts/post/271e7b20-c485-40e1-9cc7-6054d8f8ea0f</link>
+<guid>https://killbait.com/posts/post/271e7b20-c485-40e1-9cc7-6054d8f8ea0f</guid>
+<pubDate>Sun, 22 Nov 2026 12:07:14 +0100</pubDate>
+<enclosure url="https://media.wired.com/photos/6af4e24b10b23929948ce140/191:100/w_1280,c_limit/Security_Breach%20of%20AI%20Debt%20Collection%20Call%20Center%20Exposes%20315,000%20Calls%20and%20Much%20More_v1.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>Inflation data to show 4.7% headline rate amid card surcharge changes</title>
 <description>Australia&apos;s October Consumer Price Index (CPI) data, set for release on Wednesday, is expected to reveal a bleak economic outlook with headline inflation projected to rise to 4.7%, up from 4.3% in Sep...</description>
 <category>Business</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/9c64137c-5677-4ffd-9fd5-506c0e5d9f74</guid>
 <pubDate>Sun, 22 Nov 2026 11:31:48 +0100</pubDate>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDPa013nACfhgTTz_AR4coAarLVY7Qj-VCdyAZBqAb3Wl_aHF7Ghn1Ne5lHSGvz7a02zVr2de3Ag2E_0DxF7JckNvJmYTFcO0nnMRX-3yEKsqatlnsoGooZ5bfAed1SYHlCIBOhZjFEGfTb4XqMPm9xeGsNKt-zKdJ_l1jAeCSqGLre_Jb5HEzzC_EidgS/w1200-h630-p-k-no-nu/amy-irving-carrie-fisher-teri-garr-thanksgiving-1.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Australia&apos;s last oil refineries face transition to clean fuels amid dwindling reserves</title>
-<description>Australia&apos;s two remaining oil refineries in Geelong and Brisbane are at the center of a strategic review by the Grattan Institute, which has called for extended taxpayer support to keep them operation...</description>
-<category>Energy</category>
-<killbait:country>AU</killbait:country>
-<link>https://killbait.com/posts/post/c868d3d3-e522-423c-becd-698a97a9eaa1</link>
-<guid>https://killbait.com/posts/post/c868d3d3-e522-423c-becd-698a97a9eaa1</guid>
-<pubDate>Sun, 22 Nov 2026 11:25:19 +0100</pubDate>
-<enclosure url="https://static.ffx.io/images/$zoom_0.1832%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/ca2ff0e257b686490c7d0b2412bfcf3a42696fee" type="image/jpeg" />
 </item>
 </channel>
 </rss>
