@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>Meloni concluye mandato con recortes en sanidad y educación tras cuatro años de gobierno</title>
+<description>Giorgia Meloni, que llegó al Gobierno italiano en octubre de 2022, ha gozado de una mayoría absoluta que le ha permitido mantenerse en el poder más tiempo que ningún otro gobierno anterior. Sin embarg...</description>
+<category>Política</category>
+<killbait:country>ES</killbait:country>
+<link>https://killbait.com/posts/post/70b77d2d-d6e7-4486-845b-5616af414c7b</link>
+<guid>https://killbait.com/posts/post/70b77d2d-d6e7-4486-845b-5616af414c7b</guid>
+<pubDate>Mon, 23 Nov 2026 10:06:22 +0100</pubDate>
+<enclosure url="https://imagenes.elpais.com/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Fprisa%2F3JZ55YFAEBEKZF56YV3LO76M3Y.png?auth=eaad4991083f5553f8b2ed8ec61a49c97983be1a676a78a494cde6fff80bfb8a&amp;width=100&amp;height=100&amp;smart=true" type="image/jpeg" />
+</item>
+<item>
 <title>Sismo registrado en Chile: CSN informa magnitud y epicentro del movimiento sísmico</title>
 <description>El Servicio Sismológico Nacional de Chile (CSN) ha reportado un movimiento sísmico ocurrido en la mañana del 23 de noviembre de 2026. Según los datos proporcionados por el CSN, el sismo tuvo una magni...</description>
 <category>Clima</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/20a09928-29c4-4065-a9ef-59c54d61871e</guid>
 <pubDate>Mon, 23 Nov 2026 08:46:07 +0100</pubDate>
 <enclosure url="https://www.clarin.com/img/2026/11/16/1a0M4A9wT_2000x1500__1.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>49ers rompe récord de puntos en partido de NFL en México con 35-10 sobre Vikings</title>
-<description>Los San Francisco 49ers lograron una victoria contundente ante los Minnesota Vikings en el Estadio Banorte de Ciudad de México, con un marcador final de 35-10, convirtiéndose en el segundo equipo que ...</description>
-<category>Deportes</category>
-<killbait:country>MX</killbait:country>
-<link>https://killbait.com/posts/post/a71a4844-b7f9-404e-b888-2fc004885559</link>
-<guid>https://killbait.com/posts/post/a71a4844-b7f9-404e-b888-2fc004885559</guid>
-<pubDate>Mon, 23 Nov 2026 08:45:51 +0100</pubDate>
-<enclosure url="https://cdn2.mediotiempo.com/uploads/media/2026/11/22/san-francisco-festin-ofensivo-minnesota.jpg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
