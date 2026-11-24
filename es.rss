@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>CERET celebra su 28° edición de la Jornada Hortícola en General Pico</title>
+<description>El Centro Regional de Educación Tecnológica (CERET) de General Pico, La Pampa, se prepara para llevar a cabo su tradicional Jornada Hortícola, que cumplirá 28 años de trayectoria en la provincia. El e...</description>
+<category>Educación</category>
+<killbait:country>AR</killbait:country>
+<link>https://killbait.com/posts/post/7934b791-9046-404e-a355-00b33f4f7749</link>
+<guid>https://killbait.com/posts/post/7934b791-9046-404e-a355-00b33f4f7749</guid>
+<pubDate>Tue, 24 Nov 2026 19:57:25 +0100</pubDate>
+<enclosure url="https://www.noticierodigital.com.ar/wp-content/uploads/2026/11/ceret.jpg" type="image/jpeg" />
+</item>
+<item>
 <title>BepiColombo logra ingresar en órbita de Mercurio tras ocho años de viaje espacial</title>
 <description>La misión espacial BepiColombo, una colaboración entre la Agencia Espacial Europea (ESA) y la Agencia Japonesa de Exploración Aeroespacial (JAXA), ha logrado ingresar con éxito en la órbita de Mercuri...</description>
 <category>Astronomía</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/e9214402-5f66-441f-bc62-a37bd6f28902</guid>
 <pubDate>Tue, 24 Nov 2026 19:04:00 +0100</pubDate>
 <enclosure url="https://media.elcomercio.com/wp-content/uploads/2026/11/CUBE-equipara-al-NSN-Cycling-Team-con-las-bicicletas-de-carretera-Litening-C68X-AERO-y-AIR-y-el-modelo-Aerium-C68X-para-las-contrarrelojes.jpg" type="image/jpeg" />
-</item>
-<item>
-<title>Trabajadores del Garrahan protestan contra despidos y suspensiones tras toma de instalaciones</title>
-<description>Trabajadores y gremios del Hospital Garrahan se manifestaron este martes contra los despidos y suspensiones dispuestos por el Consejo de Administración, que afectan a 38 empleados por una toma de las ...</description>
-<category>Salud</category>
-<killbait:country>AR</killbait:country>
-<link>https://killbait.com/posts/post/a39e79dd-64e0-4f64-a048-1ea49dbcca5c</link>
-<guid>https://killbait.com/posts/post/a39e79dd-64e0-4f64-a048-1ea49dbcca5c</guid>
-<pubDate>Tue, 24 Nov 2026 19:03:34 +0100</pubDate>
-<enclosure url="https://media.perfil.com/prod/images/hero/b0f12eb8fe86-garrahan3.webp" type="image/jpeg" />
 </item>
 </channel>
 </rss>
