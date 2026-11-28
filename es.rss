@@ -6,6 +6,16 @@
 <link>http://killbait.com</link>
 <description>KillBait - Resúmenes de noticias mostrados de manera clara y responsable, sin clickbait ni sensacionalismo</description>
 <item>
+<title>FGR investiga presunta red de corrupción en contratos del INE y organismos electorales</title>
+<description>La Fiscalía General de la República (FGR) investiga una presunta red de corrupción relacionada con la asignación de contratos públicos del Instituto Nacional Electoral (INE) y de diversos Organismos P...</description>
+<category>Justicia</category>
+<killbait:country>MX</killbait:country>
+<link>https://killbait.com/posts/post/9dfe1644-ba58-4e8a-be7c-d9ea72127517</link>
+<guid>https://killbait.com/posts/post/9dfe1644-ba58-4e8a-be7c-d9ea72127517</guid>
+<pubDate>Sat, 28 Nov 2026 12:46:26 +0100</pubDate>
+<enclosure url="https://www.elfinanciero.com.mx/resizer/v2/JMAK4X2ZKVBKJIXQQ7G2F6M3OQ.jpg?smart=true&amp;auth=f78bcf193052fe6ab3b182474fcbad37cfa40532f26c8a74298e891192323e44&amp;width=1200&amp;height=630" type="image/jpeg" />
+</item>
+<item>
 <title>Alto oleaje afecta las costas de Baja California y provoca la evacuación preventiva de 141 menores</title>
 <description>El incremento del oleaje y del nivel del mar ha generado afectaciones en distintos puntos de la costa de Baja California, por lo que las autoridades mantienen operativos de vigilancia y medidas preven...</description>
 <category>Actualidad</category>
@@ -194,16 +204,6 @@
 <guid>https://killbait.com/posts/post/d7a78b65-ca6f-4900-ae19-1e2cc02c7a47</guid>
 <pubDate>Sat, 28 Nov 2026 11:36:13 +0100</pubDate>
 <enclosure url="https://www.elfinanciero.com.mx/resizer/v2/IZPJMCXHSBCFLADSPT645YWK7A.png?smart=true&amp;auth=f5fdec609790e948f401a462043db67d4b3513d3b55094dfddd7d32f7c37b1e6&amp;width=1200&amp;height=630" type="image/jpeg" />
-</item>
-<item>
-<title>Una reflexión sobre el feminismo y el derecho de las mujeres a vivir sin miedo</title>
-<description>El 27 de noviembre de 2026, Maylen publica en su espacio de escritura «Las letras que me abrazan» una reflexión personal sobre el feminismo, la libertad y el derecho de las mujeres a vivir sin miedo. ...</description>
-<category>Sociedad</category>
-<killbait:country>ES</killbait:country>
-<link>https://killbait.com/posts/post/e25b1dea-4d81-4ef3-af1a-feacda5c3ad9</link>
-<guid>https://killbait.com/posts/post/e25b1dea-4d81-4ef3-af1a-feacda5c3ad9</guid>
-<pubDate>Sat, 28 Nov 2026 11:21:51 +0100</pubDate>
-<enclosure url="https://substackcdn.com/image/fetch/$s_!GC0s!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1ddc9c5-f4cb-4a95-81c5-85aa96b891b5_1080x720.jpeg" type="image/jpeg" />
 </item>
 </channel>
 </rss>
